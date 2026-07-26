@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-26T13:55:11Z",
+  "generated_utc": "2026-07-26T13:56:32Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -232,7 +232,7 @@
         "summary": "Floyd du Plessis, Corrections Association President on the damning report that's uncovered serious problems at Spring Hill Prison."
       },
       {
-        "title": "Catherine Cooke On Her Petition For A Breast Cancer Drug To Be Funded",
+        "title": "Catherine Cooke On Her Petition For A Breast Cancer Drug To Be Funded",
         "url": "https://www.youtube.com/watch?v=W5FBsUJK3M0",
         "date_utc": "2026-07-24T05:26:10+00:00",
         "summary": "Catherine Cooke, Breast Cancer advocate on her petition asking for a breast cancer drug to be funded."

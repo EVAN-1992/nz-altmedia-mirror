@@ -40,6 +40,16 @@ def try_get(url, label):
         return None
 
 
+def clean_title(s):
+    """Feed titles arrive raw. Normalise the entities and stray non-breaking spaces
+    that otherwise surface as mojibake ('AÂ Breast Cancer Drug') downstream."""
+    if not s:
+        return ""
+    s = html.unescape(s)
+    s = s.replace(" ", " ").replace("​", "")
+    return re.sub(r"\s+", " ", s).strip()
+
+
 def strip_html(s):
     """Drop tags, then resolve entities. Order matters: unescaping first would let
     an encoded '&lt;script&gt;' turn into a tag that the tag-stripper already passed."""
@@ -85,7 +95,7 @@ def rss_items(url, label, limit=15):
         return []
     out = []
     for item in root.iter("item"):
-        title = (item.findtext("title") or "").strip()
+        title = clean_title(item.findtext("title") or "")
         link = (item.findtext("link") or "").strip()
         pub = (item.findtext("pubDate") or "").strip()
         desc = item.findtext("description") or ""
@@ -116,7 +126,7 @@ def youtube_atom(channel_id, label, limit=15):
         return []
     out = []
     for entry in root.findall(f"{ATOM}entry"):
-        title = (entry.findtext(f"{ATOM}title") or "").strip()
+        title = clean_title(entry.findtext(f"{ATOM}title") or "")
         published = (entry.findtext(f"{ATOM}published") or "").strip()
         link_el = entry.find(f"{ATOM}link")
         link = link_el.get("href") if link_el is not None else ""
