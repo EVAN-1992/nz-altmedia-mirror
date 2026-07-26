@@ -1,0 +1,394 @@
+{
+  "generated_utc": "2026-07-26T13:22:31Z",
+  "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
+  "reality_check_radio": {
+    "articles_and_episodes": [
+      {
+        "title": "Solar For The Soul Or For The Senses",
+        "url": "https://realitycheck.radio/solar-for-the-soul-or-for-the-senses/",
+        "date_utc": "2026-07-26T03:18:50Z",
+        "summary": "by Kelvin Kemm The Sun has mystified mankind for centuries. […]"
+      },
+      {
+        "title": "Climate Realism",
+        "url": "https://realitycheck.radio/climate-realism/",
+        "date_utc": "2026-07-25T02:45:03Z",
+        "summary": "by Dr Muriel Newman One of the things we’ve learnt […]"
+      },
+      {
+        "title": "Everyone Is A Winner With TOP",
+        "url": "https://realitycheck.radio/everyone-is-a-winner-with-top/",
+        "date_utc": "2026-07-24T03:15:06Z",
+        "summary": "by Oliver Hartwich The Opportunity Party wants to be known […]"
+      },
+      {
+        "title": "Riding Shotgun – ep 54: The Anti-Community Community",
+        "url": "https://realitycheck.radio/riding-shotgun-ep-54-the-anti-community-community/",
+        "date_utc": "2026-07-24T02:42:00Z",
+        "summary": "by Rachel Stewart If one more politician, activist, media wallah, […]"
+      },
+      {
+        "title": "Swarbrick and her unchallenged claims",
+        "url": "https://realitycheck.radio/swarbrick-and-her-unchallenged-claims/",
+        "date_utc": "2026-07-23T03:14:42Z",
+        "summary": "by Peter Williams Chloe Swarbrick makes ridiculous and outrageous statements, […]"
+      },
+      {
+        "title": "In Defence Of AI Cheating",
+        "url": "https://realitycheck.radio/in-defence-of-ai-cheating/",
+        "date_utc": "2026-07-23T03:03:08Z",
+        "summary": "by Nathan Smith Good news everybody! Another piece of the […]"
+      },
+      {
+        "title": "Seriously 1 News?",
+        "url": "https://realitycheck.radio/seriously-1-news/",
+        "date_utc": "2026-07-21T03:09:54Z",
+        "summary": "by Peter Williams In the immortal words of tennis legend […]"
+      },
+      {
+        "title": "Foxy’s triumphant reverse move",
+        "url": "https://realitycheck.radio/foxys-triumphant-reverse-move/",
+        "date_utc": "2026-07-21T03:07:05Z",
+        "summary": "by Peter Williams At our golf club a few of […]"
+      },
+      {
+        "title": "Alice in Hydrogen Land",
+        "url": "https://realitycheck.radio/alice-in-hydrogen-land/",
+        "date_utc": "2026-07-19T04:34:14Z",
+        "summary": "by Kelvin Kemm At a shopping mall or amusement park […]"
+      },
+      {
+        "title": "Kapiti Mayor Exposes Her Racist Agenda",
+        "url": "https://realitycheck.radio/kapiti-mayor-exposes-her-racist-agenda/",
+        "date_utc": "2026-07-18T04:29:34Z",
+        "summary": "by Andy Oakley Well, today we have a real humdinger […]"
+      },
+      {
+        "title": "Riding Shotgun – ep 53: The Death of British Politics",
+        "url": "https://realitycheck.radio/riding-shotgun-ep-53-the-death-of-british-politics/",
+        "date_utc": "2026-07-17T03:43:40Z",
+        "summary": "by Rachel Stewart British politicians have a problem. Understatement. It’s […]"
+      },
+      {
+        "title": "The Political Malaise Over New Zealand’s Low Wage Problem",
+        "url": "https://realitycheck.radio/the-political-malaise-over-new-zealands-low-wage-problem/",
+        "date_utc": "2026-07-16T22:08:11Z",
+        "summary": "by Bryce Wilkinson Among prosperous nations, New Zealand is relatively […]"
+      },
+      {
+        "title": "India FTA: Another chance to have your say",
+        "url": "https://realitycheck.radio/india-fta-another-chance-to-have-your-say/",
+        "date_utc": "2026-07-16T10:34:38Z",
+        "summary": "Feedback on the New Zealand–India Free Trade Agreement Legislation When […]"
+      },
+      {
+        "title": "So You Want To Be A Player? Listen Closely",
+        "url": "https://realitycheck.radio/so-you-want-to-be-a-player-listen-closely/",
+        "date_utc": "2026-07-15T22:07:56Z",
+        "summary": "by Nathan Smith Glad I caught you. There’s not much […]"
+      },
+      {
+        "title": "Act’s High Hopes for Henry",
+        "url": "https://realitycheck.radio/acts-high-hopes-for-henry-2/",
+        "date_utc": "2026-07-15T03:04:03Z",
+        "summary": "by Peter Williams One of the rapidly emerging features of […]"
+      },
+      {
+        "title": "JACKSON FOWLER: NZ Super Fund Betrayal: Should Kiwi Billions Bank India’s Future?",
+        "url": "https://realitycheck.radio/episodes/jackson-fowler-nz-super-fund-betrayal-should-kiwi-billions-bank-indias-future/",
+        "date_utc": "2026-07-25T21:29:52Z",
+        "summary": ""
+      },
+      {
+        "title": "RIDING SHOTGUN: Pride’s Dirty Secret: Is ‘Community’ Just Media’s Lazy Shorthand?",
+        "url": "https://realitycheck.radio/episodes/riding-shotgun-prides-dirty-secret-is-community-just-medias-lazy-shorthand/",
+        "date_utc": "2026-07-25T21:28:47Z",
+        "summary": ""
+      },
+      {
+        "title": "JACKSON FOWLER: India’s 1.4 Billion Customer Myth: A Fiction We Can’t Afford",
+        "url": "https://realitycheck.radio/episodes/jackson-fowler-indias-1-4-billion-customer-myth-a-fiction-we-cant-afford/",
+        "date_utc": "2026-07-25T21:28:35Z",
+        "summary": ""
+      },
+      {
+        "title": "RIDING SHOTGUN: Pride’s Downfall: Has Rainbow Indecency Finally Gone Too Far?",
+        "url": "https://realitycheck.radio/episodes/riding-shotgun-prides-downfall-has-rainbow-indecency-finally-gone-too-far/",
+        "date_utc": "2026-07-25T21:27:08Z",
+        "summary": ""
+      },
+      {
+        "title": "BOTH BARRELS: Radical Left Overreach: Did Political Rhetoric Fuel Kirk Assassination Attempt?",
+        "url": "https://realitycheck.radio/episodes/both-barrels-radical-left-overreach-did-political-rhetoric-fuel-kirk-assassination-attempt/",
+        "date_utc": "2026-07-25T21:26:19Z",
+        "summary": ""
+      }
+    ],
+    "youtube": [
+      {
+        "title": "We're struggling to find any [benefit] to Southland.",
+        "url": "https://www.youtube.com/shorts/e4LkJwkTdyE",
+        "date_utc": "2026-07-26T07:01:28+00:00",
+        "summary": "\"We're struggling to find any [benefit] to Southland.\" - Kelly Blomfield, Concerned Local Resident What benefits should local communities expect before mega-projects of this size get the green light? 🎥 Watch here: https://rcr.media/episodes/kelly-blomfield-concerned-local-resident-invercargills-non-notified-mega-projects #RCRMedia"
+      },
+      {
+        "title": "You can't leave this stuff in the body, and think you're going to get the patient well.",
+        "url": "https://www.youtube.com/shorts/KsCuDKfivtA",
+        "date_utc": "2026-07-26T00:02:33+00:00",
+        "summary": "\"You can't leave this stuff in the body, and think you're going to get the patient well.\" - Dr Jared L. Roscoe, Clinical Director of Florida's New Era Medical Center Dr Roscoe tells RCR's Meagan McNamara why removing spike protein is central to helping patients recover, and why sauna therapy forms part of that approach. What role do you think sweating and heat therapy can play in improving health? 🎥 Watch here: https://rcr.media/episodes/jared-l-roscoe-founder-of-floridas-new-era-medical-center-spike-protein-shedding-and-integrative-treatments #RCRMedia"
+      },
+      {
+        "title": "How come they can use their uranium, but we can't use ours for nuclear enrichment or have nuclear...",
+        "url": "https://www.youtube.com/shorts/J5hBM729QcA",
+        "date_utc": "2026-07-25T21:02:03+00:00",
+        "summary": "🇦🇺 \"How come they can use their uranium, but we can't use ours for nuclear enrichment or have nuclear weapons of our own?\" - Tim Wilms from The Unshackled 🇦🇺 Australia is strengthening nuclear ties with India while questions remain about its own energy future. Why is Australia exporting uranium while still debating whether it should embrace nuclear power itself? Tim Wilms discusses with RCR's Paul Brennan. 🎥 Watch here: https://rcr.media/episodes/the-wilms-report-with-tim-wilms-australias-political-fault-lines-deepen #RCRMedia #TheWilmsReport"
+      },
+      {
+        "title": "(The claim is) Natural disasters caused by climate change, they lead to more impoverishment...",
+        "url": "https://www.youtube.com/shorts/ky-9YAs_grY",
+        "date_utc": "2026-07-25T08:00:56+00:00",
+        "summary": "🇦🇺 \"(The claim is) Natural disasters caused by climate change, they lead to more impoverishment in countries like Bangladesh. And so the family has to sell off the daughter, to be a child bride.\" - Tim Wilms from The Unshackled 🇦🇺 Tim Wilms discusses a claim linking climate change, poverty and child marriage. What factors do you think are driving child marriage in vulnerable communities? 🎥 Watch here: https://rcr.media/episodes/the-wilms-report-with-tim-wilms-australias-political-fault-lines-deepen #RCRMedia #TheWilmsReport"
+      },
+      {
+        "title": "Spike protein actually works on our DNA and it deactivates what are called tumour suppressor genes",
+        "url": "https://www.youtube.com/shorts/L8YnlaL2nA8",
+        "date_utc": "2026-07-25T07:02:28+00:00",
+        "summary": "\"Spike protein actually works on our DNA and it deactivates what are called tumour suppressor genes.\" - Dr Jared L. Roscoe, Clinical Director of Florida's New Era Medical Center Dr Roscoe outlines to RCR's Meagan McNamara why he believes spike protein creates multiple pathways that can contribute to cancer development. What have you learned about the connection between spike protein, mitochondria and long-term health? 🎥 Watch here: https://rcr.media/episodes/jared-l-roscoe-founder-of-floridas-new-era-medical-center-spike-protein-shedding-and-integrative-treatments #RCRMedia"
+      },
+      {
+        "title": "If I see one more gyrating leather-clad thrusty man on a pink float, I'm going to get my...",
+        "url": "https://www.youtube.com/shorts/1mHtyzczjAU",
+        "date_utc": "2026-07-25T06:00:55+00:00",
+        "summary": "\"If I see one more gyrating leather-clad thrusty man on a pink float, I'm going to get my secateurs sharpened.\" - Rachel Stewart Has Pride become less about equal rights and more about shock value? 🎥 Watch here: https://rcr.media/episodes/riding-shotgun-with-rachel-stewart-the-anti-community-community #RCRMedia #RidingShotgun"
+      },
+      {
+        "title": "It actually ended up being the best free advertising you can imagine because we had negative...",
+        "url": "https://www.youtube.com/shorts/3k9mcZSxqWc",
+        "date_utc": "2026-07-25T00:01:09+00:00",
+        "summary": "\"It actually ended up being the best free advertising you can imagine because we had negative headlines worldwide. But it created such a massive curiosity. Why was this film being kicked out of the festival?\" - Del Bigtree, Documentary Filmmaker & Vaccine Safety Advocate Can attempts to silence an idea end up making more people want to hear it? 🎥 Watch here: https://rcr.media/episodes/del-bigtree-documentary-filmmaker-vaccine-safety-advocate-an-inconvenient-study-vaccine-safety-maha-nzs-covid-response #RCRMedia"
+      },
+      {
+        "title": "We can't comply our way out of tyranny.",
+        "url": "https://www.youtube.com/shorts/JLv4RqEeJTQ",
+        "date_utc": "2026-07-24T20:01:43+00:00",
+        "summary": "\"We can't comply our way out of tyranny.\" - Dr Tess Lawrie, Former WHO Consultant & World Council For Health Co-Founder Dr Tess Lawrie says lasting change won't come from waiting on governments, but from people building stronger, more self-reliant communities together. What practical steps can local communities take to become more self-reliant? 🎥 Watch here: https://rcr.media/episodes/dr-tess-lawrie-former-who-consultant-world-council-for-health-co-founder-creating-self-reliant-communities #RCRMedia"
+      },
+      {
+        "title": "The small ones go up to about 300 or 400 megawatts which is a very nice size for our system",
+        "url": "https://www.youtube.com/shorts/YKF_RoTDHu4",
+        "date_utc": "2026-07-24T19:03:22+00:00",
+        "summary": "\"The small ones go up to about 300 or 400 megawatts which is a very nice size for our system.\" - Bryan Leyland, Consulting Engineer Bryan Leyland believes small modular nuclear reactors could be well suited to New Zealand's electricity network and future energy needs. If New Zealand wants reliable, affordable power, what energy source should we invest in next? 🎥 Watch here: https://rcr.media/episodes/bryan-leyland-consulting-engineer-the-future-of-new-zealands-electricity-supply #RCRMedia"
+      },
+      {
+        "title": "Because when I agreed to do this study, I did not realise that I was agreeing to ending the...",
+        "url": "https://www.youtube.com/shorts/xXSqlDbFMYA",
+        "date_utc": "2026-07-24T08:01:01+00:00",
+        "summary": "\"Because when I agreed to do this study, I did not realise that I was agreeing to ending the childhood vaccine programme.\" - Del Bigtree, Documentary Filmmaker & Vaccine Safety Advocate Del Bigtree says this was the response he received after asking why a vaccine study had not been published. Should controversial scientific findings always be made public? 🎥 Watch here: https://rcr.media/episodes/del-bigtree-documentary-filmmaker-vaccine-safety-advocate-an-inconvenient-study-vaccine-safety-maha-nzs-covid-response #RCRMedia"
+      },
+      {
+        "title": "What they now want is for people to plug in their electric cars and let their batteries...",
+        "url": "https://www.youtube.com/shorts/V5fjviFRZ7Y",
+        "date_utc": "2026-07-24T07:01:58+00:00",
+        "summary": "\"What they now want is for people to plug in their electric cars and let their batteries associated with their solar power be run flat when the system's in trouble.\" - Bryan Leyland, Consulting Engineer Would you be willing to let the electricity grid drain your EV battery or home battery to help balance the power system? 🎥 Watch here: https://rcr.media/episodes/bryan-leyland-consulting-engineer-the-future-of-new-zealands-electricity-supply #RCRMedia"
+      },
+      {
+        "title": "Like a full body replenishment, we worked it out, takes 9 to 12 months",
+        "url": "https://www.youtube.com/shorts/fTQXNg25kII",
+        "date_utc": "2026-07-24T06:01:18+00:00",
+        "summary": "\"Like a full body replenishment, we worked it out, takes 9 to 12 months.\" - Kirsten Taylor, Naturopath & SleepDrops Founder Kirsten Taylor explains why correcting a magnesium deficiency isn't a quick fix, and why consistency and realistic expectations are key. How long did it take before you noticed a difference after improving your magnesium intake? 🎥 Watch here: https://rcr.media/episodes/kirsten-taylor-naturopath-sleepdrops-founder-sleep-better-by-understanding-what-your-body-needs #RCRMedia"
+      },
+      {
+        "title": "RCR Wednesday Webinars - Lifestyle",
+        "url": "https://www.youtube.com/watch?v=KBa9xanscRg",
+        "date_utc": "2026-07-24T04:43:26+00:00",
+        "summary": "Join host Natalie Cutler-Welsh and writer, speaker and natural health practitioner Karen Creighton, as they separate fact from fiction and explore some of the most common myths and misconceptions about our health. Discover what your body may really be trying to tell you and learn practical ways to better support your wellbeing."
+      },
+      {
+        "title": "His blood test was indistinguishable from an AIDS blood test.",
+        "url": "https://www.youtube.com/shorts/CG7doynUvR4",
+        "date_utc": "2026-07-23T19:02:59+00:00",
+        "summary": "\"His blood test was indistinguishable from an AIDS blood test. If you held it up and said, 'Is this AIDS or is this spike protein?' you wouldn't be able to tell.\" - Dr Jared L. Roscoe, Clinical Director of Florida's New Era Medical Center Dr Roscoe shares a case from his clinic with RCR's Meagan McNamara and explains his concerns about immune system suppression and spike protein. What should be the next steps in investigating spike protein-related health concerns? 🎥 Watch here: https://rcr.media/episodes/jared-l-roscoe-founder-of-floridas-new-era-medical-center-spike-protein-shedding-and-integrative-treatments #RCRMedia"
+      },
+      {
+        "title": "Everyday Australians... are actually indirectly financially supporting what many would consider...",
+        "url": "https://www.youtube.com/shorts/WqMK0-29pec",
+        "date_utc": "2026-07-23T08:00:55+00:00",
+        "summary": "🇦🇺 \"Everyday Australians... are actually indirectly financially supporting what many would consider to be blasphemous.\" - Ashlyn Vice, SA Director of The Australian Christian Lobby 🇦🇺 Should governments use public money to support events that conflict with the religious beliefs of many taxpayers? 🎥 Watch here: https://rcr.media/episodes/ashlyn-vice-sa-director-of-the-australian-christian-lobby-controversy-over-sydneys-blasphemous-event #RCRMedia"
+      }
+    ]
+  },
+  "the_platform_nz": {
+    "youtube": [
+      {
+        "title": "Could AI Bottle A Memory? AI Concept Turning Photos Into Fragrance",
+        "url": "https://www.youtube.com/watch?v=5Fx90UtPgi8",
+        "date_utc": "2026-07-24T19:24:15+00:00",
+        "summary": "Maadhav Arora, Mechanical Engineering Student at The University of Auckland - Could AI bottle a memory? The AI-powered concept turning photos into fragrance."
+      },
+      {
+        "title": "Damning Report That's Uncovered Serious Problems At Spring Hill Prison",
+        "url": "https://www.youtube.com/watch?v=4kfg65XqRxQ",
+        "date_utc": "2026-07-24T05:39:16+00:00",
+        "summary": "Floyd du Plessis, Corrections Association President on the damning report that's uncovered serious problems at Spring Hill Prison."
+      },
+      {
+        "title": "Catherine Cooke On Her Petition For A Breast Cancer Drug To Be Funded",
+        "url": "https://www.youtube.com/watch?v=W5FBsUJK3M0",
+        "date_utc": "2026-07-24T05:26:10+00:00",
+        "summary": "Catherine Cooke, Breast Cancer advocate on her petition asking for a breast cancer drug to be funded."
+      },
+      {
+        "title": "Tameem Barakat On The Centrist Investigation Into The Baby Ru Case",
+        "url": "https://www.youtube.com/watch?v=X7fMSnDqiX4",
+        "date_utc": "2026-07-24T04:14:01+00:00",
+        "summary": "Tameem Barakat on the Centrist investigation into the Baby Ru case."
+      },
+      {
+        "title": "Who Got Burnt In This Week’s Friday Fry Up?",
+        "url": "https://www.youtube.com/watch?v=inABGNSa4ig",
+        "date_utc": "2026-07-24T03:56:05+00:00",
+        "summary": "Who got burnt in this week’s Friday Fry Up?"
+      },
+      {
+        "title": "Free Speech Fridays #166 – Chris Lynch & Simon O’Connor",
+        "url": "https://www.youtube.com/watch?v=OF3xxIwAEcY",
+        "date_utc": "2026-07-24T03:43:53+00:00",
+        "summary": "Free Speech Fridays with Chris Lynch & Simon O’Connor is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss Ryan Fox’s golf triumph, the RMA reform, Stuart Nash’s resignation from NZ First, and more."
+      },
+      {
+        "title": "David Seymour Reflects On A Great Week For The ACT Party",
+        "url": "https://www.youtube.com/watch?v=nM_hWerb6xk",
+        "date_utc": "2026-07-23T22:56:26+00:00",
+        "summary": "David Seymour reflects on a great week for the ACT Party."
+      },
+      {
+        "title": "The Push For A \"Right to Repairer\"",
+        "url": "https://www.youtube.com/watch?v=RmTCsyByFuM",
+        "date_utc": "2026-07-23T03:40:52+00:00",
+        "summary": "Clive Matthew-Wilson on the push for a \"Right to Repairer\" automobile law giving motorists’ the right to choose where they can have their vehicle serviced and repaired."
+      },
+      {
+        "title": "‘Education, Not Racism' Is The Key To Protecting NZ’s Rock-Pools",
+        "url": "https://www.youtube.com/watch?v=Q9ZYCUQYRr4",
+        "date_utc": "2026-07-23T02:26:39+00:00",
+        "summary": "Estella Lee, Founder of Chinese Conservation and Education Trust; ‘education, not racism' is the key to protecting New Zealand's rock-pools."
+      },
+      {
+        "title": "Laura McClure On Her Deepfake Bill - A 'First Step' In AI Regulation",
+        "url": "https://www.youtube.com/watch?v=erPF0mwG5L4",
+        "date_utc": "2026-07-23T02:16:08+00:00",
+        "summary": "ACT MP Laura McClure on her Deepfake Bill - A ‘First Step' in AI Regulation."
+      },
+      {
+        "title": "Willie Jackson Sets The Record Straight On Ryan Fox",
+        "url": "https://www.youtube.com/watch?v=LmrU3QcMcHk",
+        "date_utc": "2026-07-23T00:13:03+00:00",
+        "summary": "Willie Jackson sets the record straight on Ryan Fox."
+      },
+      {
+        "title": "Charles Finny On What’s Next For Trade In NZ?",
+        "url": "https://www.youtube.com/watch?v=ksZkSaakDyE",
+        "date_utc": "2026-07-22T23:58:25+00:00",
+        "summary": "Charles Finny on what’s next for Trade in NZ?"
+      },
+      {
+        "title": "Tim Costley Tells All About His Investigation Into Fire & Emergency NZ",
+        "url": "https://www.youtube.com/watch?v=OAKHpyYm0q8",
+        "date_utc": "2026-07-22T23:37:06+00:00",
+        "summary": "Tim Costley tells all about his investigation into Fire and Emergency NZ"
+      },
+      {
+        "title": "Stuart Nash Resigns From NZ First",
+        "url": "https://www.youtube.com/watch?v=HnxxRGHrOO8",
+        "date_utc": "2026-07-22T23:37:03+00:00",
+        "summary": "Stuart Nash resigns from NZ First."
+      },
+      {
+        "title": "Kenny Ching On His ‘Sporting Greats Reshape Careers' Study",
+        "url": "https://www.youtube.com/watch?v=DlLqMwRBlzw",
+        "date_utc": "2026-07-22T05:30:47+00:00",
+        "summary": "Kenny Ching, Senior Lecturer/Researcher at University of Auckland’s School of Business on his ‘Sporting Greats Reshape Careers' study."
+      }
+    ],
+    "opinions": [
+      {
+        "title": "The Platform Election Party 2026",
+        "url": "https://theplatform.kiwi/opinions/the-platform-election-party-2026",
+        "date_utc": "2026-07-22",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
+      {
+        "title": "Twinkle Twinkle Little Star",
+        "url": "https://theplatform.kiwi/opinions/twinkle-twinkle-little-star",
+        "date_utc": "2026-07-15",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
+      {
+        "title": "Opportunity Knocks",
+        "url": "https://theplatform.kiwi/opinions/opportunity-knocks",
+        "date_utc": "2026-07-13",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
+      {
+        "title": "Jagose Stays Close",
+        "url": "https://theplatform.kiwi/opinions/jagose-stays-close",
+        "date_utc": "2026-07-09",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
+      {
+        "title": "Frozen Myths",
+        "url": "https://theplatform.kiwi/opinions/frozen-myths",
+        "date_utc": "2026-07-06",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
+      {
+        "title": "Opportunity",
+        "url": "https://theplatform.kiwi/opinions/opportunity",
+        "date_utc": "2026-06-29",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
+      {
+        "title": "The Constitutional Revolution New Zealand Pretends Is Not Happening",
+        "url": "https://theplatform.kiwi/opinions/the-constitutional-revolution-new-zealand-pretends-is-not-happening",
+        "date_utc": "2026-06-15",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
+      {
+        "title": "Performative Parsimony",
+        "url": "https://theplatform.kiwi/opinions/performative-parsimony",
+        "date_utc": "2026-06-05",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
+      {
+        "title": "Hipkins Policy Silence Doesnt Matter",
+        "url": "https://theplatform.kiwi/opinions/hipkins-policy-silence-doesnt-matter",
+        "date_utc": "2026-06-03",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
+      {
+        "title": "Lord Cookes Indictment",
+        "url": "https://theplatform.kiwi/opinions/lord-cookes-indictment",
+        "date_utc": "2026-06-02",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
+      {
+        "title": "Sherman Tanks",
+        "url": "https://theplatform.kiwi/opinions/sherman-tanks",
+        "date_utc": "2026-05-28",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
+      {
+        "title": "A Picture Paints My Thousand Words",
+        "url": "https://theplatform.kiwi/opinions/a-picture-paints-my-thousand-words",
+        "date_utc": "2026-05-14",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      }
+    ]
+  },
+  "counts": {
+    "rcr_items": 20,
+    "rcr_youtube": 15,
+    "platform_youtube": 15,
+    "platform_opinions": 12
+  }
+}
