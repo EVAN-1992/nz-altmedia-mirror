@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-26T13:57:00Z",
+  "generated_utc": "2026-07-27T13:42:31Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,30 @@
     ],
     "youtube": [
       {
+        "title": "Anybody with half a brain knows that Pride is almost done. Because they've done it to themselves.",
+        "url": "https://www.youtube.com/shorts/PhDGypj60xQ",
+        "date_utc": "2026-07-27T07:18:34+00:00",
+        "summary": "\"Anybody with half a brain knows that Pride is almost done. Because they've done it to themselves.\" - Rachel Stewart Has the Pride movement become too political and polarising? 🎥 Watch here: https://rcr.media/episodes/riding-shotgun-with-rachel-stewart-the-anti-community-community #RCRMedia #RidingShotgun"
+      },
+      {
+        "title": "\"Actually, that money belongs to all New Zealanders. And it would be an extreme betrayal of why that",
+        "url": "https://www.youtube.com/shorts/7eU3bm69fr0",
+        "date_utc": "2026-07-27T07:01:00+00:00",
+        "summary": "\"Actually, that money belongs to all New Zealanders. And it would be an extreme betrayal of why that fund exists.\" - Jackson Fowler, General Manager Medical Plastics Should the NZ Super Fund ever be used to help meet commitments made under an international trade agreement? RCR's Nathan Smith is joined by Jackson Fowler to discuss the India FTA. 🎥 Watch here: https://rcr.media/episodes/jackson-fowler-general-manager-medical-plastics-india-fta-too-high-a-price #RCRMedia"
+      },
+      {
+        "title": "They are public in their mission and their plans moving forward to scale up to 1 gigawatt.",
+        "url": "https://www.youtube.com/shorts/ZVm_j2ApunM",
+        "date_utc": "2026-07-26T20:01:14+00:00",
+        "summary": "\"They are public in their mission and their plans moving forward to scale up to 1 gigawatt.\" - Kelly Blomfield, Concerned Local Resident Should AI data centres be allowed to consume this much of New Zealand's electricity? Kelly Blomfield discusses with RCR's Paul Brennan. 🎥 Watch here: https://rcr.media/episodes/kelly-blomfield-concerned-local-resident-invercargills-non-notified-mega-projects #RCRMedia"
+      },
+      {
+        "title": "Government's hard to change, right? I mean, they say it's like turning an oil tanker around...",
+        "url": "https://www.youtube.com/shorts/vtKIHS-Xszo",
+        "date_utc": "2026-07-26T19:03:48+00:00",
+        "summary": "\"Government's hard to change, right? I mean, they say it's like turning an oil tanker around. It's going to take time.\" - Del Bigtree, Documentary Filmmaker & Vaccine Safety Advocate How long do you think meaningful reform of a country's public health system should realistically take? 🎥 Watch here: https://rcr.media/episodes/del-bigtree-documentary-filmmaker-vaccine-safety-advocate-an-inconvenient-study-vaccine-safety-maha-nzs-covid-response #RCRMedia"
+      },
+      {
         "title": "We're struggling to find any [benefit] to Southland.",
         "url": "https://www.youtube.com/shorts/e4LkJwkTdyE",
         "date_utc": "2026-07-26T07:01:28+00:00",
@@ -190,35 +214,47 @@
         "url": "https://www.youtube.com/shorts/V5fjviFRZ7Y",
         "date_utc": "2026-07-24T07:01:58+00:00",
         "summary": "\"What they now want is for people to plug in their electric cars and let their batteries associated with their solar power be run flat when the system's in trouble.\" - Bryan Leyland, Consulting Engineer Would you be willing to let the electricity grid drain your EV battery or home battery to help balance the power system? 🎥 Watch here: https://rcr.media/episodes/bryan-leyland-consulting-engineer-the-future-of-new-zealands-electricity-supply #RCRMedia"
-      },
-      {
-        "title": "Like a full body replenishment, we worked it out, takes 9 to 12 months",
-        "url": "https://www.youtube.com/shorts/fTQXNg25kII",
-        "date_utc": "2026-07-24T06:01:18+00:00",
-        "summary": "\"Like a full body replenishment, we worked it out, takes 9 to 12 months.\" - Kirsten Taylor, Naturopath & SleepDrops Founder Kirsten Taylor explains why correcting a magnesium deficiency isn't a quick fix, and why consistency and realistic expectations are key. How long did it take before you noticed a difference after improving your magnesium intake? 🎥 Watch here: https://rcr.media/episodes/kirsten-taylor-naturopath-sleepdrops-founder-sleep-better-by-understanding-what-your-body-needs #RCRMedia"
-      },
-      {
-        "title": "RCR Wednesday Webinars - Lifestyle",
-        "url": "https://www.youtube.com/watch?v=KBa9xanscRg",
-        "date_utc": "2026-07-24T04:43:26+00:00",
-        "summary": "Join host Natalie Cutler-Welsh and writer, speaker and natural health practitioner Karen Creighton, as they separate fact from fiction and explore some of the most common myths and misconceptions about our health. Discover what your body may really be trying to tell you and learn practical ways to better support your wellbeing."
-      },
-      {
-        "title": "His blood test was indistinguishable from an AIDS blood test.",
-        "url": "https://www.youtube.com/shorts/CG7doynUvR4",
-        "date_utc": "2026-07-23T19:02:59+00:00",
-        "summary": "\"His blood test was indistinguishable from an AIDS blood test. If you held it up and said, 'Is this AIDS or is this spike protein?' you wouldn't be able to tell.\" - Dr Jared L. Roscoe, Clinical Director of Florida's New Era Medical Center Dr Roscoe shares a case from his clinic with RCR's Meagan McNamara and explains his concerns about immune system suppression and spike protein. What should be the next steps in investigating spike protein-related health concerns? 🎥 Watch here: https://rcr.media/episodes/jared-l-roscoe-founder-of-floridas-new-era-medical-center-spike-protein-shedding-and-integrative-treatments #RCRMedia"
-      },
-      {
-        "title": "Everyday Australians... are actually indirectly financially supporting what many would consider...",
-        "url": "https://www.youtube.com/shorts/WqMK0-29pec",
-        "date_utc": "2026-07-23T08:00:55+00:00",
-        "summary": "🇦🇺 \"Everyday Australians... are actually indirectly financially supporting what many would consider to be blasphemous.\" - Ashlyn Vice, SA Director of The Australian Christian Lobby 🇦🇺 Should governments use public money to support events that conflict with the religious beliefs of many taxpayers? 🎥 Watch here: https://rcr.media/episodes/ashlyn-vice-sa-director-of-the-australian-christian-lobby-controversy-over-sydneys-blasphemous-event #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "What’s Wrong With Local Government",
+        "url": "https://www.youtube.com/watch?v=eo6-DHnf4mU",
+        "date_utc": "2026-07-27T10:00:09+00:00",
+        "summary": "What’s wrong with local government, and why the government may make it worse."
+      },
+      {
+        "title": "FSU On The Wokeness Of Internet NZ & How, Maybe, To Change That.",
+        "url": "https://www.youtube.com/watch?v=pSp0YIJmMb8",
+        "date_utc": "2026-07-27T09:34:11+00:00",
+        "summary": "FSU’s Stephen Franks on the wokeness of Internet NZ and how, maybe, to change that."
+      },
+      {
+        "title": "ML Breaks Down The Stuart Nash Affair And Asks “Did Anyone Die”?",
+        "url": "https://www.youtube.com/watch?v=6g5Gk3IaOIc",
+        "date_utc": "2026-07-27T07:55:06+00:00",
+        "summary": "Michael Laws breaks down the Stuart Nash affair and asks “did anyone die”?"
+      },
+      {
+        "title": "Sam Uffindell Calls Out Dodgy Deal In Tauranga Marina",
+        "url": "https://www.youtube.com/watch?v=gcq2telVfHw",
+        "date_utc": "2026-07-27T07:18:00+00:00",
+        "summary": "Sam Uffindell Calls Out Dodgy Deal in Tauranga Marina"
+      },
+      {
+        "title": "Eric Crampton On The Truth Behind Data Centres In New Zealand",
+        "url": "https://www.youtube.com/watch?v=lQqa_yGIZh4",
+        "date_utc": "2026-07-27T06:27:00+00:00",
+        "summary": "Eric Crampton on the Truth Behind Data Centres in New Zealand"
+      },
+      {
+        "title": "Stuart Smith on His Members Bill for Local Governments",
+        "url": "https://www.youtube.com/watch?v=ik_yBC3qKOk",
+        "date_utc": "2026-07-27T02:36:20+00:00",
+        "summary": "Stuart Smith On His Members Bill For Local Governments"
+      },
       {
         "title": "Could AI Bottle A Memory? AI Concept Turning Photos Into Fragrance",
         "url": "https://www.youtube.com/watch?v=5Fx90UtPgi8",
@@ -272,42 +308,6 @@
         "url": "https://www.youtube.com/watch?v=Q9ZYCUQYRr4",
         "date_utc": "2026-07-23T02:26:39+00:00",
         "summary": "Estella Lee, Founder of Chinese Conservation and Education Trust; ‘education, not racism' is the key to protecting New Zealand's rock-pools."
-      },
-      {
-        "title": "Laura McClure On Her Deepfake Bill - A 'First Step' In AI Regulation",
-        "url": "https://www.youtube.com/watch?v=erPF0mwG5L4",
-        "date_utc": "2026-07-23T02:16:08+00:00",
-        "summary": "ACT MP Laura McClure on her Deepfake Bill - A ‘First Step' in AI Regulation."
-      },
-      {
-        "title": "Willie Jackson Sets The Record Straight On Ryan Fox",
-        "url": "https://www.youtube.com/watch?v=LmrU3QcMcHk",
-        "date_utc": "2026-07-23T00:13:03+00:00",
-        "summary": "Willie Jackson sets the record straight on Ryan Fox."
-      },
-      {
-        "title": "Charles Finny On What’s Next For Trade In NZ?",
-        "url": "https://www.youtube.com/watch?v=ksZkSaakDyE",
-        "date_utc": "2026-07-22T23:58:25+00:00",
-        "summary": "Charles Finny on what’s next for Trade in NZ?"
-      },
-      {
-        "title": "Tim Costley Tells All About His Investigation Into Fire & Emergency NZ",
-        "url": "https://www.youtube.com/watch?v=OAKHpyYm0q8",
-        "date_utc": "2026-07-22T23:37:06+00:00",
-        "summary": "Tim Costley tells all about his investigation into Fire and Emergency NZ"
-      },
-      {
-        "title": "Stuart Nash Resigns From NZ First",
-        "url": "https://www.youtube.com/watch?v=HnxxRGHrOO8",
-        "date_utc": "2026-07-22T23:37:03+00:00",
-        "summary": "Stuart Nash resigns from NZ First."
-      },
-      {
-        "title": "Kenny Ching On His ‘Sporting Greats Reshape Careers' Study",
-        "url": "https://www.youtube.com/watch?v=DlLqMwRBlzw",
-        "date_utc": "2026-07-22T05:30:47+00:00",
-        "summary": "Kenny Ching, Senior Lecturer/Researcher at University of Auckland’s School of Business on his ‘Sporting Greats Reshape Careers' study."
       }
     ],
     "opinions": [
