@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-30T12:49:58Z",
+  "generated_utc": "2026-07-31T13:02:56Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,54 @@
     ],
     "youtube": [
       {
+        "title": "There's a whole series of vulnerabilities because it's all globalised...",
+        "url": "https://www.youtube.com/shorts/tD4u8MNzVOA",
+        "date_utc": "2026-07-31T08:01:39+00:00",
+        "summary": "🇦🇺 \"There's a whole series of vulnerabilities because it's all globalised. We don't have local production.\" - David James, Finance and Business Journalist 🇦🇺 What critical products should New Zealand and Australia be producing locally, even if it costs more? 🎥 Watch here: https://rcr.media/episodes/money-talks-australia-with-david-james-why-australias-fuel-crisis-was-predictable #RCRMedia"
+      },
+      {
+        "title": "It's a wild way to be talking about children and removing parts of their body to stick into...",
+        "url": "https://www.youtube.com/shorts/eawcm8MJyAs",
+        "date_utc": "2026-07-31T07:01:09+00:00",
+        "summary": "\"It's a wild way to be talking about children and removing parts of their body to stick into creams to put on your face to make you look young.\" - Meagan McNamara Where should people draw the ethical line when it comes to anti-ageing and cosmetic treatments? 🎥 Watch here: https://rcr.media/episodes/life-is-mental-beauty-trends-or-media-distraction #RCRMedia #LifeIsMental"
+      },
+      {
+        "title": "What is ACT's most important policy that you are committed to getting across the line?",
+        "url": "https://www.youtube.com/shorts/g4aiwaUA84k",
+        "date_utc": "2026-07-31T06:45:31+00:00",
+        "summary": "“Getting down the size of the Government. We’ve got 30 people in the head of the Government, we’ve got 43 departments, we’ve got massive crossovers. There’s 82 different portfolios. If we could get back to one minister, one budget, one department - down to 18 ministers, 19 departments - then everything else becomes possible because you’ve got clear lines of accountability”. RCR’s Tane Webster spoke with Deputy Prime Minister and ACT Leader David Seymour."
+      },
+      {
+        "title": "We have prosecuted the Chinese for stealing our Kiwifruit source and knowledge way back when...",
+        "url": "https://www.youtube.com/shorts/Zbb-Fvl-EyY",
+        "date_utc": "2026-07-31T00:01:00+00:00",
+        "summary": "\"We have prosecuted the Chinese for stealing our Kiwifruit source and knowledge way back when, and here we are giving it to some other country.\" - Winston Peters - Foreign Minister and NZ First Party Leader How important is it for New Zealand to protect its intellectual property when negotiating international trade deals? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-energy-immigration-road-side-drug-testing #RCRMedia"
+      },
+      {
+        "title": "NZ First announced a plan for a $1 billion off-shore survey of New Zealand’s oil and gas resources.",
+        "url": "https://www.youtube.com/shorts/9kRTM2-7smM",
+        "date_utc": "2026-07-30T22:39:40+00:00",
+        "summary": "“The Greens came out and said we’re going to spend $3 billion on energy, NZ First say they’re going to spend $1 billion, Labour announce something every other week… but none of them can pay for it. Unless they say “we will tax more, we will borrow more or we will spend less elsewhere”, then they’re not really serious”. RCR’s Tane Webster spoke with Deputy Prime Minister and ACT Leader David Seymour."
+      },
+      {
+        "title": "A lot of people are criticising Trump's use of tariffs and completely misunderstand what he's doing.",
+        "url": "https://www.youtube.com/shorts/CwIceNgsnaE",
+        "date_utc": "2026-07-30T21:02:06+00:00",
+        "summary": "🇦🇺 \"A lot of people are criticising Trump's use of tariffs and completely misunderstand what he's doing.\" - David James, Finance and Business Journalist 🇦🇺 Are tariffs really about raising taxes on imports, or are they a strategy to bring manufacturing back home? 🎥 Watch here: https://rcr.media/episodes/money-talks-australia-with-david-james-why-australias-fuel-crisis-was-predictable #RCRMedia"
+      },
+      {
+        "title": "How much would we be making or how much would we be saving as a country if Marsden Point was...",
+        "url": "https://www.youtube.com/shorts/hk8nvpDaHOw",
+        "date_utc": "2026-07-30T20:01:51+00:00",
+        "summary": "\"How much would we be making or how much would we be saving as a country if Marsden Point was still running? And it's billions a year right now.\" - Harvey Weake, Petrochemical Industry Veteran Has New Zealand underestimated the importance of energy security, and if so, what should be the top priority now? 🎥 Watch here: https://rcr.media/episodes/harvey-weake-petrochemical-industry-veteran-rebuilding-nzs-energy-governance #RCRMedia"
+      },
+      {
+        "title": "Pretty symbolic... I think it's symbolic of folly, what we've done to ourselves.",
+        "url": "https://www.youtube.com/shorts/Yr3O8FBdA2s",
+        "date_utc": "2026-07-30T19:03:01+00:00",
+        "summary": "\"Pretty symbolic... I think it's symbolic of folly, what we've done to ourselves.\" - Jaspreet Boparai Is New Zealand's energy future being driven by practical economics or political symbolism? 🎥 Watch here: https://rcr.media/episodes/greenwashed-power-play-the-greens-energy-agenda #RCRMedia #Greenwashed"
+      },
+      {
         "title": "Kids should not be ruling the roost.",
         "url": "https://www.youtube.com/shorts/hs5hTiYssNY",
         "date_utc": "2026-07-30T08:01:28+00:00",
@@ -166,59 +214,53 @@
         "url": "https://www.youtube.com/shorts/o3KjcNg7Oj8",
         "date_utc": "2026-07-29T19:00:16+00:00",
         "summary": "“It’s something that Keir Starmer wanted to do and he’s gone. It was never really an issue in New Zealand. I’m not interested in a digital ID”. RCR’s Tane Webster spoke with Deputy Prime Minister and ACT Leader David Seymour."
-      },
-      {
-        "title": "What are your thoughts on the electronic road user charges (ERUC)?",
-        "url": "https://www.youtube.com/shorts/P_E3rqsIuZM",
-        "date_utc": "2026-07-29T07:45:07+00:00",
-        "summary": "“Believe me, the NZTA are not your problem. I’d worry about Vodafone, I’d worry about Spark, I’d worry about Apple. I’d worry about the number of people that already have much greater information about you, and probably could find out where you were right now”. RCR’s Tane Webster spoke with Deputy Prime Minister and ACT Leader David Seymour."
-      },
-      {
-        "title": "What is the coalition government doing to revive the oil and gas industry?",
-        "url": "https://www.youtube.com/shorts/V9wWgLOeaxU",
-        "date_utc": "2026-07-29T06:00:38+00:00",
-        "summary": "“We’ve reversed the ban. We’ve said that we will co-invest up to $200 million with people that want to go out and explore and drill… so we can say, look, we’ve got skin in the game”. RCR’s Tane Webster spoke with Deputy Prime Minister and ACT Leader David Seymour. #RCRMedia"
-      },
-      {
-        "title": "Does there need to be more emphasis on teaching New Zealand’s European history in schools?",
-        "url": "https://www.youtube.com/shorts/5VXo5DSqqcM",
-        "date_utc": "2026-07-29T03:00:30+00:00",
-        "summary": "“That’s precisely what the new history curriculum does. We are now teaching a much more even and objective view of human history than the sort of fairytale of goodies and baddies that they were being told before”. RCR’s Tane Webster spoke with Deputy Prime Minister and ACT Leader David Seymour."
-      },
-      {
-        "title": "How do we counter some of the education in schools around climate change hysteria?",
-        "url": "https://www.youtube.com/shorts/jOvmx0Pgbtk",
-        "date_utc": "2026-07-28T23:24:27+00:00",
-        "summary": "“We’ve started to introduce rigorous content-based curricula in English and in science and in maths. And the thought is if you actually say “Here is what you teach… valuable skills that are politically neutral”, then you displace a lot of the other stuff”. RCR’s Tane Webster spoke with Deputy Prime Minister and ACT Leader David Seymour."
-      },
-      {
-        "title": "I think New Zealanders will be embarrassed at that display from the Prime Minister, that sort...",
-        "url": "https://www.youtube.com/shorts/6e700KQ_U7A",
-        "date_utc": "2026-07-28T19:02:24+00:00",
-        "summary": "\"I think New Zealanders will be embarrassed at that display from the Prime Minister, that sort of fawning, sycophantic display.\" - Jackson Fowler, General Manager, Medical Plastics Jackson Fowler speaks to RCR's Nathan Smith about Indian Prime Minister Narendra Modi's recent visit to New Zealand. What did you make of the government's handling of Modi's visit? 🎥 Watch here: https://rcr.media/episodes/jackson-fowler-general-manager-medical-plastics-india-fta-too-high-a-price #RCRMedia"
-      },
-      {
-        "title": "New Zealand should be recognised as a case study to understand what went wrong during COVID.",
-        "url": "https://www.youtube.com/shorts/sSTLX84OqtI",
-        "date_utc": "2026-07-28T07:02:17+00:00",
-        "summary": "\"New Zealand should be recognised as a case study to understand what went wrong during COVID.\" - Del Bigtree, Documentary Filmmaker & Vaccine Safety Advocate Del Bigtree shares his perspective on New Zealand’s pandemic response and why he believes it deserves further investigation. What lessons do you think New Zealand should take from the COVID era? 🎥 Watch here: https://rcr.media/episodes/del-bigtree-documentary-filmmaker-vaccine-safety-advocate-an-inconvenient-study-vaccine-safety-maha-nzs-covid-response Related: 🔗 Download your free copy of The People's Report (Chapter One): https://realitycheck.radio/the-peoples-report/ Related: 🔗 Download your free copy of The People's Position: https://realitycheck.radio/the-peoples-position-dl/ #RCRMedia"
-      },
-      {
-        "title": "Just before he arrived as HHS Secretary, the former heads of the departments destroyed the database.",
-        "url": "https://www.youtube.com/shorts/o8gQbvWZIXk",
-        "date_utc": "2026-07-28T00:41:17+00:00",
-        "summary": "\"Just before he arrived as HHS Secretary, the former heads of the departments destroyed the database.\" - Del Bigtree, Documentary Filmmaker & Vaccine Safety Advocate If a major health database was lost before a key study could be conducted, what questions would you want answered first? 🎥 Watch here: https://rcr.media/episodes/del-bigtree-documentary-filmmaker-vaccine-safety-advocate-an-inconvenient-study-vaccine-safety-maha-nzs-covid-response #RCRMedia"
-      },
-      {
-        "title": "If I told you that you could get stuff from a shop that was 2.75% cheaper, but you had to allow...",
-        "url": "https://www.youtube.com/shorts/Nddrbec0QHE",
-        "date_utc": "2026-07-27T20:01:17+00:00",
-        "summary": "\"If I told you that you could get stuff from a shop that was 2.75% cheaper, but you had to allow a whole load of concessions as to people coming and living in your house or camping out on your lawn in exchange for that, I don't think you'd go along with that.\" - Jackson Fowler, General Manager Medical Plastics How much should New Zealand concede in a trade deal to secure relatively small tariff reductions? RCR's Nathan Smith discusses with Jackson Fowler. 🎥 Watch here: https://rcr.media/episodes/jackson-fowler-general-manager-medical-plastics-india-fta-too-high-a-price #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Latest Figures Show Pensioners Hit Hardest By Rising Living Costs",
+        "url": "https://www.youtube.com/watch?v=uVUXVQ030lk",
+        "date_utc": "2026-07-31T03:35:24+00:00",
+        "summary": "Karen Billings-Jensen, Chief Executive of Age Concern on how pensioners have been hit the hardest by rising living costs."
+      },
+      {
+        "title": "SPCA Reaction To The Cancellation Of The Fireworks Ban",
+        "url": "https://www.youtube.com/watch?v=4CVALeU5dQM",
+        "date_utc": "2026-07-31T03:16:34+00:00",
+        "summary": "Dr Arnja Dale, Chief SPCA Scientific Officer on their reaction to the cancellation of the fireworks ban."
+      },
+      {
+        "title": "Court Case For Not Allowing A Trans Man At A Women's-Only Class",
+        "url": "https://www.youtube.com/watch?v=ua6y14Fi_8I",
+        "date_utc": "2026-07-31T02:42:27+00:00",
+        "summary": "Nomes Witney, Owner of 'Queens of Pole' studio on the Gold Coast on her court case for not allowing a trans man at a women's-only class."
+      },
+      {
+        "title": "Rob Beard Talks New Products For The Friday Fry Up",
+        "url": "https://www.youtube.com/watch?v=G8CF4wEeTFs",
+        "date_utc": "2026-07-31T00:44:28+00:00",
+        "summary": "Rob Beard talks new products for the Friday Fry Up."
+      },
+      {
+        "title": "Free Speech Fridays #167 – Laura McClure & James Meager",
+        "url": "https://www.youtube.com/watch?v=a8bpnW8bCHk",
+        "date_utc": "2026-07-31T00:26:11+00:00",
+        "summary": "Free Speech Fridays with Laura McClure & James Meager is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss data centres, National ruling out Opportunity, Winston’s comments in Parliament, the Commonwealth Games, and more."
+      },
+      {
+        "title": "Te Kira Lawrence Stands For NZ First In Napier",
+        "url": "https://www.youtube.com/watch?v=9TviRckxVHA",
+        "date_utc": "2026-07-31T00:08:46+00:00",
+        "summary": "Te Kira Lawrence stands for NZ First in Napier."
+      },
+      {
+        "title": "David Seymour On ACT Party’s Plan For Solar Energy",
+        "url": "https://www.youtube.com/watch?v=bXlK963qBmc",
+        "date_utc": "2026-07-30T23:18:43+00:00",
+        "summary": "David Seymour on ACT Party’s plan for solar energy."
+      },
       {
         "title": "OIl And Gas Exploration Is Underway- Resources MInister On What’s Next",
         "url": "https://www.youtube.com/watch?v=H8d-qDsi1IU",
@@ -266,48 +308,6 @@
         "url": "https://www.youtube.com/watch?v=_cvXEEStEB8",
         "date_utc": "2026-07-29T23:13:10+00:00",
         "summary": ""
-      },
-      {
-        "title": "Member’s Bill The Crimes (Offence Of Failing To Report Child Harm)",
-        "url": "https://www.youtube.com/watch?v=GRvuL6aQ00E",
-        "date_utc": "2026-07-29T21:52:25+00:00",
-        "summary": "Andrew Bayly - Port Waikato MP - re his member’s bill the Crimes (Offence of Failing to Report Child Harm) Amendment Bill"
-      },
-      {
-        "title": "Melissa Derby On Protecting Religious Diversity In NZ",
-        "url": "https://www.youtube.com/watch?v=7_zltSfbzao",
-        "date_utc": "2026-07-29T09:03:50+00:00",
-        "summary": "Melissa Derby on Protecting Religious Diversity in NZ"
-      },
-      {
-        "title": "Simon Court On The Post Newspaper’s Latest Anti-Semitism",
-        "url": "https://www.youtube.com/watch?v=-ZBqp9y_Dlw",
-        "date_utc": "2026-07-29T08:07:10+00:00",
-        "summary": "Simon Court on The Post Newspaper’s Latest Anti-Semitism"
-      },
-      {
-        "title": "Chris Bishop On Changing The Resource Management Act",
-        "url": "https://www.youtube.com/watch?v=OTfCbGi0xdM",
-        "date_utc": "2026-07-29T07:09:33+00:00",
-        "summary": "Chris Bishop On Changing The Resource Management Act"
-      },
-      {
-        "title": "ACT's Hunting Policy Misses The Mark",
-        "url": "https://www.youtube.com/watch?v=mVmOqQK4eFs",
-        "date_utc": "2026-07-29T04:50:50+00:00",
-        "summary": "Federated Farmers meat and wool chair/ pest management spokesperson - re ACT's hunting policy misses the mark"
-      },
-      {
-        "title": "Students & Graduates Struggling To Find Work The Worst Its Ever Been",
-        "url": "https://www.youtube.com/watch?v=Au_m6liXqVw",
-        "date_utc": "2026-07-29T03:29:21+00:00",
-        "summary": "Louise Saviker - Student Job Search chief executive - re Students and graduates struggling to find work, the worst it's ever been"
-      },
-      {
-        "title": "A Round-Up Of The Last Fortnight's Politics In NZ",
-        "url": "https://www.youtube.com/watch?v=cYlaYAc-SU0",
-        "date_utc": "2026-07-29T02:23:56+00:00",
-        "summary": "Ashley Church - Markets and Political Commentator - re A round-up of the last fortnight's politics in NZ Watch The Platform live on YouTube — only $39.99/month! Join now → https://www.youtube.com/@theplatformnz/join Prefer to save? You can watch The Platform live for less by subscribing to Platform Plus. Support The Platform by joining Platform Plus: https://theplatform.kiwi/platform-plus Download The Platform app for free: App Store: https://apps.apple.com/us/app/the-platform/id1596882626 Google Play: https://play.google.com/store/apps/details?id=kiwi.theplatform.android Call 0800 DEBATE or text us at 5050 (Standard SMS text charges will apply) Listen to The Platform's straight-talking, free-thinking hosts every weekday. Sean Plunket: 7am - 10am Michael Laws: 10am - 1pm Leah Panapa: 1pm - 4pm #ThePlatformNZ"
       }
     ],
     "opinions": [
