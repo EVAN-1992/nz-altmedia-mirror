@@ -1,8 +1,62 @@
 {
-  "generated_utc": "2026-08-01T12:07:09Z",
+  "generated_utc": "2026-08-02T12:10:18Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "The Private Text That Triggered the Outrage Machine",
+        "url": "https://realitycheck.radio/the-private-text-that-triggered-the-outrage-machine/",
+        "date_utc": "2026-08-02T00:39:11Z",
+        "summary": "by Rodney Hide Is it too soon to declare the […]"
+      },
+      {
+        "title": "Australian workers produce in 39 minutes what a New Zealand worker produces in an hour",
+        "url": "https://realitycheck.radio/australian-workers-produce-in-39-minutes-what-a-new-zealand-worker-produces-in-an-hour/",
+        "date_utc": "2026-08-01T00:35:25Z",
+        "summary": "by Dr Oliver Hartwich A fortnight ago, I wrote about […]"
+      },
+      {
+        "title": "Riding Shotgun – ep 55: We need to talk about the NZ Free Speech Union",
+        "url": "https://realitycheck.radio/riding-shotgun-ep-55-we-need-to-talk-about-the-nz-free-speech-union/",
+        "date_utc": "2026-07-31T03:13:54Z",
+        "summary": "by Rachel Stewart Yes, yes, absolutely they do good – […]"
+      },
+      {
+        "title": "Clean Slate Bill: Labour’s prison recruitment drive",
+        "url": "https://realitycheck.radio/clean-slate-bill-labours-prison-recruitment-drive/",
+        "date_utc": "2026-07-31T00:52:03Z",
+        "summary": "by Jen Bainbridge Labour’s Clean Slate bill has passed its […]"
+      },
+      {
+        "title": "Change Comes From Within, Paul Henry",
+        "url": "https://realitycheck.radio/change-comes-from-within-paul-henry/",
+        "date_utc": "2026-07-30T00:35:04Z",
+        "summary": "by Nathan Smith I like Paul Henry. He was always […]"
+      },
+      {
+        "title": "The Odyssey",
+        "url": "https://realitycheck.radio/the-odyssey/",
+        "date_utc": "2026-07-29T00:24:17Z",
+        "summary": "by Simon O’Connor Spoilers. If you haven’t seen The Odyssey in […]"
+      },
+      {
+        "title": "My Vote Needs A Home",
+        "url": "https://realitycheck.radio/my-vote-needs-a-home/",
+        "date_utc": "2026-07-28T00:28:51Z",
+        "summary": "by Peter Williams The great irony of Christopher Luxon ruling […]"
+      },
+      {
+        "title": "Climate Scenarios are Exactly that – Scenarios…not Planning Tools",
+        "url": "https://realitycheck.radio/climate-scenarios-are-exactly-that-scenariosnot-planning-tools/",
+        "date_utc": "2026-07-27T01:37:00Z",
+        "summary": "by Salima Padamsey Climate change planning has become one of […]"
+      },
+      {
+        "title": "Muddled multiculturalism",
+        "url": "https://realitycheck.radio/muddled-multiculturalism/",
+        "date_utc": "2026-07-27T00:19:37Z",
+        "summary": "by Simon O’Connor Multiculturalism has failed. In fact, multiculturalism will – […]"
+      },
       {
         "title": "Solar For The Soul Or For The Senses",
         "url": "https://realitycheck.radio/solar-for-the-soul-or-for-the-senses/",
@@ -40,91 +94,61 @@
         "summary": "by Nathan Smith Good news everybody! Another piece of the […]"
       },
       {
-        "title": "Seriously 1 News?",
-        "url": "https://realitycheck.radio/seriously-1-news/",
-        "date_utc": "2026-07-21T03:09:54Z",
-        "summary": "by Peter Williams In the immortal words of tennis legend […]"
-      },
-      {
-        "title": "Foxy’s triumphant reverse move",
-        "url": "https://realitycheck.radio/foxys-triumphant-reverse-move/",
-        "date_utc": "2026-07-21T03:07:05Z",
-        "summary": "by Peter Williams At our golf club a few of […]"
-      },
-      {
-        "title": "Alice in Hydrogen Land",
-        "url": "https://realitycheck.radio/alice-in-hydrogen-land/",
-        "date_utc": "2026-07-19T04:34:14Z",
-        "summary": "by Kelvin Kemm At a shopping mall or amusement park […]"
-      },
-      {
-        "title": "Kapiti Mayor Exposes Her Racist Agenda",
-        "url": "https://realitycheck.radio/kapiti-mayor-exposes-her-racist-agenda/",
-        "date_utc": "2026-07-18T04:29:34Z",
-        "summary": "by Andy Oakley Well, today we have a real humdinger […]"
-      },
-      {
-        "title": "Riding Shotgun – ep 53: The Death of British Politics",
-        "url": "https://realitycheck.radio/riding-shotgun-ep-53-the-death-of-british-politics/",
-        "date_utc": "2026-07-17T03:43:40Z",
-        "summary": "by Rachel Stewart British politicians have a problem. Understatement. It’s […]"
-      },
-      {
-        "title": "The Political Malaise Over New Zealand’s Low Wage Problem",
-        "url": "https://realitycheck.radio/the-political-malaise-over-new-zealands-low-wage-problem/",
-        "date_utc": "2026-07-16T22:08:11Z",
-        "summary": "by Bryce Wilkinson Among prosperous nations, New Zealand is relatively […]"
-      },
-      {
-        "title": "India FTA: Another chance to have your say",
-        "url": "https://realitycheck.radio/india-fta-another-chance-to-have-your-say/",
-        "date_utc": "2026-07-16T10:34:38Z",
-        "summary": "Feedback on the New Zealand–India Free Trade Agreement Legislation When […]"
-      },
-      {
-        "title": "So You Want To Be A Player? Listen Closely",
-        "url": "https://realitycheck.radio/so-you-want-to-be-a-player-listen-closely/",
-        "date_utc": "2026-07-15T22:07:56Z",
-        "summary": "by Nathan Smith Glad I caught you. There’s not much […]"
-      },
-      {
-        "title": "Act’s High Hopes for Henry",
-        "url": "https://realitycheck.radio/acts-high-hopes-for-henry-2/",
-        "date_utc": "2026-07-15T03:04:03Z",
-        "summary": "by Peter Williams One of the rapidly emerging features of […]"
-      },
-      {
-        "title": "JACKSON FOWLER: NZ Super Fund Betrayal: Should Kiwi Billions Bank India’s Future?",
-        "url": "https://realitycheck.radio/episodes/jackson-fowler-nz-super-fund-betrayal-should-kiwi-billions-bank-indias-future/",
-        "date_utc": "2026-07-25T21:29:52Z",
+        "title": "UNDER THE HOOD: With Graham ‘Hoody’ Hood: Why Strong Communities Matter More Than Ever",
+        "url": "https://realitycheck.radio/episodes/under-the-hood-with-graham-hoody-hood-why-strong-communities-matter-more-than-ever/",
+        "date_utc": "2026-08-01T21:38:17Z",
         "summary": ""
       },
       {
-        "title": "RIDING SHOTGUN: Pride’s Dirty Secret: Is ‘Community’ Just Media’s Lazy Shorthand?",
-        "url": "https://realitycheck.radio/episodes/riding-shotgun-prides-dirty-secret-is-community-just-medias-lazy-shorthand/",
-        "date_utc": "2026-07-25T21:28:47Z",
+        "title": "BOTH BARRELS: German Pride Suspect: When Ideology Collides Hard With Ironic Reality",
+        "url": "https://realitycheck.radio/episodes/both-barrels-german-pride-suspect-when-ideology-collides-hard-with-ironic-reality/",
+        "date_utc": "2026-07-31T20:55:09Z",
         "summary": ""
       },
       {
-        "title": "JACKSON FOWLER: India’s 1.4 Billion Customer Myth: A Fiction We Can’t Afford",
-        "url": "https://realitycheck.radio/episodes/jackson-fowler-indias-1-4-billion-customer-myth-a-fiction-we-cant-afford/",
-        "date_utc": "2026-07-25T21:28:35Z",
+        "title": "ROB SCOTT: NZ’s Roading Crisis: Is Central Government’s Grip Strangling Local Infrastructure?",
+        "url": "https://realitycheck.radio/episodes/rob-scott-nzs-roading-crisis-is-central-governments-grip-strangling-local-infrastructure/",
+        "date_utc": "2026-07-31T20:52:50Z",
         "summary": ""
       },
       {
-        "title": "RIDING SHOTGUN: Pride’s Downfall: Has Rainbow Indecency Finally Gone Too Far?",
-        "url": "https://realitycheck.radio/episodes/riding-shotgun-prides-downfall-has-rainbow-indecency-finally-gone-too-far/",
-        "date_utc": "2026-07-25T21:27:08Z",
+        "title": "BOTH BARRELS: Pride Parades Unveiled: Are We Really One Community?",
+        "url": "https://realitycheck.radio/episodes/both-barrels-pride-parades-unveiled-are-we-really-one-community/",
+        "date_utc": "2026-07-31T20:52:02Z",
         "summary": ""
       },
       {
-        "title": "BOTH BARRELS: Radical Left Overreach: Did Political Rhetoric Fuel Kirk Assassination Attempt?",
-        "url": "https://realitycheck.radio/episodes/both-barrels-radical-left-overreach-did-political-rhetoric-fuel-kirk-assassination-attempt/",
-        "date_utc": "2026-07-25T21:26:19Z",
+        "title": "ROB SCOTT: Three Waters Fiasco: Billions Spent, Not One NZ Pipe Fixed",
+        "url": "https://realitycheck.radio/episodes/rob-scott-three-waters-fiasco-billions-spent-not-one-nz-pipe-fixed/",
+        "date_utc": "2026-07-31T20:51:51Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "Most legal firms will not take on a government agency because it's like career suicide.",
+        "url": "https://www.youtube.com/shorts/KuUoaKTer0I",
+        "date_utc": "2026-08-02T07:01:13+00:00",
+        "summary": "\"Most legal firms will not take on a government agency because it's like career suicide.\" - Erika Harvey - Public Affairs Director - Lobby For Good Should there be stronger protections for citizens taking legal action against publicly funded organisations? 🎥 Watch here: https://rcr.media/episodes/erika-harvey-public-affairs-director-at-lobby-for-good-ownership-questions-mount-over-tauranga-marine-precinct-deal #RCRMedia"
+      },
+      {
+        "title": "What I'm seeing is so much more revolting stuff.",
+        "url": "https://www.youtube.com/shorts/0MzKZWOKZI4",
+        "date_utc": "2026-08-02T06:00:45+00:00",
+        "summary": "\"What I'm seeing is so much more revolting stuff.\" - Rachel Stewart, Writer & Commentator Rachel Stewart says she has watched Pride evolve over decades and believes some aspects have crossed a line. Is this a conversation more people need to be willing to have? Rachel Stewart and Maree Buscke discuss on this episode of Both Barrels. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-has-pride-lost-its-purpose #RCRMedia #BothBarrels"
+      },
+      {
+        "title": "Sometimes bigger isn't always better.",
+        "url": "https://www.youtube.com/shorts/IFn6ayJsu6o",
+        "date_utc": "2026-08-01T20:01:34+00:00",
+        "summary": "\"Sometimes bigger isn't always better.\" - Te Kira Lawrence, Napier City Councillor & NZ First Candidate Would a Hawke's Bay Super Council improve local government, or would it leave smaller communities with less of a voice? 🎥 Watch here: https://rcr.media/episodes/te-kira-lawrence-napier-city-councillor-nz-first-candidate-the-push-for-a-hawkes-bay-super-council #RCRMedia"
+      },
+      {
+        "title": "For a system to work, it must be defendable and credible in the court of law as being fair.",
+        "url": "https://www.youtube.com/shorts/PtUwLXbFej4",
+        "date_utc": "2026-08-01T19:01:45+00:00",
+        "summary": "\"For a system to work, it must be defendable and credible in the court of law as being fair.\" - Winston Peters - Foreign Minister and NZ First Party Leader How much transparency should the Government provide before introducing compulsory roadside drug testing? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-energy-immigration-road-side-drug-testing #RCRMedia"
+      },
       {
         "title": "What is ACT’s position on the under-16 social media Bill?",
         "url": "https://www.youtube.com/watch?v=4OkdrKritPU",
@@ -190,30 +214,6 @@
         "url": "https://www.youtube.com/shorts/CwIceNgsnaE",
         "date_utc": "2026-07-30T21:02:06+00:00",
         "summary": "🇦🇺 \"A lot of people are criticising Trump's use of tariffs and completely misunderstand what he's doing.\" - David James, Finance and Business Journalist 🇦🇺 Are tariffs really about raising taxes on imports, or are they a strategy to bring manufacturing back home? 🎥 Watch here: https://rcr.media/episodes/money-talks-australia-with-david-james-why-australias-fuel-crisis-was-predictable #RCRMedia"
-      },
-      {
-        "title": "How much would we be making or how much would we be saving as a country if Marsden Point was...",
-        "url": "https://www.youtube.com/shorts/hk8nvpDaHOw",
-        "date_utc": "2026-07-30T20:01:51+00:00",
-        "summary": "\"How much would we be making or how much would we be saving as a country if Marsden Point was still running? And it's billions a year right now.\" - Harvey Weake, Petrochemical Industry Veteran Has New Zealand underestimated the importance of energy security, and if so, what should be the top priority now? 🎥 Watch here: https://rcr.media/episodes/harvey-weake-petrochemical-industry-veteran-rebuilding-nzs-energy-governance #RCRMedia"
-      },
-      {
-        "title": "Pretty symbolic... I think it's symbolic of folly, what we've done to ourselves.",
-        "url": "https://www.youtube.com/shorts/Yr3O8FBdA2s",
-        "date_utc": "2026-07-30T19:03:01+00:00",
-        "summary": "\"Pretty symbolic... I think it's symbolic of folly, what we've done to ourselves.\" - Jaspreet Boparai Is New Zealand's energy future being driven by practical economics or political symbolism? 🎥 Watch here: https://rcr.media/episodes/greenwashed-power-play-the-greens-energy-agenda #RCRMedia #Greenwashed"
-      },
-      {
-        "title": "Kids should not be ruling the roost.",
-        "url": "https://www.youtube.com/shorts/hs5hTiYssNY",
-        "date_utc": "2026-07-30T08:01:28+00:00",
-        "summary": "🇦🇺 \"Kids should not be ruling the roost.\" - Graham 'Hoody' Hood @ClubGrubbery 🇦🇺 Has modern parenting become too child-centred, and what effect do you think that's having on families? 🎥 Watch here: https://rcr.media/episodes/under-the-hood-with-graham-hoody-hood-the-marriage-your-children-will-remember #RCRMedia #UnderTheHood"
-      },
-      {
-        "title": "We see the potential to have the wealth that Norway has.",
-        "url": "https://www.youtube.com/shorts/gomPWqsjFNY",
-        "date_utc": "2026-07-30T07:01:00+00:00",
-        "summary": "\"We see the potential to have the wealth that Norway has.\" - Winston Peters - Foreign Minister and NZ First Party Leader Could New Zealand realistically follow Norway's model of turning natural resources into long-term national prosperity? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-energy-immigration-road-side-drug-testing #RCRMedia"
       }
     ]
   },
