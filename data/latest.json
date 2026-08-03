@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-08-02T12:10:18Z",
+  "generated_utc": "2026-08-03T13:45:41Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Smart Prisons: The Glass Cave in the Digital Age",
+        "url": "https://realitycheck.radio/smart-prisons-the-glass-cave-in-the-digital-age/",
+        "date_utc": "2026-08-03T00:44:04Z",
+        "summary": "by Diego Fusaro “The presently existing society is the only […]"
+      },
       {
         "title": "The Private Text That Triggered the Outrage Machine",
         "url": "https://realitycheck.radio/the-private-text-that-triggered-the-outrage-machine/",
@@ -88,43 +94,67 @@
         "summary": "by Peter Williams Chloe Swarbrick makes ridiculous and outrageous statements, […]"
       },
       {
-        "title": "In Defence Of AI Cheating",
-        "url": "https://realitycheck.radio/in-defence-of-ai-cheating/",
-        "date_utc": "2026-07-23T03:03:08Z",
-        "summary": "by Nathan Smith Good news everybody! Another piece of the […]"
-      },
-      {
-        "title": "UNDER THE HOOD: With Graham ‘Hoody’ Hood: Why Strong Communities Matter More Than Ever",
-        "url": "https://realitycheck.radio/episodes/under-the-hood-with-graham-hoody-hood-why-strong-communities-matter-more-than-ever/",
-        "date_utc": "2026-08-01T21:38:17Z",
+        "title": "FREDDIE PONTON: China’s Rare Earth Stranglehold: Can the US and Israel Keep Fighting?",
+        "url": "https://realitycheck.radio/episodes/freddie-ponton-chinas-rare-earth-stranglehold-can-the-us-and-israel-keep-fighting/",
+        "date_utc": "2026-08-03T03:13:22Z",
         "summary": ""
       },
       {
-        "title": "BOTH BARRELS: German Pride Suspect: When Ideology Collides Hard With Ironic Reality",
-        "url": "https://realitycheck.radio/episodes/both-barrels-german-pride-suspect-when-ideology-collides-hard-with-ironic-reality/",
-        "date_utc": "2026-07-31T20:55:09Z",
+        "title": "ANI OBRIEN: NZ Pride Politics: Is Auckland Council Labelling Critics a ‘Hate Group’?",
+        "url": "https://realitycheck.radio/episodes/ani-obrien-nz-pride-politics-is-auckland-council-labelling-critics-a-hate-group/",
+        "date_utc": "2026-08-03T03:12:35Z",
         "summary": ""
       },
       {
-        "title": "ROB SCOTT: NZ’s Roading Crisis: Is Central Government’s Grip Strangling Local Infrastructure?",
-        "url": "https://realitycheck.radio/episodes/rob-scott-nzs-roading-crisis-is-central-governments-grip-strangling-local-infrastructure/",
-        "date_utc": "2026-07-31T20:52:50Z",
+        "title": "MONEY TALKS: US Election Shift: Why Wealthy Elites Moved Left and Government Isn’t the Answer",
+        "url": "https://realitycheck.radio/episodes/money-talks-us-election-shift-why-wealthy-elites-moved-left-and-government-isnt-the-answer/",
+        "date_utc": "2026-08-03T03:12:03Z",
         "summary": ""
       },
       {
-        "title": "BOTH BARRELS: Pride Parades Unveiled: Are We Really One Community?",
-        "url": "https://realitycheck.radio/episodes/both-barrels-pride-parades-unveiled-are-we-really-one-community/",
-        "date_utc": "2026-07-31T20:52:02Z",
+        "title": "ELIZABETH MUNDT: Selwyn’s Balancing Act: Staying Solvent While Keeping Christchurch at Bay",
+        "url": "https://realitycheck.radio/episodes/elizabeth-mundt-selwyns-balancing-act-staying-solvent-while-keeping-christchurch-at-bay/",
+        "date_utc": "2026-08-03T03:11:47Z",
         "summary": ""
       },
       {
-        "title": "ROB SCOTT: Three Waters Fiasco: Billions Spent, Not One NZ Pipe Fixed",
-        "url": "https://realitycheck.radio/episodes/rob-scott-three-waters-fiasco-billions-spent-not-one-nz-pipe-fixed/",
-        "date_utc": "2026-07-31T20:51:51Z",
+        "title": "JOSHUA RILEY: India FTA’s Hidden Deal: The Seed Agreement They Never Made Public",
+        "url": "https://realitycheck.radio/episodes/joshua-riley-india-ftas-hidden-deal-the-seed-agreement-they-never-made-public/",
+        "date_utc": "2026-08-03T03:11:31Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "Real conversations start with curious people.",
+        "url": "https://www.youtube.com/shorts/fzGGiKRNZ5Q",
+        "date_utc": "2026-08-03T07:15:26+00:00",
+        "summary": "Real conversations start with curious people. Thanks to everyone who's supported RCR and helped us keep asking the questions others won't. If you'd like to help us reach more Kiwis, please share this video. 👉 www.rcr.media"
+      },
+      {
+        "title": "So all of those things inspire me and motivate me.",
+        "url": "https://www.youtube.com/shorts/yTQozaXORaI",
+        "date_utc": "2026-08-03T06:01:24+00:00",
+        "summary": "\"So all of those things inspire me and motivate me.\" - Te Kira Lawrence, Napier City Councillor & NZ First Candidate What motivates someone to leave local government and step into national politics - and what qualities do you think matter most in an MP? 🎥 Watch here: https://rcr.media/episodes/te-kira-lawrence-napier-city-councillor-nz-first-candidate-the-push-for-a-hawkes-bay-super-council #RCRMedia"
+      },
+      {
+        "title": "We have had amnesia in this country for decades. And we're about to be woken out of that slumber.",
+        "url": "https://www.youtube.com/shorts/mXHdPtWdUxQ",
+        "date_utc": "2026-08-03T00:01:25+00:00",
+        "summary": "\"We have had amnesia in this country for decades. And we're about to be woken out of that slumber.\" - Lester Bryant, Former Energy Industry Insider Is New Zealand doing enough now to avoid a future energy crisis, or have we left it too late? 🎥 Watch here: https://rcr.media/episodes/lester-bryant-former-energy-industry-insider-energy-security-or-expensive-distraction #RCRMedia"
+      },
+      {
+        "title": "This, too is an example of ideology rubbing head first balls-out with reality.",
+        "url": "https://www.youtube.com/shorts/LlDeYRFn9kA",
+        "date_utc": "2026-08-02T20:01:21+00:00",
+        "summary": "\"This, too is an example of ideology rubbing head first balls-out with reality.\" - Maree Buscke When ideology meets reality, which one usually wins? Rachel Stewart and Maree Buscke discuss on this episode of Both Barrels. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-has-pride-lost-its-purpose #RCRMedia #BothBarrels"
+      },
+      {
+        "title": "You're paying once in your rates for them to fight you, and then you're having to hire someone...",
+        "url": "https://www.youtube.com/shorts/gxkNau1Zt8k",
+        "date_utc": "2026-08-02T19:01:39+00:00",
+        "summary": "\"You're paying once in your rates for them to fight you, and then you're having to hire someone again to fight them.\" - Erika Harvey - Public Affairs Director - Lobby For Good Do ratepayers deserve greater protections when challenging decisions made by their own councils? 🎥 Watch here: https://rcr.media/episodes/erika-harvey-public-affairs-director-at-lobby-for-good-ownership-questions-mount-over-tauranga-marine-precinct-deal #RCRMedia"
+      },
       {
         "title": "Most legal firms will not take on a government agency because it's like career suicide.",
         "url": "https://www.youtube.com/shorts/KuUoaKTer0I",
@@ -184,41 +214,77 @@
         "url": "https://www.youtube.com/shorts/tD4u8MNzVOA",
         "date_utc": "2026-07-31T08:01:39+00:00",
         "summary": "🇦🇺 \"There's a whole series of vulnerabilities because it's all globalised. We don't have local production.\" - David James, Finance and Business Journalist 🇦🇺 What critical products should New Zealand and Australia be producing locally, even if it costs more? 🎥 Watch here: https://rcr.media/episodes/money-talks-australia-with-david-james-why-australias-fuel-crisis-was-predictable #RCRMedia"
-      },
-      {
-        "title": "It's a wild way to be talking about children and removing parts of their body to stick into...",
-        "url": "https://www.youtube.com/shorts/eawcm8MJyAs",
-        "date_utc": "2026-07-31T07:01:09+00:00",
-        "summary": "\"It's a wild way to be talking about children and removing parts of their body to stick into creams to put on your face to make you look young.\" - Meagan McNamara Where should people draw the ethical line when it comes to anti-ageing and cosmetic treatments? 🎥 Watch here: https://rcr.media/episodes/life-is-mental-beauty-trends-or-media-distraction #RCRMedia #LifeIsMental"
-      },
-      {
-        "title": "What is ACT's most important policy that you are committed to getting across the line?",
-        "url": "https://www.youtube.com/shorts/g4aiwaUA84k",
-        "date_utc": "2026-07-31T06:45:31+00:00",
-        "summary": "“Getting down the size of the Government. We’ve got 30 people in the head of the Government, we’ve got 43 departments, we’ve got massive crossovers. There’s 82 different portfolios. If we could get back to one minister, one budget, one department - down to 18 ministers, 19 departments - then everything else becomes possible because you’ve got clear lines of accountability”. RCR’s Tane Webster spoke with Deputy Prime Minister and ACT Leader David Seymour."
-      },
-      {
-        "title": "We have prosecuted the Chinese for stealing our Kiwifruit source and knowledge way back when...",
-        "url": "https://www.youtube.com/shorts/Zbb-Fvl-EyY",
-        "date_utc": "2026-07-31T00:01:00+00:00",
-        "summary": "\"We have prosecuted the Chinese for stealing our Kiwifruit source and knowledge way back when, and here we are giving it to some other country.\" - Winston Peters - Foreign Minister and NZ First Party Leader How important is it for New Zealand to protect its intellectual property when negotiating international trade deals? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-energy-immigration-road-side-drug-testing #RCRMedia"
-      },
-      {
-        "title": "NZ First announced a plan for a $1 billion off-shore survey of New Zealand’s oil and gas resources.",
-        "url": "https://www.youtube.com/shorts/9kRTM2-7smM",
-        "date_utc": "2026-07-30T22:39:40+00:00",
-        "summary": "“The Greens came out and said we’re going to spend $3 billion on energy, NZ First say they’re going to spend $1 billion, Labour announce something every other week… but none of them can pay for it. Unless they say “we will tax more, we will borrow more or we will spend less elsewhere”, then they’re not really serious”. RCR’s Tane Webster spoke with Deputy Prime Minister and ACT Leader David Seymour."
-      },
-      {
-        "title": "A lot of people are criticising Trump's use of tariffs and completely misunderstand what he's doing.",
-        "url": "https://www.youtube.com/shorts/CwIceNgsnaE",
-        "date_utc": "2026-07-30T21:02:06+00:00",
-        "summary": "🇦🇺 \"A lot of people are criticising Trump's use of tariffs and completely misunderstand what he's doing.\" - David James, Finance and Business Journalist 🇦🇺 Are tariffs really about raising taxes on imports, or are they a strategy to bring manufacturing back home? 🎥 Watch here: https://rcr.media/episodes/money-talks-australia-with-david-james-why-australias-fuel-crisis-was-predictable #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "If you Upset The Mayor, Police Arrive",
+        "url": "https://www.youtube.com/watch?v=-Z9NqdJMIKM",
+        "date_utc": "2026-08-03T09:50:16+00:00",
+        "summary": "If you upset the Mayor, the Police arrive: the curious case of Mayor Peri Zee and Paul Fabian."
+      },
+      {
+        "title": "Right To Repair Rules Kick In Around The EU, Why Is NZ Still Behind?",
+        "url": "https://www.youtube.com/watch?v=incyWkMzA5Y",
+        "date_utc": "2026-08-03T05:29:45+00:00",
+        "summary": "Dr Paul Smith, Right to Repair Aotearoa Coalition - As the Right to Repair rules kick in around the EU, why is NZ still behind?"
+      },
+      {
+        "title": "Rising Shop Violence Demands Stronger Penalties",
+        "url": "https://www.youtube.com/watch?v=SQjbIfx20Ko",
+        "date_utc": "2026-08-03T04:53:11+00:00",
+        "summary": "Carolyn Young, CEO of Retail NZ - Rising shop violence demands stronger penalties."
+      },
+      {
+        "title": "Paul Henry On The Unveiling ACT's New School Discipline Plan",
+        "url": "https://www.youtube.com/watch?v=vTAcnu6-odY",
+        "date_utc": "2026-08-03T04:31:59+00:00",
+        "summary": "Paul Henry, ACT candidate on the unveiling ACT's new school discipline plan."
+      },
+      {
+        "title": "NZ’s Justice System Fails Us Again",
+        "url": "https://www.youtube.com/watch?v=je8VXlLgCQ0",
+        "date_utc": "2026-08-03T03:50:06+00:00",
+        "summary": "NZ’s justice system fails us again - Judge Kim Saunders fails a 5 year old sexual assault victim"
+      },
+      {
+        "title": "Southland loves Data Centres, Says The Chamber Of Commerce",
+        "url": "https://www.youtube.com/watch?v=QDTEbMl1mWI",
+        "date_utc": "2026-08-03T02:41:58+00:00",
+        "summary": "Southland loves data centres, says the Chamber of Commerce’s Sheree Carey."
+      },
+      {
+        "title": "Is AI A “Thinking Threat” And Will ACT’s Classroom” Policy Work?",
+        "url": "https://www.youtube.com/watch?v=McX2geDs-yk",
+        "date_utc": "2026-08-03T01:45:45+00:00",
+        "summary": "Is AI a “thinking threat” and will ACT’s “no shits in the classroom” policy work? Rangitoto principal Greg Thornton explains."
+      },
+      {
+        "title": "Sean Plunket Reacts To Tamatha Paul’s English Language Outrage",
+        "url": "https://www.youtube.com/watch?v=6-L1u2fBdag",
+        "date_utc": "2026-08-03T01:24:14+00:00",
+        "summary": "Sean Plunket reacts to Tamatha Paul’s English language outrage."
+      },
+      {
+        "title": "Ron Mark Returns To Politics With NZ First",
+        "url": "https://www.youtube.com/watch?v=syJvJAP1r3I",
+        "date_utc": "2026-08-03T00:51:55+00:00",
+        "summary": "Ron Mark returns to politics with NZ First."
+      },
+      {
+        "title": "Chris Trotter Talks NZ First’s Latest Rally, Opportunity Party & More!",
+        "url": "https://www.youtube.com/watch?v=fBQs5S8B1yE",
+        "date_utc": "2026-08-03T00:20:15+00:00",
+        "summary": "Chris Trotter talks NZ First’s latest rally, Opportunity Party and more!"
+      },
+      {
+        "title": "Candace Kinser Takes On Chloe Swarbrick For Auckland Central",
+        "url": "https://www.youtube.com/watch?v=aHxEtolgmJc",
+        "date_utc": "2026-08-03T00:07:28+00:00",
+        "summary": "Candace Kinser takes on Chloe Swarbrick for Auckland Central"
+      },
       {
         "title": "Latest Figures Show Pensioners Hit Hardest By Rising Living Costs",
         "url": "https://www.youtube.com/watch?v=uVUXVQ030lk",
@@ -242,72 +308,6 @@
         "url": "https://www.youtube.com/watch?v=G8CF4wEeTFs",
         "date_utc": "2026-07-31T00:44:28+00:00",
         "summary": "Rob Beard talks new products for the Friday Fry Up."
-      },
-      {
-        "title": "Free Speech Fridays #167 – Laura McClure & James Meager",
-        "url": "https://www.youtube.com/watch?v=a8bpnW8bCHk",
-        "date_utc": "2026-07-31T00:26:11+00:00",
-        "summary": "Free Speech Fridays with Laura McClure & James Meager is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss data centres, National ruling out Opportunity, Winston’s comments in Parliament, the Commonwealth Games, and more."
-      },
-      {
-        "title": "Te Kira Lawrence Stands For NZ First In Napier",
-        "url": "https://www.youtube.com/watch?v=9TviRckxVHA",
-        "date_utc": "2026-07-31T00:08:46+00:00",
-        "summary": "Te Kira Lawrence stands for NZ First in Napier."
-      },
-      {
-        "title": "David Seymour On ACT Party’s Plan For Solar Energy",
-        "url": "https://www.youtube.com/watch?v=bXlK963qBmc",
-        "date_utc": "2026-07-30T23:18:43+00:00",
-        "summary": "David Seymour on ACT Party’s plan for solar energy."
-      },
-      {
-        "title": "OIl And Gas Exploration Is Underway- Resources MInister On What’s Next",
-        "url": "https://www.youtube.com/watch?v=H8d-qDsi1IU",
-        "date_utc": "2026-07-30T11:36:29+00:00",
-        "summary": "OIl and gas exploration is underway - Resources MInister Shane Jones on what’s next."
-      },
-      {
-        "title": "ML Blasts The Human Rights Commission Over Recent Act Of Stupidity",
-        "url": "https://www.youtube.com/watch?v=yK-sI_4WYM8",
-        "date_utc": "2026-07-30T06:41:07+00:00",
-        "summary": "Michael Laws blasts the Human Rights Commission over its most recent act of stupidity"
-      },
-      {
-        "title": "Former Sports Supremo On The Uncertain Future Of Commonwealth Games",
-        "url": "https://www.youtube.com/watch?v=-AtxDEEZVVI",
-        "date_utc": "2026-07-30T04:21:15+00:00",
-        "summary": "Former sports supremo Peter Williams on the uncertain future of the Commonwealth Games (& TVNZ’s contrasting coverage of Fox & Hobbs wins)"
-      },
-      {
-        "title": "Former National Party leader Don Brash On ‘What’s Wrong With National?",
-        "url": "https://www.youtube.com/watch?v=yy5z1X6v-fE",
-        "date_utc": "2026-07-30T01:43:57+00:00",
-        "summary": "Former National Party leader Don Brash on ‘what’s wrong with National?’"
-      },
-      {
-        "title": "Dr Claire Robinson Talks Politics, Voting & Future Coalitions",
-        "url": "https://www.youtube.com/watch?v=qbQ7ouw49GU",
-        "date_utc": "2026-07-30T00:01:14+00:00",
-        "summary": "Dr Claire Robinson talks politics, voting, and future coalitions."
-      },
-      {
-        "title": "Simeon Brown Stands By His Medical Council Appointments",
-        "url": "https://www.youtube.com/watch?v=-LfKwlACY_Q",
-        "date_utc": "2026-07-29T23:41:18+00:00",
-        "summary": "Simeon Brown stands by his medical council appointments."
-      },
-      {
-        "title": "David Farrar On Where Opportunity Truly Lies On The Political Scale",
-        "url": "https://www.youtube.com/watch?v=5OlAQxKPlrs",
-        "date_utc": "2026-07-29T23:29:49+00:00",
-        "summary": "David Farrar on where Opportunity truly lies on the political scale."
-      },
-      {
-        "title": "Needing To Find Homes For Around 1500 Retired Racing Greyhound",
-        "url": "https://www.youtube.com/watch?v=_cvXEEStEB8",
-        "date_utc": "2026-07-29T23:13:10+00:00",
-        "summary": ""
       }
     ],
     "opinions": [
