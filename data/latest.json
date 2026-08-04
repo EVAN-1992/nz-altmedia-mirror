@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-08-03T13:45:41Z",
+  "generated_utc": "2026-08-04T13:06:31Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Politicians: Stuck in scientific purgatory in election year",
+        "url": "https://realitycheck.radio/politicians-stuck-in-scientific-purgatory-in-election-year/",
+        "date_utc": "2026-08-04T00:47:14Z",
+        "summary": "by J. R. Bruning With a general election scheduled for […]"
+      },
       {
         "title": "Smart Prisons: The Glass Cave in the Digital Age",
         "url": "https://realitycheck.radio/smart-prisons-the-glass-cave-in-the-digital-age/",
@@ -88,43 +94,55 @@
         "summary": "by Rachel Stewart If one more politician, activist, media wallah, […]"
       },
       {
-        "title": "Swarbrick and her unchallenged claims",
-        "url": "https://realitycheck.radio/swarbrick-and-her-unchallenged-claims/",
-        "date_utc": "2026-07-23T03:14:42Z",
-        "summary": "by Peter Williams Chloe Swarbrick makes ridiculous and outrageous statements, […]"
-      },
-      {
-        "title": "FREDDIE PONTON: China’s Rare Earth Stranglehold: Can the US and Israel Keep Fighting?",
-        "url": "https://realitycheck.radio/episodes/freddie-ponton-chinas-rare-earth-stranglehold-can-the-us-and-israel-keep-fighting/",
-        "date_utc": "2026-08-03T03:13:22Z",
+        "title": "THE WILMS REPORT: With Tim Wilms: Victoria Upheaval Puts Labor Under Pressure",
+        "url": "https://realitycheck.radio/episodes/the-wilms-report-with-tim-wilms-victoria-upheaval-puts-labor-under-pressure/",
+        "date_utc": "2026-08-04T02:35:35Z",
         "summary": ""
       },
       {
-        "title": "ANI OBRIEN: NZ Pride Politics: Is Auckland Council Labelling Critics a ‘Hate Group’?",
-        "url": "https://realitycheck.radio/episodes/ani-obrien-nz-pride-politics-is-auckland-council-labelling-critics-a-hate-group/",
-        "date_utc": "2026-08-03T03:12:35Z",
+        "title": "RURAL REPORT: Apple Robotics, Property Rights and Methane",
+        "url": "https://realitycheck.radio/episodes/rural-report-apple-robotics-property-rights-and-methane/",
+        "date_utc": "2026-08-04T00:35:49Z",
         "summary": ""
       },
       {
-        "title": "MONEY TALKS: US Election Shift: Why Wealthy Elites Moved Left and Government Isn’t the Answer",
-        "url": "https://realitycheck.radio/episodes/money-talks-us-election-shift-why-wealthy-elites-moved-left-and-government-isnt-the-answer/",
-        "date_utc": "2026-08-03T03:12:03Z",
+        "title": "PAUL’S MAILBAG: Iran, Propaganda, Local Action & Remembering Susan",
+        "url": "https://realitycheck.radio/episodes/pauls-mailbag-iran-propaganda-local-action-remembering-susan/",
+        "date_utc": "2026-08-04T00:31:00Z",
         "summary": ""
       },
       {
-        "title": "ELIZABETH MUNDT: Selwyn’s Balancing Act: Staying Solvent While Keeping Christchurch at Bay",
-        "url": "https://realitycheck.radio/episodes/elizabeth-mundt-selwyns-balancing-act-staying-solvent-while-keeping-christchurch-at-bay/",
-        "date_utc": "2026-08-03T03:11:47Z",
+        "title": "TECH TUESDAY: With Steven Sykes: When Technology Knows Too Much",
+        "url": "https://realitycheck.radio/episodes/tech-tuesday-with-steven-sykes-when-technology-knows-too-much/",
+        "date_utc": "2026-08-04T00:21:38Z",
         "summary": ""
       },
       {
-        "title": "JOSHUA RILEY: India FTA’s Hidden Deal: The Seed Agreement They Never Made Public",
-        "url": "https://realitycheck.radio/episodes/joshua-riley-india-ftas-hidden-deal-the-seed-agreement-they-never-made-public/",
-        "date_utc": "2026-08-03T03:11:31Z",
+        "title": "PENNY MARIE: Parental Apathy: Who’s Really Deciding What Your Kids Learn?",
+        "url": "https://realitycheck.radio/episodes/penny-marie-parental-apathy-whos-really-deciding-what-your-kids-learn/",
+        "date_utc": "2026-08-03T21:53:44Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "Look, if suddenly there was a heterosexual Pride parade going down the street and they were all...",
+        "url": "https://www.youtube.com/shorts/Sscx1X5-P3k",
+        "date_utc": "2026-08-04T07:01:44+00:00",
+        "summary": "\"Look, if suddenly there was a heterosexual Pride parade going down the street and they were all... men and women were thrusting away and wearing weird stuff and it was all sexualised. You just wouldn't do it. It's no different. It's no different. And if gay people wanted to ever be just blend into the world, this is not the way to do it. This is the worst way to do it.\" - Rachel Stewart, Writer & Commentator Has society adopted a double standard when it comes to public displays of sexuality? Rachel Stewart and Maree Buscke discuss on this episode of Both Barrels. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-has-pride-lost-its-purpose #RCRMedia #BothBarrels"
+      },
+      {
+        "title": "The Queenstown roundabout is costing more than double our three year roading programme.",
+        "url": "https://www.youtube.com/shorts/GKHeArQEH6Y",
+        "date_utc": "2026-08-04T06:01:12+00:00",
+        "summary": "\"The Queenstown roundabout is costing more than double our three year roading programme.\" - Rob Scott, Mayor of Southland District Council Should more infrastructure funding be managed by local councils instead of central government agencies? 🎥 Watch here: https://rcr.media/episodes/rob-scott-mayor-of-southland-district-council-southlands-stand-against-central-control #RCRMedia"
+      },
+      {
+        "title": "They store it... in old salt mines.",
+        "url": "https://www.youtube.com/shorts/iHpYcRqal8k",
+        "date_utc": "2026-08-03T20:01:48+00:00",
+        "summary": "\"They store it... in old salt mines.\" - Lester Bryant, Former Energy Industry Insider Did you know millions of barrels of strategic oil are stored in underground salt caverns? What surprised you most about how these reserves work? 🎥 Watch here: https://rcr.media/episodes/lester-bryant-former-energy-industry-insider-energy-security-or-expensive-distraction #RCRMedia"
+      },
       {
         "title": "Real conversations start with curious people.",
         "url": "https://www.youtube.com/shorts/fzGGiKRNZ5Q",
@@ -196,29 +214,65 @@
         "url": "https://www.youtube.com/shorts/mFynn2iD70M",
         "date_utc": "2026-08-01T06:00:53+00:00",
         "summary": "\"We should bring people here who we need, not who need us.\" - Winston Peters - Foreign Minister and NZ First Party Leader What should be the primary goal of New Zealand's immigration policy - filling skill shortages, growing the population, boosting the economy, or something else? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-energy-immigration-road-side-drug-testing #RCRMedia"
-      },
-      {
-        "title": "It's been disappointingly poor in its quality and it's really ideologically driven rather than...",
-        "url": "https://www.youtube.com/shorts/gEUP8sD2jcg",
-        "date_utc": "2026-07-31T20:01:32+00:00",
-        "summary": "\"It's been disappointingly poor in its quality and it's really ideologically driven rather than scientifically driven.\" - Jason Watson, NZ Registered Nurse How should clinicians respond when they believe the evidence behind a medical practice is still uncertain or evolving? 🎥 Watch here: https://rcr.media/episodes/jason-watson-nz-registered-nurse-silenced-for-questioning-gender-affirming-care #RCRMedia"
-      },
-      {
-        "title": "Countries do not thrive, countries do not prosper, if you take a Robin Hood mentality into your...",
-        "url": "https://www.youtube.com/shorts/6WSmuvn1_HY",
-        "date_utc": "2026-07-31T19:01:50+00:00",
-        "summary": "\"Countries do not thrive, countries do not prosper, if you take a Robin Hood mentality into your economic policy.\" - Peter Williams, Broadcaster Can a country achieve long-term prosperity through wealth redistribution, or does lasting growth depend on creating more wealth in the first place? David Harvey, Peter Williams and Maree Buscke @MacBuscke talk on The Fourth Estate. 🎥 Watch here: https://rcr.media/episodes/the-fourth-estate-when-the-newsroom-becomes-the-news #RCRMedia #TheFourthEstate"
-      },
-      {
-        "title": "There's a whole series of vulnerabilities because it's all globalised...",
-        "url": "https://www.youtube.com/shorts/tD4u8MNzVOA",
-        "date_utc": "2026-07-31T08:01:39+00:00",
-        "summary": "🇦🇺 \"There's a whole series of vulnerabilities because it's all globalised. We don't have local production.\" - David James, Finance and Business Journalist 🇦🇺 What critical products should New Zealand and Australia be producing locally, even if it costs more? 🎥 Watch here: https://rcr.media/episodes/money-talks-australia-with-david-james-why-australias-fuel-crisis-was-predictable #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Grey Power NZ Wins A Two-Year Battle Over Cognitive Driver Testing",
+        "url": "https://www.youtube.com/watch?v=PO4RG6jgefw",
+        "date_utc": "2026-08-04T05:44:07+00:00",
+        "summary": "David Marshall, National President of Grey Power NZ on them winning a two-year battle over cognitive testing of older drivers."
+      },
+      {
+        "title": "Dr Oliver Hartwich On NZ First's Policy About Lifting Kiwi Fertility Rate",
+        "url": "https://www.youtube.com/watch?v=8ECVR-sryoo",
+        "date_utc": "2026-08-04T05:37:58+00:00",
+        "summary": "Dr Oliver Hartwich, Executive Director of The New Zealand Initiative on NZ First's policy about lifting kiwi fertility rate."
+      },
+      {
+        "title": "Dunedin Mayor On Her Council’s Decision To Split Otago In Two",
+        "url": "https://www.youtube.com/watch?v=UOeNZUoAwJQ",
+        "date_utc": "2026-08-04T02:36:37+00:00",
+        "summary": "Dunedin Mayor Sophie Barker on her council’s decision to split Otago in two"
+      },
+      {
+        "title": "David Farrar On The Palpable Bias With MSM Coverage Of The Campaign",
+        "url": "https://www.youtube.com/watch?v=u9pUaxC-mrs",
+        "date_utc": "2026-08-04T02:30:40+00:00",
+        "summary": "Pollster David Farrar on the palpable bias with MSM coverage of the campaign, and ‘Bomber’ Bradbury’s problem with offensive postings"
+      },
+      {
+        "title": "Why is former Labour PM Helen Clark the MSM default commenter on everything?",
+        "url": "https://www.youtube.com/watch?v=YvnRWQdMO1g",
+        "date_utc": "2026-08-04T02:16:41+00:00",
+        "summary": "Why is former Labour PM Helen Clark the MSM default commenter on everything?"
+      },
+      {
+        "title": "ML Breaks Down Green MP Tamatha Paul & Her Attack On English",
+        "url": "https://www.youtube.com/watch?v=kB-lTsFwnuM",
+        "date_utc": "2026-08-04T02:07:03+00:00",
+        "summary": "ML breaks down Green MP Tamatha Paul and her attack on the English language (and reminds her who created the Maori written language)"
+      },
+      {
+        "title": "The College Of Clinical Psychologists Restriction On Free Speech",
+        "url": "https://www.youtube.com/watch?v=EX6lhIRvv4g",
+        "date_utc": "2026-08-04T01:04:09+00:00",
+        "summary": "Jillaine Heather on the College of Clinical Psychologists restriction on Free Speech."
+      },
+      {
+        "title": "Sean Plunket Reacts To Chris Luxon’s Apology To Small Businesses",
+        "url": "https://www.youtube.com/watch?v=Bg5jRPPCxr0",
+        "date_utc": "2026-08-04T00:47:42+00:00",
+        "summary": "Sean Plunket reacts to Chris Luxon’s apology to small businesses."
+      },
+      {
+        "title": "Troy Bowker Breaks Down Labour’s Capital Gains Tax",
+        "url": "https://www.youtube.com/watch?v=iGPmt-cgRT0",
+        "date_utc": "2026-08-04T00:03:11+00:00",
+        "summary": "Troy Bowker breaks down Labour’s capital gains tax."
+      },
       {
         "title": "If you Upset The Mayor, Police Arrive",
         "url": "https://www.youtube.com/watch?v=-Z9NqdJMIKM",
@@ -254,60 +308,6 @@
         "url": "https://www.youtube.com/watch?v=QDTEbMl1mWI",
         "date_utc": "2026-08-03T02:41:58+00:00",
         "summary": "Southland loves data centres, says the Chamber of Commerce’s Sheree Carey."
-      },
-      {
-        "title": "Is AI A “Thinking Threat” And Will ACT’s Classroom” Policy Work?",
-        "url": "https://www.youtube.com/watch?v=McX2geDs-yk",
-        "date_utc": "2026-08-03T01:45:45+00:00",
-        "summary": "Is AI a “thinking threat” and will ACT’s “no shits in the classroom” policy work? Rangitoto principal Greg Thornton explains."
-      },
-      {
-        "title": "Sean Plunket Reacts To Tamatha Paul’s English Language Outrage",
-        "url": "https://www.youtube.com/watch?v=6-L1u2fBdag",
-        "date_utc": "2026-08-03T01:24:14+00:00",
-        "summary": "Sean Plunket reacts to Tamatha Paul’s English language outrage."
-      },
-      {
-        "title": "Ron Mark Returns To Politics With NZ First",
-        "url": "https://www.youtube.com/watch?v=syJvJAP1r3I",
-        "date_utc": "2026-08-03T00:51:55+00:00",
-        "summary": "Ron Mark returns to politics with NZ First."
-      },
-      {
-        "title": "Chris Trotter Talks NZ First’s Latest Rally, Opportunity Party & More!",
-        "url": "https://www.youtube.com/watch?v=fBQs5S8B1yE",
-        "date_utc": "2026-08-03T00:20:15+00:00",
-        "summary": "Chris Trotter talks NZ First’s latest rally, Opportunity Party and more!"
-      },
-      {
-        "title": "Candace Kinser Takes On Chloe Swarbrick For Auckland Central",
-        "url": "https://www.youtube.com/watch?v=aHxEtolgmJc",
-        "date_utc": "2026-08-03T00:07:28+00:00",
-        "summary": "Candace Kinser takes on Chloe Swarbrick for Auckland Central"
-      },
-      {
-        "title": "Latest Figures Show Pensioners Hit Hardest By Rising Living Costs",
-        "url": "https://www.youtube.com/watch?v=uVUXVQ030lk",
-        "date_utc": "2026-07-31T03:35:24+00:00",
-        "summary": "Karen Billings-Jensen, Chief Executive of Age Concern on how pensioners have been hit the hardest by rising living costs."
-      },
-      {
-        "title": "SPCA Reaction To The Cancellation Of The Fireworks Ban",
-        "url": "https://www.youtube.com/watch?v=4CVALeU5dQM",
-        "date_utc": "2026-07-31T03:16:34+00:00",
-        "summary": "Dr Arnja Dale, Chief SPCA Scientific Officer on their reaction to the cancellation of the fireworks ban."
-      },
-      {
-        "title": "Court Case For Not Allowing A Trans Man At A Women's-Only Class",
-        "url": "https://www.youtube.com/watch?v=ua6y14Fi_8I",
-        "date_utc": "2026-07-31T02:42:27+00:00",
-        "summary": "Nomes Witney, Owner of 'Queens of Pole' studio on the Gold Coast on her court case for not allowing a trans man at a women's-only class."
-      },
-      {
-        "title": "Rob Beard Talks New Products For The Friday Fry Up",
-        "url": "https://www.youtube.com/watch?v=G8CF4wEeTFs",
-        "date_utc": "2026-07-31T00:44:28+00:00",
-        "summary": "Rob Beard talks new products for the Friday Fry Up."
       }
     ],
     "opinions": [
