@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-04T13:06:31Z",
+  "generated_utc": "2026-08-05T12:59:36Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -94,37 +94,85 @@
         "summary": "by Rachel Stewart If one more politician, activist, media wallah, […]"
       },
       {
-        "title": "THE WILMS REPORT: With Tim Wilms: Victoria Upheaval Puts Labor Under Pressure",
-        "url": "https://realitycheck.radio/episodes/the-wilms-report-with-tim-wilms-victoria-upheaval-puts-labor-under-pressure/",
-        "date_utc": "2026-08-04T02:35:35Z",
+        "title": "DAVID SEYMOUR: Under 16 Social Media Ban: Protecting Kids or Punishing Adults?",
+        "url": "https://realitycheck.radio/episodes/david-seymour-under-16-social-media-ban-protecting-kids-or-punishing-adults/",
+        "date_utc": "2026-08-05T03:36:09Z",
         "summary": ""
       },
       {
-        "title": "RURAL REPORT: Apple Robotics, Property Rights and Methane",
-        "url": "https://realitycheck.radio/episodes/rural-report-apple-robotics-property-rights-and-methane/",
-        "date_utc": "2026-08-04T00:35:49Z",
+        "title": "DAVID SEYMOUR: NZ’s $1 Billion Oil Survey: Who Pays If Investors Won’t Drill?",
+        "url": "https://realitycheck.radio/episodes/david-seymour-nzs-1-billion-oil-survey-who-pays-if-investors-wont-drill/",
+        "date_utc": "2026-08-05T03:34:48Z",
         "summary": ""
       },
       {
-        "title": "PAUL’S MAILBAG: Iran, Propaganda, Local Action & Remembering Susan",
-        "url": "https://realitycheck.radio/episodes/pauls-mailbag-iran-propaganda-local-action-remembering-susan/",
-        "date_utc": "2026-08-04T00:31:00Z",
+        "title": "DAVID SEYMOUR: Pauline Hanson’s Rise: Lessons for NZ’s Centre-Right?",
+        "url": "https://realitycheck.radio/episodes/david-seymour-pauline-hansons-rise-lessons-for-nzs-centre-right/",
+        "date_utc": "2026-08-05T03:33:00Z",
         "summary": ""
       },
       {
-        "title": "TECH TUESDAY: With Steven Sykes: When Technology Knows Too Much",
-        "url": "https://realitycheck.radio/episodes/tech-tuesday-with-steven-sykes-when-technology-knows-too-much/",
-        "date_utc": "2026-08-04T00:21:38Z",
+        "title": "DAVID SEYMOUR: NZ Coalition Chaos: One Minister, One Budget, One Answer?",
+        "url": "https://realitycheck.radio/episodes/david-seymour-nz-coalition-chaos-one-minister-one-budget-one-answer/",
+        "date_utc": "2026-08-05T03:31:14Z",
         "summary": ""
       },
       {
-        "title": "PENNY MARIE: Parental Apathy: Who’s Really Deciding What Your Kids Learn?",
-        "url": "https://realitycheck.radio/episodes/penny-marie-parental-apathy-whos-really-deciding-what-your-kids-learn/",
-        "date_utc": "2026-08-03T21:53:44Z",
+        "title": "GREENWASHED: Why Council Amalgamation Won’t Fix Local Government",
+        "url": "https://realitycheck.radio/episodes/greenwashed-why-council-amalgamation-wont-fix-local-government/",
+        "date_utc": "2026-08-05T02:15:26Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "David Seymour defends the India Free Trade Agreement.",
+        "url": "https://www.youtube.com/watch?v=Qaq4wYXjJd8",
+        "date_utc": "2026-08-05T08:58:06+00:00",
+        "summary": "“We’ve got sheep meat, honey, wine, technology… there’s so much opportunity. And we get to sell all these things to them, instead of being beholden to China. That’s the real story that may have been missed here. And then you’ve had all this stuff about immigration. The reality is that if you add up all the visas that are allowed for Indian nationals under this Agreement, they add up to 6% of the number of visas that were issued to Indian nationals last year anyway”. RCR’s Tane Webster spoke with Deputy Prime Minister and ACT Leader David Seymour."
+      },
+      {
+        "title": "Imagine the politician... you distrust the most.",
+        "url": "https://www.youtube.com/shorts/OkBaXiEB8Xo",
+        "date_utc": "2026-08-05T07:57:09+00:00",
+        "summary": "📩 RCR Daily Bites: www.biteme.news How much power is too much power? We've all heard it: \"I've got nothing to hide.\" Perhaps the better question is: Who will eventually hold the power? Governments change. The powers they create often don't. What do you think?"
+      },
+      {
+        "title": "That adds by one estimate almost $80 to the average power bill.",
+        "url": "https://www.youtube.com/shorts/CpfqMctF00k",
+        "date_utc": "2026-08-05T07:01:13+00:00",
+        "summary": "\"That adds by one estimate almost $80 to the average power bill.\" - Simon Angelo, Wealth Morning Editor New Zealand households are paying more for power, but is the Emissions Trading Scheme delivering enough benefit to justify the cost? 🎥 Watch here: https://rcr.media/episodes/money-talks-with-simon-angelo-energy-bets-and-the-price-of-bad-incentives #RCRMedia #MoneyTalks"
+      },
+      {
+        "title": "I feel that we need more MPs who have lived in the real world, who've worked hard on the ground.",
+        "url": "https://www.youtube.com/shorts/DqQ-3UTRwMw",
+        "date_utc": "2026-08-05T06:01:13+00:00",
+        "summary": "\"I feel that we need more MPs who have lived in the real world, who've worked hard on the ground.\" - Elizabeth Mundt, Selwyn District Councillor & NZ First Candidate Should more MPs come from local government and real-world experience rather than career politics? 🎥 Watch here: https://rcr.media/episodes/elizabeth-mundt-selwyn-district-councillor-nz-first-candidate-selwyns-fight-to-keep-local-control #RCRMedia"
+      },
+      {
+        "title": "If oil companies thought we had oil, they'd be knocking on our door because it's so damn valuable",
+        "url": "https://www.youtube.com/shorts/mSrR_T8uc9A",
+        "date_utc": "2026-08-05T04:30:49+00:00",
+        "summary": "\"If oil companies thought we had oil, they'd be knocking on our door because it's so damn valuable.\" - Lester Bryant, Former Energy Industry Insider How confident are you that New Zealand still has major untapped offshore oil and gas reserves? 🎥 Watch here: https://rcr.media/episodes/lester-bryant-former-energy-industry-insider-energy-security-or-expensive-distraction #RCRMedia"
+      },
+      {
+        "title": "This is just economically not suitable and not feasible for a war of attrition or for a long war.",
+        "url": "https://www.youtube.com/shorts/fnYnHzvcRJM",
+        "date_utc": "2026-08-05T00:01:59+00:00",
+        "summary": "\"This is just economically not suitable and not feasible for a war of attrition or for a long war.\" Freddie Ponton - Global Affairs Associate Editor 21st Century Wire Is the USA discovering that a prolonged conflict with Iran could become a war of resources it cannot sustain? 🎥 Watch here: https://rcr.media/episodes/freddie-ponton-21st-century-wire-associate-editor-battle-for-the-global-south #RCRMedia"
+      },
+      {
+        "title": "We don't want them to use us as the cash cow because we're the fastest growing in the country",
+        "url": "https://www.youtube.com/shorts/XVhJBMDf1Mk",
+        "date_utc": "2026-08-04T20:01:56+00:00",
+        "summary": "\"We don't want them to use us as the cash cow because we're the fastest growing in the country.\" - Elizabeth Mundt, Selwyn District Councillor & NZ First Candidate Should financially responsible districts be expected to help carry the debt of neighbouring councils? 🎥 Watch here: https://rcr.media/episodes/elizabeth-mundt-selwyn-district-councillor-nz-first-candidate-selwyns-fight-to-keep-local-control #RCRMedia"
+      },
+      {
+        "title": "The consultants make heaps out of it, and our ratepayers lose.",
+        "url": "https://www.youtube.com/shorts/cFK2N_FOL2s",
+        "date_utc": "2026-08-04T19:03:53+00:00",
+        "summary": "\"The consultants make heaps out of it, and our ratepayers lose.\" - Rob Scott, Mayor of Southland District Council Do major government reforms create too much work for consultants and too little value for taxpayers? 🎥 Watch here: https://rcr.media/episodes/rob-scott-mayor-of-southland-district-council-southlands-stand-against-central-control #RCRMedia"
+      },
       {
         "title": "Look, if suddenly there was a heterosexual Pride parade going down the street and they were all...",
         "url": "https://www.youtube.com/shorts/Sscx1X5-P3k",
@@ -166,59 +214,65 @@
         "url": "https://www.youtube.com/shorts/LlDeYRFn9kA",
         "date_utc": "2026-08-02T20:01:21+00:00",
         "summary": "\"This, too is an example of ideology rubbing head first balls-out with reality.\" - Maree Buscke When ideology meets reality, which one usually wins? Rachel Stewart and Maree Buscke discuss on this episode of Both Barrels. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-has-pride-lost-its-purpose #RCRMedia #BothBarrels"
-      },
-      {
-        "title": "You're paying once in your rates for them to fight you, and then you're having to hire someone...",
-        "url": "https://www.youtube.com/shorts/gxkNau1Zt8k",
-        "date_utc": "2026-08-02T19:01:39+00:00",
-        "summary": "\"You're paying once in your rates for them to fight you, and then you're having to hire someone again to fight them.\" - Erika Harvey - Public Affairs Director - Lobby For Good Do ratepayers deserve greater protections when challenging decisions made by their own councils? 🎥 Watch here: https://rcr.media/episodes/erika-harvey-public-affairs-director-at-lobby-for-good-ownership-questions-mount-over-tauranga-marine-precinct-deal #RCRMedia"
-      },
-      {
-        "title": "Most legal firms will not take on a government agency because it's like career suicide.",
-        "url": "https://www.youtube.com/shorts/KuUoaKTer0I",
-        "date_utc": "2026-08-02T07:01:13+00:00",
-        "summary": "\"Most legal firms will not take on a government agency because it's like career suicide.\" - Erika Harvey - Public Affairs Director - Lobby For Good Should there be stronger protections for citizens taking legal action against publicly funded organisations? 🎥 Watch here: https://rcr.media/episodes/erika-harvey-public-affairs-director-at-lobby-for-good-ownership-questions-mount-over-tauranga-marine-precinct-deal #RCRMedia"
-      },
-      {
-        "title": "What I'm seeing is so much more revolting stuff.",
-        "url": "https://www.youtube.com/shorts/0MzKZWOKZI4",
-        "date_utc": "2026-08-02T06:00:45+00:00",
-        "summary": "\"What I'm seeing is so much more revolting stuff.\" - Rachel Stewart, Writer & Commentator Rachel Stewart says she has watched Pride evolve over decades and believes some aspects have crossed a line. Is this a conversation more people need to be willing to have? Rachel Stewart and Maree Buscke discuss on this episode of Both Barrels. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-has-pride-lost-its-purpose #RCRMedia #BothBarrels"
-      },
-      {
-        "title": "Sometimes bigger isn't always better.",
-        "url": "https://www.youtube.com/shorts/IFn6ayJsu6o",
-        "date_utc": "2026-08-01T20:01:34+00:00",
-        "summary": "\"Sometimes bigger isn't always better.\" - Te Kira Lawrence, Napier City Councillor & NZ First Candidate Would a Hawke's Bay Super Council improve local government, or would it leave smaller communities with less of a voice? 🎥 Watch here: https://rcr.media/episodes/te-kira-lawrence-napier-city-councillor-nz-first-candidate-the-push-for-a-hawkes-bay-super-council #RCRMedia"
-      },
-      {
-        "title": "For a system to work, it must be defendable and credible in the court of law as being fair.",
-        "url": "https://www.youtube.com/shorts/PtUwLXbFej4",
-        "date_utc": "2026-08-01T19:01:45+00:00",
-        "summary": "\"For a system to work, it must be defendable and credible in the court of law as being fair.\" - Winston Peters - Foreign Minister and NZ First Party Leader How much transparency should the Government provide before introducing compulsory roadside drug testing? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-energy-immigration-road-side-drug-testing #RCRMedia"
-      },
-      {
-        "title": "What is ACT’s position on the under-16 social media Bill?",
-        "url": "https://www.youtube.com/watch?v=4OkdrKritPU",
-        "date_utc": "2026-08-01T07:50:43+00:00",
-        "summary": "“We’re against it. If you make it strong enough to stop motivated teenagers, then you’re probably going to make it strong enough that you take away adults privacy and freedom. I think it’s worth considering whether we should say smartphones (not dumb phones) are as harmful to kids as vaping, smoking or drinking”. RCR’s Tane Webster spoke with Deputy Prime Minister and ACT Leader David Seymour."
-      },
-      {
-        "title": "My greatest fear with all of this bird flu stuff is that we're going to see industries like our...",
-        "url": "https://www.youtube.com/shorts/wz-KBFaQ2NU",
-        "date_utc": "2026-08-01T07:01:20+00:00",
-        "summary": "\"My greatest fear with all of this bird flu stuff is that we're going to see industries like our poultry industry... that actually could be taken away or you'd see that skyrocket.\" - Maree Buscke Could an overreaction to bird flu end up doing more damage to New Zealand's food supply than the virus itself? 🎥 Watch here: https://rcr.media/episodes/the-fourth-estate-when-the-newsroom-becomes-the-news #RCRMedia #TheFourthEstate"
-      },
-      {
-        "title": "We should bring people here who we need, not who need us.",
-        "url": "https://www.youtube.com/shorts/mFynn2iD70M",
-        "date_utc": "2026-08-01T06:00:53+00:00",
-        "summary": "\"We should bring people here who we need, not who need us.\" - Winston Peters - Foreign Minister and NZ First Party Leader What should be the primary goal of New Zealand's immigration policy - filling skill shortages, growing the population, boosting the economy, or something else? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-energy-immigration-road-side-drug-testing #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Wild Deer Costing Hawke's Bay Farmers Tens Of Thousands Of Dollars",
+        "url": "https://www.youtube.com/watch?v=fOWFvS1B2E0",
+        "date_utc": "2026-08-05T06:01:05+00:00",
+        "summary": "Peter MacIntyre, Primary Sector Economist on wild deer costing Hawke's Bay farmers tens of thousands of dollars"
+      },
+      {
+        "title": "The Electricity Market Is Broken - And Here’s Why.",
+        "url": "https://www.youtube.com/watch?v=nIzHDBXN7m4",
+        "date_utc": "2026-08-05T05:35:52+00:00",
+        "summary": "The electricity market is broken - and here’s why. Barney Irvine, CEO of the Northern Infrastructure Forum"
+      },
+      {
+        "title": "Christine Rankin on Winston Peters, Cash For Kids, Citizen’s Arrest",
+        "url": "https://www.youtube.com/watch?v=YH1DZgxYuKU",
+        "date_utc": "2026-08-05T05:34:45+00:00",
+        "summary": "Christine Rankin, CEO of Taupo Hospice on Winston Peters, cash for kids, citizen’s arrest, pie awards and more."
+      },
+      {
+        "title": "NZ Manufacturer On The Economic Policies Of Labour & National",
+        "url": "https://www.youtube.com/watch?v=aZnwjeCWnAs",
+        "date_utc": "2026-08-05T03:05:32+00:00",
+        "summary": "Outstanding NZ manufacturer Chris’s Barrett (Steelworx) on the “dumb and dumber” economic policies of Labour and National"
+      },
+      {
+        "title": "Telling Someone To “Go Back Home” Has A Long Past - & It Isn’t Racist",
+        "url": "https://www.youtube.com/watch?v=4WvtlRV_cEI",
+        "date_utc": "2026-08-05T02:41:02+00:00",
+        "summary": "Telling someone to “go back home” has a long past - and it isn’t racist"
+      },
+      {
+        "title": "Migrant Worker Assoc Rep Defends Winston Peters Guillotine Stunt",
+        "url": "https://www.youtube.com/watch?v=fO7snrtz5k8",
+        "date_utc": "2026-08-05T00:44:19+00:00",
+        "summary": "Migrant Worker Association Representative, Anu Kaloti defends Winston Peters guillotine stunt."
+      },
+      {
+        "title": "Property Investors: Is Your Rental Still Worth It? – YMM",
+        "url": "https://www.youtube.com/watch?v=GeyXk533WYE",
+        "date_utc": "2026-08-05T00:34:03+00:00",
+        "summary": "Your Money Matters with Harness Financial Episode 55 - Property Investors: Is Your Rental Still Worth It? Make smart decisions for your financial future with Samuel Rees-Thomas and Dieter Timmerman from Harness Financial. Find out more at https://www.harnessfinancial.co.nz/"
+      },
+      {
+        "title": "Winston Peters On The Multitude Of Headlines About Him This Week",
+        "url": "https://www.youtube.com/watch?v=8SEzpWOw6zI",
+        "date_utc": "2026-08-04T23:29:20+00:00",
+        "summary": "Winston Peters on the multitude of headlines about him this week."
+      },
+      {
+        "title": "Molesworth Station Is To Be Managed By Ngai Tahu Interests",
+        "url": "https://www.youtube.com/watch?v=HQbwSHO-HB8",
+        "date_utc": "2026-08-04T22:38:33+00:00",
+        "summary": "Molesworth Station is to be managed by Ngai Tahu interests - manager Jim Ward regrets the decision"
+      },
       {
         "title": "Grey Power NZ Wins A Two-Year Battle Over Cognitive Driver Testing",
         "url": "https://www.youtube.com/watch?v=PO4RG6jgefw",
@@ -254,60 +308,6 @@
         "url": "https://www.youtube.com/watch?v=kB-lTsFwnuM",
         "date_utc": "2026-08-04T02:07:03+00:00",
         "summary": "ML breaks down Green MP Tamatha Paul and her attack on the English language (and reminds her who created the Maori written language)"
-      },
-      {
-        "title": "The College Of Clinical Psychologists Restriction On Free Speech",
-        "url": "https://www.youtube.com/watch?v=EX6lhIRvv4g",
-        "date_utc": "2026-08-04T01:04:09+00:00",
-        "summary": "Jillaine Heather on the College of Clinical Psychologists restriction on Free Speech."
-      },
-      {
-        "title": "Sean Plunket Reacts To Chris Luxon’s Apology To Small Businesses",
-        "url": "https://www.youtube.com/watch?v=Bg5jRPPCxr0",
-        "date_utc": "2026-08-04T00:47:42+00:00",
-        "summary": "Sean Plunket reacts to Chris Luxon’s apology to small businesses."
-      },
-      {
-        "title": "Troy Bowker Breaks Down Labour’s Capital Gains Tax",
-        "url": "https://www.youtube.com/watch?v=iGPmt-cgRT0",
-        "date_utc": "2026-08-04T00:03:11+00:00",
-        "summary": "Troy Bowker breaks down Labour’s capital gains tax."
-      },
-      {
-        "title": "If you Upset The Mayor, Police Arrive",
-        "url": "https://www.youtube.com/watch?v=-Z9NqdJMIKM",
-        "date_utc": "2026-08-03T09:50:16+00:00",
-        "summary": "If you upset the Mayor, the Police arrive: the curious case of Mayor Peri Zee and Paul Fabian."
-      },
-      {
-        "title": "Right To Repair Rules Kick In Around The EU, Why Is NZ Still Behind?",
-        "url": "https://www.youtube.com/watch?v=incyWkMzA5Y",
-        "date_utc": "2026-08-03T05:29:45+00:00",
-        "summary": "Dr Paul Smith, Right to Repair Aotearoa Coalition - As the Right to Repair rules kick in around the EU, why is NZ still behind?"
-      },
-      {
-        "title": "Rising Shop Violence Demands Stronger Penalties",
-        "url": "https://www.youtube.com/watch?v=SQjbIfx20Ko",
-        "date_utc": "2026-08-03T04:53:11+00:00",
-        "summary": "Carolyn Young, CEO of Retail NZ - Rising shop violence demands stronger penalties."
-      },
-      {
-        "title": "Paul Henry On The Unveiling ACT's New School Discipline Plan",
-        "url": "https://www.youtube.com/watch?v=vTAcnu6-odY",
-        "date_utc": "2026-08-03T04:31:59+00:00",
-        "summary": "Paul Henry, ACT candidate on the unveiling ACT's new school discipline plan."
-      },
-      {
-        "title": "NZ’s Justice System Fails Us Again",
-        "url": "https://www.youtube.com/watch?v=je8VXlLgCQ0",
-        "date_utc": "2026-08-03T03:50:06+00:00",
-        "summary": "NZ’s justice system fails us again - Judge Kim Saunders fails a 5 year old sexual assault victim"
-      },
-      {
-        "title": "Southland loves Data Centres, Says The Chamber Of Commerce",
-        "url": "https://www.youtube.com/watch?v=QDTEbMl1mWI",
-        "date_utc": "2026-08-03T02:41:58+00:00",
-        "summary": "Southland loves data centres, says the Chamber of Commerce’s Sheree Carey."
       }
     ],
     "opinions": [
