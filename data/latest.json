@@ -1,13 +1,31 @@
 {
-  "generated_utc": "2026-08-05T12:59:36Z",
+  "generated_utc": "2026-08-06T13:00:48Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Let’s Bring Back The ‘Move-On’ Laws From Henry VIII",
+        "url": "https://realitycheck.radio/lets-bring-back-the-move-on-laws-from-henry-viii/",
+        "date_utc": "2026-08-05T23:53:31Z",
+        "summary": "by Nathan Smith The government’s revamped Move-On powers have already […]"
+      },
+      {
+        "title": "Who can be a racist?",
+        "url": "https://realitycheck.radio/who-can-be-a-racist/",
+        "date_utc": "2026-08-04T23:43:28Z",
+        "summary": "by Peter Williams In my not entirely successful career as […]"
+      },
       {
         "title": "Politicians: Stuck in scientific purgatory in election year",
         "url": "https://realitycheck.radio/politicians-stuck-in-scientific-purgatory-in-election-year/",
         "date_utc": "2026-08-04T00:47:14Z",
         "summary": "by J. R. Bruning With a general election scheduled for […]"
+      },
+      {
+        "title": "Removing the little sh*ts",
+        "url": "https://realitycheck.radio/removing-the-little-shts/",
+        "date_utc": "2026-08-03T23:40:46Z",
+        "summary": "by Peter Williams Paul Henry always had a knack for […]"
       },
       {
         "title": "Smart Prisons: The Glass Cave in the Digital Age",
@@ -16,16 +34,34 @@
         "summary": "by Diego Fusaro “The presently existing society is the only […]"
       },
       {
+        "title": "The Winning Warriors",
+        "url": "https://realitycheck.radio/the-winning-warriors/",
+        "date_utc": "2026-08-02T23:38:14Z",
+        "summary": "by Peter Williams I did something on Saturday I’ve never […]"
+      },
+      {
         "title": "The Private Text That Triggered the Outrage Machine",
         "url": "https://realitycheck.radio/the-private-text-that-triggered-the-outrage-machine/",
         "date_utc": "2026-08-02T00:39:11Z",
         "summary": "by Rodney Hide Is it too soon to declare the […]"
       },
       {
+        "title": "Reform Update",
+        "url": "https://realitycheck.radio/reform-update/",
+        "date_utc": "2026-08-01T23:46:15Z",
+        "summary": "by Dr Muriel Newman The Coalition’s proposed shakeup of local […]"
+      },
+      {
         "title": "Australian workers produce in 39 minutes what a New Zealand worker produces in an hour",
         "url": "https://realitycheck.radio/australian-workers-produce-in-39-minutes-what-a-new-zealand-worker-produces-in-an-hour/",
         "date_utc": "2026-08-01T00:35:25Z",
         "summary": "by Dr Oliver Hartwich A fortnight ago, I wrote about […]"
+      },
+      {
+        "title": "Stop the madness",
+        "url": "https://realitycheck.radio/stop-the-madness/",
+        "date_utc": "2026-07-31T23:23:22Z",
+        "summary": "by Peter Williams From the wilds of Central Otago I […]"
       },
       {
         "title": "Riding Shotgun – ep 55: We need to talk about the NZ Free Speech Union",
@@ -58,84 +94,72 @@
         "summary": "by Peter Williams The great irony of Christopher Luxon ruling […]"
       },
       {
-        "title": "Climate Scenarios are Exactly that – Scenarios…not Planning Tools",
-        "url": "https://realitycheck.radio/climate-scenarios-are-exactly-that-scenariosnot-planning-tools/",
-        "date_utc": "2026-07-27T01:37:00Z",
-        "summary": "by Salima Padamsey Climate change planning has become one of […]"
-      },
-      {
-        "title": "Muddled multiculturalism",
-        "url": "https://realitycheck.radio/muddled-multiculturalism/",
-        "date_utc": "2026-07-27T00:19:37Z",
-        "summary": "by Simon O’Connor Multiculturalism has failed. In fact, multiculturalism will – […]"
-      },
-      {
-        "title": "Solar For The Soul Or For The Senses",
-        "url": "https://realitycheck.radio/solar-for-the-soul-or-for-the-senses/",
-        "date_utc": "2026-07-26T03:18:50Z",
-        "summary": "by Kelvin Kemm The Sun has mystified mankind for centuries. […]"
-      },
-      {
-        "title": "Climate Realism",
-        "url": "https://realitycheck.radio/climate-realism/",
-        "date_utc": "2026-07-25T02:45:03Z",
-        "summary": "by Dr Muriel Newman One of the things we’ve learnt […]"
-      },
-      {
-        "title": "Everyone Is A Winner With TOP",
-        "url": "https://realitycheck.radio/everyone-is-a-winner-with-top/",
-        "date_utc": "2026-07-24T03:15:06Z",
-        "summary": "by Oliver Hartwich The Opportunity Party wants to be known […]"
-      },
-      {
-        "title": "Riding Shotgun – ep 54: The Anti-Community Community",
-        "url": "https://realitycheck.radio/riding-shotgun-ep-54-the-anti-community-community/",
-        "date_utc": "2026-07-24T02:42:00Z",
-        "summary": "by Rachel Stewart If one more politician, activist, media wallah, […]"
-      },
-      {
-        "title": "DAVID SEYMOUR: Under 16 Social Media Ban: Protecting Kids or Punishing Adults?",
-        "url": "https://realitycheck.radio/episodes/david-seymour-under-16-social-media-ban-protecting-kids-or-punishing-adults/",
-        "date_utc": "2026-08-05T03:36:09Z",
+        "title": "DR CLARE CRAIG: UK Consultant Pathologist: Questioning Mandatory Folic Acid Fortification",
+        "url": "https://realitycheck.radio/episodes/dr-clare-craig-uk-consultant-pathologist-questioning-mandatory-folic-acid-fortification/",
+        "date_utc": "2026-08-06T01:08:59Z",
         "summary": ""
       },
       {
-        "title": "DAVID SEYMOUR: NZ’s $1 Billion Oil Survey: Who Pays If Investors Won’t Drill?",
-        "url": "https://realitycheck.radio/episodes/david-seymour-nzs-1-billion-oil-survey-who-pays-if-investors-wont-drill/",
-        "date_utc": "2026-08-05T03:34:48Z",
+        "title": "WEDNESDAY WEBINARS: Lifestyle: Spring Planting",
+        "url": "https://realitycheck.radio/episodes/wednesday-webinars-lifestyle-spring-planting/",
+        "date_utc": "2026-08-05T22:43:25Z",
         "summary": ""
       },
       {
-        "title": "DAVID SEYMOUR: Pauline Hanson’s Rise: Lessons for NZ’s Centre-Right?",
-        "url": "https://realitycheck.radio/episodes/david-seymour-pauline-hansons-rise-lessons-for-nzs-centre-right/",
-        "date_utc": "2026-08-05T03:33:00Z",
+        "title": "DAVID SEYMOUR: NZ-India Free Trade Deal: Did NZ Give Away Too Much?",
+        "url": "https://realitycheck.radio/episodes/david-seymour-nz-india-free-trade-deal-did-nz-give-away-too-much/",
+        "date_utc": "2026-08-05T22:36:14Z",
         "summary": ""
       },
       {
-        "title": "DAVID SEYMOUR: NZ Coalition Chaos: One Minister, One Budget, One Answer?",
-        "url": "https://realitycheck.radio/episodes/david-seymour-nz-coalition-chaos-one-minister-one-budget-one-answer/",
-        "date_utc": "2026-08-05T03:31:14Z",
+        "title": "TOM DEWEESE: Data Centers Exposed: NDAs, Empty Promises, and Zero Jobs",
+        "url": "https://realitycheck.radio/episodes/tom-deweese-data-centers-exposed-ndas-empty-promises-and-zero-jobs/",
+        "date_utc": "2026-08-05T22:19:06Z",
         "summary": ""
       },
       {
-        "title": "GREENWASHED: Why Council Amalgamation Won’t Fix Local Government",
-        "url": "https://realitycheck.radio/episodes/greenwashed-why-council-amalgamation-wont-fix-local-government/",
-        "date_utc": "2026-08-05T02:15:26Z",
+        "title": "TOM DEWEESE: Data Center Backlash: The Noise Pollution Revolt Nobody Saw Coming",
+        "url": "https://realitycheck.radio/episodes/tom-deweese-data-center-backlash-the-noise-pollution-revolt-nobody-saw-coming/",
+        "date_utc": "2026-08-05T22:18:47Z",
         "summary": ""
       }
     ],
     "youtube": [
       {
+        "title": "RCR's Tane Webster interviewed Deputy Prime Minister and ACT leader David Seymour",
+        "url": "https://www.youtube.com/watch?v=oqWNoa1hM18",
+        "date_utc": "2026-08-06T07:02:25+00:00",
+        "summary": "RCR's Tane Webster interviewed Deputy Prime Minister and ACT leader David Seymour on a range of issues including: 👁 Digital ID 🦆 Bird flu 🚗 eRUCs 🖥 Under-16 social media ban 🛢 Oil exploration 💰 India FTA 🦘 Pauline Hanson 🎥 Watch here: https://rcr.media/episodes/david-seymour-nz-politics-uncensored-oil-social-media-bans-trade-deal-truths/"
+      },
+      {
+        "title": "They can have the colour teal and pretend that they're a centrist party all they like...",
+        "url": "https://www.youtube.com/shorts/TKmpnmD9dww",
+        "date_utc": "2026-08-06T06:00:59+00:00",
+        "summary": "\"They can have the colour teal and pretend that they're a centrist party all they like, but they're not.\" - Simon O'Connor, RCR Host & Former NZ Politician Has Christopher Luxon finally closed the door on TOP, or do you think there is still room for a post-election deal? 🎥 Watch here: https://rcr.media/episodes/simon-oconnor-rcr-host-former-nz-politician-inside-the-ideas-shaping-the-wests-culture-wars #RCRMedia"
+      },
+      {
+        "title": "This has really taken away the basic presumption of innocence. So, you're presumed to be guilty...",
+        "url": "https://www.youtube.com/shorts/5N7t6HdPGgk",
+        "date_utc": "2026-08-06T00:01:31+00:00",
+        "summary": "\"This has really taken away the basic presumption of innocence. So, you're presumed to be guilty as soon as you get onto the internet and try and do something basic.\" - Tony Gosling, UK Journalist Do online identity checks protect citizens, or do they create a system where everyone must prove themselves before being trusted? 🎥 Watch here: https://rcr.media/episodes/tony-gosling-uk-journalist-burnhams-britain-change-of-leadership-or-the-same-agenda #RCRMedia"
+      },
+      {
+        "title": "RCR Wednesday Webinars - Lifestyle",
+        "url": "https://www.youtube.com/watch?v=tVV6_bkETBs",
+        "date_utc": "2026-08-05T23:33:46+00:00",
+        "summary": "🌱 Spring Planting with Wally Richards & Rodney Hide 🌱 Spring is just around the corner, and now is the time to get your garden ready for the season ahead. Join RCR Gardening Guru Wally Richards and host Rodney Hide for this Lifestyle webinar, where Wally will share his practical gardening advice on: 🌱 Growing strong plants from seed. 🌿 Creating productive raised gardens. 🌳 Giving new plants the best start. 🌹 Pruning roses and preparing your garden for spring."
+      },
+      {
+        "title": "India wanted us to surrender some stuff that was very important to us to their advantage in order...",
+        "url": "https://www.youtube.com/shorts/cUXSrrOFJxI",
+        "date_utc": "2026-08-05T19:03:18+00:00",
+        "summary": "\"India wanted us to surrender some stuff that was very important to us to their advantage in order to even start the negotiations.\" - Joshua Riley, Co-Founder of Advocacy Group Sovereign A document obtained through an OIA raises new questions about what New Zealand agreed to before FTA negotiations even began. If this agreement only became public through an OIA request, should New Zealanders be concerned about how trade deals are negotiated? 🎥 Watch here: https://rcr.media/episodes/joshua-riley-co-founder-of-advocacy-group-sovereign-india-fta-the-deal-before-the-deal #RCRMedia"
+      },
+      {
         "title": "David Seymour defends the India Free Trade Agreement.",
         "url": "https://www.youtube.com/watch?v=Qaq4wYXjJd8",
         "date_utc": "2026-08-05T08:58:06+00:00",
         "summary": "“We’ve got sheep meat, honey, wine, technology… there’s so much opportunity. And we get to sell all these things to them, instead of being beholden to China. That’s the real story that may have been missed here. And then you’ve had all this stuff about immigration. The reality is that if you add up all the visas that are allowed for Indian nationals under this Agreement, they add up to 6% of the number of visas that were issued to Indian nationals last year anyway”. RCR’s Tane Webster spoke with Deputy Prime Minister and ACT Leader David Seymour."
-      },
-      {
-        "title": "Imagine the politician... you distrust the most.",
-        "url": "https://www.youtube.com/shorts/OkBaXiEB8Xo",
-        "date_utc": "2026-08-05T07:57:09+00:00",
-        "summary": "📩 RCR Daily Bites: www.biteme.news How much power is too much power? We've all heard it: \"I've got nothing to hide.\" Perhaps the better question is: Who will eventually hold the power? Governments change. The powers they create often don't. What do you think?"
       },
       {
         "title": "That adds by one estimate almost $80 to the average power bill.",
@@ -190,35 +214,77 @@
         "url": "https://www.youtube.com/shorts/iHpYcRqal8k",
         "date_utc": "2026-08-03T20:01:48+00:00",
         "summary": "\"They store it... in old salt mines.\" - Lester Bryant, Former Energy Industry Insider Did you know millions of barrels of strategic oil are stored in underground salt caverns? What surprised you most about how these reserves work? 🎥 Watch here: https://rcr.media/episodes/lester-bryant-former-energy-industry-insider-energy-security-or-expensive-distraction #RCRMedia"
-      },
-      {
-        "title": "Real conversations start with curious people.",
-        "url": "https://www.youtube.com/shorts/fzGGiKRNZ5Q",
-        "date_utc": "2026-08-03T07:15:26+00:00",
-        "summary": "Real conversations start with curious people. Thanks to everyone who's supported RCR and helped us keep asking the questions others won't. If you'd like to help us reach more Kiwis, please share this video. 👉 www.rcr.media"
-      },
-      {
-        "title": "So all of those things inspire me and motivate me.",
-        "url": "https://www.youtube.com/shorts/yTQozaXORaI",
-        "date_utc": "2026-08-03T06:01:24+00:00",
-        "summary": "\"So all of those things inspire me and motivate me.\" - Te Kira Lawrence, Napier City Councillor & NZ First Candidate What motivates someone to leave local government and step into national politics - and what qualities do you think matter most in an MP? 🎥 Watch here: https://rcr.media/episodes/te-kira-lawrence-napier-city-councillor-nz-first-candidate-the-push-for-a-hawkes-bay-super-council #RCRMedia"
-      },
-      {
-        "title": "We have had amnesia in this country for decades. And we're about to be woken out of that slumber.",
-        "url": "https://www.youtube.com/shorts/mXHdPtWdUxQ",
-        "date_utc": "2026-08-03T00:01:25+00:00",
-        "summary": "\"We have had amnesia in this country for decades. And we're about to be woken out of that slumber.\" - Lester Bryant, Former Energy Industry Insider Is New Zealand doing enough now to avoid a future energy crisis, or have we left it too late? 🎥 Watch here: https://rcr.media/episodes/lester-bryant-former-energy-industry-insider-energy-security-or-expensive-distraction #RCRMedia"
-      },
-      {
-        "title": "This, too is an example of ideology rubbing head first balls-out with reality.",
-        "url": "https://www.youtube.com/shorts/LlDeYRFn9kA",
-        "date_utc": "2026-08-02T20:01:21+00:00",
-        "summary": "\"This, too is an example of ideology rubbing head first balls-out with reality.\" - Maree Buscke When ideology meets reality, which one usually wins? Rachel Stewart and Maree Buscke discuss on this episode of Both Barrels. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-has-pride-lost-its-purpose #RCRMedia #BothBarrels"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Oral Health Month & The Adult Dental Waiting List Barely Moving",
+        "url": "https://www.youtube.com/watch?v=KWBFdV8ogwc",
+        "date_utc": "2026-08-06T07:24:31+00:00",
+        "summary": "Dr Robin Whyman, Director of Dental Policy for NZ Dental Association - Oral Health Month and the adult dental waiting list barely moving."
+      },
+      {
+        "title": "Opportunity’s Policy To Raise The Age Of Youth Court Jurisdiction",
+        "url": "https://www.youtube.com/watch?v=BeBo7ybZDsA",
+        "date_utc": "2026-08-06T05:42:08+00:00",
+        "summary": "Louise Parsons, Sensible Sentencing Trust spokesperson on Opportunity’s policy to raise the age of Youth Court jurisdiction."
+      },
+      {
+        "title": "Eectricity Supply In NZ Should Be Regarded As “An Essential Service”",
+        "url": "https://www.youtube.com/watch?v=d0woEzdj8Ck",
+        "date_utc": "2026-08-06T05:28:51+00:00",
+        "summary": "Michael Laws argues that electricity supply in NZ should be regarded as “an essential service”"
+      },
+      {
+        "title": "Failing MSM Business Model -Dr Gavin Ellis & Michael Debate The Issues",
+        "url": "https://www.youtube.com/watch?v=ffAvKgnXgi0",
+        "date_utc": "2026-08-06T04:11:29+00:00",
+        "summary": "Media bias and the failing MSM business model - Dr Gavin Ellis and Michael Laws debate the issues"
+      },
+      {
+        "title": "Pharmac's New Community & Patient Advisory Committee",
+        "url": "https://www.youtube.com/watch?v=Ucnx4YMniPU",
+        "date_utc": "2026-08-06T03:04:38+00:00",
+        "summary": "Malcolm Mulholland, Researcher Development Advisor on Pharmac's new Community and Patient Advisory Committee."
+      },
+      {
+        "title": "Shoplifting & Citizen’s Arrest Powers",
+        "url": "https://www.youtube.com/watch?v=sT3cECQslgE",
+        "date_utc": "2026-08-06T02:01:52+00:00",
+        "summary": "Shoplifting & citizen’s arrest powers - Carolyn Young, CEO of Retail NZ, puts the sector’s views"
+      },
+      {
+        "title": "If You’re Going To Have A MMP Referendum, Where’s The Maori Seats One?",
+        "url": "https://www.youtube.com/watch?v=uO0_6D8YZHw",
+        "date_utc": "2026-08-06T01:48:45+00:00",
+        "summary": "Michael Laws asks: “if you’re going to have a MMP referendum, where’s the Maori seats one?”"
+      },
+      {
+        "title": "Nigel Woodley Takes A Stand Against Free Palestine Party",
+        "url": "https://www.youtube.com/watch?v=4J6slbGRyys",
+        "date_utc": "2026-08-05T23:43:24+00:00",
+        "summary": "Nigel Woodley takes a stand against Free Palestine Party."
+      },
+      {
+        "title": "David Seymour Makes Diabetes Medication Accessible For All",
+        "url": "https://www.youtube.com/watch?v=wVrheaxEJ98",
+        "date_utc": "2026-08-05T23:37:32+00:00",
+        "summary": "David Seymour makes diabetes medication accessible for all."
+      },
+      {
+        "title": "Sir Ian Taylor Wants To Know More About Opportunity",
+        "url": "https://www.youtube.com/watch?v=xh1cEejYhgk",
+        "date_utc": "2026-08-05T23:28:23+00:00",
+        "summary": "Sir Ian Taylor wants to know more about Opportunity."
+      },
+      {
+        "title": "The Māori Seats Must Go - Don Brash On The New Campaign And Petition",
+        "url": "https://www.youtube.com/watch?v=TKVv1ZVHVK0",
+        "date_utc": "2026-08-05T22:11:35+00:00",
+        "summary": "The Māori seats must go - Don Brash on the new campaign and petition"
+      },
       {
         "title": "Wild Deer Costing Hawke's Bay Farmers Tens Of Thousands Of Dollars",
         "url": "https://www.youtube.com/watch?v=fOWFvS1B2E0",
@@ -242,75 +308,15 @@
         "url": "https://www.youtube.com/watch?v=aZnwjeCWnAs",
         "date_utc": "2026-08-05T03:05:32+00:00",
         "summary": "Outstanding NZ manufacturer Chris’s Barrett (Steelworx) on the “dumb and dumber” economic policies of Labour and National"
-      },
-      {
-        "title": "Telling Someone To “Go Back Home” Has A Long Past - & It Isn’t Racist",
-        "url": "https://www.youtube.com/watch?v=4WvtlRV_cEI",
-        "date_utc": "2026-08-05T02:41:02+00:00",
-        "summary": "Telling someone to “go back home” has a long past - and it isn’t racist"
-      },
-      {
-        "title": "Migrant Worker Assoc Rep Defends Winston Peters Guillotine Stunt",
-        "url": "https://www.youtube.com/watch?v=fO7snrtz5k8",
-        "date_utc": "2026-08-05T00:44:19+00:00",
-        "summary": "Migrant Worker Association Representative, Anu Kaloti defends Winston Peters guillotine stunt."
-      },
-      {
-        "title": "Property Investors: Is Your Rental Still Worth It? – YMM",
-        "url": "https://www.youtube.com/watch?v=GeyXk533WYE",
-        "date_utc": "2026-08-05T00:34:03+00:00",
-        "summary": "Your Money Matters with Harness Financial Episode 55 - Property Investors: Is Your Rental Still Worth It? Make smart decisions for your financial future with Samuel Rees-Thomas and Dieter Timmerman from Harness Financial. Find out more at https://www.harnessfinancial.co.nz/"
-      },
-      {
-        "title": "Winston Peters On The Multitude Of Headlines About Him This Week",
-        "url": "https://www.youtube.com/watch?v=8SEzpWOw6zI",
-        "date_utc": "2026-08-04T23:29:20+00:00",
-        "summary": "Winston Peters on the multitude of headlines about him this week."
-      },
-      {
-        "title": "Molesworth Station Is To Be Managed By Ngai Tahu Interests",
-        "url": "https://www.youtube.com/watch?v=HQbwSHO-HB8",
-        "date_utc": "2026-08-04T22:38:33+00:00",
-        "summary": "Molesworth Station is to be managed by Ngai Tahu interests - manager Jim Ward regrets the decision"
-      },
-      {
-        "title": "Grey Power NZ Wins A Two-Year Battle Over Cognitive Driver Testing",
-        "url": "https://www.youtube.com/watch?v=PO4RG6jgefw",
-        "date_utc": "2026-08-04T05:44:07+00:00",
-        "summary": "David Marshall, National President of Grey Power NZ on them winning a two-year battle over cognitive testing of older drivers."
-      },
-      {
-        "title": "Dr Oliver Hartwich On NZ First's Policy About Lifting Kiwi Fertility Rate",
-        "url": "https://www.youtube.com/watch?v=8ECVR-sryoo",
-        "date_utc": "2026-08-04T05:37:58+00:00",
-        "summary": "Dr Oliver Hartwich, Executive Director of The New Zealand Initiative on NZ First's policy about lifting kiwi fertility rate."
-      },
-      {
-        "title": "Dunedin Mayor On Her Council’s Decision To Split Otago In Two",
-        "url": "https://www.youtube.com/watch?v=UOeNZUoAwJQ",
-        "date_utc": "2026-08-04T02:36:37+00:00",
-        "summary": "Dunedin Mayor Sophie Barker on her council’s decision to split Otago in two"
-      },
-      {
-        "title": "David Farrar On The Palpable Bias With MSM Coverage Of The Campaign",
-        "url": "https://www.youtube.com/watch?v=u9pUaxC-mrs",
-        "date_utc": "2026-08-04T02:30:40+00:00",
-        "summary": "Pollster David Farrar on the palpable bias with MSM coverage of the campaign, and ‘Bomber’ Bradbury’s problem with offensive postings"
-      },
-      {
-        "title": "Why is former Labour PM Helen Clark the MSM default commenter on everything?",
-        "url": "https://www.youtube.com/watch?v=YvnRWQdMO1g",
-        "date_utc": "2026-08-04T02:16:41+00:00",
-        "summary": "Why is former Labour PM Helen Clark the MSM default commenter on everything?"
-      },
-      {
-        "title": "ML Breaks Down Green MP Tamatha Paul & Her Attack On English",
-        "url": "https://www.youtube.com/watch?v=kB-lTsFwnuM",
-        "date_utc": "2026-08-04T02:07:03+00:00",
-        "summary": "ML breaks down Green MP Tamatha Paul and her attack on the English language (and reminds her who created the Maori written language)"
       }
     ],
     "opinions": [
+      {
+        "title": "The Opportunity Party A Radical Left Policy Manifesto",
+        "url": "https://theplatform.kiwi/opinions/the-opportunity-party-a-radical-left-policy-manifesto",
+        "date_utc": "2026-08-06",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
       {
         "title": "Labour Capital Gains Tax Is Actually A Tax On Inflation",
         "url": "https://theplatform.kiwi/opinions/labour-capital-gains-tax-is-actually-a-tax-on-inflation",
@@ -375,12 +381,6 @@
         "title": "Lord Cookes Indictment",
         "url": "https://theplatform.kiwi/opinions/lord-cookes-indictment",
         "date_utc": "2026-06-02",
-        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
-      },
-      {
-        "title": "Sherman Tanks",
-        "url": "https://theplatform.kiwi/opinions/sherman-tanks",
-        "date_utc": "2026-05-28",
         "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
       }
     ]
