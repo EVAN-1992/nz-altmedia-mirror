@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-06T13:00:48Z",
+  "generated_utc": "2026-08-07T11:51:10Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,24 @@
     ],
     "youtube": [
       {
+        "title": "The treaty text was hidden... They asked India for the negotiation text, and India refused to...",
+        "url": "https://www.youtube.com/shorts/GFsjyYecDp0",
+        "date_utc": "2026-08-07T06:01:38+00:00",
+        "summary": "\"The treaty text was hidden... They asked India for the negotiation text, and India refused to give it to the Māori Party... and even the Crown.\" - Joshua Riley, Co-Founder of Advocacy Group Sovereign If elected representatives couldn't access the negotiation text, should New Zealanders be concerned about how this trade deal was negotiated? 🎥 Watch here: https://rcr.media/episodes/joshua-riley-co-founder-of-advocacy-group-sovereign-india-fta-the-deal-before-the-deal #RCRMedia"
+      },
+      {
+        "title": "Opt out. I don't want my child attending the classes. I don't get to... I don't need to pick and...",
+        "url": "https://www.youtube.com/shorts/ydNYvAtoEp0",
+        "date_utc": "2026-08-07T00:01:48+00:00",
+        "summary": "\"Opt out. I don't want my child attending the classes. I don't get to... I don't need to pick and choose like a lolly scramble which part of the lessons.\" - Penny Marie, Founder of Let Kids Be Kids NZ Should parents be able to simply opt their children out? 🎥 Watch here: https://rcr.media/episodes/penny-marie-founder-of-let-kids-be-kids-nz-parents-urged-to-look-beyond-curriculum-changes #RCRMedia"
+      },
+      {
+        "title": "We were being told not to speculate on the motivations for the attack... But at the same time...",
+        "url": "https://www.youtube.com/shorts/JTGr73TpyIQ",
+        "date_utc": "2026-08-06T19:04:17+00:00",
+        "summary": "\"We were being told not to speculate on the motivations for the attack... But at the same time... within minutes... they were all opining on the horrors of GB News and the far-right.\" - Simon O'Connor, RCR Host & Former NZ Politician Simon O'Connor questions whether political violence in the UK is being treated consistently depending on who the victim is. Do you think the media applies the same standards to every politically motivated attack? 🎥 Watch here: https://rcr.media/episodes/simon-oconnor-rcr-host-former-nz-politician-inside-the-ideas-shaping-the-wests-culture-wars #RCRMedia"
+      },
+      {
         "title": "RCR's Tane Webster interviewed Deputy Prime Minister and ACT leader David Seymour",
         "url": "https://www.youtube.com/watch?v=oqWNoa1hM18",
         "date_utc": "2026-08-06T07:02:25+00:00",
@@ -196,29 +214,83 @@
         "url": "https://www.youtube.com/shorts/cFK2N_FOL2s",
         "date_utc": "2026-08-04T19:03:53+00:00",
         "summary": "\"The consultants make heaps out of it, and our ratepayers lose.\" - Rob Scott, Mayor of Southland District Council Do major government reforms create too much work for consultants and too little value for taxpayers? 🎥 Watch here: https://rcr.media/episodes/rob-scott-mayor-of-southland-district-council-southlands-stand-against-central-control #RCRMedia"
-      },
-      {
-        "title": "Look, if suddenly there was a heterosexual Pride parade going down the street and they were all...",
-        "url": "https://www.youtube.com/shorts/Sscx1X5-P3k",
-        "date_utc": "2026-08-04T07:01:44+00:00",
-        "summary": "\"Look, if suddenly there was a heterosexual Pride parade going down the street and they were all... men and women were thrusting away and wearing weird stuff and it was all sexualised. You just wouldn't do it. It's no different. It's no different. And if gay people wanted to ever be just blend into the world, this is not the way to do it. This is the worst way to do it.\" - Rachel Stewart, Writer & Commentator Has society adopted a double standard when it comes to public displays of sexuality? Rachel Stewart and Maree Buscke discuss on this episode of Both Barrels. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-has-pride-lost-its-purpose #RCRMedia #BothBarrels"
-      },
-      {
-        "title": "The Queenstown roundabout is costing more than double our three year roading programme.",
-        "url": "https://www.youtube.com/shorts/GKHeArQEH6Y",
-        "date_utc": "2026-08-04T06:01:12+00:00",
-        "summary": "\"The Queenstown roundabout is costing more than double our three year roading programme.\" - Rob Scott, Mayor of Southland District Council Should more infrastructure funding be managed by local councils instead of central government agencies? 🎥 Watch here: https://rcr.media/episodes/rob-scott-mayor-of-southland-district-council-southlands-stand-against-central-control #RCRMedia"
-      },
-      {
-        "title": "They store it... in old salt mines.",
-        "url": "https://www.youtube.com/shorts/iHpYcRqal8k",
-        "date_utc": "2026-08-03T20:01:48+00:00",
-        "summary": "\"They store it... in old salt mines.\" - Lester Bryant, Former Energy Industry Insider Did you know millions of barrels of strategic oil are stored in underground salt caverns? What surprised you most about how these reserves work? 🎥 Watch here: https://rcr.media/episodes/lester-bryant-former-energy-industry-insider-energy-security-or-expensive-distraction #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Building Code Gap Means No Airtightness Standard For NZ Homes",
+        "url": "https://www.youtube.com/watch?v=JDWK8VYvP5s",
+        "date_utc": "2026-08-07T05:36:05+00:00",
+        "summary": "Matthew Cutler, Green Building Council Senior Residential Manager - A gap in the Building Code means NZ homes aren't required to meet airtightness standards."
+      },
+      {
+        "title": "Todd Stephenson On MBIE & Treasury's New Diversity Plans",
+        "url": "https://www.youtube.com/watch?v=_yFREefauN8",
+        "date_utc": "2026-08-07T05:23:46+00:00",
+        "summary": "Todd Stephenson, ACT MP - MBIE and Treasury's new diversity plans only show that they need to focus on delivering services rather than “internal navel gazing”."
+      },
+      {
+        "title": "If We Are Going To Change The Electoral System, Do This",
+        "url": "https://www.youtube.com/watch?v=MJ4MMJCpEIo",
+        "date_utc": "2026-08-07T03:18:20+00:00",
+        "summary": "If we are going to change the electoral system, do this - NZ Initiative’s Nick Clark outlines his solution"
+      },
+      {
+        "title": "Sean Plunket Says Chris Luxon Has Got To Go",
+        "url": "https://www.youtube.com/watch?v=PkGXuGYE7Xk",
+        "date_utc": "2026-08-07T03:13:49+00:00",
+        "summary": "Sean Plunket says Chris Luxon has got to go."
+      },
+      {
+        "title": "If We Are Going To Change The Electoral System, Do This",
+        "url": "https://www.youtube.com/watch?v=gpWHctF8qTE",
+        "date_utc": "2026-08-07T03:00:06+00:00",
+        "summary": "If we are going to change the electoral system, do this - NZ Initiative’s Nick Clark outlines his solution"
+      },
+      {
+        "title": "Tameem Barakat On How The India FTA May Affect Our Kiwifruit Industry",
+        "url": "https://www.youtube.com/watch?v=4mOhmC5n-FY",
+        "date_utc": "2026-08-07T02:50:25+00:00",
+        "summary": "Tameem Barakat on how the India FTA may affect our kiwifruit industry."
+      },
+      {
+        "title": "ML Breaks Down The Opportunity Party Leadership -“They Are Not Normal”",
+        "url": "https://www.youtube.com/watch?v=qn_68hL_-Fs",
+        "date_utc": "2026-08-07T02:46:20+00:00",
+        "summary": "Michael Laws breaks down the Opportunity Party leadership - “they are not normal”."
+      },
+      {
+        "title": "The True History Of How MMP Became Our Electoral System.",
+        "url": "https://www.youtube.com/watch?v=M37Rrdt22mY",
+        "date_utc": "2026-08-07T02:27:12+00:00",
+        "summary": "The true history of how MMP became our electoral system."
+      },
+      {
+        "title": "Sean Gives Out A Grilling For The Friday Fry Up",
+        "url": "https://www.youtube.com/watch?v=Gg4bv_pqQko",
+        "date_utc": "2026-08-07T00:03:54+00:00",
+        "summary": "Sean gives out a grilling for the Friday Fry Up."
+      },
+      {
+        "title": "Free Speech Fridays #168 – Tim Costley & Maurice Williamson",
+        "url": "https://www.youtube.com/watch?v=6WmPi5dmRWk",
+        "date_utc": "2026-08-06T23:58:54+00:00",
+        "summary": "Free Speech Fridays with Tim Costley & Maurice Williamson is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss Chris Luxon’s plans for MMP, accessibility for diabetes drugs, Kiri Allen’s new book, and more."
+      },
+      {
+        "title": "Chris Lynch On PAK’nSAVE Court Case",
+        "url": "https://www.youtube.com/watch?v=QinZ56GFiOw",
+        "date_utc": "2026-08-06T23:48:11+00:00",
+        "summary": "Chris Lynch on PAK’nSAVE court case."
+      },
+      {
+        "title": "Jordan Williams Exposes Corruption In The Ministry Of Justice",
+        "url": "https://www.youtube.com/watch?v=Cq4t-PaufwY",
+        "date_utc": "2026-08-06T23:27:37+00:00",
+        "summary": "Jordan Williams exposes corruption in the Ministry of Justice."
+      },
       {
         "title": "Oral Health Month & The Adult Dental Waiting List Barely Moving",
         "url": "https://www.youtube.com/watch?v=KWBFdV8ogwc",
@@ -236,81 +308,15 @@
         "url": "https://www.youtube.com/watch?v=d0woEzdj8Ck",
         "date_utc": "2026-08-06T05:28:51+00:00",
         "summary": "Michael Laws argues that electricity supply in NZ should be regarded as “an essential service”"
-      },
-      {
-        "title": "Failing MSM Business Model -Dr Gavin Ellis & Michael Debate The Issues",
-        "url": "https://www.youtube.com/watch?v=ffAvKgnXgi0",
-        "date_utc": "2026-08-06T04:11:29+00:00",
-        "summary": "Media bias and the failing MSM business model - Dr Gavin Ellis and Michael Laws debate the issues"
-      },
-      {
-        "title": "Pharmac's New Community & Patient Advisory Committee",
-        "url": "https://www.youtube.com/watch?v=Ucnx4YMniPU",
-        "date_utc": "2026-08-06T03:04:38+00:00",
-        "summary": "Malcolm Mulholland, Researcher Development Advisor on Pharmac's new Community and Patient Advisory Committee."
-      },
-      {
-        "title": "Shoplifting & Citizen’s Arrest Powers",
-        "url": "https://www.youtube.com/watch?v=sT3cECQslgE",
-        "date_utc": "2026-08-06T02:01:52+00:00",
-        "summary": "Shoplifting & citizen’s arrest powers - Carolyn Young, CEO of Retail NZ, puts the sector’s views"
-      },
-      {
-        "title": "If You’re Going To Have A MMP Referendum, Where’s The Maori Seats One?",
-        "url": "https://www.youtube.com/watch?v=uO0_6D8YZHw",
-        "date_utc": "2026-08-06T01:48:45+00:00",
-        "summary": "Michael Laws asks: “if you’re going to have a MMP referendum, where’s the Maori seats one?”"
-      },
-      {
-        "title": "Nigel Woodley Takes A Stand Against Free Palestine Party",
-        "url": "https://www.youtube.com/watch?v=4J6slbGRyys",
-        "date_utc": "2026-08-05T23:43:24+00:00",
-        "summary": "Nigel Woodley takes a stand against Free Palestine Party."
-      },
-      {
-        "title": "David Seymour Makes Diabetes Medication Accessible For All",
-        "url": "https://www.youtube.com/watch?v=wVrheaxEJ98",
-        "date_utc": "2026-08-05T23:37:32+00:00",
-        "summary": "David Seymour makes diabetes medication accessible for all."
-      },
-      {
-        "title": "Sir Ian Taylor Wants To Know More About Opportunity",
-        "url": "https://www.youtube.com/watch?v=xh1cEejYhgk",
-        "date_utc": "2026-08-05T23:28:23+00:00",
-        "summary": "Sir Ian Taylor wants to know more about Opportunity."
-      },
-      {
-        "title": "The Māori Seats Must Go - Don Brash On The New Campaign And Petition",
-        "url": "https://www.youtube.com/watch?v=TKVv1ZVHVK0",
-        "date_utc": "2026-08-05T22:11:35+00:00",
-        "summary": "The Māori seats must go - Don Brash on the new campaign and petition"
-      },
-      {
-        "title": "Wild Deer Costing Hawke's Bay Farmers Tens Of Thousands Of Dollars",
-        "url": "https://www.youtube.com/watch?v=fOWFvS1B2E0",
-        "date_utc": "2026-08-05T06:01:05+00:00",
-        "summary": "Peter MacIntyre, Primary Sector Economist on wild deer costing Hawke's Bay farmers tens of thousands of dollars"
-      },
-      {
-        "title": "The Electricity Market Is Broken - And Here’s Why.",
-        "url": "https://www.youtube.com/watch?v=nIzHDBXN7m4",
-        "date_utc": "2026-08-05T05:35:52+00:00",
-        "summary": "The electricity market is broken - and here’s why. Barney Irvine, CEO of the Northern Infrastructure Forum"
-      },
-      {
-        "title": "Christine Rankin on Winston Peters, Cash For Kids, Citizen’s Arrest",
-        "url": "https://www.youtube.com/watch?v=YH1DZgxYuKU",
-        "date_utc": "2026-08-05T05:34:45+00:00",
-        "summary": "Christine Rankin, CEO of Taupo Hospice on Winston Peters, cash for kids, citizen’s arrest, pie awards and more."
-      },
-      {
-        "title": "NZ Manufacturer On The Economic Policies Of Labour & National",
-        "url": "https://www.youtube.com/watch?v=aZnwjeCWnAs",
-        "date_utc": "2026-08-05T03:05:32+00:00",
-        "summary": "Outstanding NZ manufacturer Chris’s Barrett (Steelworx) on the “dumb and dumber” economic policies of Labour and National"
       }
     ],
     "opinions": [
+      {
+        "title": "The Platform Election Party 2026",
+        "url": "https://theplatform.kiwi/opinions/the-platform-election-party-2026",
+        "date_utc": "2026-08-07",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
       {
         "title": "The Opportunity Party A Radical Left Policy Manifesto",
         "url": "https://theplatform.kiwi/opinions/the-opportunity-party-a-radical-left-policy-manifesto",
@@ -320,12 +326,6 @@
       {
         "title": "Labour Capital Gains Tax Is Actually A Tax On Inflation",
         "url": "https://theplatform.kiwi/opinions/labour-capital-gains-tax-is-actually-a-tax-on-inflation",
-        "date_utc": "2026-07-30",
-        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
-      },
-      {
-        "title": "The Platform Election Party 2026",
-        "url": "https://theplatform.kiwi/opinions/the-platform-election-party-2026",
         "date_utc": "2026-07-30",
         "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
       },
