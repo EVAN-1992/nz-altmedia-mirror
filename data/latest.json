@@ -1,8 +1,32 @@
 {
-  "generated_utc": "2026-08-07T11:51:10Z",
+  "generated_utc": "2026-08-08T11:36:08Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "NZ Voters Trust Party Names Over Actual Policies",
+        "url": "https://realitycheck.radio/nz-voters-trust-party-names-over-actual-policies/",
+        "date_utc": "2026-08-07T23:54:20Z",
+        "summary": "by Dr Oliver Hartwich When I specialised in marketing for […]"
+      },
+      {
+        "title": "Political Opinion",
+        "url": "https://realitycheck.radio/political-opinion/",
+        "date_utc": "2026-08-07T05:33:34Z",
+        "summary": "by Peter Williams If you wanted a display on who […]"
+      },
+      {
+        "title": "Demography Is Destiny — And New Zealand Is Choosing Decline",
+        "url": "https://realitycheck.radio/demography-is-destiny-and-new-zealand-is-choosing-decline/",
+        "date_utc": "2026-08-07T00:01:25Z",
+        "summary": "by Rodney Hide Elon Musk is blunt: “Demography is destiny.” […]"
+      },
+      {
+        "title": "Riding Shotgun – ep 56: Guns and Destiny",
+        "url": "https://realitycheck.radio/riding-shotgun-ep-56-guns-and-destiny/",
+        "date_utc": "2026-08-06T21:30:58Z",
+        "summary": "by Rachel Stewart I’m not worried about Brian Tamaki. There. […]"
+      },
       {
         "title": "Let’s Bring Back The ‘Move-On’ Laws From Henry VIII",
         "url": "https://realitycheck.radio/lets-bring-back-the-move-on-laws-from-henry-viii/",
@@ -70,61 +94,55 @@
         "summary": "by Rachel Stewart Yes, yes, absolutely they do good – […]"
       },
       {
-        "title": "Clean Slate Bill: Labour’s prison recruitment drive",
-        "url": "https://realitycheck.radio/clean-slate-bill-labours-prison-recruitment-drive/",
-        "date_utc": "2026-07-31T00:52:03Z",
-        "summary": "by Jen Bainbridge Labour’s Clean Slate bill has passed its […]"
-      },
-      {
-        "title": "Change Comes From Within, Paul Henry",
-        "url": "https://realitycheck.radio/change-comes-from-within-paul-henry/",
-        "date_utc": "2026-07-30T00:35:04Z",
-        "summary": "by Nathan Smith I like Paul Henry. He was always […]"
-      },
-      {
-        "title": "The Odyssey",
-        "url": "https://realitycheck.radio/the-odyssey/",
-        "date_utc": "2026-07-29T00:24:17Z",
-        "summary": "by Simon O’Connor Spoilers. If you haven’t seen The Odyssey in […]"
-      },
-      {
-        "title": "My Vote Needs A Home",
-        "url": "https://realitycheck.radio/my-vote-needs-a-home/",
-        "date_utc": "2026-07-28T00:28:51Z",
-        "summary": "by Peter Williams The great irony of Christopher Luxon ruling […]"
-      },
-      {
-        "title": "DR CLARE CRAIG: UK Consultant Pathologist: Questioning Mandatory Folic Acid Fortification",
-        "url": "https://realitycheck.radio/episodes/dr-clare-craig-uk-consultant-pathologist-questioning-mandatory-folic-acid-fortification/",
-        "date_utc": "2026-08-06T01:08:59Z",
+        "title": "THE BRENNAN BAROMETER: COVID Accountability – Questions That Won’t Go Away",
+        "url": "https://realitycheck.radio/episodes/the-brennan-barometer-covid-accountability-questions-that-wont-go-away/",
+        "date_utc": "2026-08-07T05:22:23Z",
         "summary": ""
       },
       {
-        "title": "WEDNESDAY WEBINARS: Lifestyle: Spring Planting",
-        "url": "https://realitycheck.radio/episodes/wednesday-webinars-lifestyle-spring-planting/",
-        "date_utc": "2026-08-05T22:43:25Z",
+        "title": "MATTY JESSUP: NZ Toilet Politics: Can Women’s Spaces Survive the Inclusion Trap?",
+        "url": "https://realitycheck.radio/episodes/matty-jessup-nz-toilet-politics-can-womens-spaces-survive-the-inclusion-trap/",
+        "date_utc": "2026-08-07T05:00:38Z",
         "summary": ""
       },
       {
-        "title": "DAVID SEYMOUR: NZ-India Free Trade Deal: Did NZ Give Away Too Much?",
-        "url": "https://realitycheck.radio/episodes/david-seymour-nz-india-free-trade-deal-did-nz-give-away-too-much/",
-        "date_utc": "2026-08-05T22:36:14Z",
+        "title": "BOTH BARRELS: Consent Crisis: How the Internet Is Normalising Teen Risky Behaviour",
+        "url": "https://realitycheck.radio/episodes/both-barrels-consent-crisis-how-the-internet-is-normalising-teen-risky-behaviour/",
+        "date_utc": "2026-08-07T04:59:46Z",
         "summary": ""
       },
       {
-        "title": "TOM DEWEESE: Data Centers Exposed: NDAs, Empty Promises, and Zero Jobs",
-        "url": "https://realitycheck.radio/episodes/tom-deweese-data-centers-exposed-ndas-empty-promises-and-zero-jobs/",
-        "date_utc": "2026-08-05T22:19:06Z",
+        "title": "MATTY JESSUP: Raising Critical Thinkers: The ‘Detector’ Method Every Parent Needs",
+        "url": "https://realitycheck.radio/episodes/matty-jessup-raising-critical-thinkers-the-detector-method-every-parent-needs/",
+        "date_utc": "2026-08-07T04:57:27Z",
         "summary": ""
       },
       {
-        "title": "TOM DEWEESE: Data Center Backlash: The Noise Pollution Revolt Nobody Saw Coming",
-        "url": "https://realitycheck.radio/episodes/tom-deweese-data-center-backlash-the-noise-pollution-revolt-nobody-saw-coming/",
-        "date_utc": "2026-08-05T22:18:47Z",
+        "title": "GREENWASHED: NZ Council Merger Myth: The Efficiency Dream That Never Delivers",
+        "url": "https://realitycheck.radio/episodes/greenwashed-nz-council-merger-myth-the-efficiency-dream-that-never-delivers/",
+        "date_utc": "2026-08-07T04:57:08Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "They keep it all very secret until they're already underway...",
+        "url": "https://www.youtube.com/shorts/OZYY_BSoGUg",
+        "date_utc": "2026-08-08T08:01:39+00:00",
+        "summary": "\"They keep it all very secret until they're already underway, and then they say 'Oh, well, there's nothing we can do about that'.\" - Tom DeWeese, Founder of the American Policy Center @TomDeWeese Should communities have the right to vote on developments like data centres that could permanently change their neighbourhood before construction begins? 🎥 Watch here: https://rcr.media/episodes/tom-deweese-founder-of-the-american-policy-center-pushing-back-on-data-centres-and-the-surveillance-state #RCRMedia"
+      },
+      {
+        "title": "They are literally building a worldwide surveillance system...",
+        "url": "https://www.youtube.com/shorts/RAR5gT6SUkw",
+        "date_utc": "2026-08-07T20:03:15+00:00",
+        "summary": "\"They are literally building a worldwide surveillance system... they are putting information in there about everything that you do, where you travel, what you buy at the store, how you interact with other people.\" - Tom DeWeese, Founder of the American Policy Center Are AI data centres simply powering new technology, or are they laying the foundations for an unprecedented surveillance system? 🎥 Watch here: https://rcr.media/episodes/tom-deweese-founder-of-the-american-policy-center-pushing-back-on-data-centres-and-the-surveillance-state #RCRMedia"
+      },
+      {
+        "title": "We had less than 200 megawatts in reserve, and we were using all of the geothermal and all of the...",
+        "url": "https://www.youtube.com/shorts/4ygk4H-Zi34",
+        "date_utc": "2026-08-07T19:01:57+00:00",
+        "summary": "\"We had less than 200 megawatts in reserve, and we were using all of the geothermal and all of the hydro we had. And we had to top that up with gas and coal, right? To meet the load.\" - Larry Blair, Energy Policy Commentator If New Zealand's grid was already under pressure before a proposed AI data centre becomes our second largest electricity user, where will the extra power come from? 🎥 Watch here: https://rcr.media/episodes/larry-blair-energy-policy-commentator-can-new-zealands-grid-handle-a-massive-ai-data-centre #RCRMedia"
+      },
       {
         "title": "The treaty text was hidden... They asked India for the negotiation text, and India refused to...",
         "url": "https://www.youtube.com/shorts/GFsjyYecDp0",
@@ -196,29 +214,17 @@
         "url": "https://www.youtube.com/shorts/mSrR_T8uc9A",
         "date_utc": "2026-08-05T04:30:49+00:00",
         "summary": "\"If oil companies thought we had oil, they'd be knocking on our door because it's so damn valuable.\" - Lester Bryant, Former Energy Industry Insider How confident are you that New Zealand still has major untapped offshore oil and gas reserves? 🎥 Watch here: https://rcr.media/episodes/lester-bryant-former-energy-industry-insider-energy-security-or-expensive-distraction #RCRMedia"
-      },
-      {
-        "title": "This is just economically not suitable and not feasible for a war of attrition or for a long war.",
-        "url": "https://www.youtube.com/shorts/fnYnHzvcRJM",
-        "date_utc": "2026-08-05T00:01:59+00:00",
-        "summary": "\"This is just economically not suitable and not feasible for a war of attrition or for a long war.\" Freddie Ponton - Global Affairs Associate Editor 21st Century Wire Is the USA discovering that a prolonged conflict with Iran could become a war of resources it cannot sustain? 🎥 Watch here: https://rcr.media/episodes/freddie-ponton-21st-century-wire-associate-editor-battle-for-the-global-south #RCRMedia"
-      },
-      {
-        "title": "We don't want them to use us as the cash cow because we're the fastest growing in the country",
-        "url": "https://www.youtube.com/shorts/XVhJBMDf1Mk",
-        "date_utc": "2026-08-04T20:01:56+00:00",
-        "summary": "\"We don't want them to use us as the cash cow because we're the fastest growing in the country.\" - Elizabeth Mundt, Selwyn District Councillor & NZ First Candidate Should financially responsible districts be expected to help carry the debt of neighbouring councils? 🎥 Watch here: https://rcr.media/episodes/elizabeth-mundt-selwyn-district-councillor-nz-first-candidate-selwyns-fight-to-keep-local-control #RCRMedia"
-      },
-      {
-        "title": "The consultants make heaps out of it, and our ratepayers lose.",
-        "url": "https://www.youtube.com/shorts/cFK2N_FOL2s",
-        "date_utc": "2026-08-04T19:03:53+00:00",
-        "summary": "\"The consultants make heaps out of it, and our ratepayers lose.\" - Rob Scott, Mayor of Southland District Council Do major government reforms create too much work for consultants and too little value for taxpayers? 🎥 Watch here: https://rcr.media/episodes/rob-scott-mayor-of-southland-district-council-southlands-stand-against-central-control #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Motorcycle Advocacy Group NZ Protest & Court Case In Wellington",
+        "url": "https://www.youtube.com/watch?v=xku9e5GC_PM",
+        "date_utc": "2026-08-07T21:06:23+00:00",
+        "summary": "Richard Tohu, Motorcycle Advocacy Group NZ on their motorcycle protest and court case in Wellington."
+      },
       {
         "title": "Building Code Gap Means No Airtightness Standard For NZ Homes",
         "url": "https://www.youtube.com/watch?v=JDWK8VYvP5s",
@@ -232,10 +238,10 @@
         "summary": "Todd Stephenson, ACT MP - MBIE and Treasury's new diversity plans only show that they need to focus on delivering services rather than “internal navel gazing”."
       },
       {
-        "title": "If We Are Going To Change The Electoral System, Do This",
+        "title": "Vocational Schooling Is Making A Long Overdue Comeback",
         "url": "https://www.youtube.com/watch?v=MJ4MMJCpEIo",
         "date_utc": "2026-08-07T03:18:20+00:00",
-        "summary": "If we are going to change the electoral system, do this - NZ Initiative’s Nick Clark outlines his solution"
+        "summary": "Vocational schooling is making a long overdue comeback - Business NZ’s Rachel Simpson outlines how it’s going to happen"
       },
       {
         "title": "Sean Plunket Says Chris Luxon Has Got To Go",
@@ -302,12 +308,6 @@
         "url": "https://www.youtube.com/watch?v=BeBo7ybZDsA",
         "date_utc": "2026-08-06T05:42:08+00:00",
         "summary": "Louise Parsons, Sensible Sentencing Trust spokesperson on Opportunity’s policy to raise the age of Youth Court jurisdiction."
-      },
-      {
-        "title": "Eectricity Supply In NZ Should Be Regarded As “An Essential Service”",
-        "url": "https://www.youtube.com/watch?v=d0woEzdj8Ck",
-        "date_utc": "2026-08-06T05:28:51+00:00",
-        "summary": "Michael Laws argues that electricity supply in NZ should be regarded as “an essential service”"
       }
     ],
     "opinions": [
