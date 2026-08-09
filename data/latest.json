@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-08-08T11:36:08Z",
+  "generated_utc": "2026-08-09T11:37:20Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Is University Still Worthwhile?",
+        "url": "https://realitycheck.radio/is-university-still-worthwhile/",
+        "date_utc": "2026-08-08T23:58:22Z",
+        "summary": "by Dr Michael Johnston New Zealanders have long seen university […]"
+      },
       {
         "title": "NZ Voters Trust Party Names Over Actual Policies",
         "url": "https://realitycheck.radio/nz-voters-trust-party-names-over-actual-policies/",
@@ -88,10 +94,10 @@
         "summary": "by Peter Williams From the wilds of Central Otago I […]"
       },
       {
-        "title": "Riding Shotgun – ep 55: We need to talk about the NZ Free Speech Union",
-        "url": "https://realitycheck.radio/riding-shotgun-ep-55-we-need-to-talk-about-the-nz-free-speech-union/",
-        "date_utc": "2026-07-31T03:13:54Z",
-        "summary": "by Rachel Stewart Yes, yes, absolutely they do good – […]"
+        "title": "UNDER THE HOOD: With Graham ‘Hoody’ Hood: Your Vulnerability is Your Strength",
+        "url": "https://realitycheck.radio/episodes/under-the-hood-with-graham-hoody-hood-your-vulnerability-is-your-strength/",
+        "date_utc": "2026-08-08T18:51:48Z",
+        "summary": ""
       },
       {
         "title": "THE BRENNAN BAROMETER: COVID Accountability – Questions That Won’t Go Away",
@@ -116,15 +122,21 @@
         "url": "https://realitycheck.radio/episodes/matty-jessup-raising-critical-thinkers-the-detector-method-every-parent-needs/",
         "date_utc": "2026-08-07T04:57:27Z",
         "summary": ""
-      },
-      {
-        "title": "GREENWASHED: NZ Council Merger Myth: The Efficiency Dream That Never Delivers",
-        "url": "https://realitycheck.radio/episodes/greenwashed-nz-council-merger-myth-the-efficiency-dream-that-never-delivers/",
-        "date_utc": "2026-08-07T04:57:08Z",
-        "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "\"You can't just drop and run. And I know parents are busy. And believe me, I was one of those too. B",
+        "url": "https://www.youtube.com/shorts/awkCPBTeuUU",
+        "date_utc": "2026-08-08T20:02:01+00:00",
+        "summary": "\"You can't just drop and run. And I know parents are busy. And believe me, I was one of those too. But you just can't.\" - Maree Buscke Maree Buscke warns parents not to assume today's classrooms are the same as the ones they experienced growing up. Are parents too trusting of schools, assuming they no longer need to be involved? Maree Buscke and Penny Marie (Founder of Let Kids Be Kids NZ) discuss concerns around relationship and sex education in schools, including claims that parents may not realise what content is still being taught, the use of third-party resources, transparency around teaching materials, and the importance of parents engaging with schools. 🎥 Watch here: https://rcr.media/episodes/penny-marie-founder-of-let-kids-be-kids-nz-parents-urged-to-look-beyond-curriculum-changes #RCRMedia"
+      },
+      {
+        "title": "The noise pollution is something that people are really starting to deal with.",
+        "url": "https://www.youtube.com/shorts/f9as8svWloo",
+        "date_utc": "2026-08-08T19:03:20+00:00",
+        "summary": "\"The noise pollution is something that people are really starting to deal with. These things are putting out massive sounds, like, 'Thump, thump, thump, thump, thump,' or screaming sounds 24 hours a day.\" - Tom DeWeese, Founder of the American Policy Center Could you live next door to an AI data centre if it meant constant noise, day and night? 🎥 Watch here: https://rcr.media/episodes/tom-deweese-founder-of-the-american-policy-center-pushing-back-on-data-centres-and-the-surveillance-state #RCRMedia"
+      },
       {
         "title": "They keep it all very secret until they're already underway...",
         "url": "https://www.youtube.com/shorts/OZYY_BSoGUg",
@@ -202,18 +214,6 @@
         "url": "https://www.youtube.com/shorts/CpfqMctF00k",
         "date_utc": "2026-08-05T07:01:13+00:00",
         "summary": "\"That adds by one estimate almost $80 to the average power bill.\" - Simon Angelo, Wealth Morning Editor New Zealand households are paying more for power, but is the Emissions Trading Scheme delivering enough benefit to justify the cost? 🎥 Watch here: https://rcr.media/episodes/money-talks-with-simon-angelo-energy-bets-and-the-price-of-bad-incentives #RCRMedia #MoneyTalks"
-      },
-      {
-        "title": "I feel that we need more MPs who have lived in the real world, who've worked hard on the ground.",
-        "url": "https://www.youtube.com/shorts/DqQ-3UTRwMw",
-        "date_utc": "2026-08-05T06:01:13+00:00",
-        "summary": "\"I feel that we need more MPs who have lived in the real world, who've worked hard on the ground.\" - Elizabeth Mundt, Selwyn District Councillor & NZ First Candidate Should more MPs come from local government and real-world experience rather than career politics? 🎥 Watch here: https://rcr.media/episodes/elizabeth-mundt-selwyn-district-councillor-nz-first-candidate-selwyns-fight-to-keep-local-control #RCRMedia"
-      },
-      {
-        "title": "If oil companies thought we had oil, they'd be knocking on our door because it's so damn valuable",
-        "url": "https://www.youtube.com/shorts/mSrR_T8uc9A",
-        "date_utc": "2026-08-05T04:30:49+00:00",
-        "summary": "\"If oil companies thought we had oil, they'd be knocking on our door because it's so damn valuable.\" - Lester Bryant, Former Energy Industry Insider How confident are you that New Zealand still has major untapped offshore oil and gas reserves? 🎥 Watch here: https://rcr.media/episodes/lester-bryant-former-energy-industry-insider-energy-security-or-expensive-distraction #RCRMedia"
       }
     ]
   },
