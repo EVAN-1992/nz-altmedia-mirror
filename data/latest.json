@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-08-09T11:37:20Z",
+  "generated_utc": "2026-08-10T11:54:47Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Digital Driver Licences: Have Your Say",
+        "url": "https://realitycheck.radio/digital-driver-licences-have-your-say/",
+        "date_utc": "2026-08-10T09:50:16Z",
+        "summary": ""
+      },
       {
         "title": "Is University Still Worthwhile?",
         "url": "https://realitycheck.radio/is-university-still-worthwhile/",
@@ -88,43 +94,67 @@
         "summary": "by Dr Oliver Hartwich A fortnight ago, I wrote about […]"
       },
       {
-        "title": "Stop the madness",
-        "url": "https://realitycheck.radio/stop-the-madness/",
-        "date_utc": "2026-07-31T23:23:22Z",
-        "summary": "by Peter Williams From the wilds of Central Otago I […]"
+        "title": "TIM PENHALLURIACK: Real Estate Veteran: Who Controls What You Do with Your Money?",
+        "url": "https://realitycheck.radio/episodes/tim-penhalluriack-real-estate-veteran-who-controls-what-you-do-with-your-money/",
+        "date_utc": "2026-08-10T05:18:36Z",
+        "summary": ""
+      },
+      {
+        "title": "LEGAL HUB: Katie Ashby-Koppens: Government Consultation on Digital Drivers Licences",
+        "url": "https://realitycheck.radio/episodes/legal-hub-katie-ashby-koppens-government-consultation-on-digital-drivers-licences/",
+        "date_utc": "2026-08-10T03:55:44Z",
+        "summary": ""
+      },
+      {
+        "title": "SEAN RUSH: Energy Lawyer: Can New Zealand Unlock Its Energy Wealth?",
+        "url": "https://realitycheck.radio/episodes/sean-rush-energy-lawyer-can-new-zealand-unlock-its-energy-wealth/",
+        "date_utc": "2026-08-10T01:17:23Z",
+        "summary": ""
+      },
+      {
+        "title": "JASPREET & DON’S MAILBAG: Farming, Climate & the Cost of Living",
+        "url": "https://realitycheck.radio/episodes/jaspreet-dons-mailbag-farming-climate-the-cost-of-living/",
+        "date_utc": "2026-08-10T01:09:32Z",
+        "summary": ""
       },
       {
         "title": "UNDER THE HOOD: With Graham ‘Hoody’ Hood: Your Vulnerability is Your Strength",
         "url": "https://realitycheck.radio/episodes/under-the-hood-with-graham-hoody-hood-your-vulnerability-is-your-strength/",
         "date_utc": "2026-08-08T18:51:48Z",
         "summary": ""
-      },
-      {
-        "title": "THE BRENNAN BAROMETER: COVID Accountability – Questions That Won’t Go Away",
-        "url": "https://realitycheck.radio/episodes/the-brennan-barometer-covid-accountability-questions-that-wont-go-away/",
-        "date_utc": "2026-08-07T05:22:23Z",
-        "summary": ""
-      },
-      {
-        "title": "MATTY JESSUP: NZ Toilet Politics: Can Women’s Spaces Survive the Inclusion Trap?",
-        "url": "https://realitycheck.radio/episodes/matty-jessup-nz-toilet-politics-can-womens-spaces-survive-the-inclusion-trap/",
-        "date_utc": "2026-08-07T05:00:38Z",
-        "summary": ""
-      },
-      {
-        "title": "BOTH BARRELS: Consent Crisis: How the Internet Is Normalising Teen Risky Behaviour",
-        "url": "https://realitycheck.radio/episodes/both-barrels-consent-crisis-how-the-internet-is-normalising-teen-risky-behaviour/",
-        "date_utc": "2026-08-07T04:59:46Z",
-        "summary": ""
-      },
-      {
-        "title": "MATTY JESSUP: Raising Critical Thinkers: The ‘Detector’ Method Every Parent Needs",
-        "url": "https://realitycheck.radio/episodes/matty-jessup-raising-critical-thinkers-the-detector-method-every-parent-needs/",
-        "date_utc": "2026-08-07T04:57:27Z",
-        "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "In Korea... two companies comprising... about 60% at the peak.",
+        "url": "https://www.youtube.com/shorts/bjBxLAUSJv4",
+        "date_utc": "2026-08-10T07:38:52+00:00",
+        "summary": "\"In Korea... two companies comprising... about 60% at the peak. But in the US you've got about 10 that account for just over 40%.\" - Joel Robinson, Radical Investment Joel Robinson says both South Korea and the US are becoming increasingly reliant on a small number of companies driving their share markets. Is that a sign of strength - or a warning sign? 🎥 Watch here: https://rcr.media/episodes/money-talks-with-joel-robinson-when-market-hype-outruns-reality #RCRMedia #MoneyTalks"
+      },
+      {
+        "title": "Was there a trigger and was that ruling a trigger?",
+        "url": "https://www.youtube.com/shorts/pcJ0pTA427o",
+        "date_utc": "2026-08-10T07:01:11+00:00",
+        "summary": "\"Was there a trigger and was that ruling a trigger?\" - Freddie Ponton - Global Affairs Associate Editor 21st Century Wire Freddie Ponton examines whether a court ruling, combined with coordinated online messaging, helped drive the sudden surge into Ceuta. Do major legal decisions have unintended consequences that governments fail to anticipate? 🎥 Watch here: https://rcr.media/episodes/freddie-ponton-associate-editor-at-21st-century-wire-was-the-ceuta-crossing-a-manufactured-crisis #RCRMedia"
+      },
+      {
+        "title": "A vast AI-fueled surveillance system can ensure citizens will be on their best behaviour.",
+        "url": "https://www.youtube.com/shorts/JnnLiRlac9Y",
+        "date_utc": "2026-08-10T01:12:27+00:00",
+        "summary": "\"A vast AI-fueled surveillance system can ensure citizens will be on their best behaviour.\" - Tom DeWeese, Founder of the American Policy Center As AI, digital currencies and digital identities expand, how do we ensure technology protects freedom rather than restricts it? 🎥 Watch here: https://rcr.media/episodes/tom-deweese-founder-of-the-american-policy-center-pushing-back-on-data-centres-and-the-surveillance-state #RCRMedia"
+      },
+      {
+        "title": "It was such a coincidence that we had the news on the Friday of this suspected mass mortality...",
+        "url": "https://www.youtube.com/shorts/QjjUZAguoCY",
+        "date_utc": "2026-08-09T23:44:08+00:00",
+        "summary": "🇦🇺 \"It was such a coincidence that we had the news on the Friday of this suspected mass mortality. And then Nine News Adelaide puts this out.\" - Tim Wilms from The Unshackled 🇦🇺 A bird flu outbreak, native bird deaths and renewed attention on insect protein have all entered the conversation in Australia. Tim Wilms shares his thoughts on the timing. What do you make of these developments - coincidence or something worth questioning? 🎥 Watch here: https://rcr.media/episodes/the-wilms-report-with-tim-wilms-victoria-upheaval-puts-labor-under-pressure #RCRMedia #TheWilmsReport"
+      },
+      {
+        "title": "The New Zealand psyche has been so conditioned to be on the drug of other people's money",
+        "url": "https://www.youtube.com/shorts/GQU67oUGVTk",
+        "date_utc": "2026-08-09T19:02:39+00:00",
+        "summary": "\"The New Zealand psyche has been so conditioned to be on the drug of other people's money.\" - Don Nicolson Don Nicolson says New Zealand has become too dependent on wealth being redistributed through government rather than created by productive businesses. Has the balance between taxation and productivity shifted too far? 🎥 Watch here: https://rcr.media/episodes/greenwashed-why-council-amalgamation-wont-fix-local-government #RCRMedia #Greenwashed"
+      },
       {
         "title": "\"You can't just drop and run. And I know parents are busy. And believe me, I was one of those too. B",
         "url": "https://www.youtube.com/shorts/awkCPBTeuUU",
@@ -184,41 +214,77 @@
         "url": "https://www.youtube.com/shorts/TKmpnmD9dww",
         "date_utc": "2026-08-06T06:00:59+00:00",
         "summary": "\"They can have the colour teal and pretend that they're a centrist party all they like, but they're not.\" - Simon O'Connor, RCR Host & Former NZ Politician Has Christopher Luxon finally closed the door on TOP, or do you think there is still room for a post-election deal? 🎥 Watch here: https://rcr.media/episodes/simon-oconnor-rcr-host-former-nz-politician-inside-the-ideas-shaping-the-wests-culture-wars #RCRMedia"
-      },
-      {
-        "title": "This has really taken away the basic presumption of innocence. So, you're presumed to be guilty...",
-        "url": "https://www.youtube.com/shorts/5N7t6HdPGgk",
-        "date_utc": "2026-08-06T00:01:31+00:00",
-        "summary": "\"This has really taken away the basic presumption of innocence. So, you're presumed to be guilty as soon as you get onto the internet and try and do something basic.\" - Tony Gosling, UK Journalist Do online identity checks protect citizens, or do they create a system where everyone must prove themselves before being trusted? 🎥 Watch here: https://rcr.media/episodes/tony-gosling-uk-journalist-burnhams-britain-change-of-leadership-or-the-same-agenda #RCRMedia"
-      },
-      {
-        "title": "RCR Wednesday Webinars - Lifestyle",
-        "url": "https://www.youtube.com/watch?v=tVV6_bkETBs",
-        "date_utc": "2026-08-05T23:33:46+00:00",
-        "summary": "🌱 Spring Planting with Wally Richards & Rodney Hide 🌱 Spring is just around the corner, and now is the time to get your garden ready for the season ahead. Join RCR Gardening Guru Wally Richards and host Rodney Hide for this Lifestyle webinar, where Wally will share his practical gardening advice on: 🌱 Growing strong plants from seed. 🌿 Creating productive raised gardens. 🌳 Giving new plants the best start. 🌹 Pruning roses and preparing your garden for spring."
-      },
-      {
-        "title": "India wanted us to surrender some stuff that was very important to us to their advantage in order...",
-        "url": "https://www.youtube.com/shorts/cUXSrrOFJxI",
-        "date_utc": "2026-08-05T19:03:18+00:00",
-        "summary": "\"India wanted us to surrender some stuff that was very important to us to their advantage in order to even start the negotiations.\" - Joshua Riley, Co-Founder of Advocacy Group Sovereign A document obtained through an OIA raises new questions about what New Zealand agreed to before FTA negotiations even began. If this agreement only became public through an OIA request, should New Zealanders be concerned about how trade deals are negotiated? 🎥 Watch here: https://rcr.media/episodes/joshua-riley-co-founder-of-advocacy-group-sovereign-india-fta-the-deal-before-the-deal #RCRMedia"
-      },
-      {
-        "title": "David Seymour defends the India Free Trade Agreement.",
-        "url": "https://www.youtube.com/watch?v=Qaq4wYXjJd8",
-        "date_utc": "2026-08-05T08:58:06+00:00",
-        "summary": "“We’ve got sheep meat, honey, wine, technology… there’s so much opportunity. And we get to sell all these things to them, instead of being beholden to China. That’s the real story that may have been missed here. And then you’ve had all this stuff about immigration. The reality is that if you add up all the visas that are allowed for Indian nationals under this Agreement, they add up to 6% of the number of visas that were issued to Indian nationals last year anyway”. RCR’s Tane Webster spoke with Deputy Prime Minister and ACT Leader David Seymour."
-      },
-      {
-        "title": "That adds by one estimate almost $80 to the average power bill.",
-        "url": "https://www.youtube.com/shorts/CpfqMctF00k",
-        "date_utc": "2026-08-05T07:01:13+00:00",
-        "summary": "\"That adds by one estimate almost $80 to the average power bill.\" - Simon Angelo, Wealth Morning Editor New Zealand households are paying more for power, but is the Emissions Trading Scheme delivering enough benefit to justify the cost? 🎥 Watch here: https://rcr.media/episodes/money-talks-with-simon-angelo-energy-bets-and-the-price-of-bad-incentives #RCRMedia #MoneyTalks"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Megan Drayton On Rail Safety Week 2026",
+        "url": "https://www.youtube.com/watch?v=mM911vakz1s",
+        "date_utc": "2026-08-10T06:09:03+00:00",
+        "summary": "Megan Drayton, TrackSAFE NZ Foundation Manager - Rail Safety Week 2026."
+      },
+      {
+        "title": "Power Bills Overtake Housing As Kiwis’ Second-Biggest Financial Concern",
+        "url": "https://www.youtube.com/watch?v=-plZFRUfyXA",
+        "date_utc": "2026-08-10T05:43:26+00:00",
+        "summary": "Jon Duffy, CEO of Consumer NZ - Power bills overtake housing as New Zealanders’ second-biggest financial concern."
+      },
+      {
+        "title": "Ashley Church - Declining House Prices Are Killing Our Economy",
+        "url": "https://www.youtube.com/watch?v=TZECUIuv8hE",
+        "date_utc": "2026-08-10T05:29:27+00:00",
+        "summary": "Ashley Church, Markets and Political Commentator - Declining house prices are killing our economy."
+      },
+      {
+        "title": "Memo To MSM: New Zealand Will Determine The PM - Not You",
+        "url": "https://www.youtube.com/watch?v=-M70fkrpmIA",
+        "date_utc": "2026-08-10T03:58:52+00:00",
+        "summary": "Memo to MSM: New Zealand will determine the PM - not you."
+      },
+      {
+        "title": "Mexted On All Blacks’ Best-Case Scenario For A Result In South Africa",
+        "url": "https://www.youtube.com/watch?v=Gk8hV4CLQwU",
+        "date_utc": "2026-08-10T03:49:58+00:00",
+        "summary": "Former All Black Murray Mexted on the All Blacks in South Africa and the best case scenario for a result."
+      },
+      {
+        "title": "The Latest Ministry Failing Of Its Cervical Cancer Testing Responsibilities",
+        "url": "https://www.youtube.com/watch?v=7qkYA8vwCJc",
+        "date_utc": "2026-08-10T03:32:27+00:00",
+        "summary": "Associate Professor Brian Cox on the background to the latest Ministry failing of its cervical cancer testing responsibilities."
+      },
+      {
+        "title": "Tribute To Councillor Tony Randle - A True Gentleman",
+        "url": "https://www.youtube.com/watch?v=aA3WlPgahow",
+        "date_utc": "2026-08-10T02:57:55+00:00",
+        "summary": "Tribute to Councillor Tony Randle - a true gentleman."
+      },
+      {
+        "title": "Air NZ Invites Passengers To Dob Each Other In",
+        "url": "https://www.youtube.com/watch?v=iISUDablpjI",
+        "date_utc": "2026-08-10T02:36:26+00:00",
+        "summary": "Air NZ invites passengers to dob each other in."
+      },
+      {
+        "title": "Troy Bowker Breaks Down Opportunity’s Land Tax",
+        "url": "https://www.youtube.com/watch?v=b29v5CUfmEA",
+        "date_utc": "2026-08-10T00:04:10+00:00",
+        "summary": "Troy Bowker breaks down Opportunity’s land tax."
+      },
+      {
+        "title": "Sean Bell Updates On Conflict In Middle East",
+        "url": "https://www.youtube.com/watch?v=vD_iCvAewNY",
+        "date_utc": "2026-08-09T23:28:21+00:00",
+        "summary": "Sean Bell updates on conflict in Middle East."
+      },
+      {
+        "title": "Sean Plunket Reacts To Cambridge Uni’s Jason Arday’s Series Of Lies",
+        "url": "https://www.youtube.com/watch?v=ZH7De3WOV8w",
+        "date_utc": "2026-08-09T23:23:36+00:00",
+        "summary": "Sean Plunket reacts to Cambridge Uni’s Jason Arday’s series of lies."
+      },
       {
         "title": "Motorcycle Advocacy Group NZ Protest & Court Case In Wellington",
         "url": "https://www.youtube.com/watch?v=xku9e5GC_PM",
@@ -242,75 +308,15 @@
         "url": "https://www.youtube.com/watch?v=MJ4MMJCpEIo",
         "date_utc": "2026-08-07T03:18:20+00:00",
         "summary": "Vocational schooling is making a long overdue comeback - Business NZ’s Rachel Simpson outlines how it’s going to happen"
-      },
-      {
-        "title": "Sean Plunket Says Chris Luxon Has Got To Go",
-        "url": "https://www.youtube.com/watch?v=PkGXuGYE7Xk",
-        "date_utc": "2026-08-07T03:13:49+00:00",
-        "summary": "Sean Plunket says Chris Luxon has got to go."
-      },
-      {
-        "title": "If We Are Going To Change The Electoral System, Do This",
-        "url": "https://www.youtube.com/watch?v=gpWHctF8qTE",
-        "date_utc": "2026-08-07T03:00:06+00:00",
-        "summary": "If we are going to change the electoral system, do this - NZ Initiative’s Nick Clark outlines his solution"
-      },
-      {
-        "title": "Tameem Barakat On How The India FTA May Affect Our Kiwifruit Industry",
-        "url": "https://www.youtube.com/watch?v=4mOhmC5n-FY",
-        "date_utc": "2026-08-07T02:50:25+00:00",
-        "summary": "Tameem Barakat on how the India FTA may affect our kiwifruit industry."
-      },
-      {
-        "title": "ML Breaks Down The Opportunity Party Leadership -“They Are Not Normal”",
-        "url": "https://www.youtube.com/watch?v=qn_68hL_-Fs",
-        "date_utc": "2026-08-07T02:46:20+00:00",
-        "summary": "Michael Laws breaks down the Opportunity Party leadership - “they are not normal”."
-      },
-      {
-        "title": "The True History Of How MMP Became Our Electoral System.",
-        "url": "https://www.youtube.com/watch?v=M37Rrdt22mY",
-        "date_utc": "2026-08-07T02:27:12+00:00",
-        "summary": "The true history of how MMP became our electoral system."
-      },
-      {
-        "title": "Sean Gives Out A Grilling For The Friday Fry Up",
-        "url": "https://www.youtube.com/watch?v=Gg4bv_pqQko",
-        "date_utc": "2026-08-07T00:03:54+00:00",
-        "summary": "Sean gives out a grilling for the Friday Fry Up."
-      },
-      {
-        "title": "Free Speech Fridays #168 – Tim Costley & Maurice Williamson",
-        "url": "https://www.youtube.com/watch?v=6WmPi5dmRWk",
-        "date_utc": "2026-08-06T23:58:54+00:00",
-        "summary": "Free Speech Fridays with Tim Costley & Maurice Williamson is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss Chris Luxon’s plans for MMP, accessibility for diabetes drugs, Kiri Allen’s new book, and more."
-      },
-      {
-        "title": "Chris Lynch On PAK’nSAVE Court Case",
-        "url": "https://www.youtube.com/watch?v=QinZ56GFiOw",
-        "date_utc": "2026-08-06T23:48:11+00:00",
-        "summary": "Chris Lynch on PAK’nSAVE court case."
-      },
-      {
-        "title": "Jordan Williams Exposes Corruption In The Ministry Of Justice",
-        "url": "https://www.youtube.com/watch?v=Cq4t-PaufwY",
-        "date_utc": "2026-08-06T23:27:37+00:00",
-        "summary": "Jordan Williams exposes corruption in the Ministry of Justice."
-      },
-      {
-        "title": "Oral Health Month & The Adult Dental Waiting List Barely Moving",
-        "url": "https://www.youtube.com/watch?v=KWBFdV8ogwc",
-        "date_utc": "2026-08-06T07:24:31+00:00",
-        "summary": "Dr Robin Whyman, Director of Dental Policy for NZ Dental Association - Oral Health Month and the adult dental waiting list barely moving."
-      },
-      {
-        "title": "Opportunity’s Policy To Raise The Age Of Youth Court Jurisdiction",
-        "url": "https://www.youtube.com/watch?v=BeBo7ybZDsA",
-        "date_utc": "2026-08-06T05:42:08+00:00",
-        "summary": "Louise Parsons, Sensible Sentencing Trust spokesperson on Opportunity’s policy to raise the age of Youth Court jurisdiction."
       }
     ],
     "opinions": [
+      {
+        "title": "Apologise For Not Lying",
+        "url": "https://theplatform.kiwi/opinions/apologise-for-not-lying",
+        "date_utc": "2026-08-10",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
       {
         "title": "The Platform Election Party 2026",
         "url": "https://theplatform.kiwi/opinions/the-platform-election-party-2026",
@@ -375,12 +381,6 @@
         "title": "Hipkins Policy Silence Doesnt Matter",
         "url": "https://theplatform.kiwi/opinions/hipkins-policy-silence-doesnt-matter",
         "date_utc": "2026-06-03",
-        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
-      },
-      {
-        "title": "Lord Cookes Indictment",
-        "url": "https://theplatform.kiwi/opinions/lord-cookes-indictment",
-        "date_utc": "2026-06-02",
         "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
       }
     ]
