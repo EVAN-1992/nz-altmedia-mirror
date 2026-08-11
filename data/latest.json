@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-10T11:54:47Z",
+  "generated_utc": "2026-08-11T11:50:24Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -94,37 +94,55 @@
         "summary": "by Dr Oliver Hartwich A fortnight ago, I wrote about […]"
       },
       {
-        "title": "TIM PENHALLURIACK: Real Estate Veteran: Who Controls What You Do with Your Money?",
-        "url": "https://realitycheck.radio/episodes/tim-penhalluriack-real-estate-veteran-who-controls-what-you-do-with-your-money/",
-        "date_utc": "2026-08-10T05:18:36Z",
+        "title": "JON DUFFY: NZ Biometric Payments: Is Your Face the Future of Your Wallet?",
+        "url": "https://realitycheck.radio/episodes/jon-duffy-nz-biometric-payments-is-your-face-the-future-of-your-wallet/",
+        "date_utc": "2026-08-11T05:26:53Z",
         "summary": ""
       },
       {
-        "title": "LEGAL HUB: Katie Ashby-Koppens: Government Consultation on Digital Drivers Licences",
-        "url": "https://realitycheck.radio/episodes/legal-hub-katie-ashby-koppens-government-consultation-on-digital-drivers-licences/",
-        "date_utc": "2026-08-10T03:55:44Z",
+        "title": "DR CLARE CRAIG: Autism’s Silent Surge: Folate, Prematurity, and the Real Truth Behind Rising Rates",
+        "url": "https://realitycheck.radio/episodes/dr-clare-craig-autisms-silent-surge-folate-prematurity-and-the-real-truth-behind-rising-rates/",
+        "date_utc": "2026-08-11T05:26:45Z",
         "summary": ""
       },
       {
-        "title": "SEAN RUSH: Energy Lawyer: Can New Zealand Unlock Its Energy Wealth?",
-        "url": "https://realitycheck.radio/episodes/sean-rush-energy-lawyer-can-new-zealand-unlock-its-energy-wealth/",
-        "date_utc": "2026-08-10T01:17:23Z",
+        "title": "BOTH BARRELS: NZ Police Power: Is Christianity the New Target of State Persecution?",
+        "url": "https://realitycheck.radio/episodes/rachel-stewart-nz-police-power-is-christianity-the-new-target-of-state-persecution/",
+        "date_utc": "2026-08-11T05:25:54Z",
         "summary": ""
       },
       {
-        "title": "JASPREET & DON’S MAILBAG: Farming, Climate & the Cost of Living",
-        "url": "https://realitycheck.radio/episodes/jaspreet-dons-mailbag-farming-climate-the-cost-of-living/",
-        "date_utc": "2026-08-10T01:09:32Z",
+        "title": "JULIA RUCKLIDGE: Ultra-Processed Foods: The Fiscal Truth Behind What’s On Your Plate",
+        "url": "https://realitycheck.radio/episodes/julia-rucklidge-ultra-processed-foods-the-fiscal-truth-behind-whats-on-your-plate/",
+        "date_utc": "2026-08-11T05:25:10Z",
         "summary": ""
       },
       {
-        "title": "UNDER THE HOOD: With Graham ‘Hoody’ Hood: Your Vulnerability is Your Strength",
-        "url": "https://realitycheck.radio/episodes/under-the-hood-with-graham-hoody-hood-your-vulnerability-is-your-strength/",
-        "date_utc": "2026-08-08T18:51:48Z",
+        "title": "ROB MACCULLOCH: NZ Corporate Capture: Big Lobbyists Win While Small Business Suffers",
+        "url": "https://realitycheck.radio/episodes/rob-macculloch-nz-corporate-capture-big-lobbyists-win-while-small-business-suffers/",
+        "date_utc": "2026-08-11T05:25:00Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "30,000 of them were going to be eliminated, and they were going to use that money...",
+        "url": "https://www.youtube.com/shorts/98LXpFFwPp0",
+        "date_utc": "2026-08-11T06:01:18+00:00",
+        "summary": "\"30,000 of them were going to be eliminated, and they were going to use that money from their payroll to build more data centres. A lot of blue collar jobs, a lot of white collar jobs... and it said, 'Yeah, that's true, but what we're moving towards is universal basic income'. That means that nobody has a job.\" - Tom DeWeese, Founder of the American Policy Center As AI replaces more jobs across both blue and white collar industries, are we heading toward a future of greater freedom - or a society where people no longer have the independence that comes from meaningful work? 🎥 Watch here: https://rcr.media/episodes/tom-deweese-founder-of-the-american-policy-center-pushing-back-on-data-centres-and-the-surveillance-state #RCRMedia"
+      },
+      {
+        "title": "DR MATTHEW M WIELICKI",
+        "url": "https://www.youtube.com/watch?v=bbbFu93F_DE",
+        "date_utc": "2026-08-11T03:22:50+00:00",
+        "summary": "Dr Matthew M Wielicki dialled in for a stimulating discussion about everything from intolerant DEI policy, to woke ideology, to climate consternation craziness, and more. For more from Matthew, follow him on: Website: matthewwielicki.com X: @MatthewWielicki Substack: @irrationalfear"
+      },
+      {
+        "title": "What are we raising you kids with? ... 'A good bullshit detector'.",
+        "url": "https://www.youtube.com/shorts/Q1XiUg5G8ws",
+        "date_utc": "2026-08-11T00:01:58+00:00",
+        "summary": "\"What are we raising you kids with? ... 'A good bullshit detector'.\" - Matty Jessup, Let Kids Be Kids Activist & Father Matty Jessup says he encourages his children to question ideas they hear and think critically rather than simply accepting them. How important is it to teach children to challenge information they receive at school and online? 🎥 Watch here: https://rcr.media/episodes/matty-jessup-let-kids-be-kids-activist-father-pushing-back-against-school-ideology #RCRMedia"
+      },
       {
         "title": "In Korea... two companies comprising... about 60% at the peak.",
         "url": "https://www.youtube.com/shorts/bjBxLAUSJv4",
@@ -196,29 +214,71 @@
         "url": "https://www.youtube.com/shorts/ydNYvAtoEp0",
         "date_utc": "2026-08-07T00:01:48+00:00",
         "summary": "\"Opt out. I don't want my child attending the classes. I don't get to... I don't need to pick and choose like a lolly scramble which part of the lessons.\" - Penny Marie, Founder of Let Kids Be Kids NZ Should parents be able to simply opt their children out? 🎥 Watch here: https://rcr.media/episodes/penny-marie-founder-of-let-kids-be-kids-nz-parents-urged-to-look-beyond-curriculum-changes #RCRMedia"
-      },
-      {
-        "title": "We were being told not to speculate on the motivations for the attack... But at the same time...",
-        "url": "https://www.youtube.com/shorts/JTGr73TpyIQ",
-        "date_utc": "2026-08-06T19:04:17+00:00",
-        "summary": "\"We were being told not to speculate on the motivations for the attack... But at the same time... within minutes... they were all opining on the horrors of GB News and the far-right.\" - Simon O'Connor, RCR Host & Former NZ Politician Simon O'Connor questions whether political violence in the UK is being treated consistently depending on who the victim is. Do you think the media applies the same standards to every politically motivated attack? 🎥 Watch here: https://rcr.media/episodes/simon-oconnor-rcr-host-former-nz-politician-inside-the-ideas-shaping-the-wests-culture-wars #RCRMedia"
-      },
-      {
-        "title": "RCR's Tane Webster interviewed Deputy Prime Minister and ACT leader David Seymour",
-        "url": "https://www.youtube.com/watch?v=oqWNoa1hM18",
-        "date_utc": "2026-08-06T07:02:25+00:00",
-        "summary": "RCR's Tane Webster interviewed Deputy Prime Minister and ACT leader David Seymour on a range of issues including: 👁 Digital ID 🦆 Bird flu 🚗 eRUCs 🖥 Under-16 social media ban 🛢 Oil exploration 💰 India FTA 🦘 Pauline Hanson 🎥 Watch here: https://rcr.media/episodes/david-seymour-nz-politics-uncensored-oil-social-media-bans-trade-deal-truths/"
-      },
-      {
-        "title": "They can have the colour teal and pretend that they're a centrist party all they like...",
-        "url": "https://www.youtube.com/shorts/TKmpnmD9dww",
-        "date_utc": "2026-08-06T06:00:59+00:00",
-        "summary": "\"They can have the colour teal and pretend that they're a centrist party all they like, but they're not.\" - Simon O'Connor, RCR Host & Former NZ Politician Has Christopher Luxon finally closed the door on TOP, or do you think there is still room for a post-election deal? 🎥 Watch here: https://rcr.media/episodes/simon-oconnor-rcr-host-former-nz-politician-inside-the-ideas-shaping-the-wests-culture-wars #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Masterton Mayor On The Dilemma Of Being Too Small",
+        "url": "https://www.youtube.com/watch?v=PkVj_Yrw8kc",
+        "date_utc": "2026-08-11T10:44:15+00:00",
+        "summary": "Masterton Mayor Bex Johnson on the dilemma of being too small and being gobbled up by Wellington"
+      },
+      {
+        "title": "E-Scooter Riders A Lot More Likely To Suffer Traumatic Brain Injuries",
+        "url": "https://www.youtube.com/watch?v=mm9cInKIqmk",
+        "date_utc": "2026-08-11T05:40:37+00:00",
+        "summary": "Stacey Mowbray, Chief Executive of Headway Charity - New research says e-scooter riders are significantly more likely to suffer traumatic brain injuries than cyclists or motorcyclists."
+      },
+      {
+        "title": "Would Asian Supermarkets Help Break The Duopoly?",
+        "url": "https://www.youtube.com/watch?v=_p989aaKIsA",
+        "date_utc": "2026-08-11T05:21:12+00:00",
+        "summary": "Ernie Newman, Grocery Industry Expert - Foodstuffs being taken to court and would Asian supermarkets help break the duopoly?"
+      },
+      {
+        "title": "ML Breaks Down The “Uncoupling Migrant” Story",
+        "url": "https://www.youtube.com/watch?v=jI5vEM6y5Ho",
+        "date_utc": "2026-08-11T03:00:33+00:00",
+        "summary": "Michael Laws breaks down the “uncoupling migrant” story and says “go home if you don’t like it here”"
+      },
+      {
+        "title": "A “Super” El Niño Is On Its Way",
+        "url": "https://www.youtube.com/watch?v=imrDF9Uq3OI",
+        "date_utc": "2026-08-11T02:28:37+00:00",
+        "summary": "A “super” El Niño is on its way - Chris Brandolino of Earth Sciences explains what That Means For us"
+      },
+      {
+        "title": "Human Rights Commission Turns Its Back On Anti-Semitism In NZ",
+        "url": "https://www.youtube.com/watch?v=kTcop3xQeuQ",
+        "date_utc": "2026-08-11T02:19:09+00:00",
+        "summary": "Human Rights Commission turns its back on anti-semitism in NZ."
+      },
+      {
+        "title": "Nick Wilson On The Existential Threat That AI Represents To Humanity",
+        "url": "https://www.youtube.com/watch?v=yThmbczjWB8",
+        "date_utc": "2026-08-11T02:08:08+00:00",
+        "summary": "Professor Nick Wilson on the existential threat that AI represents to humanity"
+      },
+      {
+        "title": "Brian Tamaki On His Gun License Being Revoked & Court Case",
+        "url": "https://www.youtube.com/watch?v=kGpC8RBDo9c",
+        "date_utc": "2026-08-11T01:19:24+00:00",
+        "summary": "Brian Tamaki on his gun license being revoked and court case."
+      },
+      {
+        "title": "Andrew Wilson On What A Bed Tax Would Look Like In NZ",
+        "url": "https://www.youtube.com/watch?v=lpu9MJOJgBc",
+        "date_utc": "2026-08-11T00:49:52+00:00",
+        "summary": "Andrew Wilson on what a Bed Tax would look like in NZ."
+      },
+      {
+        "title": "Winston Peters Talks MMP & Māori Seats Referendum",
+        "url": "https://www.youtube.com/watch?v=KNVLDCuZyKI",
+        "date_utc": "2026-08-11T00:21:25+00:00",
+        "summary": "Winston Peters talks MMP and Māori seats referendum."
+      },
       {
         "title": "Megan Drayton On Rail Safety Week 2026",
         "url": "https://www.youtube.com/watch?v=mM911vakz1s",
@@ -248,66 +308,6 @@
         "url": "https://www.youtube.com/watch?v=Gk8hV4CLQwU",
         "date_utc": "2026-08-10T03:49:58+00:00",
         "summary": "Former All Black Murray Mexted on the All Blacks in South Africa and the best case scenario for a result."
-      },
-      {
-        "title": "The Latest Ministry Failing Of Its Cervical Cancer Testing Responsibilities",
-        "url": "https://www.youtube.com/watch?v=7qkYA8vwCJc",
-        "date_utc": "2026-08-10T03:32:27+00:00",
-        "summary": "Associate Professor Brian Cox on the background to the latest Ministry failing of its cervical cancer testing responsibilities."
-      },
-      {
-        "title": "Tribute To Councillor Tony Randle - A True Gentleman",
-        "url": "https://www.youtube.com/watch?v=aA3WlPgahow",
-        "date_utc": "2026-08-10T02:57:55+00:00",
-        "summary": "Tribute to Councillor Tony Randle - a true gentleman."
-      },
-      {
-        "title": "Air NZ Invites Passengers To Dob Each Other In",
-        "url": "https://www.youtube.com/watch?v=iISUDablpjI",
-        "date_utc": "2026-08-10T02:36:26+00:00",
-        "summary": "Air NZ invites passengers to dob each other in."
-      },
-      {
-        "title": "Troy Bowker Breaks Down Opportunity’s Land Tax",
-        "url": "https://www.youtube.com/watch?v=b29v5CUfmEA",
-        "date_utc": "2026-08-10T00:04:10+00:00",
-        "summary": "Troy Bowker breaks down Opportunity’s land tax."
-      },
-      {
-        "title": "Sean Bell Updates On Conflict In Middle East",
-        "url": "https://www.youtube.com/watch?v=vD_iCvAewNY",
-        "date_utc": "2026-08-09T23:28:21+00:00",
-        "summary": "Sean Bell updates on conflict in Middle East."
-      },
-      {
-        "title": "Sean Plunket Reacts To Cambridge Uni’s Jason Arday’s Series Of Lies",
-        "url": "https://www.youtube.com/watch?v=ZH7De3WOV8w",
-        "date_utc": "2026-08-09T23:23:36+00:00",
-        "summary": "Sean Plunket reacts to Cambridge Uni’s Jason Arday’s series of lies."
-      },
-      {
-        "title": "Motorcycle Advocacy Group NZ Protest & Court Case In Wellington",
-        "url": "https://www.youtube.com/watch?v=xku9e5GC_PM",
-        "date_utc": "2026-08-07T21:06:23+00:00",
-        "summary": "Richard Tohu, Motorcycle Advocacy Group NZ on their motorcycle protest and court case in Wellington."
-      },
-      {
-        "title": "Building Code Gap Means No Airtightness Standard For NZ Homes",
-        "url": "https://www.youtube.com/watch?v=JDWK8VYvP5s",
-        "date_utc": "2026-08-07T05:36:05+00:00",
-        "summary": "Matthew Cutler, Green Building Council Senior Residential Manager - A gap in the Building Code means NZ homes aren't required to meet airtightness standards."
-      },
-      {
-        "title": "Todd Stephenson On MBIE & Treasury's New Diversity Plans",
-        "url": "https://www.youtube.com/watch?v=_yFREefauN8",
-        "date_utc": "2026-08-07T05:23:46+00:00",
-        "summary": "Todd Stephenson, ACT MP - MBIE and Treasury's new diversity plans only show that they need to focus on delivering services rather than “internal navel gazing”."
-      },
-      {
-        "title": "Vocational Schooling Is Making A Long Overdue Comeback",
-        "url": "https://www.youtube.com/watch?v=MJ4MMJCpEIo",
-        "date_utc": "2026-08-07T03:18:20+00:00",
-        "summary": "Vocational schooling is making a long overdue comeback - Business NZ’s Rachel Simpson outlines how it’s going to happen"
       }
     ],
     "opinions": [
