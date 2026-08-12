@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-11T11:50:24Z",
+  "generated_utc": "2026-08-12T11:53:34Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -94,37 +94,61 @@
         "summary": "by Dr Oliver Hartwich A fortnight ago, I wrote about […]"
       },
       {
-        "title": "JON DUFFY: NZ Biometric Payments: Is Your Face the Future of Your Wallet?",
-        "url": "https://realitycheck.radio/episodes/jon-duffy-nz-biometric-payments-is-your-face-the-future-of-your-wallet/",
-        "date_utc": "2026-08-11T05:26:53Z",
+        "title": "FREDDIE PONTON: 21st Century Wire Associate Editor: Iran Turns the Tables as Middle East War Spreads",
+        "url": "https://realitycheck.radio/episodes/freddie-ponton-21st-century-wire-associate-editor-iran-turns-the-tables-as-middle-east-war-spreads/",
+        "date_utc": "2026-08-12T04:14:25Z",
         "summary": ""
       },
       {
-        "title": "DR CLARE CRAIG: Autism’s Silent Surge: Folate, Prematurity, and the Real Truth Behind Rising Rates",
-        "url": "https://realitycheck.radio/episodes/dr-clare-craig-autisms-silent-surge-folate-prematurity-and-the-real-truth-behind-rising-rates/",
-        "date_utc": "2026-08-11T05:26:45Z",
+        "title": "MONEY TALKS: With Louis Boulanger: When the Money System Starts to Crack",
+        "url": "https://realitycheck.radio/episodes/money-talks-with-louis-boulanger-when-the-money-system-starts-to-crack/",
+        "date_utc": "2026-08-12T01:45:43Z",
         "summary": ""
       },
       {
-        "title": "BOTH BARRELS: NZ Police Power: Is Christianity the New Target of State Persecution?",
-        "url": "https://realitycheck.radio/episodes/rachel-stewart-nz-police-power-is-christianity-the-new-target-of-state-persecution/",
-        "date_utc": "2026-08-11T05:25:54Z",
+        "title": "SEAN RUSH: NZ Energy’s Untapped Frontier: Taranaki, Great South Basin and Beyond",
+        "url": "https://realitycheck.radio/episodes/sean-rush-nz-energys-untapped-frontier-taranaki-great-south-basin-and-beyond/",
+        "date_utc": "2026-08-11T23:11:02Z",
         "summary": ""
       },
       {
-        "title": "JULIA RUCKLIDGE: Ultra-Processed Foods: The Fiscal Truth Behind What’s On Your Plate",
-        "url": "https://realitycheck.radio/episodes/julia-rucklidge-ultra-processed-foods-the-fiscal-truth-behind-whats-on-your-plate/",
-        "date_utc": "2026-08-11T05:25:10Z",
+        "title": "TIM PENHALLURIACK: Victoria’s Tax Trap: Why Investors Are Fleeing the State",
+        "url": "https://realitycheck.radio/episodes/tim-penhalluriack-victorias-tax-trap-why-investors-are-fleeing-the-state/",
+        "date_utc": "2026-08-11T23:09:45Z",
         "summary": ""
       },
       {
-        "title": "ROB MACCULLOCH: NZ Corporate Capture: Big Lobbyists Win While Small Business Suffers",
-        "url": "https://realitycheck.radio/episodes/rob-macculloch-nz-corporate-capture-big-lobbyists-win-while-small-business-suffers/",
-        "date_utc": "2026-08-11T05:25:00Z",
+        "title": "SEAN RUSH: NZ’s Vast Offshore Riches: Too Big to Ignore, Too Small to Pump?",
+        "url": "https://realitycheck.radio/episodes/sean-rush-nzs-vast-offshore-riches-too-big-to-ignore-too-small-to-pump/",
+        "date_utc": "2026-08-11T23:08:43Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "We've got to get real. We want to have relationships that are real and trusting.",
+        "url": "https://www.youtube.com/shorts/HKNT1ksJ1Gw",
+        "date_utc": "2026-08-12T08:01:16+00:00",
+        "summary": "🇦🇺 \"We've got to get real. We want to have relationships that are real and trusting.\" - Graham 'Hoody' Hood 🇦🇺 Are your friendships built on genuine trust and honesty - or are we all just getting very good at keeping things on the surface? 🎥 Watch here: https://rcr.media/episodes/under-the-hood-with-graham-hoody-hood-your-vulnerability-is-your-strength #RCRMedia #UnderTheHood"
+      },
+      {
+        "title": "You have to wonder how many have died as a result of this, the vaccinations that they've been...",
+        "url": "https://www.youtube.com/shorts/Ktk1rYQJO4k",
+        "date_utc": "2026-08-12T07:01:06+00:00",
+        "summary": "\"You have to wonder how many have died as a result of this, the vaccinations that they've been inflicting on them and the blood tests.\" - Clare Swinney, Independent Journalist. When protecting our most endangered species, how much caution should be required before taking actions that cannot be reversed? #RCRMedia"
+      },
+      {
+        "title": "No one's going to be forced to stick their face in an EFTPOS terminal to pay for their...",
+        "url": "https://www.youtube.com/shorts/Zl1WLlMq5v8",
+        "date_utc": "2026-08-11T20:02:52+00:00",
+        "summary": "\"No one's going to be forced to stick their face in an EFTPOS terminal to pay for their coffee in the morning.\" - Jon Duffy, Consumer NZ CEO But if biometric payments become widespread, will choosing not to use them eventually become impractical? 🎥 Watch here: https://rcr.media/episodes/jon-duffy-consumer-nz-ceo-biometric-payments-are-coming-what-are-the-risks #RCRMedia"
+      },
+      {
+        "title": "'Can a woman with a penis use that toilet downstairs?'... And they wrote back and said they could.",
+        "url": "https://www.youtube.com/shorts/I3ZNN0Ox9iI",
+        "date_utc": "2026-08-11T19:03:03+00:00",
+        "summary": "\"'Can a woman with a penis use that toilet downstairs?'... And they wrote back and said they could.\" - Rodney Hide Rodney Hide shares an email exchange he says he had with a ski field (The Remarkables) over its toilet policy, arguing the responses highlighted inconsistencies. Do organisations need clearer policies around single-sex facilities? 🎥 Watch here: https://rcr.media/episodes/matty-jessup-let-kids-be-kids-activist-father-pushing-back-against-school-ideology #RCRMedia"
+      },
       {
         "title": "30,000 of them were going to be eliminated, and they were going to use that money...",
         "url": "https://www.youtube.com/shorts/98LXpFFwPp0",
@@ -190,35 +214,77 @@
         "url": "https://www.youtube.com/shorts/OZYY_BSoGUg",
         "date_utc": "2026-08-08T08:01:39+00:00",
         "summary": "\"They keep it all very secret until they're already underway, and then they say 'Oh, well, there's nothing we can do about that'.\" - Tom DeWeese, Founder of the American Policy Center @TomDeWeese Should communities have the right to vote on developments like data centres that could permanently change their neighbourhood before construction begins? 🎥 Watch here: https://rcr.media/episodes/tom-deweese-founder-of-the-american-policy-center-pushing-back-on-data-centres-and-the-surveillance-state #RCRMedia"
-      },
-      {
-        "title": "They are literally building a worldwide surveillance system...",
-        "url": "https://www.youtube.com/shorts/RAR5gT6SUkw",
-        "date_utc": "2026-08-07T20:03:15+00:00",
-        "summary": "\"They are literally building a worldwide surveillance system... they are putting information in there about everything that you do, where you travel, what you buy at the store, how you interact with other people.\" - Tom DeWeese, Founder of the American Policy Center Are AI data centres simply powering new technology, or are they laying the foundations for an unprecedented surveillance system? 🎥 Watch here: https://rcr.media/episodes/tom-deweese-founder-of-the-american-policy-center-pushing-back-on-data-centres-and-the-surveillance-state #RCRMedia"
-      },
-      {
-        "title": "We had less than 200 megawatts in reserve, and we were using all of the geothermal and all of the...",
-        "url": "https://www.youtube.com/shorts/4ygk4H-Zi34",
-        "date_utc": "2026-08-07T19:01:57+00:00",
-        "summary": "\"We had less than 200 megawatts in reserve, and we were using all of the geothermal and all of the hydro we had. And we had to top that up with gas and coal, right? To meet the load.\" - Larry Blair, Energy Policy Commentator If New Zealand's grid was already under pressure before a proposed AI data centre becomes our second largest electricity user, where will the extra power come from? 🎥 Watch here: https://rcr.media/episodes/larry-blair-energy-policy-commentator-can-new-zealands-grid-handle-a-massive-ai-data-centre #RCRMedia"
-      },
-      {
-        "title": "The treaty text was hidden... They asked India for the negotiation text, and India refused to...",
-        "url": "https://www.youtube.com/shorts/GFsjyYecDp0",
-        "date_utc": "2026-08-07T06:01:38+00:00",
-        "summary": "\"The treaty text was hidden... They asked India for the negotiation text, and India refused to give it to the Māori Party... and even the Crown.\" - Joshua Riley, Co-Founder of Advocacy Group Sovereign If elected representatives couldn't access the negotiation text, should New Zealanders be concerned about how this trade deal was negotiated? 🎥 Watch here: https://rcr.media/episodes/joshua-riley-co-founder-of-advocacy-group-sovereign-india-fta-the-deal-before-the-deal #RCRMedia"
-      },
-      {
-        "title": "Opt out. I don't want my child attending the classes. I don't get to... I don't need to pick and...",
-        "url": "https://www.youtube.com/shorts/ydNYvAtoEp0",
-        "date_utc": "2026-08-07T00:01:48+00:00",
-        "summary": "\"Opt out. I don't want my child attending the classes. I don't get to... I don't need to pick and choose like a lolly scramble which part of the lessons.\" - Penny Marie, Founder of Let Kids Be Kids NZ Should parents be able to simply opt their children out? 🎥 Watch here: https://rcr.media/episodes/penny-marie-founder-of-let-kids-be-kids-nz-parents-urged-to-look-beyond-curriculum-changes #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "“ACT's Proposal Diverts Money Away From The Health System”",
+        "url": "https://www.youtube.com/watch?v=A7y9HFO2YDg",
+        "date_utc": "2026-08-12T05:11:51+00:00",
+        "summary": "Dr Buzz Burrell, Chair of General Practitioners Aotearoa - \"ACT's proposal to let pharmacists treat more minor illnesses is an admission the health system is failing, not a solution.”"
+      },
+      {
+        "title": "Prof Claire Matthews - Where have all the ATMs Gone?",
+        "url": "https://www.youtube.com/watch?v=ZzXgUOafA08",
+        "date_utc": "2026-08-12T04:53:29+00:00",
+        "summary": "Professor Claire Matthews, Massey University Head of School of Accountancy, Economics and Finance - Where have all the ATMs gone?"
+      },
+      {
+        "title": "Ashley Church On Luxon & The Outcome Of The Party Meeting Today",
+        "url": "https://www.youtube.com/watch?v=xa22BwRggAI",
+        "date_utc": "2026-08-12T04:39:34+00:00",
+        "summary": "Ashley Church, Markets and Political Commentator on Chris Luxon and the outcome of the National Party meeting today."
+      },
+      {
+        "title": "A Letter From Simeon Brown Will Sort Out Electricity Prices Yeah Right",
+        "url": "https://www.youtube.com/watch?v=X8Bl6AqF2ek",
+        "date_utc": "2026-08-12T03:33:23+00:00",
+        "summary": "A letter from Simeon Brown will sort out electricity prices. Yeah right, says Michael Laws"
+      },
+      {
+        "title": "Peter Dunne On The “Last Baby Boomer Election”",
+        "url": "https://www.youtube.com/watch?v=1YEBQg92noU",
+        "date_utc": "2026-08-12T02:57:59+00:00",
+        "summary": "Peter Dunne on the “last baby boomer election”"
+      },
+      {
+        "title": "Maurice Williamson On Changes In Leadership In The Nats",
+        "url": "https://www.youtube.com/watch?v=WHCnQaAH20Q",
+        "date_utc": "2026-08-12T00:09:50+00:00",
+        "summary": "Maurice Williamson on changes in leadership in the Nats."
+      },
+      {
+        "title": "Jillaine Heather On BSA Final Ruling On The Platform",
+        "url": "https://www.youtube.com/watch?v=mVtWnfaists",
+        "date_utc": "2026-08-11T23:23:14+00:00",
+        "summary": "Jillaine Heather on BSA final ruling on The Platform. The Platform live on YouTube — only $34.99/month! Join now → https://www.youtube.com/@theplatformnz/join Support The Platform by joining Platform Plus: https://theplatform.kiwi/platform-plus Download The Platform app for free: App Store: https://apps.apple.com/us/app/the-platform/id1596882626 Google Play: https://play.google.com/store/apps/details?id=kiwi.theplatform.android Call 0800 DEBATE or text us at 5050 (Standard SMS text charges will apply) Listen to The Platform's straight-talking, free-thinking hosts every weekday. Sean Plunket: 7am - 10am Michael Laws: 10am - 1pm Leah Panapa: 1pm - 4pm #ThePlatformNZ"
+      },
+      {
+        "title": "Damien Grant On Who Should Lead The National Party",
+        "url": "https://www.youtube.com/watch?v=4i6d-g1iQZ4",
+        "date_utc": "2026-08-11T23:01:07+00:00",
+        "summary": "Damien Grant on who should lead the National Party."
+      },
+      {
+        "title": "Michael Laws Says “The Fix Is In”",
+        "url": "https://www.youtube.com/watch?v=D-grBccqxU0",
+        "date_utc": "2026-08-11T22:28:06+00:00",
+        "summary": "Michael Laws says “the fix is in” : the MSM have brought out their COVID playbook for the 2026 Election"
+      },
+      {
+        "title": "How Many Children Are Being Converted To The Trans Ideology?",
+        "url": "https://www.youtube.com/watch?v=vdDdLqm9C40",
+        "date_utc": "2026-08-11T22:27:57+00:00",
+        "summary": "Bob McCoskrie on how many children are being converted to the trans ideology."
+      },
+      {
+        "title": "Social Media Can Be An Abusive Cesspit How The Law May Help You.",
+        "url": "https://www.youtube.com/watch?v=RZJxCa29MxI",
+        "date_utc": "2026-08-11T22:27:35+00:00",
+        "summary": "Social media can be an abusive cesspit - Netsafe’s Sean Lyons outlines how the law and the courts may help you."
+      },
       {
         "title": "Masterton Mayor On The Dilemma Of Being Too Small",
         "url": "https://www.youtube.com/watch?v=PkVj_Yrw8kc",
@@ -242,72 +308,6 @@
         "url": "https://www.youtube.com/watch?v=jI5vEM6y5Ho",
         "date_utc": "2026-08-11T03:00:33+00:00",
         "summary": "Michael Laws breaks down the “uncoupling migrant” story and says “go home if you don’t like it here”"
-      },
-      {
-        "title": "A “Super” El Niño Is On Its Way",
-        "url": "https://www.youtube.com/watch?v=imrDF9Uq3OI",
-        "date_utc": "2026-08-11T02:28:37+00:00",
-        "summary": "A “super” El Niño is on its way - Chris Brandolino of Earth Sciences explains what That Means For us"
-      },
-      {
-        "title": "Human Rights Commission Turns Its Back On Anti-Semitism In NZ",
-        "url": "https://www.youtube.com/watch?v=kTcop3xQeuQ",
-        "date_utc": "2026-08-11T02:19:09+00:00",
-        "summary": "Human Rights Commission turns its back on anti-semitism in NZ."
-      },
-      {
-        "title": "Nick Wilson On The Existential Threat That AI Represents To Humanity",
-        "url": "https://www.youtube.com/watch?v=yThmbczjWB8",
-        "date_utc": "2026-08-11T02:08:08+00:00",
-        "summary": "Professor Nick Wilson on the existential threat that AI represents to humanity"
-      },
-      {
-        "title": "Brian Tamaki On His Gun License Being Revoked & Court Case",
-        "url": "https://www.youtube.com/watch?v=kGpC8RBDo9c",
-        "date_utc": "2026-08-11T01:19:24+00:00",
-        "summary": "Brian Tamaki on his gun license being revoked and court case."
-      },
-      {
-        "title": "Andrew Wilson On What A Bed Tax Would Look Like In NZ",
-        "url": "https://www.youtube.com/watch?v=lpu9MJOJgBc",
-        "date_utc": "2026-08-11T00:49:52+00:00",
-        "summary": "Andrew Wilson on what a Bed Tax would look like in NZ."
-      },
-      {
-        "title": "Winston Peters Talks MMP & Māori Seats Referendum",
-        "url": "https://www.youtube.com/watch?v=KNVLDCuZyKI",
-        "date_utc": "2026-08-11T00:21:25+00:00",
-        "summary": "Winston Peters talks MMP and Māori seats referendum."
-      },
-      {
-        "title": "Megan Drayton On Rail Safety Week 2026",
-        "url": "https://www.youtube.com/watch?v=mM911vakz1s",
-        "date_utc": "2026-08-10T06:09:03+00:00",
-        "summary": "Megan Drayton, TrackSAFE NZ Foundation Manager - Rail Safety Week 2026."
-      },
-      {
-        "title": "Power Bills Overtake Housing As Kiwis’ Second-Biggest Financial Concern",
-        "url": "https://www.youtube.com/watch?v=-plZFRUfyXA",
-        "date_utc": "2026-08-10T05:43:26+00:00",
-        "summary": "Jon Duffy, CEO of Consumer NZ - Power bills overtake housing as New Zealanders’ second-biggest financial concern."
-      },
-      {
-        "title": "Ashley Church - Declining House Prices Are Killing Our Economy",
-        "url": "https://www.youtube.com/watch?v=TZECUIuv8hE",
-        "date_utc": "2026-08-10T05:29:27+00:00",
-        "summary": "Ashley Church, Markets and Political Commentator - Declining house prices are killing our economy."
-      },
-      {
-        "title": "Memo To MSM: New Zealand Will Determine The PM - Not You",
-        "url": "https://www.youtube.com/watch?v=-M70fkrpmIA",
-        "date_utc": "2026-08-10T03:58:52+00:00",
-        "summary": "Memo to MSM: New Zealand will determine the PM - not you."
-      },
-      {
-        "title": "Mexted On All Blacks’ Best-Case Scenario For A Result In South Africa",
-        "url": "https://www.youtube.com/watch?v=Gk8hV4CLQwU",
-        "date_utc": "2026-08-10T03:49:58+00:00",
-        "summary": "Former All Black Murray Mexted on the All Blacks in South Africa and the best case scenario for a result."
       }
     ],
     "opinions": [
