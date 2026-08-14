@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-08-13T11:54:24Z",
+  "generated_utc": "2026-08-14T11:51:34Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Apologise For Not Lying",
+        "url": "https://realitycheck.radio/apologise-for-not-lying/",
+        "date_utc": "2026-08-14T08:33:35Z",
+        "summary": "by Yvonne van Dongen Last week a small local newspaper […]"
+      },
       {
         "title": "Why The Boomers Love NZ First",
         "url": "https://realitycheck.radio/why-the-boomers-love-nz-first/",
@@ -88,43 +94,67 @@
         "summary": "by Peter Williams In my not entirely successful career as […]"
       },
       {
-        "title": "Politicians: Stuck in scientific purgatory in election year",
-        "url": "https://realitycheck.radio/politicians-stuck-in-scientific-purgatory-in-election-year/",
-        "date_utc": "2026-08-04T00:47:14Z",
-        "summary": "by J. R. Bruning With a general election scheduled for […]"
-      },
-      {
-        "title": "SUSAN SMITH: For Women Scotland: Scottish Taxpayers Funding “Queer Milk”",
-        "url": "https://realitycheck.radio/episodes/susan-smith-for-women-scotland-scottish-taxpayers-funding-queer-milk/",
-        "date_utc": "2026-08-13T05:35:02Z",
+        "title": "JEFFREY TUCKER: Brownstone Institute Founder: What Fauci’s Diaries Reveal",
+        "url": "https://realitycheck.radio/episodes/jeffrey-tucker-brownstone-institute-founder-what-faucis-diaries-reveal/",
+        "date_utc": "2026-08-14T04:45:50Z",
         "summary": ""
       },
       {
-        "title": "MICHAEL ARBON: Farmers Push Back on Net Zero’s Transmission Line",
-        "url": "https://realitycheck.radio/episodes/michael-arbon-farmers-push-back-on-net-zeros-transmission-line/",
-        "date_utc": "2026-08-13T04:20:33Z",
+        "title": "BRENDAN HOARE: Organics Aotearoa NZ: Organic Sector Calls for Investment Ahead of Election",
+        "url": "https://realitycheck.radio/episodes/brendan-hoare-organics-aotearoa-nz-organic-sector-calls-for-investment-ahead-of-election/",
+        "date_utc": "2026-08-14T03:33:24Z",
         "summary": ""
       },
       {
-        "title": "PETER WILLIAMS ON POLITICS: A Leadership Revolt that Solved Nothing",
-        "url": "https://realitycheck.radio/episodes/peter-williams-on-politics-a-leadership-revolt-that-solved-nothing/",
-        "date_utc": "2026-08-13T01:14:32Z",
+        "title": "THE FOURTH ESTATE: Manufactured Coup? Media Narratives Pre-Election",
+        "url": "https://realitycheck.radio/episodes/the-fourth-estate-manufactured-coup-media-narratives-pre-election/",
+        "date_utc": "2026-08-14T01:24:14Z",
         "summary": ""
       },
       {
-        "title": "KEN TURNER: Auckland City Councillor: Plan Change 120: Ratepayer concerns sidelined",
-        "url": "https://realitycheck.radio/episodes/ken-turner-auckland-city-councillor-plan-change-120-ratepayer-concerns-sidelined/",
-        "date_utc": "2026-08-12T21:35:46Z",
+        "title": "JULIA RUCKLIDGE: Clinical Psychology Professor: The Role of Nutrition in the Treatment of ADHD",
+        "url": "https://realitycheck.radio/episodes/julia-rucklidge-clinical-psychology-professor-the-role-of-nutrition-in-the-treatment-of-adhd/",
+        "date_utc": "2026-08-14T01:10:20Z",
         "summary": ""
       },
       {
-        "title": "WEDNESDAY WEBINARS: Lifestyle: Mastering Your Mindset",
-        "url": "https://realitycheck.radio/episodes/wednesday-webinars-lifestyle-mastering-your-mindset/",
-        "date_utc": "2026-08-12T21:27:03Z",
+        "title": "PROF ALEX SIMS: Data Center E-Waste: The Toxic Crisis Poisoning Our Planet",
+        "url": "https://realitycheck.radio/episodes/prof-alex-sims-data-center-e-waste-the-toxic-crisis-poisoning-our-planet/",
+        "date_utc": "2026-08-13T22:26:55Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "There's less incentive to actually invest in Victoria because of all of the taxes and regulation.",
+        "url": "https://www.youtube.com/shorts/3g4v-rNAHxQ",
+        "date_utc": "2026-08-14T08:00:58+00:00",
+        "summary": "🇦🇺 \"There's less incentive to actually invest in Victoria because of all of the taxes and regulation.\" - Tim Penhalluriack, Real Estate Veteran 🇦🇺 Can a government keep increasing property taxes and regulation without eventually damaging the very investment it relies on? 🎥 Watch here: https://rcr.media/episodes/tim-penhalluriack-real-estate-veteran-who-controls-what-you-do-with-your-money #RCRMedia"
+      },
+      {
+        "title": "There's lots of low-hanging fruit that they're just picking off.",
+        "url": "https://www.youtube.com/shorts/Mkudg6y6Klk",
+        "date_utc": "2026-08-14T06:02:14+00:00",
+        "summary": "\"There's lots of low-hanging fruit that they're just picking off.\" - Katie Ashby-Koppens, Lawyer Driver licences, WOFs and vehicle registrations might sound harmless - but where does this push towards digital identity ultimately lead? 🎥 Watch here: https://rcr.media/episodes/legal-hub-katie-ashby-koppens-government-consultation-on-digital-drivers-licences #RCRMedia #Legalhub"
+      },
+      {
+        "title": "More and more of these databases have been created. They can be scraped...",
+        "url": "https://www.youtube.com/shorts/TgAZKJkzjfo",
+        "date_utc": "2026-08-14T00:01:45+00:00",
+        "summary": "\"More and more of these databases have been created. They can be scraped, linked to other technologies, sent overseas.\" - Gehan Gunasekara, Auckland University Law Professor How comfortable are you with police collecting biometric images in public when you don't know where that data could eventually end up? 🎥 Watch here: https://rcr.media/episodes/gehan-gunasekara-auckland-university-law-professor-the-privacy-challenges-of-biometric-identification #RCRMedia"
+      },
+      {
+        "title": "RCR Wednesday Webinars - Lifestyle",
+        "url": "https://www.youtube.com/watch?v=5RMxQueFwUY",
+        "date_utc": "2026-08-13T22:04:16+00:00",
+        "summary": "Join Natalie Cutler-Welsh and life coach Aaron McLoughlin for an insightful RCR Lifestyle Webinar exploring practical mindset strategies that can help you strengthen your \"mental muscle,\" better understand your thoughts and emotions, and take back greater emotional control. Drawing on more than 30 years of experience and Neuro-Linguistic Programming (NLP) techniques, Aaron will share practical tools designed to help you move beyond unhelpful thinking patterns and thrive."
+      },
+      {
+        "title": "Ultra-processed products are designed for the food industry, they're not designed for us",
+        "url": "https://www.youtube.com/shorts/fPtSN6QyadI",
+        "date_utc": "2026-08-13T20:01:40+00:00",
+        "summary": "\"Ultra-processed products are designed for the food industry, they're not designed for us.\" - Prof Julia Rucklidge, Clinical Psychologist If ultra-processed food is engineered to be cheap, convenient and addictive, are we paying the price with our health? 🎥 Watch here: https://rcr.media/episodes/prof-julia-rucklidge-clinical-psychologist-professor-nutritions-missing-role-in-youth-mental-health #RCRMedia"
+      },
       {
         "title": "There's something really wrong with what we're eating and what we're feeding our tamariki.",
         "url": "https://www.youtube.com/shorts/eAHLrH7CWXU",
@@ -184,41 +214,83 @@
         "url": "https://www.youtube.com/shorts/bjBxLAUSJv4",
         "date_utc": "2026-08-10T07:38:52+00:00",
         "summary": "\"In Korea... two companies comprising... about 60% at the peak. But in the US you've got about 10 that account for just over 40%.\" - Joel Robinson, Radical Investment Joel Robinson says both South Korea and the US are becoming increasingly reliant on a small number of companies driving their share markets. Is that a sign of strength - or a warning sign? 🎥 Watch here: https://rcr.media/episodes/money-talks-with-joel-robinson-when-market-hype-outruns-reality #RCRMedia #MoneyTalks"
-      },
-      {
-        "title": "Was there a trigger and was that ruling a trigger?",
-        "url": "https://www.youtube.com/shorts/pcJ0pTA427o",
-        "date_utc": "2026-08-10T07:01:11+00:00",
-        "summary": "\"Was there a trigger and was that ruling a trigger?\" - Freddie Ponton - Global Affairs Associate Editor 21st Century Wire Freddie Ponton examines whether a court ruling, combined with coordinated online messaging, helped drive the sudden surge into Ceuta. Do major legal decisions have unintended consequences that governments fail to anticipate? 🎥 Watch here: https://rcr.media/episodes/freddie-ponton-associate-editor-at-21st-century-wire-was-the-ceuta-crossing-a-manufactured-crisis #RCRMedia"
-      },
-      {
-        "title": "A vast AI-fueled surveillance system can ensure citizens will be on their best behaviour.",
-        "url": "https://www.youtube.com/shorts/JnnLiRlac9Y",
-        "date_utc": "2026-08-10T01:12:27+00:00",
-        "summary": "\"A vast AI-fueled surveillance system can ensure citizens will be on their best behaviour.\" - Tom DeWeese, Founder of the American Policy Center As AI, digital currencies and digital identities expand, how do we ensure technology protects freedom rather than restricts it? 🎥 Watch here: https://rcr.media/episodes/tom-deweese-founder-of-the-american-policy-center-pushing-back-on-data-centres-and-the-surveillance-state #RCRMedia"
-      },
-      {
-        "title": "It was such a coincidence that we had the news on the Friday of this suspected mass mortality...",
-        "url": "https://www.youtube.com/shorts/QjjUZAguoCY",
-        "date_utc": "2026-08-09T23:44:08+00:00",
-        "summary": "🇦🇺 \"It was such a coincidence that we had the news on the Friday of this suspected mass mortality. And then Nine News Adelaide puts this out.\" - Tim Wilms from The Unshackled 🇦🇺 A bird flu outbreak, native bird deaths and renewed attention on insect protein have all entered the conversation in Australia. Tim Wilms shares his thoughts on the timing. What do you make of these developments - coincidence or something worth questioning? 🎥 Watch here: https://rcr.media/episodes/the-wilms-report-with-tim-wilms-victoria-upheaval-puts-labor-under-pressure #RCRMedia #TheWilmsReport"
-      },
-      {
-        "title": "The New Zealand psyche has been so conditioned to be on the drug of other people's money",
-        "url": "https://www.youtube.com/shorts/GQU67oUGVTk",
-        "date_utc": "2026-08-09T19:02:39+00:00",
-        "summary": "\"The New Zealand psyche has been so conditioned to be on the drug of other people's money.\" - Don Nicolson Don Nicolson says New Zealand has become too dependent on wealth being redistributed through government rather than created by productive businesses. Has the balance between taxation and productivity shifted too far? 🎥 Watch here: https://rcr.media/episodes/greenwashed-why-council-amalgamation-wont-fix-local-government #RCRMedia #Greenwashed"
-      },
-      {
-        "title": "\"You can't just drop and run. And I know parents are busy. And believe me, I was one of those too. B",
-        "url": "https://www.youtube.com/shorts/awkCPBTeuUU",
-        "date_utc": "2026-08-08T20:02:01+00:00",
-        "summary": "\"You can't just drop and run. And I know parents are busy. And believe me, I was one of those too. But you just can't.\" - Maree Buscke Maree Buscke warns parents not to assume today's classrooms are the same as the ones they experienced growing up. Are parents too trusting of schools, assuming they no longer need to be involved? Maree Buscke and Penny Marie (Founder of Let Kids Be Kids NZ) discuss concerns around relationship and sex education in schools, including claims that parents may not realise what content is still being taught, the use of third-party resources, transparency around teaching materials, and the importance of parents engaging with schools. 🎥 Watch here: https://rcr.media/episodes/penny-marie-founder-of-let-kids-be-kids-nz-parents-urged-to-look-beyond-curriculum-changes #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "The South Island Is Getting Stiffed - Nelson Mayor Nick Smith Explains",
+        "url": "https://www.youtube.com/watch?v=tO6mTb5nHRM",
+        "date_utc": "2026-08-14T08:14:51+00:00",
+        "summary": "The South Island is getting stiffed - Nelson mayor Nick Smith explains"
+      },
+      {
+        "title": "Electricity Prices Are Too High - Is There Any Hope?",
+        "url": "https://www.youtube.com/watch?v=123HDyGVGDg",
+        "date_utc": "2026-08-14T06:36:06+00:00",
+        "summary": "Electricity prices are too high - is there any hope? Freeman Media's Gavin Evans provides an insight"
+      },
+      {
+        "title": "Why It's Still Important To Be Employing Senior Citizens",
+        "url": "https://www.youtube.com/watch?v=wVqIL8SRSVc",
+        "date_utc": "2026-08-14T05:20:09+00:00",
+        "summary": "Ian Fraser, Director/Founder of Seniors@Work on why it's still important to be employing senior citizens."
+      },
+      {
+        "title": "Legal Pitfalls Of The Govt Proposing To Expand Citizen’s Arrest Powers",
+        "url": "https://www.youtube.com/watch?v=keZ9nGbVK0E",
+        "date_utc": "2026-08-14T05:09:34+00:00",
+        "summary": "Marie Dhyrberg, KC Lawyer on the legal pitfalls of the Government proposing to expand citizen’s arrest powers."
+      },
+      {
+        "title": "ACT's Proposal To Let Pharmacists Treat More Minor Illnesses",
+        "url": "https://www.youtube.com/watch?v=KL8TZEuWbzM",
+        "date_utc": "2026-08-14T04:50:31+00:00",
+        "summary": "Lanny Wong, Director of Mangawhai Pharmacy on ACT's proposal to let pharmacists treat more minor illnesses."
+      },
+      {
+        "title": "NZ Is In A Battered Wife Relationship With China - We Can't Trust Them",
+        "url": "https://www.youtube.com/watch?v=kXFKETu_UQA",
+        "date_utc": "2026-08-14T03:13:33+00:00",
+        "summary": "NZ is in a battered wife relationship with China - we can't trust them."
+      },
+      {
+        "title": "National Party Activist On A Tough Week For The Nats And MSM Hyperbole",
+        "url": "https://www.youtube.com/watch?v=g8XoTgm9ey8",
+        "date_utc": "2026-08-14T03:09:20+00:00",
+        "summary": "National Party activist Brigitte Morten on a tough week for the Nats and MSM hyperbole"
+      },
+      {
+        "title": "Is This A Harmful Digital Communication?",
+        "url": "https://www.youtube.com/watch?v=HJgiS96Wjnc",
+        "date_utc": "2026-08-14T01:33:00+00:00",
+        "summary": "Is this a harmful digital communication?"
+      },
+      {
+        "title": "Who Is The Banger Of The Week In The Friday Fry Up?",
+        "url": "https://www.youtube.com/watch?v=zFlM23pq-vU",
+        "date_utc": "2026-08-14T01:00:27+00:00",
+        "summary": "The Friday Fry Up is brought to you by Beard Brothers, crafted the old school way."
+      },
+      {
+        "title": "Free Speech Fridays #169 – Don Brash & Bob McCoskrie",
+        "url": "https://www.youtube.com/watch?v=K4hHZv4-BIQ",
+        "date_utc": "2026-08-14T00:46:14+00:00",
+        "summary": "Free Speech Fridays with Don Brash & Bob McCoskrie is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss the failed coup against Chris Luxon’s leadership, Jason Arday’s extensive lies to Cambridge University, the BSA ruling on the Platform, and more."
+      },
+      {
+        "title": "Chris Bishop Cracks Down On Judges With Attorney General Speech",
+        "url": "https://www.youtube.com/watch?v=3jbSnD9Voh0",
+        "date_utc": "2026-08-14T00:10:50+00:00",
+        "summary": "Chris Bishop cracks down on judges with Attorney General speech."
+      },
+      {
+        "title": "David Seymour On ACT’s 'No New Tax’ Policy",
+        "url": "https://www.youtube.com/watch?v=EEajTJPNta8",
+        "date_utc": "2026-08-13T23:48:57+00:00",
+        "summary": "David Seymour on the ACT Party’s ‘No New Tax' policy."
+      },
       {
         "title": "Auckland Uni Developing New Obesity Pill That Targets Fat Keeps Muscle",
         "url": "https://www.youtube.com/watch?v=9fW7BS-3IoY",
@@ -236,81 +308,15 @@
         "url": "https://www.youtube.com/watch?v=6GuLucww1gI",
         "date_utc": "2026-08-13T04:50:21+00:00",
         "summary": "Jan Rivers, Spokesperson for Genspect NZ on the need to record sex and gender separately in health data following NZ's cervical screen programme mess."
-      },
-      {
-        "title": "What Happened With The Coup On Chris Luxon?",
-        "url": "https://www.youtube.com/watch?v=K760crvpEWc",
-        "date_utc": "2026-08-13T04:05:34+00:00",
-        "summary": "What happened with the Coup on Chris Luxon?"
-      },
-      {
-        "title": "Laura McClure On BSA’s Final Attack On The Platform",
-        "url": "https://www.youtube.com/watch?v=ZTywr2crwpw",
-        "date_utc": "2026-08-13T03:41:10+00:00",
-        "summary": "ACT MP, Laura McClure on BSA’s final attack on The Platform."
-      },
-      {
-        "title": "Shane Jones Says Our Electricity System Is Broken (And Why)",
-        "url": "https://www.youtube.com/watch?v=uk_WvbsccHA",
-        "date_utc": "2026-08-13T03:23:53+00:00",
-        "summary": "Shane Jones says our electricity system is broken (and why)"
-      },
-      {
-        "title": "Hastings Cr Steve Gibson Speaks Up Against Unelected Voting Rights",
-        "url": "https://www.youtube.com/watch?v=QXh7s5bsOao",
-        "date_utc": "2026-08-13T03:20:29+00:00",
-        "summary": "Hastings councillor Steve Gibson speaks up against unelected voting rights."
-      },
-      {
-        "title": "Rotorua Councillor On why She Stymied That District's Merger Plans",
-        "url": "https://www.youtube.com/watch?v=p7QCavZohj4",
-        "date_utc": "2026-08-13T02:40:26+00:00",
-        "summary": "Rotorua councillor Merepeka Raukawa-Tait on why she stymied that district's merger plans"
-      },
-      {
-        "title": "Democracy Project's Dr Bryce Edwards On National's Future",
-        "url": "https://www.youtube.com/watch?v=IqCj306sZn0",
-        "date_utc": "2026-08-13T02:14:38+00:00",
-        "summary": "Democracy Project's Dr Bryce Edwards on National's future"
-      },
-      {
-        "title": "ML Makes Sense Of The Last 24 hours - NZ Politics Is In A Funk",
-        "url": "https://www.youtube.com/watch?v=u5Aml6Qb3J0",
-        "date_utc": "2026-08-13T02:01:53+00:00",
-        "summary": "Michael Laws makes sense of the the last 24 hours - NZ politics is in a funk"
-      },
-      {
-        "title": "“ACT's Proposal Diverts Money Away From The Health System”",
-        "url": "https://www.youtube.com/watch?v=A7y9HFO2YDg",
-        "date_utc": "2026-08-12T05:11:51+00:00",
-        "summary": "Dr Buzz Burrell, Chair of General Practitioners Aotearoa - \"ACT's proposal to let pharmacists treat more minor illnesses is an admission the health system is failing, not a solution.”"
-      },
-      {
-        "title": "Prof Claire Matthews - Where have all the ATMs Gone?",
-        "url": "https://www.youtube.com/watch?v=ZzXgUOafA08",
-        "date_utc": "2026-08-12T04:53:29+00:00",
-        "summary": "Professor Claire Matthews, Massey University Head of School of Accountancy, Economics and Finance - Where have all the ATMs gone?"
-      },
-      {
-        "title": "Ashley Church On Luxon & The Outcome Of The Party Meeting Today",
-        "url": "https://www.youtube.com/watch?v=xa22BwRggAI",
-        "date_utc": "2026-08-12T04:39:34+00:00",
-        "summary": "Ashley Church, Markets and Political Commentator on Chris Luxon and the outcome of the National Party meeting today."
-      },
-      {
-        "title": "A Letter From Simeon Brown Will Sort Out Electricity Prices Yeah Right",
-        "url": "https://www.youtube.com/watch?v=X8Bl6AqF2ek",
-        "date_utc": "2026-08-12T03:33:23+00:00",
-        "summary": "A letter from Simeon Brown will sort out electricity prices. Yeah right, says Michael Laws"
-      },
-      {
-        "title": "Peter Dunne On The “Last Baby Boomer Election”",
-        "url": "https://www.youtube.com/watch?v=1YEBQg92noU",
-        "date_utc": "2026-08-12T02:57:59+00:00",
-        "summary": "Peter Dunne on the “last baby boomer election”"
       }
     ],
     "opinions": [
+      {
+        "title": "Nationals Bad Really Bad Day",
+        "url": "https://theplatform.kiwi/opinions/nationals-bad-really-bad-day",
+        "date_utc": "2026-08-14",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
       {
         "title": "Apologise For Not Lying",
         "url": "https://theplatform.kiwi/opinions/apologise-for-not-lying",
@@ -375,12 +381,6 @@
         "title": "Performative Parsimony",
         "url": "https://theplatform.kiwi/opinions/performative-parsimony",
         "date_utc": "2026-06-05",
-        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
-      },
-      {
-        "title": "Hipkins Policy Silence Doesnt Matter",
-        "url": "https://theplatform.kiwi/opinions/hipkins-policy-silence-doesnt-matter",
-        "date_utc": "2026-06-03",
         "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
       }
     ]
