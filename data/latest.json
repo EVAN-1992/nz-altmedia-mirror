@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-08-14T11:51:34Z",
+  "generated_utc": "2026-08-15T11:27:41Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "They Saw it Coming",
+        "url": "https://realitycheck.radio/they-saw-it-coming/",
+        "date_utc": "2026-08-15T08:50:04Z",
+        "summary": "by Amerikanets In mid-February 2026, before the US military initiated […]"
+      },
       {
         "title": "Apologise For Not Lying",
         "url": "https://realitycheck.radio/apologise-for-not-lying/",
@@ -88,43 +94,67 @@
         "summary": "by Nathan Smith The government’s revamped Move-On powers have already […]"
       },
       {
-        "title": "Who can be a racist?",
-        "url": "https://realitycheck.radio/who-can-be-a-racist/",
-        "date_utc": "2026-08-04T23:43:28Z",
-        "summary": "by Peter Williams In my not entirely successful career as […]"
-      },
-      {
-        "title": "JEFFREY TUCKER: Brownstone Institute Founder: What Fauci’s Diaries Reveal",
-        "url": "https://realitycheck.radio/episodes/jeffrey-tucker-brownstone-institute-founder-what-faucis-diaries-reveal/",
-        "date_utc": "2026-08-14T04:45:50Z",
+        "title": "KEN TURNER: NZ Housing Crisis: 2000 Empty Homes But Who’s Actually Moving In?",
+        "url": "https://realitycheck.radio/episodes/ken-turner-nz-housing-crisis-2000-empty-homes-but-whos-actually-moving-in/",
+        "date_utc": "2026-08-14T21:21:03Z",
         "summary": ""
       },
       {
-        "title": "BRENDAN HOARE: Organics Aotearoa NZ: Organic Sector Calls for Investment Ahead of Election",
-        "url": "https://realitycheck.radio/episodes/brendan-hoare-organics-aotearoa-nz-organic-sector-calls-for-investment-ahead-of-election/",
-        "date_utc": "2026-08-14T03:33:24Z",
+        "title": "KEN TURNER: Flood Models & Fiscal Fixes: Is NZ Council Getting It Right?",
+        "url": "https://realitycheck.radio/episodes/ken-turner-flood-models-fiscal-fixes-is-nz-council-getting-it-right/",
+        "date_utc": "2026-08-14T21:20:13Z",
         "summary": ""
       },
       {
-        "title": "THE FOURTH ESTATE: Manufactured Coup? Media Narratives Pre-Election",
-        "url": "https://realitycheck.radio/episodes/the-fourth-estate-manufactured-coup-media-narratives-pre-election/",
-        "date_utc": "2026-08-14T01:24:14Z",
+        "title": "SUSAN SMITH: Queer Milk’s Identity Crisis: Where Do Mothers and Babies Fit?",
+        "url": "https://realitycheck.radio/episodes/susan-smith-queer-milks-identity-crisis-where-do-mothers-and-babies-fit/",
+        "date_utc": "2026-08-14T21:18:55Z",
         "summary": ""
       },
       {
-        "title": "JULIA RUCKLIDGE: Clinical Psychology Professor: The Role of Nutrition in the Treatment of ADHD",
-        "url": "https://realitycheck.radio/episodes/julia-rucklidge-clinical-psychology-professor-the-role-of-nutrition-in-the-treatment-of-adhd/",
-        "date_utc": "2026-08-14T01:10:20Z",
+        "title": "RIDING SHOTGUN: NZ Leadership Chaos: What Were Luxon’s Plotters Thinking?",
+        "url": "https://realitycheck.radio/episodes/riding-shotgun-nz-leadership-chaos-what-were-luxons-plotters-thinking/",
+        "date_utc": "2026-08-14T21:18:26Z",
         "summary": ""
       },
       {
-        "title": "PROF ALEX SIMS: Data Center E-Waste: The Toxic Crisis Poisoning Our Planet",
-        "url": "https://realitycheck.radio/episodes/prof-alex-sims-data-center-e-waste-the-toxic-crisis-poisoning-our-planet/",
-        "date_utc": "2026-08-13T22:26:55Z",
+        "title": "NATHAN SEIULI: NZ Blasphemy Laws: Silencing Criticism Under the Guise of Protection?",
+        "url": "https://realitycheck.radio/episodes/nathan-seiuli-nz-blasphemy-laws-silencing-criticism-under-the-guise-of-protection/",
+        "date_utc": "2026-08-14T21:17:10Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "Having opinions that go against the governmental narrative.",
+        "url": "https://www.youtube.com/shorts/NH80EPntF7s",
+        "date_utc": "2026-08-15T07:01:08+00:00",
+        "summary": "\"Having opinions that go against the governmental narrative\" - Rachel Stewart Rachel Stewart says her own firearms licence was challenged after controversial social media posts, and now she's questioning what happened to Brian Tamaki. If your political opinions can affect whether you're considered \"fit and proper\", are we entering dangerous territory? Rachel Stewart and Maree Buscke discuss on this episode of Both Barrels. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-firearms-free-speech-and-who-is-fit-and-proper #RCRMedia #BothBarrels"
+      },
+      {
+        "title": "If we don't have those coming in from the food supply, then we are going to feel sluggish...",
+        "url": "https://www.youtube.com/shorts/QnIC8-i3INs",
+        "date_utc": "2026-08-15T06:01:40+00:00",
+        "summary": "\"If we don't have those coming in from the food supply, then we are going to feel sluggish, slow, irritable, poor sleep, anxious, moody, temper, aggressive.\" - Prof Julia Rucklidge, Clinical Psychologist Are we too quick to label struggling teenagers when we haven't even looked at what they're eating? 🎥 Watch here: https://rcr.media/episodes/prof-julia-rucklidge-clinical-psychologist-professor-nutritions-missing-role-in-youth-mental-health #RCRMedia"
+      },
+      {
+        "title": "I don't think that spending a billion dollars on seismic acquisition is a sensible way forward...",
+        "url": "https://www.youtube.com/shorts/5iO-3Z8AKYU",
+        "date_utc": "2026-08-15T00:01:28+00:00",
+        "summary": "\"I don't think that spending a billion dollars on seismic acquisition is a sensible way forward at all.\" - Sean Rush, Energy Lawyer If valuable seismic data already exists, why would New Zealand spend billions acquiring more - especially when that money could fund doctors, nurses and teachers? 🎥 Watch here: https://rcr.media/episodes/sean-rush-energy-lawyer-can-new-zealand-unlock-its-energy-wealth #RCRMedia"
+      },
+      {
+        "title": "The breaches keep happening on a daily basis.",
+        "url": "https://www.youtube.com/shorts/gKxbOxmL1fs",
+        "date_utc": "2026-08-14T20:01:06+00:00",
+        "summary": "\"The breaches keep happening on a daily basis.\" - Katie Ashby-Koppens, Lawyer Are we becoming too accepting of data breaches - and simply shrugging our shoulders because our personal information is already out there? 🎥 Watch here: https://rcr.media/episodes/legal-hub-katie-ashby-koppens-government-consultation-on-digital-drivers-licences #RCRMedia #Legalhub"
+      },
+      {
+        "title": "He's kind of been quite friendly to big business types, pushing the levers of politicians...",
+        "url": "https://www.youtube.com/shorts/zBI688r6ics",
+        "date_utc": "2026-08-14T19:02:15+00:00",
+        "summary": "\"He's kind of been quite friendly to big business types, pushing the levers of politicians. And then he's saying to the small businesses, 'That's not what I stand for'.\" - Rob MacCulloch, Economist Is there a double standard in how Christopher Luxon responds to big business versus small businesses? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-maree-buscke-rachel-stewart-rob-macculloch-political-messaging-vs-meaningful-policy #RCRMedia #APoliticalAgenda"
+      },
       {
         "title": "There's less incentive to actually invest in Victoria because of all of the taxes and regulation.",
         "url": "https://www.youtube.com/shorts/3g4v-rNAHxQ",
@@ -184,36 +214,6 @@
         "url": "https://www.youtube.com/shorts/Zl1WLlMq5v8",
         "date_utc": "2026-08-11T20:02:52+00:00",
         "summary": "\"No one's going to be forced to stick their face in an EFTPOS terminal to pay for their coffee in the morning.\" - Jon Duffy, Consumer NZ CEO But if biometric payments become widespread, will choosing not to use them eventually become impractical? 🎥 Watch here: https://rcr.media/episodes/jon-duffy-consumer-nz-ceo-biometric-payments-are-coming-what-are-the-risks #RCRMedia"
-      },
-      {
-        "title": "'Can a woman with a penis use that toilet downstairs?'... And they wrote back and said they could.",
-        "url": "https://www.youtube.com/shorts/I3ZNN0Ox9iI",
-        "date_utc": "2026-08-11T19:03:03+00:00",
-        "summary": "\"'Can a woman with a penis use that toilet downstairs?'... And they wrote back and said they could.\" - Rodney Hide Rodney Hide shares an email exchange he says he had with a ski field (The Remarkables) over its toilet policy, arguing the responses highlighted inconsistencies. Do organisations need clearer policies around single-sex facilities? 🎥 Watch here: https://rcr.media/episodes/matty-jessup-let-kids-be-kids-activist-father-pushing-back-against-school-ideology #RCRMedia"
-      },
-      {
-        "title": "30,000 of them were going to be eliminated, and they were going to use that money...",
-        "url": "https://www.youtube.com/shorts/98LXpFFwPp0",
-        "date_utc": "2026-08-11T06:01:18+00:00",
-        "summary": "\"30,000 of them were going to be eliminated, and they were going to use that money from their payroll to build more data centres. A lot of blue collar jobs, a lot of white collar jobs... and it said, 'Yeah, that's true, but what we're moving towards is universal basic income'. That means that nobody has a job.\" - Tom DeWeese, Founder of the American Policy Center As AI replaces more jobs across both blue and white collar industries, are we heading toward a future of greater freedom - or a society where people no longer have the independence that comes from meaningful work? 🎥 Watch here: https://rcr.media/episodes/tom-deweese-founder-of-the-american-policy-center-pushing-back-on-data-centres-and-the-surveillance-state #RCRMedia"
-      },
-      {
-        "title": "DR MATTHEW M WIELICKI",
-        "url": "https://www.youtube.com/watch?v=bbbFu93F_DE",
-        "date_utc": "2026-08-11T03:22:50+00:00",
-        "summary": "Dr Matthew M Wielicki dialled in for a stimulating discussion about everything from intolerant DEI policy, to woke ideology, to climate consternation craziness, and more. For more from Matthew, follow him on: Website: matthewwielicki.com X: @MatthewWielicki Substack: @irrationalfear"
-      },
-      {
-        "title": "What are we raising you kids with? ... 'A good bullshit detector'.",
-        "url": "https://www.youtube.com/shorts/Q1XiUg5G8ws",
-        "date_utc": "2026-08-11T00:01:58+00:00",
-        "summary": "\"What are we raising you kids with? ... 'A good bullshit detector'.\" - Matty Jessup, Let Kids Be Kids Activist & Father Matty Jessup says he encourages his children to question ideas they hear and think critically rather than simply accepting them. How important is it to teach children to challenge information they receive at school and online? 🎥 Watch here: https://rcr.media/episodes/matty-jessup-let-kids-be-kids-activist-father-pushing-back-against-school-ideology #RCRMedia"
-      },
-      {
-        "title": "In Korea... two companies comprising... about 60% at the peak.",
-        "url": "https://www.youtube.com/shorts/bjBxLAUSJv4",
-        "date_utc": "2026-08-10T07:38:52+00:00",
-        "summary": "\"In Korea... two companies comprising... about 60% at the peak. But in the US you've got about 10 that account for just over 40%.\" - Joel Robinson, Radical Investment Joel Robinson says both South Korea and the US are becoming increasingly reliant on a small number of companies driving their share markets. Is that a sign of strength - or a warning sign? 🎥 Watch here: https://rcr.media/episodes/money-talks-with-joel-robinson-when-market-hype-outruns-reality #RCRMedia #MoneyTalks"
       }
     ]
   },
