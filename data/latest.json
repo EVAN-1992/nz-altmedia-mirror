@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-08-16T11:27:18Z",
+  "generated_utc": "2026-08-17T11:33:22Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "New Zealand is An Escape Hatch – Part 2",
+        "url": "https://realitycheck.radio/new-zealand-is-an-escape-hatch-part-2/",
+        "date_utc": "2026-08-17T08:44:33Z",
+        "summary": "by Yvonne van Dongen American nurse practitioner Michelle Green has […]"
+      },
       {
         "title": "New Zealand Is An Escape Hatch – Part 1",
         "url": "https://realitycheck.radio/new-zealand-is-an-escape-hatch-part-1/",
@@ -26,6 +32,12 @@
         "url": "https://realitycheck.radio/apologise-for-not-lying/",
         "date_utc": "2026-08-14T08:33:35Z",
         "summary": "by Yvonne van Dongen Last week a small local newspaper […]"
+      },
+      {
+        "title": "Riding Shotgun – ep 57: Psychology and Pyschopathy in Politics",
+        "url": "https://realitycheck.radio/riding-shotgun-ep-57-psychology-and-pyschopathy-in-politics/",
+        "date_utc": "2026-08-14T03:30:08Z",
+        "summary": "by Rachel Stewart Well, a day can be a month […]"
       },
       {
         "title": "Why The Boomers Love NZ First",
@@ -82,16 +94,22 @@
         "summary": "by Simon O’Connor This is not my regular Substack. It […]"
       },
       {
-        "title": "Political Opinion",
-        "url": "https://realitycheck.radio/political-opinion/",
-        "date_utc": "2026-08-07T05:33:34Z",
-        "summary": "by Peter Williams If you wanted a display on who […]"
+        "title": "JAN RIVERS: Genspect NZ Spokeswoman: WPATH’s Courtroom Retreat",
+        "url": "https://realitycheck.radio/episodes/jan-rivers-genspect-nz-spokeswoman-wpaths-courtroom-retreat/",
+        "date_utc": "2026-08-17T06:40:40Z",
+        "summary": ""
       },
       {
-        "title": "Demography Is Destiny — And New Zealand Is Choosing Decline",
-        "url": "https://realitycheck.radio/demography-is-destiny-and-new-zealand-is-choosing-decline/",
-        "date_utc": "2026-08-07T00:01:25Z",
-        "summary": "by Rodney Hide Elon Musk is blunt: “Demography is destiny.” […]"
+        "title": "AUGUSTO ZIMMERMANN: Foundation Dean and Professor of Law at ALPHACRUCIS University College, Sydney: The Case for Civil Disobedience",
+        "url": "https://realitycheck.radio/episodes/augusto-zimmermann-foundation-dean-and-professor-of-law-at-alpha-crucias-university-college-sydney-the-case-for-civil-disobedience/",
+        "date_utc": "2026-08-17T00:01:49Z",
+        "summary": ""
+      },
+      {
+        "title": "CAROLYN YOUNG: CEO Of Retail NZ: Facial Recognition and the New Front Line of Retail Safety",
+        "url": "https://realitycheck.radio/episodes/carolyn-young-ceo-of-retail-nz-facial-recognition-and-the-new-front-line-of-retail-safety/",
+        "date_utc": "2026-08-16T23:04:35Z",
+        "summary": ""
       },
       {
         "title": "ALIA BLAND & KATIE ASHBY-KOPPENS: What Officials Knew About Myocarditis Risk for Teens",
@@ -100,31 +118,19 @@
         "summary": ""
       },
       {
-        "title": "KEN TURNER: NZ Housing Crisis: 2000 Empty Homes But Who’s Actually Moving In?",
-        "url": "https://realitycheck.radio/episodes/ken-turner-nz-housing-crisis-2000-empty-homes-but-whos-actually-moving-in/",
-        "date_utc": "2026-08-14T21:21:03Z",
-        "summary": ""
-      },
-      {
         "title": "KEN TURNER: Flood Models & Fiscal Fixes: Is NZ Council Getting It Right?",
         "url": "https://realitycheck.radio/episodes/ken-turner-flood-models-fiscal-fixes-is-nz-council-getting-it-right/",
         "date_utc": "2026-08-14T21:20:13Z",
         "summary": ""
-      },
-      {
-        "title": "SUSAN SMITH: Queer Milk’s Identity Crisis: Where Do Mothers and Babies Fit?",
-        "url": "https://realitycheck.radio/episodes/susan-smith-queer-milks-identity-crisis-where-do-mothers-and-babies-fit/",
-        "date_utc": "2026-08-14T21:18:55Z",
-        "summary": ""
-      },
-      {
-        "title": "RIDING SHOTGUN: NZ Leadership Chaos: What Were Luxon’s Plotters Thinking?",
-        "url": "https://realitycheck.radio/episodes/riding-shotgun-nz-leadership-chaos-what-were-luxons-plotters-thinking/",
-        "date_utc": "2026-08-14T21:18:26Z",
-        "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "More people would rather live next to a nuclear power plant than a data centre",
+        "url": "https://www.youtube.com/shorts/M_DvDLCsqOU",
+        "date_utc": "2026-08-17T06:01:33+00:00",
+        "summary": "\"More people would rather live next to a nuclear power plant than a data centre.\" - Alex Sims, Auckland University Commercial Law Professor Data centres are being sold as the future of jobs and growth - but Alex Sims says she's struggling to see the economic payoff. Would you rather have a data centre or a nuclear power plant as your neighbour? 🎥 Watch here: https://rcr.media/episodes/alex-sims-auckland-university-commercial-law-professor-southlands-3-5-billion-ai-data-centre-who-pays-the-price #RCRMedia"
+      },
       {
         "title": "62% of them were identified as much to very much improved, versus only 12%.",
         "url": "https://www.youtube.com/shorts/bqqWBUm7dsk",
@@ -208,17 +214,53 @@
         "url": "https://www.youtube.com/watch?v=5RMxQueFwUY",
         "date_utc": "2026-08-13T22:04:16+00:00",
         "summary": "Join Natalie Cutler-Welsh and life coach Aaron McLoughlin for an insightful RCR Lifestyle Webinar exploring practical mindset strategies that can help you strengthen your \"mental muscle,\" better understand your thoughts and emotions, and take back greater emotional control. Drawing on more than 30 years of experience and Neuro-Linguistic Programming (NLP) techniques, Aaron will share practical tools designed to help you move beyond unhelpful thinking patterns and thrive."
-      },
-      {
-        "title": "Ultra-processed products are designed for the food industry, they're not designed for us",
-        "url": "https://www.youtube.com/shorts/fPtSN6QyadI",
-        "date_utc": "2026-08-13T20:01:40+00:00",
-        "summary": "\"Ultra-processed products are designed for the food industry, they're not designed for us.\" - Prof Julia Rucklidge, Clinical Psychologist If ultra-processed food is engineered to be cheap, convenient and addictive, are we paying the price with our health? 🎥 Watch here: https://rcr.media/episodes/prof-julia-rucklidge-clinical-psychologist-professor-nutritions-missing-role-in-youth-mental-health #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Chris Trotter On Failed Chris Luxon Coup, & The Mishaps Of TOP",
+        "url": "https://www.youtube.com/watch?v=oqwZwxJibog",
+        "date_utc": "2026-08-17T09:31:11+00:00",
+        "summary": "Chris Trotter on Failed Chris Luxon Coup, and the Mishaps of Opportunity Party"
+      },
+      {
+        "title": "James Dalglish On Increased Crimes Rates Using Rental Cars",
+        "url": "https://www.youtube.com/watch?v=GL0cqxA8p5A",
+        "date_utc": "2026-08-17T05:55:54+00:00",
+        "summary": "James Dalglish On Increased Crimes Rates Using Rental Cars"
+      },
+      {
+        "title": "Sean Agrees with Helen Clark!",
+        "url": "https://www.youtube.com/watch?v=QYmkFQIN60I",
+        "date_utc": "2026-08-17T04:34:55+00:00",
+        "summary": "Sean agrees with Helen Clark!"
+      },
+      {
+        "title": "The South Island Is Different, Says Business South CEO Mike Collins.",
+        "url": "https://www.youtube.com/watch?v=iQTjx7W66a0",
+        "date_utc": "2026-08-17T03:42:01+00:00",
+        "summary": "The South Island is different, says Business South CEO Mike Collins. And why Labour’s Chris Hipkins doesn’t get it."
+      },
+      {
+        "title": "Leading pollster on why The Poll Results Look Different",
+        "url": "https://www.youtube.com/watch?v=lv-fqt-TMtE",
+        "date_utc": "2026-08-17T02:54:43+00:00",
+        "summary": "Leading pollster David Farrar on why the poll results look different, and Opportunities Party’s Achilles heel"
+      },
+      {
+        "title": "Act Leader On The Changes That He Wants For The Public Sector",
+        "url": "https://www.youtube.com/watch?v=EL2MiifToVs",
+        "date_utc": "2026-08-17T02:46:14+00:00",
+        "summary": "Act leader David Seymour on the culture-blind, talent-driven, secular changes that he wants for the public sector"
+      },
+      {
+        "title": "Te Pati Maori want To Rig The Election",
+        "url": "https://www.youtube.com/watch?v=0ujRtrZP_Jo",
+        "date_utc": "2026-08-17T02:43:59+00:00",
+        "summary": "Te Pati Maori want to rig the election - so where are the MSM & academic critics?"
+      },
       {
         "title": "The South Island Is Getting Stiffed - Nelson Mayor Nick Smith Explains",
         "url": "https://www.youtube.com/watch?v=tO6mTb5nHRM",
@@ -266,48 +308,6 @@
         "url": "https://www.youtube.com/watch?v=HJgiS96Wjnc",
         "date_utc": "2026-08-14T01:33:00+00:00",
         "summary": "Is this a harmful digital communication?"
-      },
-      {
-        "title": "Who Is The Banger Of The Week In The Friday Fry Up?",
-        "url": "https://www.youtube.com/watch?v=zFlM23pq-vU",
-        "date_utc": "2026-08-14T01:00:27+00:00",
-        "summary": "The Friday Fry Up is brought to you by Beard Brothers, crafted the old school way."
-      },
-      {
-        "title": "Free Speech Fridays #169 – Don Brash & Bob McCoskrie",
-        "url": "https://www.youtube.com/watch?v=K4hHZv4-BIQ",
-        "date_utc": "2026-08-14T00:46:14+00:00",
-        "summary": "Free Speech Fridays with Don Brash & Bob McCoskrie is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss the failed coup against Chris Luxon’s leadership, Jason Arday’s extensive lies to Cambridge University, the BSA ruling on the Platform, and more."
-      },
-      {
-        "title": "Chris Bishop Cracks Down On Judges With Attorney General Speech",
-        "url": "https://www.youtube.com/watch?v=3jbSnD9Voh0",
-        "date_utc": "2026-08-14T00:10:50+00:00",
-        "summary": "Chris Bishop cracks down on judges with Attorney General speech."
-      },
-      {
-        "title": "David Seymour On ACT’s 'No New Tax’ Policy",
-        "url": "https://www.youtube.com/watch?v=EEajTJPNta8",
-        "date_utc": "2026-08-13T23:48:57+00:00",
-        "summary": "David Seymour on the ACT Party’s ‘No New Tax' policy."
-      },
-      {
-        "title": "Auckland Uni Developing New Obesity Pill That Targets Fat Keeps Muscle",
-        "url": "https://www.youtube.com/watch?v=9fW7BS-3IoY",
-        "date_utc": "2026-08-13T05:25:59+00:00",
-        "summary": "Professor Peter Shepherd, Medical and Health Sciences at Auckland University on his team developing a new obesity pill that targets fat, keeps muscle."
-      },
-      {
-        "title": "Farming Skills Programme Launched For At-Risk Young People",
-        "url": "https://www.youtube.com/watch?v=ffVvtZ48_Zo",
-        "date_utc": "2026-08-13T05:03:47+00:00",
-        "summary": "James Meager, Minister for Youth - Farming skills programme launched for at-risk young people and new rule to slash red tape for regional airports."
-      },
-      {
-        "title": "The Need To Record Sex & Gender Separately In Health Data",
-        "url": "https://www.youtube.com/watch?v=6GuLucww1gI",
-        "date_utc": "2026-08-13T04:50:21+00:00",
-        "summary": "Jan Rivers, Spokesperson for Genspect NZ on the need to record sex and gender separately in health data following NZ's cervical screen programme mess."
       }
     ],
     "opinions": [
