@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-18T11:32:24Z",
+  "generated_utc": "2026-08-19T11:32:54Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,36 @@
     ],
     "youtube": [
       {
+        "title": "The advice was given. The advice was ignored.",
+        "url": "https://www.youtube.com/shorts/2xE1TrmevBw",
+        "date_utc": "2026-08-19T08:01:43+00:00",
+        "summary": "\"The advice was given. The advice was ignored.\" - Maree Buscke 311,257 Kiwi teenagers received a second COVID shot after officials had been advised about myocarditis risks. Were parents given everything they needed to make a genuinely informed decision? 📖 The People’s Report: http://thepeoplesreport.co.nz 📖 The People’s Position: http://thepeoplesposition.co.nz 📧 No longer trust the 6pm news? Get RCR Bites — FREE every weekday: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "Buying a computer now is twice what it was last year because of all the RAM chips, and GPUs...",
+        "url": "https://www.youtube.com/shorts/1rgMboMZsGc",
+        "date_utc": "2026-08-19T07:01:27+00:00",
+        "summary": "\"Buying a computer now is twice what it was last year because of all the RAM chips, and GPUs and things are going to these data centres.\" - Alex Sims, Auckland University Commercial Law Professor You might not even own a data centre - but you could still end up paying for the AI boom every time you buy a laptop or gaming PC. Is AI quietly making everyday technology more expensive? 🎥 Watch here: https://rcr.media/episodes/alex-sims-auckland-university-commercial-law-professor-southlands-3-5-billion-ai-data-centre-who-pays-the-price #RCRMedia"
+      },
+      {
+        "title": "BRIAN TAMAKI",
+        "url": "https://www.youtube.com/shorts/1e465Nd_pJ0",
+        "date_utc": "2026-08-19T04:34:09+00:00",
+        "summary": ""
+      },
+      {
+        "title": "When the primary hormones are ramped up, the secondary hormones are diminished.",
+        "url": "https://www.youtube.com/shorts/3s13VYFQ7s0",
+        "date_utc": "2026-08-19T00:02:19+00:00",
+        "summary": "\"When the primary hormones are ramped up, the secondary hormones are diminished.\" - Dr Randall Farrant, Vital Wellbeing Your body has priorities - and survival comes first. Could years of chronic stress be setting the stage for a much harder menopause or andropause later in life? Rodney Hide is joined by chiropractors Drs Sarah and Randall Farrant for a discussion on menopause and andropause from a nervous system and lifestyle perspective. 🎥 Watch here: https://rcr.media/episodes/drs-sarah-and-randall-farrant-co-founders-of-vital-wellbeing-a-fresh-perspective-on-menopause-and-andropause #RCRMedia"
+      },
+      {
+        "title": "We are de-industrialising, charging ourselves $1.5 billion annually for that privilege",
+        "url": "https://www.youtube.com/shorts/6UummkEoiUA",
+        "date_utc": "2026-08-18T19:01:32+00:00",
+        "summary": "\"We are de-industrialising, charging ourselves $1.5 billion annually for that privilege\" - Jaspreet Boparai Businesses are closing, rural communities are being hollowed out, and electricity costs keep climbing. Is New Zealand paying billions to make itself less competitive? 🎥 Watch here: https://rcr.media/episodes/greenwashed-1-5-billion-hidden-in-new-zealands-power-prices #RCRMedia #Greenwashed"
+      },
+      {
         "title": "Governments have a poor track record in Australia when it comes to privacy",
         "url": "https://www.youtube.com/shorts/Y6jVIYDwCRM",
         "date_utc": "2026-08-18T08:00:59+00:00",
@@ -184,41 +214,65 @@
         "url": "https://www.youtube.com/shorts/uVrMO1XAJeU",
         "date_utc": "2026-08-16T00:01:27+00:00",
         "summary": "\"They know that Laurel Hubbard isn't a woman.\" - Rachel Stewart Rachel says the police laughed when she asked them about Laurel Hubbard - but she says they were still sent to do a job against her. Funny in the room, serious on the paperwork. Did the laughter reveal what they really thought? Rachel Stewart and Maree Buscke discuss on this episode of Both Barrels. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-firearms-free-speech-and-who-is-fit-and-proper #RCRMedia #BothBarrels"
-      },
-      {
-        "title": "What's happening is they're warming people up.",
-        "url": "https://www.youtube.com/shorts/MC_yNeNr9cs",
-        "date_utc": "2026-08-15T20:01:20+00:00",
-        "summary": "\"What's happening is they're warming people up. Softly, softly, 'How convenient. Oh, this seems like a good idea'. And then bang. Mission creep.\" - Katie Ashby-Koppens, Lawyer Is digital convenience being introduced one step at a time until opting out is no longer possible? 🎥 Watch here: https://rcr.media/episodes/legal-hub-katie-ashby-koppens-government-consultation-on-digital-drivers-licences #RCRMedia #Legalhub"
-      },
-      {
-        "title": "National and Labour are barely scraping more than a quarter of the population.",
-        "url": "https://www.youtube.com/shorts/f4tboVhtMmQ",
-        "date_utc": "2026-08-15T19:01:44+00:00",
-        "summary": "\"National and Labour are barely scraping more than a quarter of the population.\" - Rob MacCulloch, Economist If our biggest parties can't attract much more than a quarter of voters each, what does that say about the state of New Zealand politics? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-maree-buscke-rachel-stewart-rob-macculloch-political-messaging-vs-meaningful-policy #RCRMedia #APoliticalAgenda"
-      },
-      {
-        "title": "Having opinions that go against the governmental narrative.",
-        "url": "https://www.youtube.com/shorts/NH80EPntF7s",
-        "date_utc": "2026-08-15T07:01:08+00:00",
-        "summary": "\"Having opinions that go against the governmental narrative\" - Rachel Stewart Rachel Stewart says her own firearms licence was challenged after controversial social media posts, and now she's questioning what happened to Brian Tamaki. If your political opinions can affect whether you're considered \"fit and proper\", are we entering dangerous territory? Rachel Stewart and Maree Buscke discuss on this episode of Both Barrels. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-firearms-free-speech-and-who-is-fit-and-proper #RCRMedia #BothBarrels"
-      },
-      {
-        "title": "If we don't have those coming in from the food supply, then we are going to feel sluggish...",
-        "url": "https://www.youtube.com/shorts/QnIC8-i3INs",
-        "date_utc": "2026-08-15T06:01:40+00:00",
-        "summary": "\"If we don't have those coming in from the food supply, then we are going to feel sluggish, slow, irritable, poor sleep, anxious, moody, temper, aggressive.\" - Prof Julia Rucklidge, Clinical Psychologist Are we too quick to label struggling teenagers when we haven't even looked at what they're eating? 🎥 Watch here: https://rcr.media/episodes/prof-julia-rucklidge-clinical-psychologist-professor-nutritions-missing-role-in-youth-mental-health #RCRMedia"
-      },
-      {
-        "title": "I don't think that spending a billion dollars on seismic acquisition is a sensible way forward...",
-        "url": "https://www.youtube.com/shorts/5iO-3Z8AKYU",
-        "date_utc": "2026-08-15T00:01:28+00:00",
-        "summary": "\"I don't think that spending a billion dollars on seismic acquisition is a sensible way forward at all.\" - Sean Rush, Energy Lawyer If valuable seismic data already exists, why would New Zealand spend billions acquiring more - especially when that money could fund doctors, nurses and teachers? 🎥 Watch here: https://rcr.media/episodes/sean-rush-energy-lawyer-can-new-zealand-unlock-its-energy-wealth #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "What Is The Proposed Working With Children Card Scheme?",
+        "url": "https://www.youtube.com/watch?v=aq2hQcTMTxs",
+        "date_utc": "2026-08-19T05:04:45+00:00",
+        "summary": "Karen Chhour, ACT's Spokesperson for Children - What is the proposed Working with Children Card scheme?"
+      },
+      {
+        "title": "GP's Are Seeing A Surge In Flu & It's Nasty This Year!",
+        "url": "https://www.youtube.com/watch?v=Wi2-GYGJTSo",
+        "date_utc": "2026-08-19T04:48:17+00:00",
+        "summary": "Dr Luke Bradford, NZ College of General Practitioners President - GP's are seeing a surge in flu, and it's nasty this year!"
+      },
+      {
+        "title": "The Latest Appalling Excesses Of The Public Sector",
+        "url": "https://www.youtube.com/watch?v=6xJLvLwbABc",
+        "date_utc": "2026-08-19T03:30:39+00:00",
+        "summary": "The latest appalling excesses of the public sector, exposed by Taxpayers Union’s Jordan Williams"
+      },
+      {
+        "title": "Tell The Electricity Companies There’s A Cost Of Living Crisis",
+        "url": "https://www.youtube.com/watch?v=m2jc7tVoa80",
+        "date_utc": "2026-08-19T02:46:24+00:00",
+        "summary": "Tell the electricity companies there’s a cost of living crisis - Meridian follows Contact with record annual profits"
+      },
+      {
+        "title": "Why The Public Don’t Trust The Justice System",
+        "url": "https://www.youtube.com/watch?v=pAl7kQ5er1I",
+        "date_utc": "2026-08-19T02:38:55+00:00",
+        "summary": "Why the public don’t trust the justice system - Evidence #264 - suppressed identity of an evil, evil gang member"
+      },
+      {
+        "title": "Shots Fired in the Comments Section! - Your Money Matters",
+        "url": "https://www.youtube.com/watch?v=nS2ft0xqPzI",
+        "date_utc": "2026-08-19T02:03:46+00:00",
+        "summary": "Your Money Matters with Harness Financial Episode 56 - Shots Fired in the Comments Section Make smart decisions for your financial future with Samuel Rees-Thomas and Dieter Timmerman from Harness Financial. Find out more at https://www.harnessfinancial.co.nz/"
+      },
+      {
+        "title": "Eric Crampton Investigates Treasury’s DEI Madness",
+        "url": "https://www.youtube.com/watch?v=n-m_rsYIOnE",
+        "date_utc": "2026-08-19T00:34:24+00:00",
+        "summary": "Eric Crampton investigates Treasury’s DEI madness."
+      },
+      {
+        "title": "Sean Reacts To Millions Of Taxpayer Dollars Spent On League Game",
+        "url": "https://www.youtube.com/watch?v=se6CgDlzwLY",
+        "date_utc": "2026-08-19T00:10:15+00:00",
+        "summary": "Sean Plunket reacts to millions of taxpayer dollars spent on rugby league game."
+      },
+      {
+        "title": "Opportunity Continues To Raise Concern Over Their Leadership Structure",
+        "url": "https://www.youtube.com/watch?v=t5lcBoLmtc8",
+        "date_utc": "2026-08-18T23:32:02+00:00",
+        "summary": "Opportunity party continues to raise concern over their leadership structure."
+      },
       {
         "title": "Stephen Franks on Ani O’Briens Exit From The FSU",
         "url": "https://www.youtube.com/watch?v=RuQWWPK_urs",
@@ -254,63 +308,15 @@
         "url": "https://www.youtube.com/watch?v=dcMpbCRsqII",
         "date_utc": "2026-08-18T02:28:28+00:00",
         "summary": "Hanna Pettit is leading the charge against fast track residential developments in Queenstown."
-      },
-      {
-        "title": "Education Consultant On The Stanford legacy And Latest NCEA Results",
-        "url": "https://www.youtube.com/watch?v=5aHGArqhaFs",
-        "date_utc": "2026-08-18T01:49:22+00:00",
-        "summary": "Education consultant Alwyn Poole on the Stanford legacy and latest NCEA results"
-      },
-      {
-        "title": "The Opportunity Party And Their Devious Attempt To Con Voters",
-        "url": "https://www.youtube.com/watch?v=JJMKSJ3T22I",
-        "date_utc": "2026-08-18T01:47:47+00:00",
-        "summary": "Michael Laws breaks down the Opportunity Party and their devious attempt to con voters"
-      },
-      {
-        "title": "Paul Fuge - Powerswitch General Manager",
-        "url": "https://www.youtube.com/watch?v=5o2sMcgsOC8",
-        "date_utc": "2026-08-17T23:18:04+00:00",
-        "summary": "Paul Fuge - Powerswitch general manager - re Kiwis are shopping around for cheaper power as winter bills bite"
-      },
-      {
-        "title": "Mark Mitchell - Police Minister",
-        "url": "https://www.youtube.com/watch?v=cn7N5RPOoOA",
-        "date_utc": "2026-08-17T22:58:57+00:00",
-        "summary": "Mark Mitchell - Police Minister - re Construction set to begin on $440m Christchurch Men’s Prison redevelopment"
-      },
-      {
-        "title": "Jo Clough - Director At The Dog Safe Workplace",
-        "url": "https://www.youtube.com/watch?v=eirQU2ohsnA",
-        "date_utc": "2026-08-17T19:42:04+00:00",
-        "summary": "Jo Clough - Director at The Dog Safe Workplace - re The fatal dog attack on a 1 year old Christchurch child"
-      },
-      {
-        "title": "Chris Trotter On Failed Chris Luxon Coup, & The Mishaps Of TOP",
-        "url": "https://www.youtube.com/watch?v=oqwZwxJibog",
-        "date_utc": "2026-08-17T09:31:11+00:00",
-        "summary": "Chris Trotter on Failed Chris Luxon Coup, and the Mishaps of Opportunity Party"
-      },
-      {
-        "title": "James Dalglish On Increased Crimes Rates Using Rental Cars",
-        "url": "https://www.youtube.com/watch?v=GL0cqxA8p5A",
-        "date_utc": "2026-08-17T05:55:54+00:00",
-        "summary": "James Dalglish On Increased Crimes Rates Using Rental Cars"
-      },
-      {
-        "title": "Sean Agrees with Helen Clark!",
-        "url": "https://www.youtube.com/watch?v=QYmkFQIN60I",
-        "date_utc": "2026-08-17T04:34:55+00:00",
-        "summary": "Sean agrees with Helen Clark!"
-      },
-      {
-        "title": "The South Island Is Different, Says Business South CEO Mike Collins.",
-        "url": "https://www.youtube.com/watch?v=iQTjx7W66a0",
-        "date_utc": "2026-08-17T03:42:01+00:00",
-        "summary": "The South Island is different, says Business South CEO Mike Collins. And why Labour’s Chris Hipkins doesn’t get it."
       }
     ],
     "opinions": [
+      {
+        "title": "The Platform Election Party 2026",
+        "url": "https://theplatform.kiwi/opinions/the-platform-election-party-2026",
+        "date_utc": "2026-08-19",
+        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
+      },
       {
         "title": "Nationals Bad Really Bad Day",
         "url": "https://theplatform.kiwi/opinions/nationals-bad-really-bad-day",
@@ -321,12 +327,6 @@
         "title": "Apologise For Not Lying",
         "url": "https://theplatform.kiwi/opinions/apologise-for-not-lying",
         "date_utc": "2026-08-10",
-        "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
-      },
-      {
-        "title": "The Platform Election Party 2026",
-        "url": "https://theplatform.kiwi/opinions/the-platform-election-party-2026",
-        "date_utc": "2026-08-07",
         "summary": "(opinion piece — title derived from URL slug; fetch the URL for full text)"
       },
       {
