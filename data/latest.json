@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-19T11:32:54Z",
+  "generated_utc": "2026-08-20T11:34:54Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,54 @@
     ],
     "youtube": [
       {
+        "title": "Once the mainstream political parties are infiltrated, so to speak, by these ethnic minorities...",
+        "url": "https://www.youtube.com/shorts/L6HadCSP-OE",
+        "date_utc": "2026-08-20T07:01:40+00:00",
+        "summary": "\"Once the mainstream political parties are infiltrated, so to speak, by these ethnic minorities, then it falls afoul of them when you try and generate these policies.\" - William McGimpsey William McGimpsey argues that increasing ethnic representation within mainstream parties could make certain immigration policies harder to debate. Is this simply democracy reflecting a changing New Zealand, or should there be a political force specifically pushing to preserve the country's traditional demographics? Dieuwe de Boer & William McGimpsey break down the week’s key cultural and political themes. 🎥 Watch here: https://rcr.media/episodes/weekly-roundup-luxon-nzsis-and-widening-political-fault-lines #RCRMedia #TheWeeklyRoundup"
+      },
+      {
+        "title": "The computer assumes the worst possible scenario of everything happening at once.",
+        "url": "https://www.youtube.com/shorts/UdW8Hpb-RPY",
+        "date_utc": "2026-08-20T06:01:51+00:00",
+        "summary": "\"The computer assumes the worst possible scenario of everything happening at once.\" - Ken Turner, Auckland City Councillor Ken Turner says Auckland's flood modelling assumes blocked council drains, high tide, spring tide, storm surge and extreme winds all happening together. How much confidence should we have in flood maps built around a worst-case scenario? 🎥 Watch here: https://rcr.media/episodes/ken-turner-auckland-city-councillor-plan-change-120-ratepayer-concerns-sidelined #RCRMedia"
+      },
+      {
+        "title": "RCR Wednesday Webinars - Lifestyle",
+        "url": "https://www.youtube.com/watch?v=zhxwtKNnSZY",
+        "date_utc": "2026-08-20T03:01:12+00:00",
+        "summary": "Join Maree Buscke and Gerry Pyves to explore the brain science behind our attraction to negative information, why our brains can become hooked on it, and the disciplines we can develop to break the cycle. They also touch on the history of psychological operations (psyops) and how information can be used to influence behaviour. 🎯 Learn how to become more deliberate about what you consume, protect your attention and avoid getting lost down the rabbit hole."
+      },
+      {
+        "title": "They want to set up legislation where the punishment's really clear, the crime is not so clear...",
+        "url": "https://www.youtube.com/shorts/iqKTkc1XoYY",
+        "date_utc": "2026-08-20T00:02:30+00:00",
+        "summary": "\"They want to set up legislation where the punishment's really clear, the crime is not so clear, so that they can effectively weaponise it against anybody who they deem to be an opponent.\" - Nathan Seiuli, Executive Director, PILLAR NZ Nathan Seiuli warns that vague laws around religious beliefs, ideology and criticism could create a system where people face clear punishment for offences that are poorly defined. Should laws protecting beliefs ever risk restricting the ability to criticise or challenge those beliefs? 🎥 Watch here: https://rcr.media/episodes/nathan-seiuli-executive-director-pillar-nz-free-speech-blasphemy-laws-and-police-overreach #RCRMedia"
+      },
+      {
+        "title": "YVONNE VON DONGEN",
+        "url": "https://www.youtube.com/watch?v=k6dERwHCxw4",
+        "date_utc": "2026-08-19T23:49:32+00:00",
+        "summary": "Journalist Yvonne Van Dongen reports on her day spent with the ‘wrong kind of Maori', at a Brian Tamaki led protest against mass immigration, and the apparent selective policing in response to it – starting with a decision not to allow them to march over the Harbour Bridge. For more information: Check out Yvonne's substack and the Police Joint Statement"
+      },
+      {
+        "title": "CHRISTOPHER JONES",
+        "url": "https://www.youtube.com/watch?v=Qzhf-q1x0C0",
+        "date_utc": "2026-08-19T22:56:52+00:00",
+        "summary": "Natalie Cutler-Welsh is joined by Christopher Jones to discuss his book The Palmistry of Fingerprints and his 42-year journey into hand reading. He explains how fingerprints remain unchanged throughout life and act as unique biometric markers that offer insight into personality, character, potential, and even medical and genetic traits. The conversation explores practical applications for personal development, cultural perspectives on fingerprint patterns, and the deeper self-awareness gained through this ancient practice. For more information: Visit Christopher's website HandReading.nz Find him on Patreon , YouTube , Facebook , Instagram and at Hand Reading International Purchase Christopher Jones books from Handreading NZ or via Amazon"
+      },
+      {
+        "title": "The higher the lithium is in water, the lower the rates of suicide, aggression, violence, homicide.",
+        "url": "https://www.youtube.com/shorts/UxplgGQzWJs",
+        "date_utc": "2026-08-19T21:01:39+00:00",
+        "summary": "\"The higher the lithium is in water, the lower the rates of suicide, aggression, violence, homicide.\" - Julia Rucklidge, Clinical Psychology Professor If that correlation is supported by further research, should New Zealand be taking a much closer look at the role of naturally occurring lithium in public health? 🎥 Watch here: https://rcr.media/episodes/julia-rucklidge-clinical-psychology-professor-the-role-of-nutrition-in-the-treatment-of-adhd #RCRMedia"
+      },
+      {
+        "title": "It's as bizarre as saying you're going to have a, I don't know, a breastfeeding support group...",
+        "url": "https://www.youtube.com/shorts/0f079Fd9IHs",
+        "date_utc": "2026-08-19T20:02:24+00:00",
+        "summary": "\"It's as bizarre as saying you're going to have a, I don't know, a breastfeeding support group for people who like reading historical fiction.\" - Susan Smith, For Women Scotland Susan Smith argues that sexuality and gender identity are no more relevant to breastfeeding support than other personal characteristics. Do you agree, or can identity-specific groups provide something conventional support groups cannot? 🎥 Watch here: https://rcr.media/episodes/susan-smith-for-women-scotland-scottish-taxpayers-funding-queer-milk #RCRMedia"
+      },
+      {
         "title": "The advice was given. The advice was ignored.",
         "url": "https://www.youtube.com/shorts/2xE1TrmevBw",
         "date_utc": "2026-08-19T08:01:43+00:00",
@@ -166,59 +214,65 @@
         "url": "https://www.youtube.com/shorts/ApmRRrxithE",
         "date_utc": "2026-08-18T07:01:17+00:00",
         "summary": "\"Without that there is no talk.\" - Freddie Ponton, Global Affairs Associate Editor 21st Century Wire With Iran reportedly tying the reopening of Hormuz to sanctions relief, compensation and the withdrawal of US forces, who has the stronger hand? 🎥 Watch here: https://rcr.media/episodes/freddie-ponton-21st-century-wire-associate-editor-iran-turns-the-tables-as-middle-east-war-spreads #RCRMedia"
-      },
-      {
-        "title": "Is $80 Oil An Illusion?",
-        "url": "https://www.youtube.com/shorts/y2Y4XnqNvls",
-        "date_utc": "2026-08-18T06:15:39+00:00",
-        "summary": "Is $80 Oil An Illusion? \"The actual true price, true discovery price... probably $200.\" - Louis Boulanger How much longer can governments and markets keep energy prices under control before the real cost hits consumers? 🎥 Watch here: https://rcr.media/episodes/money-talks-with-louis-boulanger-when-the-money-system-starts-to-crack #RCRMedia"
-      },
-      {
-        "title": "That doesn't help you in the middle of the night where there's no wind.",
-        "url": "https://www.youtube.com/shorts/S4UkVE8TJIs",
-        "date_utc": "2026-08-18T00:01:31+00:00",
-        "summary": "\"That doesn't help you in the middle of the night where there's no wind.\" - Alex Sims, Auckland University Commercial Law Professor Solar panels don't work at midnight. Wind turbines don't work when there's no wind. And AI data centres don't get to switch off. Is New Zealand underestimating just how much reliable power the AI industry will need? 🎥 Watch here: https://rcr.media/episodes/alex-sims-auckland-university-commercial-law-professor-southlands-3-5-billion-ai-data-centre-who-pays-the-price #RCRMedia"
-      },
-      {
-        "title": "Why on earth would we be putting it in the drinking water?",
-        "url": "https://www.youtube.com/shorts/xP7j3okay7I",
-        "date_utc": "2026-08-17T20:01:20+00:00",
-        "summary": "\"Why on earth would we be putting it in the drinking water?\" - Mary Byrne, Fluoride Free NZ A new $1.2 million study is looking at fluoride and neurotoxicity - but Mary Byrne argues it may not capture total fluoride exposure during the most sensitive stages of development. Should New Zealand wait for better evidence before continuing water fluoridation? 🎥 Watch here: https://rcr.media/episodes/mary-byrne-fluoride-free-nz-is-fluoride-becoming-an-election-issue #RCRMedia"
-      },
-      {
-        "title": "We'd love to see a referendum on that, and potentially on a four-year term as well.",
-        "url": "https://www.youtube.com/shorts/yA8aSP-iLsU",
-        "date_utc": "2026-08-17T19:02:24+00:00",
-        "summary": "\"We'd love to see a referendum on that, and potentially on a four-year term as well.\" - Simon Court, ACT Energy & Resources Spokesperson ACT wants voters to have their say on Māori seats - and potentially whether New Zealand should move to four-year parliamentary terms. Would you vote for a referendum on both? 🎥 Watch here: https://rcr.media/episodes/simon-court-acts-energy-resources-spokesperson-energy-security-infrastructure-and-election-priorities #RCRMedia"
-      },
-      {
-        "title": "More people would rather live next to a nuclear power plant than a data centre",
-        "url": "https://www.youtube.com/shorts/M_DvDLCsqOU",
-        "date_utc": "2026-08-17T06:01:33+00:00",
-        "summary": "\"More people would rather live next to a nuclear power plant than a data centre.\" - Alex Sims, Auckland University Commercial Law Professor Data centres are being sold as the future of jobs and growth - but Alex Sims says she's struggling to see the economic payoff. Would you rather have a data centre or a nuclear power plant as your neighbour? 🎥 Watch here: https://rcr.media/episodes/alex-sims-auckland-university-commercial-law-professor-southlands-3-5-billion-ai-data-centre-who-pays-the-price #RCRMedia"
-      },
-      {
-        "title": "62% of them were identified as much to very much improved, versus only 12%.",
-        "url": "https://www.youtube.com/shorts/bqqWBUm7dsk",
-        "date_utc": "2026-08-16T07:01:19+00:00",
-        "summary": "\"62% of them were identified as much to very much improved, versus only 12%.\" - Prof Julia Rucklidge, Clinical Psychologist When severely struggling teenagers showed this difference between micronutrients and placebo, why isn't this finding being discussed more widely? 🎥 Watch here: https://rcr.media/episodes/prof-julia-rucklidge-clinical-psychologist-professor-nutritions-missing-role-in-youth-mental-health #RCRMedia"
-      },
-      {
-        "title": "Due to the presence of lead and other toxic materials, e-waste currently makes up around 70% of...",
-        "url": "https://www.youtube.com/shorts/4L-e-s5ikDc",
-        "date_utc": "2026-08-16T03:01:12+00:00",
-        "summary": "\"Due to the presence of lead and other toxic materials, e-waste currently makes up around 70% of the world's surface-level toxic pollution.\" - Alex Sims, Auckland University Commercial Law Professor (Quoting article) AI data centres don't just consume enormous amounts of power - they constantly consume and replace computing equipment too. If the data centre industry itself is calling e-waste a \"crisis\", why aren't we talking more about it? 🎥 Watch here: https://rcr.media/episodes/alex-sims-auckland-university-commercial-law-professor-southlands-3-5-billion-ai-data-centre-who-pays-the-price #RCRMedia"
-      },
-      {
-        "title": "They know that Laurel Hubbard isn't a woman.",
-        "url": "https://www.youtube.com/shorts/uVrMO1XAJeU",
-        "date_utc": "2026-08-16T00:01:27+00:00",
-        "summary": "\"They know that Laurel Hubbard isn't a woman.\" - Rachel Stewart Rachel says the police laughed when she asked them about Laurel Hubbard - but she says they were still sent to do a job against her. Funny in the room, serious on the paperwork. Did the laughter reveal what they really thought? Rachel Stewart and Maree Buscke discuss on this episode of Both Barrels. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-firearms-free-speech-and-who-is-fit-and-proper #RCRMedia #BothBarrels"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Citizenship Voting Poll Shows That Only Winston Peters Is In Step.",
+        "url": "https://www.youtube.com/watch?v=x0es5UxWw4o",
+        "date_utc": "2026-08-20T03:07:10+00:00",
+        "summary": "Shock of shocks! Citizenship voting poll shows that only Winston Peters is in step."
+      },
+      {
+        "title": "Bureaucrats Can’t Build Hospitals But Frustrate Efficiency",
+        "url": "https://www.youtube.com/watch?v=aoW-NmV4t7E",
+        "date_utc": "2026-08-20T02:08:14+00:00",
+        "summary": "Former Labour minister Pete Hodgson laments that bureaucrats can’t build hospitals but frustrate efficiency"
+      },
+      {
+        "title": "ML Breaks Down The Mt Maunganui Landslide Report",
+        "url": "https://www.youtube.com/watch?v=oaPFC7l5Sj4",
+        "date_utc": "2026-08-20T01:58:11+00:00",
+        "summary": "Michael Laws breaks down the Mt Maunganui landslide report and condemns the lack of accountability"
+      },
+      {
+        "title": "Carrie Green On Public Service Announcements ‘Election Meltdown’ Play",
+        "url": "https://www.youtube.com/watch?v=AQD4Otbn_oc",
+        "date_utc": "2026-08-20T00:47:41+00:00",
+        "summary": "Carrie Green on Public Service Announcements ‘Election Meltdown’ play at Circa Theatre."
+      },
+      {
+        "title": "Nicola Willis Says No New Taxes From National Party",
+        "url": "https://www.youtube.com/watch?v=QMgFvZjRiDs",
+        "date_utc": "2026-08-20T00:35:50+00:00",
+        "summary": "Nicola Willis says no new taxes from National Party."
+      },
+      {
+        "title": "Craig Woolliams’ Next Tour Of India!",
+        "url": "https://www.youtube.com/watch?v=G5jDk9lzKJQ",
+        "date_utc": "2026-08-20T00:01:31+00:00",
+        "summary": "Craig Woolliams’ next tour of India!"
+      },
+      {
+        "title": "The McKenzie Basin Is Iconic - Not If Fast-Track Solar Farms Arrive",
+        "url": "https://www.youtube.com/watch?v=Aj-g7pfNBsc",
+        "date_utc": "2026-08-19T23:50:14+00:00",
+        "summary": "The McKenzie Basin is iconic - not if fast-track solar energy farms arrive, says Twizel community board chair Mary Murphy."
+      },
+      {
+        "title": "Eugene Doyle On Secrecy Around Wellington Sewage Problem",
+        "url": "https://www.youtube.com/watch?v=5_FMqwJIcZA",
+        "date_utc": "2026-08-19T23:49:47+00:00",
+        "summary": "Eugene Doyle on secrecy around Wellington sewage problem."
+      },
+      {
+        "title": "Former Labour Chief Of Staff Analyses Te Pati Maori’s Strategic Voting Gambit",
+        "url": "https://www.youtube.com/watch?v=buVExXa2DRg",
+        "date_utc": "2026-08-19T22:08:21+00:00",
+        "summary": "Former Labour chief of staff Matt McCarten analyses Te Pati Maori’s strategic voting gambit and electorate chances"
+      },
       {
         "title": "What Is The Proposed Working With Children Card Scheme?",
         "url": "https://www.youtube.com/watch?v=aq2hQcTMTxs",
@@ -254,60 +308,6 @@
         "url": "https://www.youtube.com/watch?v=nS2ft0xqPzI",
         "date_utc": "2026-08-19T02:03:46+00:00",
         "summary": "Your Money Matters with Harness Financial Episode 56 - Shots Fired in the Comments Section Make smart decisions for your financial future with Samuel Rees-Thomas and Dieter Timmerman from Harness Financial. Find out more at https://www.harnessfinancial.co.nz/"
-      },
-      {
-        "title": "Eric Crampton Investigates Treasury’s DEI Madness",
-        "url": "https://www.youtube.com/watch?v=n-m_rsYIOnE",
-        "date_utc": "2026-08-19T00:34:24+00:00",
-        "summary": "Eric Crampton investigates Treasury’s DEI madness."
-      },
-      {
-        "title": "Sean Reacts To Millions Of Taxpayer Dollars Spent On League Game",
-        "url": "https://www.youtube.com/watch?v=se6CgDlzwLY",
-        "date_utc": "2026-08-19T00:10:15+00:00",
-        "summary": "Sean Plunket reacts to millions of taxpayer dollars spent on rugby league game."
-      },
-      {
-        "title": "Opportunity Continues To Raise Concern Over Their Leadership Structure",
-        "url": "https://www.youtube.com/watch?v=t5lcBoLmtc8",
-        "date_utc": "2026-08-18T23:32:02+00:00",
-        "summary": "Opportunity party continues to raise concern over their leadership structure."
-      },
-      {
-        "title": "Stephen Franks on Ani O’Briens Exit From The FSU",
-        "url": "https://www.youtube.com/watch?v=RuQWWPK_urs",
-        "date_utc": "2026-08-18T07:41:26+00:00",
-        "summary": "Stephen Franks on Ani O’Briens Exit From The FSU"
-      },
-      {
-        "title": "Guy Nunns On Stop Tiaki Wai Protest This Thursday",
-        "url": "https://www.youtube.com/watch?v=qqffCZDr5OY",
-        "date_utc": "2026-08-18T05:43:08+00:00",
-        "summary": "Guy Nunns on Stop Tiaki Wai Protest This Thursday The Platform live on YouTube — only $34.99/month! Join now → https://www.youtube.com/@theplatformnz/join Support The Platform by joining Platform Plus: https://theplatform.kiwi/platform-plus Download The Platform app for free: App Store: https://apps.apple.com/us/app/the-platform/id1596882626 Google Play: https://play.google.com/store/apps/details?id=kiwi.theplatform.android Call 0800 DEBATE or text us at 5050 (Standard SMS text charges will apply) Listen to The Platform's straight-talking, free-thinking hosts every weekday. Sean Plunket: 7am - 10am Michael Laws: 10am - 1pm Leah Panapa: 1pm - 4pm #ThePlatformNZ"
-      },
-      {
-        "title": "Bernadette Soares On The Concern with Hindu Nationalism In NZ",
-        "url": "https://www.youtube.com/watch?v=oBOAXBs-0Sg",
-        "date_utc": "2026-08-18T04:43:39+00:00",
-        "summary": "Bernadette Soares on the Concern with Hindu Nationalism in NZ"
-      },
-      {
-        "title": "Michael O’Brien On the Justice Department Employing A Fraud",
-        "url": "https://www.youtube.com/watch?v=3a_G4iB8NFo",
-        "date_utc": "2026-08-18T03:35:07+00:00",
-        "summary": "Michael O’Brien on the Justice Department Employing a Fraud"
-      },
-      {
-        "title": "Judges Are Screwing The Justice System, Says Sensible Sentencing Trust",
-        "url": "https://www.youtube.com/watch?v=uur_9SGhJHQ",
-        "date_utc": "2026-08-18T03:17:22+00:00",
-        "summary": "Judges are screwing the justice system, says Sensible Sentencing Trust’s Louise Parson"
-      },
-      {
-        "title": "Leading The Charge Against Fast Track Residential Developments",
-        "url": "https://www.youtube.com/watch?v=dcMpbCRsqII",
-        "date_utc": "2026-08-18T02:28:28+00:00",
-        "summary": "Hanna Pettit is leading the charge against fast track residential developments in Queenstown."
       }
     ],
     "opinions": [
