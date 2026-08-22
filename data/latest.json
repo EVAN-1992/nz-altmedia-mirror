@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-08-21T11:32:52Z",
+  "generated_utc": "2026-08-22T11:27:51Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "March for free speech or submit to communism – your choice is now",
+        "url": "https://realitycheck.radio/march-for-free-speech-or-submit-to-communism-your-choice-is-now/",
+        "date_utc": "2026-08-21T23:17:09Z",
+        "summary": "by Ray Pistol On August 30 patriots will once again March […]"
+      },
       {
         "title": "Bigger councils are no bargain for business",
         "url": "https://realitycheck.radio/bigger-councils-are-no-bargain-for-business/",
@@ -88,12 +94,6 @@
         "summary": "by Rachel Stewart Well, a day can be a month […]"
       },
       {
-        "title": "The BSA’s digging its own grave",
-        "url": "https://realitycheck.radio/the-bsas-digging-its-own-grave/",
-        "date_utc": "2026-08-13T22:48:15Z",
-        "summary": "by Peter Williams If more evidence was needed about the […]"
-      },
-      {
         "title": "FREDDIE PONTON: Abandoned by the West: Is Turkey-Pakistan-Saudi Deal Israel’s Wake-Up Call?",
         "url": "https://realitycheck.radio/episodes/freddie-ponton-abandoned-by-the-west-is-turkey-pakistan-saudi-deal-israels-wake-up-call/",
         "date_utc": "2026-08-21T11:24:21Z",
@@ -126,94 +126,94 @@
     ],
     "youtube": [
       {
-        "title": "The politicians should not have more rights than the ordinary citizen.",
-        "url": "https://www.youtube.com/shorts/VxNInImGJug",
-        "date_utc": "2026-08-21T08:01:53+00:00",
-        "summary": "🇦🇺 \"The politicians should not have more rights than the ordinary citizen.\" - Augusto Zimmermann, Foundation Dean and Professor of Law talking to Michael Arbon 🇦🇺 Should elected representatives face greater scrutiny and tighter limits on their power than the people who elected them? 🎥 Watch here: https://rcr.media/episodes/augusto-zimmermann-foundation-dean-and-professor-of-law-at-alpha-crucias-university-college-sydney-the-case-for-civil-disobedience #RCRMedia"
+        "title": "The vaccine itself is not 100% effective.",
+        "url": "https://www.youtube.com/shorts/oRfWCBUnM0E",
+        "date_utc": "2026-08-22T08:01:18+00:00",
+        "summary": "🇦🇺 \"The vaccine itself is not 100% effective.\" - Tim Wilms from The Unshackled 🇦🇺 Birds can be vaccinated and still contract bird flu - and may still have to be killed. Does that make the vaccination strategy worth the cost? 🎥 Watch here: https://rcr.media/episodes/the-wilms-report-with-tim-wilms-immigration-one-nation-and-free-speech #RCRMedia #TheWilmsReport"
       },
       {
-        "title": "🗞️ News without the narrative overload:",
-        "url": "https://www.youtube.com/shorts/gBPyOHZCUD4",
-        "date_utc": "2026-08-21T07:15:21+00:00",
-        "summary": "🗞️ News without the narrative overload: www.rcrdailynews.com Some systems just can't handle that much mainstream media. 🤖💥😂"
+        "title": "Because if you marginalise them, you stigmatise them... violence...",
+        "url": "https://www.youtube.com/shorts/XE8PFQuu7-4",
+        "date_utc": "2026-08-22T07:01:33+00:00",
+        "summary": "\"Because if you marginalise them, you stigmatise them... violence... People will resort to other means other than speech if speech is sort of being taken off the table.\" - William McGimpsey William McGimpsey makes an argument that restricting controversial political speech can itself contribute to the conditions that make political violence more likely. Is protecting the freedom to express even deeply unpopular ideas actually part of preventing extremism? William and Dieuwe de Boer discuss. 🎥 Watch here: https://rcr.media/episodes/weekly-roundup-luxon-nzsis-and-widening-political-fault-lines #RCRMedia #TheWeeklyRoundup"
       },
       {
-        "title": "There was $116 million odd billion... to the primary sector, and organic got none. Zero.",
-        "url": "https://www.youtube.com/shorts/6vwVVMcYSRc",
-        "date_utc": "2026-08-21T07:01:17+00:00",
-        "summary": "\"There was $116 million odd billion... to the primary sector, and organic got none. Zero.\" - Brendan Hoare, Organics Aotearoa NZ Should organic farming be getting a fairer share of government support - or should the sector stand entirely on its own? 🎥 Watch here: https://rcr.media/episodes/brendan-hoare-organics-aotearoa-nz-organic-sector-calls-for-investment-ahead-of-election #RCRMedia"
+        "title": "Two royal commissions never got to that information. RCR did.",
+        "url": "https://www.youtube.com/shorts/9cd7dJfvtSY",
+        "date_utc": "2026-08-22T06:01:46+00:00",
+        "summary": "“Two royal commissions never got to that information. RCR did.” - Rodney Hide Rodney Hide says more than 300,000 young people received a second COVID vaccination after officials had reportedly raised concerns about the risk of myocarditis. How did information about that risk fail to become a central part of two royal commissions investigating the COVID response? 🎥 Watch here: https://rcr.media/episodes/rodney-hide #RCRMedia"
       },
       {
-        "title": "When it comes to psychiatry, we don't seem to have the same level of expectation of these...",
-        "url": "https://www.youtube.com/shorts/zIbA0I4JboA",
-        "date_utc": "2026-08-21T03:01:35+00:00",
-        "summary": "\"When it comes to psychiatry, we don't seem to have the same level of expectation of these treatments as being effective.\" - Julia Rucklidge, Clinical Psychology Professor Should psychiatric treatments face the same expectation of effectiveness and follow-up that we'd demand from treatments for physical illnesses? 🎥 Watch here: https://rcr.media/episodes/julia-rucklidge-clinical-psychology-professor-the-role-of-nutrition-in-the-treatment-of-adhd #RCRMedia"
+        "title": "“There’s no need now for the Māori seats at all.”",
+        "url": "https://www.youtube.com/shorts/ZT39egYMMt8",
+        "date_utc": "2026-08-22T05:45:23+00:00",
+        "summary": "🌐 https://RCR.Media | 🗳️ “There’s no need now for the Māori seats at all.” NZ First leader Winston Peters tells Paul Brennan Te Pāti Māori’s voting strategy shows why the Māori seats are no longer needed under MMP. Peters says Māori are already represented in Parliament at a higher rate than their share of the population. What does he think should change? 🗳️ For the questions that matter before the election, get RCR Bites FREE every weekday: https://BiteMe.news #RCRMedia"
       },
       {
-        "title": "MONEY TALKS",
-        "url": "https://www.youtube.com/watch?v=DPn3_tbazZ0",
-        "date_utc": "2026-08-20T22:41:14+00:00",
-        "summary": "Farzin Irani joins Paul for another edition of Money Talks, to discuss last Friday's crash after a parabolic rise in the price of precious metals. Farzin joins the dots on a few conspicuous coincidences. They also cover why company failures hit a 15-year high in New Zealand last year. Check out Paul Brennan on Farzin Irani's Podcast – Connecting the Dots For more on Farzin Irani"
+        "title": "\"She has been put through the wringer because of a trans... a man who believes he's a woman, called",
+        "url": "https://www.youtube.com/shorts/Ri--L032LDk",
+        "date_utc": "2026-08-22T04:19:11+00:00",
+        "summary": "\"She has been put through the wringer because of a trans... a man who believes he's a woman, called Caitlin Spice, who's objected to some of her posts on Twitter.\" - Jill Ovens, Co-Leader of The Women’s Rights Party NZ discussing Rex Landy Rex Landy's case has dragged on for around two years. How far should the Harmful Digital Communications Act be allowed to go when someone's social-media posts become the subject of a legal battle? 🎥 Watch here: https://rcr.media/episodes/the-fourth-estate-manufactured-coup-media-narratives-pre-election #RCRMedia"
       },
       {
-        "title": "GIGI FOSTER",
-        "url": "https://www.youtube.com/watch?v=14R2chpBJ54",
-        "date_utc": "2026-08-20T22:39:23+00:00",
-        "summary": "Economist and freedom advocate Gigi Foster returns for a discussion with Paul about the multi-various legislative threats to free speech in Australia and how people are slowly beginning to push back. Discover more from Australians for Science and Freedom"
+        "title": "\"We showed that about 80% of them had a really impressive significant response.\" - Julia Rucklidge,",
+        "url": "https://www.youtube.com/shorts/vQDiNPd_H8k",
+        "date_utc": "2026-08-22T03:01:21+00:00",
+        "summary": "\"We showed that about 80% of them had a really impressive significant response.\" - Julia Rucklidge, Clinical Psychology Professor @JuliaRucklidge If around 80% of participants in this small ADHD study showed a significant response to nutrients, should nutritional approaches be receiving much more attention in ADHD treatment? 🎥 Watch here: https://rcr.media/episodes/julia-rucklidge-clinical-psychology-professor-the-role-of-nutrition-in-the-treatment-of-adhd #RCRMedia"
       },
       {
-        "title": "SHUBZ",
-        "url": "https://www.youtube.com/watch?v=2B_GI8qVjeA",
-        "date_utc": "2026-08-20T22:38:53+00:00",
-        "summary": "Maree Buscke speaks with Shubz from Iwi Fakamahu – Heal the Nation, on a pop-up tour through New Zealand, sharing stories of healing, unity, and personal growth. Shubz reflects on the physical toll of the journey, the powerful stories being shared, and why his focus remains on healing rather than politics. He addresses public allegations, explains the significance of travelling to Waitangi, and invites people of all backgrounds to walk together in kotahitanga, connection, and simple human kindness. You can follow Heal The Nation – Iwi Whakamahu on Facebook or support the tour through Give A Little You can find Shubz on X"
+        "title": "The judge couldn't believe the case because of how stupid it is.",
+        "url": "https://www.youtube.com/shorts/PuGPZ8UlogU",
+        "date_utc": "2026-08-22T00:02:38+00:00",
+        "summary": "\"The judge couldn't believe the case because of how stupid it is.\" - Nathan Seiuli, Executive Director, PILLAR NZ A man filming a public rally says he was surrounded, pushed (assaulted) and blocked by wardens while police watched for 40-50 minutes - before he was ultimately arrested for assault after pushing back. And what does that say about police judgment when the whole incident was captured on camera? 🎥 Watch here: https://rcr.media/episodes/nathan-seiuli-executive-director-pillar-nz-free-speech-blasphemy-laws-and-police-overreach #RCRMedia"
       },
       {
-        "title": "TREVOR LOUDON",
-        "url": "https://www.youtube.com/watch?v=qyHsaTHTsMA",
-        "date_utc": "2026-08-20T22:37:38+00:00",
-        "summary": "Maree Buscke is joined by political researcher and author Trevor Loudon for an in-depth discussion on global geopolitical shifts, communist influence across multiple countries, and what this means for upcoming elections. They explore developments in Venezuela, Iran, Greenland, and the United States, including internal political dynamics and voter vigilance, with a particular focus on the implications for New Zealand. For more information visit Trevor's website or find him on Keykiwi To Purchase Trevor Loudon's books"
+        "title": "DR CLARE CRAIG",
+        "url": "https://www.youtube.com/watch?v=mHFSjIt-w8s",
+        "date_utc": "2026-08-21T22:40:25+00:00",
+        "summary": "Paul Brennan speaks with UK consultant pathologist Dr Clare Craig, co-chair of HART (Health ethics Advocacy & Research Team), about how “the greatest good for the greatest number” results in the justification for sacrificing individuals—especially when decisions are made at population level rather than with informed consent between doctor and patient. She says its time to bring medical ethics back. Discover more from HART on Substack and Clare Craig on Substack Follow Dr Clare Craig on X and HART on Facebook and X For Clare's book: Spiked: A shot in the dark"
       },
       {
-        "title": "GREENWASHED",
-        "url": "https://www.youtube.com/watch?v=cf_rv9BrCTo",
-        "date_utc": "2026-08-20T22:36:43+00:00",
-        "summary": "Jaspreet Boparai and Don Nicolson examine claims the United Nations is heading for a financial crunch, questioning how an organisation that took in more than US$60 billion in 2023 can be “running out of money”. They trace how New Zealand’s UN contributions jumped from about US$15 million in 2016 to nearly US$70 million by 2023, then widen the lens to global tax cooperation plans, Agenda 2030, and climate-linked funding. The discussion raises concerns about transparency, sovereignty, and whether New Zealand is getting value for money. For more information: Intergovernmental Negotiating Committee on the United Nations Framework Convention on International Tax Cooperation underway in NY currently The terms of reference of the Committee that refers “developing a framework convention will also help in accelerating the implementation of the Addis Ababa Action Agenda on Financing for Development and the 2030 Agenda for Sustainable Development. & “Tax cooperation on environmental challenges” Shane Reti reaffirming the SGs at Spain in 2025 One News: UN claiming $$ crunch The UN- FTS (Financial Tracking Service ) to scroll through our UN – funding year on year The Addis Ababa Agenda Circa 20"
+        "title": "JAN RIVERS",
+        "url": "https://www.youtube.com/watch?v=UXlEP64hItY",
+        "date_utc": "2026-08-21T22:39:57+00:00",
+        "summary": "Paul Brennan speaks with Jan Rivers, spokesperson for Genspect NZ, about the American Society of Plastic Surgeons recommending delaying gender-related surgeries until at least 19, citing weak evidence and potential long-term harm. Rivers links the shift to rising US legal and consumer-protection scrutiny, arguing surgeons are “end of the chain” and exposed to downstream harms. The discussion turns to New Zealand’s largely affirmative-only counselling settings, the puberty-blockers judicial review due in May, and concern that advocacy groups are shaping medical policy. For more information visit Genspect NZ or Public Good or follow Genspect on X"
       },
       {
         "title": "PAUL’S MAILBAG",
-        "url": "https://www.youtube.com/watch?v=5spVahBOgG4",
-        "date_utc": "2026-08-20T22:34:17+00:00",
-        "summary": "Paul Brennan kicks off 2026’s first mailbag with strong reactions to past interviews: calls to ban glyphosate, anger over the Canadian ostrich cull, and deep suspicion about roadside saliva drug testing and who ends up with the samples. A repeated, emotional message urges RCR not to “bag and tag” COVID, saying accountability and being heard are needed for healing. Send us your feedback – Text 2057 or email inbox@rcr.media"
+        "url": "https://www.youtube.com/watch?v=q0WItPAUTE4",
+        "date_utc": "2026-08-21T22:39:31+00:00",
+        "summary": "Paul Brennan dips into a packed RCR mailbag, reflecting listener reactions to interviews spanning health leadership, gene technology, COVID accountability, protest policing, climate narratives and global governance. Feedback features robust debate around Winston Peters and the Gene Tech Bill, deep scepticism of pandemic responses, and calls for greater scrutiny of power and institutions."
       },
       {
-        "title": "RODNEY’S MAILBAG",
-        "url": "https://www.youtube.com/watch?v=pfzrOHXlmhA",
-        "date_utc": "2026-08-20T22:34:02+00:00",
-        "summary": "Rodney’s listeners sent festive greetings and birthday wishes, thanking RCR for its mix of insight, reflection, and entertaining discussions. They appreciated the focus on truth, community, and current events, with hopes for more thoughtful conversations in 2026. Send your feedback by texting 2057 or email inbox@rcr.media"
+        "title": "RAMESH THAKUR",
+        "url": "https://www.youtube.com/watch?v=HQmsTVAdmDw",
+        "date_utc": "2026-08-21T22:38:33+00:00",
+        "summary": "Paul Brennan speaks with Professor Ramesh Thakur, former UN Assistant Secretary-General and leading scholar of international security, at a moment of deep global disruption. They unpack Australia’s hastily introduced speech laws and the wider trend of law-fare in Western democracies. The conversation also covers the Monroe Doctrine and Donald Trump’s National Security Strategy and erosion of international law with unilateral power moves in Venezuela, Iran and Greenland and what his Board of Peace signals for the future of global governance."
       },
       {
-        "title": "THE WILMS REPORT",
-        "url": "https://www.youtube.com/watch?v=P2o7oO7boSA",
-        "date_utc": "2026-08-20T22:33:45+00:00",
-        "summary": "Tim Wilms outlines to Paul Brennan how Australia’s turbulent summer been marked by high-profile violence, bushfires and public safety fears. They discuss New South Wales Premier Chris Minns’ push for tighter protest controls after the Bondi attack, plus Anthony Albanese’s decision to frame a national inquiry around antisemitism and “social cohesion” rather than security failures. Tim also outlines sweeping hate/extremism legislation, Coalition infighting and polling gains for One Nation, alongside culture-war flashpoints and police reshuffles in Victoria. Check out Australia's Royal Commission on Antisemitism and Social Cohesion"
+        "title": "MATT SHELTON",
+        "url": "https://www.youtube.com/watch?v=9Jb6JyDSq64",
+        "date_utc": "2026-08-21T22:38:30+00:00",
+        "summary": "Paul Brennan speaks with Dr Matt Shelton from New Zealand Doctors Speaking Out with Science (NZDSOS) about a new trio of preprint studies investigating “rubbery white clots” reported by embalmers. Shelton says literature reviews found no prior record, and describes the clots as tough, fibrous structures lacking red cells, platelets and plasminogen, suggesting they form in life and may resist breakdown. He references New Zealand embalmer Brenton Faithful, US survey work by Tom Haviland, and calls for independent scrutiny and journal publication. Discover more from NZDSOS or follow them on Facebook and X"
       },
       {
-        "title": "JASPREET & DON’S OPINION",
-        "url": "https://www.youtube.com/watch?v=BVXf2u11e6o",
-        "date_utc": "2026-08-20T22:32:03+00:00",
-        "summary": "Jaspreet Boparai and Don Nicolson discuss an account of a very young woman travelling from India to New Zealand on a work visa to take up a fast-food job in Auckland. They ponder why low-skilled roles are being filled from overseas while domestic unemployment remains high. The pair also explore concerns around worker exploitation, weakened English language and qualification checks, and whether current immigration settings are creating vulnerabilities rather than addressing real skills shortages. For more on this topic watch Brian Tamaki on RCR and William McGimpsey's Opinion"
+        "title": "LUCY ROGERS",
+        "url": "https://www.youtube.com/watch?v=JDaZ7lMLfJ8",
+        "date_utc": "2026-08-21T22:38:24+00:00",
+        "summary": "Simon O’Connor speaks with Lucy Rogers, a junior criminal defence lawyer who was unlawfully arrested during a November 2023 protest and released without charge. An IPCA investigation later found the arrest unjustified, and she is now pursuing legal action for wrongful arrest and Bill of Rights breaches. Lucy has been involved in counter protesting anti-Israel protests regularly for two years. For further information: Lucy Rogers Kiwi Blog Post Toitu Te Aroha protest footage Simon O'Connor: On Point Substack NZ Against Hamas Facebook group"
       },
       {
-        "title": "Thousands, tens of thousands of reports have been lodged and recorded.",
-        "url": "https://www.youtube.com/shorts/IulXESUgbvk",
-        "date_utc": "2026-08-20T20:47:25+00:00",
-        "summary": "\"Thousands, tens of thousands of reports have been lodged and recorded.\" - Nathan Seiuli, Executive Director, PILLAR NZ @Pillar_NZ Thousands of New Zealanders can reportedly end up with police records attached to them over alleged \"hate incidents\" that aren't crimes and haven't resulted in any criminal offence. If you're not breaking the law, should police have any business building a record that could later be used to paint you as a \"hateful\" person? 🎥 Watch here: https://rcr.media/episodes/nathan-seiuli-executive-director-pillar-nz-free-speech-blasphemy-laws-and-police-overreach #RCRMedia"
+        "title": "RODNEY’S REFLECTION",
+        "url": "https://www.youtube.com/watch?v=hA75h3CNvDw",
+        "date_utc": "2026-08-21T22:38:18+00:00",
+        "summary": "Rodney reflects on Chloe Swarbrick’s political views, questioning her positions on capitalism, colonialism, and the parliamentary system. He challenges her to clarify the alternatives she proposes, suggesting they may resemble totalitarianism or tribalism. He also encourages her to examine countries with similar systems and questions her connections with Hamas."
       },
       {
-        "title": "If they're not deliberately implementing them, what are they doing?",
-        "url": "https://www.youtube.com/shorts/NsksEJiCw70",
-        "date_utc": "2026-08-20T20:02:34+00:00",
-        "summary": "\"If they're not deliberately implementing them, what are they doing? They're accidentally implementing them?\" - William McGimpsey Dieuwe de Boer & William McGimpsey question the logic of describing concerns about demographic replacement as extremist while governments actively choose immigration policies that change population composition. Should discussing the real-world demographic consequences of government policy ever be considered \"violent extremism\"? 🎥 Watch here: https://rcr.media/episodes/weekly-roundup-luxon-nzsis-and-widening-political-fault-lines #RCRMedia #TheWeeklyRoundup"
+        "title": "SIAN CLEMENT & GAYLENE BARNES",
+        "url": "https://www.youtube.com/watch?v=UU_Opz4iES4",
+        "date_utc": "2026-08-21T22:38:08+00:00",
+        "summary": "On the anniversary of the start of the convoy 4 years ago, Paul Brennan is joined by writers Siân Clement and River of Freedom director Gaylene Barnes to discuss their new book Heart of the Protest. For more information or to purchase Heart of the Protest Follow Heart of the Protest on Facebook"
       }
     ]
   },
