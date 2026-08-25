@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-08-24T11:36:05Z",
+  "generated_utc": "2026-08-25T11:35:30Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "The Architecture of Belief",
+        "url": "https://realitycheck.radio/the-architecture-of-belief/",
+        "date_utc": "2026-08-22T23:02:06Z",
+        "summary": "by Rodney Hide I was a materialist from primary school. […]"
+      },
       {
         "title": "March for free speech or submit to communism – your choice is now",
         "url": "https://realitycheck.radio/march-for-free-speech-or-submit-to-communism-your-choice-is-now/",
@@ -88,43 +94,61 @@
         "summary": "by Yvonne van Dongen Last week a small local newspaper […]"
       },
       {
-        "title": "Riding Shotgun – ep 57: Psychology and Pyschopathy in Politics",
-        "url": "https://realitycheck.radio/riding-shotgun-ep-57-psychology-and-pyschopathy-in-politics/",
-        "date_utc": "2026-08-14T03:30:08Z",
-        "summary": "by Rachel Stewart Well, a day can be a month […]"
-      },
-      {
-        "title": "FREDDIE PONTON: Abandoned by the West: Is Turkey-Pakistan-Saudi Deal Israel’s Wake-Up Call?",
-        "url": "https://realitycheck.radio/episodes/freddie-ponton-abandoned-by-the-west-is-turkey-pakistan-saudi-deal-israels-wake-up-call/",
-        "date_utc": "2026-08-21T11:24:21Z",
+        "title": "CAMERON LUXTON: ACT Party MP: Mount Maunganui Tragedy, Local Government & MMP",
+        "url": "https://realitycheck.radio/episodes/cameron-luxton-act-party-mp-mount-maunganui-tragedy-local-government-mmp/",
+        "date_utc": "2026-08-25T06:49:07Z",
         "summary": ""
       },
       {
-        "title": "BOTH BARRELS: NZ’s TOP Party: A Train Wreck That Was Already Off The Rails",
-        "url": "https://realitycheck.radio/episodes/both-barrels-nzs-top-party-a-train-wreck-that-was-already-off-the-rails/",
-        "date_utc": "2026-08-21T11:24:09Z",
+        "title": "PAUL’S MAILBAG: COVID Accountability, Surveillance and Public Concerns",
+        "url": "https://realitycheck.radio/episodes/pauls-mailbag-covid-accountability-surveillance-and-public-concerns/",
+        "date_utc": "2026-08-25T06:05:46Z",
         "summary": ""
       },
       {
-        "title": "NATALIE CUTLER-WELSH OPINION: Data Manipulation Exposed: The Truth They Didn’t Want You to Know",
-        "url": "https://realitycheck.radio/episodes/natalie-cutler-welsh-opinion-data-manipulation-exposed-the-truth-they-didnt-want-you-to-know/",
-        "date_utc": "2026-08-21T11:23:32Z",
+        "title": "MICHAEL ARBON: Is Compulsory Super Working for Australians?",
+        "url": "https://realitycheck.radio/episodes/michael-arbon-is-compulsory-super-working-for-australians/",
+        "date_utc": "2026-08-25T02:45:39Z",
         "summary": ""
       },
       {
-        "title": "FARZIN IRANI: NZ’s 15-Minute City Dream: Utopia or Telling You How to Live?",
-        "url": "https://realitycheck.radio/episodes/farzin-irani-nzs-15-minute-city-dream-utopia-or-telling-you-how-to-live/",
-        "date_utc": "2026-08-21T11:16:45Z",
+        "title": "WINSTON PETERS: NZ First Leader & Foreign Minister: Social Media Bans, Dairy Reform, COVID Truth & A Four-Party Coalition Crisis?",
+        "url": "https://realitycheck.radio/episodes/winston-peters-nz-first-leader-foreign-minister-social-media-bans-dairy-reform-covid-truth-a-four-party-coalition-crisis/",
+        "date_utc": "2026-08-25T01:46:07Z",
         "summary": ""
       },
       {
-        "title": "RIDING SHOTGUN: The Bouncing of Balls",
-        "url": "https://realitycheck.radio/episodes/riding-shotgun-the-bouncing-of-balls/",
-        "date_utc": "2026-08-21T05:00:51Z",
+        "title": "DR GUY HATCHARD: Food Safety & Natural Medicine Advocate: Latest Population Statistics Show NZ in Crisis",
+        "url": "https://realitycheck.radio/episodes/dr-guy-hatchard-food-safety-natural-medicine-advocate-latest-population-statistics-show-nz-in-crisis/",
+        "date_utc": "2026-08-25T01:15:13Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "I was really shocked to know that our guidelines around vitamins and minerals and the limits that...",
+        "url": "https://www.youtube.com/shorts/TggfvUQ-fYQ",
+        "date_utc": "2026-08-25T07:30:46+00:00",
+        "summary": "\"I was really shocked to know that our guidelines around vitamins and minerals and the limits that we're allowed in New Zealand was like created in 1940 or something like this. So, we are well and truly outdated.\" - Laura McClure, ACT MP If the regulatory limits are decades out of date, should Medsafe be urgently reviewing what New Zealanders are allowed to access? 🎥 Watch here: https://rcr.media/episodes/laura-mcclure-act-mp-strategic-voting-labours-record-and-public-service-neutrality #RCRMedia"
+      },
+      {
+        "title": "They're starting to look for options. That is changing everything, the geopolitical and the...",
+        "url": "https://www.youtube.com/shorts/JWbMYRsqaBo",
+        "date_utc": "2026-08-25T07:01:33+00:00",
+        "summary": "\"They're starting to look for options. That is changing everything, the geopolitical and the military aspect of this war.\" - Freddie Ponton - Global Affairs Associate Editor 21st Century Wire Is Saudi Arabia's search for new security partners the beginning of a major geopolitical shift - or is it simply a warning to its existing allies? 🎥 Watch here: https://rcr.media/episodes/freddie-ponton-associate-editor-at-21st-century-wire-competing-interests-between-washington-and-netanyahu #RCRMedia"
+      },
+      {
+        "title": "61% of 19-39-year-olds polled were against gender medicine for children.",
+        "url": "https://www.youtube.com/shorts/jibrEe6iwj0",
+        "date_utc": "2026-08-25T06:01:53+00:00",
+        "summary": "\"61% of 19-39-year-olds polled were against gender medicine for children.\" - Jan Rivers, Genspect NZ Spokeswoman. If younger adults are becoming more sceptical of medical interventions for children, could lived experience be changing the debate faster than institutions are? 🎥 Watch here: https://rcr.media/episodes/jan-rivers-genspect-nz-spokeswoman-wpaths-courtroom-retreat #RCRMedia"
+      },
+      {
+        "title": "We don't have a choice. We have to stand up for our children and their children or else.",
+        "url": "https://www.youtube.com/shorts/JkMYRy0s7yg",
+        "date_utc": "2026-08-25T00:52:52+00:00",
+        "summary": "\"We don't have a choice. We have to stand up for our children and their children or else.\" - Artur Pawlowski, Canadian Pastor A fiery warning about faith, freedom and the fight for the next generation. How far should parents be willing to go to defend their children's future? 🎥 Watch here: https://rcr.media/episodes/artur-pawlowski-canadian-pastor-defying-canadas-covid-crackdowns-as-a-pastor #RCRMedia"
+      },
       {
         "title": "THEY KNEW | 311,257 Teens",
         "url": "https://www.youtube.com/shorts/36vj-WvM_9Q",
@@ -190,35 +214,71 @@
         "url": "https://www.youtube.com/watch?v=hhQu_-ynfhk",
         "date_utc": "2026-08-23T22:36:11+00:00",
         "summary": "Dieuwe De Boer and William McGimpsey inspect New Zealand election movers, including New Zealand First’s push for an English official-language bill and a referendum on Māori seats. They debate mass migration, the India free trade talks (and visa settings), and whether the revamped “golden visa” investment inflow is a net positive. The pair also welcome Auckland’s scaled-back dwelling projections and unpack Rupert Lowe’s new “Restore Britain” party."
-      },
-      {
-        "title": "MAURICE WILLIAMSON",
-        "url": "https://www.youtube.com/watch?v=wMAbRleFsS8",
-        "date_utc": "2026-08-23T22:35:49+00:00",
-        "summary": "Auckland City Councillor Maurice Williamson joins Paul to discuss the government's decision to roll back housing intensification under Plan Change 120, and the public pressure that drove it."
-      },
-      {
-        "title": "THE BRENNAN BAROMETER",
-        "url": "https://www.youtube.com/watch?v=gg70tlltD3c",
-        "date_utc": "2026-08-23T22:35:45+00:00",
-        "summary": "Paul Brennan backs a Green Party proposal to grant whales legal personhood in New Zealand, saying the intelligence and interconnectedness of the natural world deserve serious consideration. He then turns to the misconduct ruling against Nelson doctor Carolyn Wheeler over ivermectin, strongly criticising the the actions of the Medical Council of New Zealand and questioning pandemic-era medical guidelines, while pledging his support for the now retired doctor. For more information check out The Press: Misconduct finding against Nelson doctor prescribing ivermectin"
-      },
-      {
-        "title": "ALISTAIR’S OPINION",
-        "url": "https://www.youtube.com/watch?v=NMNb5MH2ucU",
-        "date_utc": "2026-08-23T22:35:42+00:00",
-        "summary": "Alistair Harding warns that the Government’s planned nationally consistent flood maps could fast-track managed retreat and undermine property rights. He argues that councils may rely on implausible climate models while overlooking human-made causes of flooding, potentially devaluing homes and limiting insurance without any actual disaster. Alistair urges homeowners to examine LIM reports, question the modelling being used and demand transparency before hazard designations reshape communities and property values across New Zealand. Check out Alistair's documentary Managed Out"
-      },
-      {
-        "title": "GREENWASHED MAILBAG",
-        "url": "https://www.youtube.com/watch?v=COXH0lFcAWs",
-        "date_utc": "2026-08-23T22:35:16+00:00",
-        "summary": "From Sweden’s “Inner Development Goals” to questions about Supreme Court climate rulings and trade agreements, this week’s mailbag spans the philosophical to the fiercely political. Listeners challenge carbon hypocrisy, global jet-setting elites and the direction of methane and GE policy, while others offer practical rural fixes, like distilling wilding pines and buying milk straight from the farm gate. It’s a lively mix of encouragement, scepticism and sharp-eyed scrutiny of the climate narrative at home and abroad. For further information: Methane Science Accord: Emeritus Princeton physicist, Dr William Happer speaking Tour of NZ The World Inner Development Goals : Newstalk ZB: Supreme Court ruled that the Government must take anthropogenic “climate change” into account when considering oil and gas tenders MFAT: Timeline of the Agreement on Climate Change, Trade and Sustainability (ACCTS)"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Auckland's Harbour Crossing: More Studies, No Decisions",
+        "url": "https://www.youtube.com/watch?v=q17t7vLU6Pw",
+        "date_utc": "2026-08-25T05:37:31+00:00",
+        "summary": "Dr Timothy Welch, Auckland University Senior Lecturer Architecture and Planning - Auckland's harbour crossing: more studies, no decisions."
+      },
+      {
+        "title": "National's Social Media Ban Is A “Fool’s Errand”",
+        "url": "https://www.youtube.com/watch?v=r4NTHbjx9cg",
+        "date_utc": "2026-08-25T05:07:25+00:00",
+        "summary": "Nathan Seiuli, Executive Director of PILLAR - National's Social Media Ban is a “Fool’s Errand”."
+      },
+      {
+        "title": "COLFO On Brian Tamaki's Gun Licence Revocation & Firearms Seizure",
+        "url": "https://www.youtube.com/watch?v=1s3ZTGQNHwQ",
+        "date_utc": "2026-08-25T04:06:47+00:00",
+        "summary": "Hugh Devereux-Mack, Spokesperson for COLFO on their letters sent to politicians following Brian Tamaki's gun licence revocation and firearms seizure."
+      },
+      {
+        "title": "Queenstown Mayor wonders where Regional Deal With The Government Went",
+        "url": "https://www.youtube.com/watch?v=FUpvvkB1ghE",
+        "date_utc": "2026-08-25T03:14:29+00:00",
+        "summary": "Queenstown Mayor John Glover wonders where his regional deal with the government went."
+      },
+      {
+        "title": "Cr Ray Chung On The Vagaries Of Wellington’s Water & Governance",
+        "url": "https://www.youtube.com/watch?v=vI8v4nCQv1o",
+        "date_utc": "2026-08-25T02:22:54+00:00",
+        "summary": "Cr Ray Chung on the vagaries of Wellington’s water and governance"
+      },
+      {
+        "title": "Economist Offers Some Solutions To Break The Electricity Cartel In NZ.",
+        "url": "https://www.youtube.com/watch?v=qvZYe06ftmo",
+        "date_utc": "2026-08-25T02:02:17+00:00",
+        "summary": "Economist Geoff Bertram offers some solutions to break the electricity cartel in NZ."
+      },
+      {
+        "title": "ML Breaks Down The Under-16s Social Media Ban - The Road To Hell …",
+        "url": "https://www.youtube.com/watch?v=ZjkWyFNpnvU",
+        "date_utc": "2026-08-25T01:49:23+00:00",
+        "summary": "Michael Laws breaks down the under-16s social media ban - the road to Hell …"
+      },
+      {
+        "title": "Winston Peters Stands Against Social Media Ban For U16s",
+        "url": "https://www.youtube.com/watch?v=zoLdQno2dnM",
+        "date_utc": "2026-08-25T00:13:36+00:00",
+        "summary": "Winston Peters stands against social media ban for U16s."
+      },
+      {
+        "title": "David Seymour Calls For One Law for All With New Bill",
+        "url": "https://www.youtube.com/watch?v=FHPmnBAiCqA",
+        "date_utc": "2026-08-25T00:05:05+00:00",
+        "summary": "David Seymour calls for one law for all with new bill."
+      },
+      {
+        "title": "Don Brash On ACT’s New Constitution Reform Bill",
+        "url": "https://www.youtube.com/watch?v=wLrn7UH12nw",
+        "date_utc": "2026-08-24T23:30:12+00:00",
+        "summary": "Don Brash on ACT’s new Constitution Reform Bill."
+      },
       {
         "title": "Opportunity Party’s Proposed Land Tax And Labour’s Plans For Landlords",
         "url": "https://www.youtube.com/watch?v=2iI_eYwIW-Y",
@@ -248,66 +308,6 @@
         "url": "https://www.youtube.com/watch?v=FFs_Ea-AVLk",
         "date_utc": "2026-08-24T02:21:16+00:00",
         "summary": "Former AB captain Taine Randell on the weekend’s Bok test, and the ongoing legal concussion case against World Rugby"
-      },
-      {
-        "title": "TVNZ News Demonstrates Its Ongoing Left-Wing News Bias",
-        "url": "https://www.youtube.com/watch?v=5zNA2JWHs84",
-        "date_utc": "2026-08-24T02:11:35+00:00",
-        "summary": "TVNZ News demonstrates its ongoing left-wing news bias"
-      },
-      {
-        "title": "Electoral Commission Requiring Staff To Learn The Treaty Of Waitangi",
-        "url": "https://www.youtube.com/watch?v=ZOCF5gt0Tz8",
-        "date_utc": "2026-08-24T01:22:19+00:00",
-        "summary": "Muriel Newman on the Electoral Commission requiring staff to learn the Treaty Of Waitangi."
-      },
-      {
-        "title": "Todd Stephenson On More Mumbo Jumbo From The FMA",
-        "url": "https://www.youtube.com/watch?v=BhK8Zd5XaBE",
-        "date_utc": "2026-08-24T01:01:51+00:00",
-        "summary": "Todd Stephenson on more mumbo jumbo from the Financial Markets Authority."
-      },
-      {
-        "title": "Unbelievable Case Of Name Suppression For Lawyer Assaulting His Child",
-        "url": "https://www.youtube.com/watch?v=0Skw9O0LFfQ",
-        "date_utc": "2026-08-24T00:49:00+00:00",
-        "summary": "Sean Plunket on unbelievable case of name suppression for lawyer assaulting his child."
-      },
-      {
-        "title": "The Mt Maunganui Scandal - “No-One knows Nothing” Isn’t Working",
-        "url": "https://www.youtube.com/watch?v=hnF7Y3b_LYE",
-        "date_utc": "2026-08-23T21:25:24+00:00",
-        "summary": "The Mt Maunganui Scandal - “no-one knows nothing” isn’t working"
-      },
-      {
-        "title": "Hawkes Bay Coffin Club Treasurer Supplying NZ With Coffins For Babies",
-        "url": "https://www.youtube.com/watch?v=tbJHy_6LT78",
-        "date_utc": "2026-08-21T05:55:43+00:00",
-        "summary": "Cherie Hames, Hawkes Bay Coffin Club Treasurer on the club supplying NZ with coffins for babies."
-      },
-      {
-        "title": "Grey Power NZ React To The Aged Care Report",
-        "url": "https://www.youtube.com/watch?v=hoivPcBeA3o",
-        "date_utc": "2026-08-21T05:32:16+00:00",
-        "summary": "David Marshall, National President of Grey Power NZ on their reaction to the Aged Care Report."
-      },
-      {
-        "title": "Christine Rankin: National’s Coup, Aged Care Report, The Greens & More",
-        "url": "https://www.youtube.com/watch?v=cro6954XnqU",
-        "date_utc": "2026-08-21T05:18:04+00:00",
-        "summary": "Christine Rankin on National's failed coup, the Aged Care Report, Greens wanting to expand school lunches and why is mince so expensive?"
-      },
-      {
-        "title": "Education professor Says Climate Change Must Be Part Of Curriculum",
-        "url": "https://www.youtube.com/watch?v=v-R0L5o1254",
-        "date_utc": "2026-08-21T04:25:00+00:00",
-        "summary": "Education professor Chris Eames says climate change must be part of school curriculum"
-      },
-      {
-        "title": "Sean Plunket Reveals The Latest Public Service Mumbo Jumbo",
-        "url": "https://www.youtube.com/watch?v=J_8TVXINfDw",
-        "date_utc": "2026-08-21T03:54:05+00:00",
-        "summary": "Sean Plunket reveals the latest Public Service mumbo jumbo."
       }
     ],
     "opinions": [
