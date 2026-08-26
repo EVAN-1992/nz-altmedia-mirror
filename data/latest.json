@@ -1,8 +1,20 @@
 {
-  "generated_utc": "2026-08-25T11:35:30Z",
+  "generated_utc": "2026-08-26T11:37:01Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Flu jabs expanded to 260,000 more children after pressure from government advisors",
+        "url": "https://realitycheck.radio/flu-jabs-expanded-to-260000-more-children-after-pressure-from-government-advisors/",
+        "date_utc": "2026-08-26T11:13:05Z",
+        "summary": "by Bonnie Flaws Pharmac has announced it will fund flu […]"
+      },
+      {
+        "title": "Modern warfare has left the US behind",
+        "url": "https://realitycheck.radio/modern-warfare-has-left-the-us-behind/",
+        "date_utc": "2026-08-25T23:30:58Z",
+        "summary": "by Nicole Foss Drones have been a major game-changer in […]"
+      },
       {
         "title": "The Architecture of Belief",
         "url": "https://realitycheck.radio/the-architecture-of-belief/",
@@ -82,143 +94,167 @@
         "summary": ""
       },
       {
-        "title": "They Saw it Coming",
-        "url": "https://realitycheck.radio/they-saw-it-coming/",
-        "date_utc": "2026-08-15T08:50:04Z",
-        "summary": "by Amerikanets In mid-February 2026, before the US military initiated […]"
-      },
-      {
-        "title": "Apologise For Not Lying",
-        "url": "https://realitycheck.radio/apologise-for-not-lying/",
-        "date_utc": "2026-08-14T08:33:35Z",
-        "summary": "by Yvonne van Dongen Last week a small local newspaper […]"
-      },
-      {
-        "title": "CAMERON LUXTON: ACT Party MP: Mount Maunganui Tragedy, Local Government & MMP",
-        "url": "https://realitycheck.radio/episodes/cameron-luxton-act-party-mp-mount-maunganui-tragedy-local-government-mmp/",
-        "date_utc": "2026-08-25T06:49:07Z",
+        "title": "STUART SMITH: National MP for Kaikōura: Rivers, Red Tape and Reclaiming Council Accountability",
+        "url": "https://realitycheck.radio/episodes/stuart-smith-national-mp-for-kaikoura-rivers-red-tape-and-reclaiming-council-accountability/",
+        "date_utc": "2026-08-26T02:58:12Z",
         "summary": ""
       },
       {
-        "title": "PAUL’S MAILBAG: COVID Accountability, Surveillance and Public Concerns",
-        "url": "https://realitycheck.radio/episodes/pauls-mailbag-covid-accountability-surveillance-and-public-concerns/",
-        "date_utc": "2026-08-25T06:05:46Z",
+        "title": "THE FOURTH ESTATE: Online Safety, Silence on Teen Myocarditis and Jason Arday",
+        "url": "https://realitycheck.radio/episodes/the-fourth-estate-online-safety-silence-on-teen-myocarditis-and-jason-arday/",
+        "date_utc": "2026-08-26T01:42:42Z",
         "summary": ""
       },
       {
-        "title": "MICHAEL ARBON: Is Compulsory Super Working for Australians?",
-        "url": "https://realitycheck.radio/episodes/michael-arbon-is-compulsory-super-working-for-australians/",
-        "date_utc": "2026-08-25T02:45:39Z",
+        "title": "MONEY TALKS: With Simon Angelo: When Property Stops Being the Easy Wealth Builder",
+        "url": "https://realitycheck.radio/episodes/money-talks-with-simon-angelo-when-property-stops-being-the-easy-wealth-builder/",
+        "date_utc": "2026-08-26T01:13:17Z",
         "summary": ""
       },
       {
-        "title": "WINSTON PETERS: NZ First Leader & Foreign Minister: Social Media Bans, Dairy Reform, COVID Truth & A Four-Party Coalition Crisis?",
-        "url": "https://realitycheck.radio/episodes/winston-peters-nz-first-leader-foreign-minister-social-media-bans-dairy-reform-covid-truth-a-four-party-coalition-crisis/",
-        "date_utc": "2026-08-25T01:46:07Z",
+        "title": "RACHEL MATHEWS & MADELEINE HUNT: Council Watch: UK and NZ Councils Centralising Power",
+        "url": "https://realitycheck.radio/episodes/rachel-mathews-madeleine-hunt-council-watch-uk-and-nz-councils-centralising-power/",
+        "date_utc": "2026-08-25T21:55:12Z",
         "summary": ""
       },
       {
-        "title": "DR GUY HATCHARD: Food Safety & Natural Medicine Advocate: Latest Population Statistics Show NZ in Crisis",
-        "url": "https://realitycheck.radio/episodes/dr-guy-hatchard-food-safety-natural-medicine-advocate-latest-population-statistics-show-nz-in-crisis/",
-        "date_utc": "2026-08-25T01:15:13Z",
+        "title": "ROSS COLLETT: Retired Insurance Broker: Defying a Terminal Cancer Diagnosis",
+        "url": "https://realitycheck.radio/episodes/ross-collett-retired-insurance-broker-defying-a-terminal-cancer-diagnosis/",
+        "date_utc": "2026-08-25T20:59:29Z",
         "summary": ""
       }
     ],
     "youtube": [
       {
-        "title": "I was really shocked to know that our guidelines around vitamins and minerals and the limits that...",
-        "url": "https://www.youtube.com/shorts/TggfvUQ-fYQ",
-        "date_utc": "2026-08-25T07:30:46+00:00",
-        "summary": "\"I was really shocked to know that our guidelines around vitamins and minerals and the limits that we're allowed in New Zealand was like created in 1940 or something like this. So, we are well and truly outdated.\" - Laura McClure, ACT MP If the regulatory limits are decades out of date, should Medsafe be urgently reviewing what New Zealanders are allowed to access? 🎥 Watch here: https://rcr.media/episodes/laura-mcclure-act-mp-strategic-voting-labours-record-and-public-service-neutrality #RCRMedia"
+        "title": "LESTER BRYANT",
+        "url": "https://www.youtube.com/watch?v=FSymifvokIE",
+        "date_utc": "2026-08-26T11:35:08+00:00",
+        "summary": "Paul Brennan speaks with Lester Bryant, Energy spokesperson for the New Zealand Outdoors and Freedom Party, about escalating tensions in the Middle East and the potential fallout for global oil supply. Lester warns that disruption in the Strait of Hormuz could severely impact fuel availability, with New Zealand especially vulnerable due to its reliance on imported energy and geographic isolation. Also check out out Paul's interview with petrochemical industry veteran Harvey Weake To help you get prepared check out: Rodney Hide's interview with Carolyn Eichler – founder of Prepper Kiwi on gardening, hunting and basic survival skills Also: Simon Fleck's practical tips for prepping on a budget and with limited space and Simon Fleck's pointers for being prepared for natural disasters LINC preparedness on creating an independent CB radio network in NZ"
       },
       {
-        "title": "They're starting to look for options. That is changing everything, the geopolitical and the...",
-        "url": "https://www.youtube.com/shorts/JWbMYRsqaBo",
-        "date_utc": "2026-08-25T07:01:33+00:00",
-        "summary": "\"They're starting to look for options. That is changing everything, the geopolitical and the military aspect of this war.\" - Freddie Ponton - Global Affairs Associate Editor 21st Century Wire Is Saudi Arabia's search for new security partners the beginning of a major geopolitical shift - or is it simply a warning to its existing allies? 🎥 Watch here: https://rcr.media/episodes/freddie-ponton-associate-editor-at-21st-century-wire-competing-interests-between-washington-and-netanyahu #RCRMedia"
+        "title": "DEB CUNLIFFE",
+        "url": "https://www.youtube.com/watch?v=1HkQExA-whs",
+        "date_utc": "2026-08-26T11:34:30+00:00",
+        "summary": "Deb Cunliffe, President of the Nurses Collective NZ joins Paul Brennan to discuss the Second Covid Inquiry report and how it has failed in its mandate to learn lessons and interrogate the evidence and most importantly the examine the lack of ethics, extent of harm and lack of transparency around the Covid response. Deb says the report treats moral injury as emotional fallout, rather than evidence of systemic failure by decision-makers. Earlier this month, the collective sent an open letter to the commissioners expressing deep disappointment with the findings."
       },
       {
-        "title": "61% of 19-39-year-olds polled were against gender medicine for children.",
-        "url": "https://www.youtube.com/shorts/jibrEe6iwj0",
-        "date_utc": "2026-08-25T06:01:53+00:00",
-        "summary": "\"61% of 19-39-year-olds polled were against gender medicine for children.\" - Jan Rivers, Genspect NZ Spokeswoman. If younger adults are becoming more sceptical of medical interventions for children, could lived experience be changing the debate faster than institutions are? 🎥 Watch here: https://rcr.media/episodes/jan-rivers-genspect-nz-spokeswoman-wpaths-courtroom-retreat #RCRMedia"
+        "title": "SUE GREY",
+        "url": "https://www.youtube.com/watch?v=CkdMR9WYL5k",
+        "date_utc": "2026-08-26T11:33:55+00:00",
+        "summary": "Lawyer Sue Grey returns to update Paul Brennan on the final day of Dr Bernard Conlon’s disciplinary tribunal in Rotorua, brought by the Medical Council of New Zealand. She describes a packed venue overwhelmingly there in support and recounts how the Professional Conduct Committee presented its case. The Tribunal's decision is expected early next week."
       },
       {
-        "title": "We don't have a choice. We have to stand up for our children and their children or else.",
-        "url": "https://www.youtube.com/shorts/JkMYRy0s7yg",
-        "date_utc": "2026-08-25T00:52:52+00:00",
-        "summary": "\"We don't have a choice. We have to stand up for our children and their children or else.\" - Artur Pawlowski, Canadian Pastor A fiery warning about faith, freedom and the fight for the next generation. How far should parents be willing to go to defend their children's future? 🎥 Watch here: https://rcr.media/episodes/artur-pawlowski-canadian-pastor-defying-canadas-covid-crackdowns-as-a-pastor #RCRMedia"
+        "title": "LEGAL HUB",
+        "url": "https://www.youtube.com/watch?v=IMTiDmLce8U",
+        "date_utc": "2026-08-26T11:33:53+00:00",
+        "summary": "Katie Ashby-Koppens joins Paul Brennan for a Legal Hub catch-up on New Zealand’s decision to reject proposed WHO international health regulation changes, framing it as a win for national sovereignty. Katie credits persistent public pressure and political backing, noting the decision came down to maintaining domestic control over health responses."
       },
       {
-        "title": "THEY KNEW | 311,257 Teens",
-        "url": "https://www.youtube.com/shorts/36vj-WvM_9Q",
-        "date_utc": "2026-08-24T05:45:40+00:00",
-        "summary": "🌐 RCR.Media | 🎵 We made them a song. It's called THEY KNEW. ⚠️ Fair warning: the chorus may get stuck in your head. The warnings. The briefings. The slogans. 311,257 teenage second doses. The consequences. And one very simple question: If the risk was known, why weren't teenagers and their parents properly warned? Some of the people in this song would quite like your trust again. Sound on. 🔊 Read the article and SHARE the song... https://rcr.media/blog/more-than-300000-teens-received-second-covid-shot-after-officials-were-advised-of-myocarditis-risk/"
-      },
-      {
-        "title": "€2 million. Bypassed twice.",
-        "url": "https://www.youtube.com/shorts/yYeTo_IzFyo",
-        "date_utc": "2026-08-24T00:01:14+00:00",
-        "summary": "€2 million. Bypassed twice. “Hold my beer.” - Security researcher Paul Moore A €2 million EU age-verification system was reportedly bypassed twice using an AI-generated Chrome plugin. If a system designed to prove your age can simply be made to lie, how much trust should we put in digital ID and age verification? 🎥 Watch here: https://rcr.media/episodes/tech-tuesday-with-steven-sykes-the-data-security-problems-with-digital-id #RCRMedia #TechTuesday"
-      },
-      {
-        "title": "DRS SARAH AND RANDALL FARRANT",
-        "url": "https://www.youtube.com/watch?v=DSORFg5YMug",
-        "date_utc": "2026-08-23T22:42:32+00:00",
-        "summary": "Rodney and doctors Sarah and Randall Farrant discuss the vital role of gut health in overall wellbeing, highlighting its influence on the brain, immunity, and long-term health. They examine how birth methods, diet, and antibiotics shape the gut microbiome, especially in children. They also emphasise natural support through fibre-rich and fermented foods, proper hydration, and good digestion, alongside supportive practices to maintain a healthy gut. For further information: Check out their website Vital-Wellbeing Find them on Facebook , Instagram and Rumble Read the Vital-Wellbeing Blog: Brain Health Starts in the Gut Purchase Dr Sarah Farrant's The Vital Truth book and The Health Illusion book or discover more from Dr Natasha Campbell-McBride"
-      },
-      {
-        "title": "IAIN DAVIS",
-        "url": "https://www.youtube.com/watch?v=mzKwG9XlI7E",
-        "date_utc": "2026-08-23T22:41:15+00:00",
-        "summary": "Paul Brennan speaks with UK investigative journalist Iain Davis about his new book The Technocratic Dark State , in which he lays out the evidence that a network of Silicon Valley elites is advancing a post-democratic, technocratic model of governance via the second Trump Administration. Davis links the “Dark Enlightenment” philosophy to figures such as Peter Thiel and Elon Musk, warning of corporate-run ‘sovereign realms' where citizens become customers and rights are tokenised on digital ledgers. He cautions that AI-driven governance, digital ID, and special economic zones are early signs of a system that could erode liberties unless actively resisted. Please note this interview was recorded before the UK arrest of Peter Mandelson and contain references to him not having being arrested. Discover more from Iain on his website , substack and X"
-      },
-      {
-        "title": "MERYL NASS",
-        "url": "https://www.youtube.com/watch?v=5iB7jjyrBBs",
-        "date_utc": "2026-08-23T22:39:52+00:00",
-        "summary": "Between clauses in the US Farm Bill and President Donald Trump's Executive Order protecting US glyphosate and phosphorous production, guest Meryl Nass suggests the pesticide industry is effectively being deregulated. The result will be that the industry has effective immunity from prosecution for related harms. Complicating things, HHS Secretary Robert Kennedy has got behind Trump's order, which has sent the Make America Healthy Again coalition that contributed to Trump's 2024 victory into a spin. Meanwhile, Rep. Thomas Massie has introduced a bill to counter Trump's EO, sending a message that enough is enough. Can it succeed? For further information: Whitehouse Fact Sheet: President Donald J. Trump Ensures an Adequate Supply of Elemental Phosphorus and Glyphosate-Based Herbicides for National Security RFK on X: RFK comes out in support of Trump’s decision, shocking MAHA Meryl Nass Substack: Thomas Massie introduces a new bill to counter Trump’s glyphosate EO and parts of the liability shield in the Farm Bill Meryl Nass Substack: The Pesticide legislation and the E.O. are complicated and confusing. I have tried to simplify what it is they do–because it is CRITICAL to understand the"
-      },
-      {
-        "title": "RODNEY’S REFLECTION",
-        "url": "https://www.youtube.com/watch?v=STlecxCluaQ",
-        "date_utc": "2026-08-23T22:38:28+00:00",
-        "summary": "Rodney discusses the Epstein file revelations, questioning how powerful figures and institutions failed to protect vulnerable young women. He calls for accountability, reform, and reflection to ensure such abuses are never ignored again."
-      },
-      {
-        "title": "HRVOJE MORIC",
-        "url": "https://www.youtube.com/watch?v=FxlSVn_NN6c",
-        "date_utc": "2026-08-23T22:38:14+00:00",
-        "summary": "Independent journalist and podcaster Hrvoje Morić joins Paul for a discussion about the moves that are reshaping the globe in to a series of Technates – regional power blocs – that he believes will ultimately operate under one global government driven by surveillance and algocracy (rule by algorithm). Morić believes ‘the hour is late', with much of the architecture needed to do this already in place. He says a focus on local connections and parallel structures is the best defence against the advancing new world order. For more information visit Hrvoje's website Geopolitics and Empire or find him on X"
-      },
-      {
-        "title": "CLAIRE BLEAKLEY",
-        "url": "https://www.youtube.com/watch?v=eX9FLswvtdY",
-        "date_utc": "2026-08-23T22:37:38+00:00",
-        "summary": "In January the Food Standards Australia New Zealand (FSANZ) approved the GM Purple tomato, engineered with genes from the snapdragon, into the food chain as a fresh tomato. The Office of the Gene Regulator (OGTR) approved the seeds for growing and marketing, in Australia. GE Free NZ director Claire Bleakley points out that the GM fruit has no history of safe use as there was an absence of nutritional studies to see if allergens or hidden health problems might occur over time. Approval for the release of a living viable GM would need to have approval from the EPANZ before it could be imported and sold in New Zealand. Claire also talks about a Brand New Zealand survey of cruise-ship visitors that shows strong opposition to New Zealand relaxing its rules on GMO crops and animals. For more information: GE Free NZ: Supermarkets need EPA approval to import GMO Purple Tomato into NZ GE Free NZ: International Visitors Say No to GMO Release In New Zealand – Survey"
-      },
-      {
-        "title": "NICOLAS HULSCHER",
-        "url": "https://www.youtube.com/watch?v=3x_MxFlP9us",
-        "date_utc": "2026-08-23T22:36:49+00:00",
-        "summary": "Paul Brennan speaks with epidemiologist and McCullough Foundation administrator Nicolas Hulscher about two major red flags: a South Korean national-insurance analysis (51 million people) that found a dose-linked rise in non-Covid respiratory infections; and newly obtained data from Israel that show a cluster of severe cardiac events in 12–16-year-olds within weeks of mRNA authorisation. Follow Nic Hulscher on X or find him on Facebook"
-      },
-      {
-        "title": "ALEX PENK",
-        "url": "https://www.youtube.com/watch?v=YVBlCDgp-Bg",
-        "date_utc": "2026-08-23T22:36:43+00:00",
-        "summary": "Simon O’Connor is joined by Alex Penk from Ethos Alliance, who explains how the group supports individuals facing conscience-based challenges, including workplace discrimination, gender issues, and policy conflicts, and raises concerns that changes to assisted dying laws could affect healthcare professionals’ conscience rights. Discover more from Ethos Alliance"
+        "title": "THE BRENNAN BAROMETER",
+        "url": "https://www.youtube.com/watch?v=VDGYirmWjzE",
+        "date_utc": "2026-08-26T11:33:45+00:00",
+        "summary": "Paul Brennan’s end-of-week Barometer dissects the emotional fallout from Chris Hipkins’ public response to personal allegations, questioning whether the display was genuine or calculated. He contrasts media framing with his own scepticism, before widening the lens to critique celebrity-style political branding through glossy magazine culture."
       },
       {
         "title": "WEEKLY ROUNDUP",
-        "url": "https://www.youtube.com/watch?v=hhQu_-ynfhk",
-        "date_utc": "2026-08-23T22:36:11+00:00",
-        "summary": "Dieuwe De Boer and William McGimpsey inspect New Zealand election movers, including New Zealand First’s push for an English official-language bill and a referendum on Māori seats. They debate mass migration, the India free trade talks (and visa settings), and whether the revamped “golden visa” investment inflow is a net positive. The pair also welcome Auckland’s scaled-back dwelling projections and unpack Rupert Lowe’s new “Restore Britain” party."
+        "url": "https://www.youtube.com/watch?v=Oh00PdBN_B0",
+        "date_utc": "2026-08-26T11:05:46+00:00",
+        "summary": "Dieuwe De Boer and William McGimpsey discuss New Zealand’s energy resilience during the fuel supply crisis linked to the Iran war, along with immigration, economic growth, political trust, and shifting foreign relations with the US and China."
+      },
+      {
+        "title": "FREDDIE PONTON",
+        "url": "https://www.youtube.com/watch?v=i9R6tEqYsWU",
+        "date_utc": "2026-08-26T11:05:38+00:00",
+        "summary": "Freddie Ponton, Global Affairs editor at 21st Century Wire, joins RCR to discuss updates on the Iran War, which he characterises as a war of survival for Iran. They discuss the Strait of Hormuz being closed to US allies and the Israeli strike on the South Pars gas field as a major escalation of the war, with significant impacts on Iran's civilian population. However, Ponton says this will only firm up the resolve of the Iranians, as seen in the retaliatory attack on energy security infrastructure in Qatar, which will have knock-on effects for fuel supplies internationally. Discover more from 21st Century Wire or find them on X Follow Freddie on X"
+      },
+      {
+        "title": "RIDING SHOTGUN",
+        "url": "https://www.youtube.com/watch?v=lX6Oz3vqejU",
+        "date_utc": "2026-08-26T11:05:15+00:00",
+        "summary": "This week on Riding Shotgun , Rachel Stewart notes that the Oscars’ viewership has fallen sharply from around 50 million in 2000 to under 18 million today. While industry figures attribute this to changing viewing habits, she argues the deeper cause is public disengagement driven by perceptions of Hollywood elitism, political messaging, and insider influence over awards. Discover more from Rachel on Substack and X"
+      },
+      {
+        "title": "RACHEL’S MAILBAG",
+        "url": "https://www.youtube.com/watch?v=D4koMcycLV8",
+        "date_utc": "2026-08-26T11:05:04+00:00",
+        "summary": "Listeners reflect on the lasting scars of COVID-era policies, sharing deeply personal stories of separation, job loss, medical concerns, and grief. The messages reveal a common thread of disillusionment, with many questioning official narratives and expressing a desire for accountability, recognition, and, for some, long-overdue apologies. Text your feedback to 2057 or email inbox@rcr.media"
+      },
+      {
+        "title": "AIDAN MCLINDON",
+        "url": "https://www.youtube.com/watch?v=6TfD5N295fo",
+        "date_utc": "2026-08-26T11:04:38+00:00",
+        "summary": "Paul Brennan speaks with politician Aidan McLindon about a turbulent week in Australia, with surging fuel prices and panic buying. They also discuss Victoria’s proposed fee to visit the 12 Apostles, the rise of One Nation in South Australia, unrest inside Victorian Labor, and warnings that Cyclone Narelle could hit far north Queensland hard. For more information on the Aligned Council of Australia"
+      },
+      {
+        "title": "WEDNESDAY WEBINARS",
+        "url": "https://www.youtube.com/watch?v=iM_qixkb__o",
+        "date_utc": "2026-08-26T10:37:56+00:00",
+        "summary": "Paul Brennan is joined by independent journalist and freelance writer Penny Marie and RCR host Nathan Smith for a wide-ranging webinar on New Zealand politics, media influence, public distrust, and the long shadow of COVID. They argue polls often shape opinion as much as reflect it, criticise mainstream media framing on issues from Chris Hipkins to the Middle East, and say the health system still rewards sickness over prevention. For more information: NZDSOS Rumble Channel: Gardasil Documentary Penny Marie Propaganda in Hindsight Part 1 Penny Marie Propaganda in Hindsight Part 2 Discover more from Penny Marie on her website , YouTube and X Or check out Let Kids be Kids Follow Nathan Smith on Substack"
+      },
+      {
+        "title": "MEDIA MATTERS",
+        "url": "https://www.youtube.com/watch?v=B2ihpjL6L_0",
+        "date_utc": "2026-08-26T10:35:56+00:00",
+        "summary": "Maree Buscke and Marty Gibson discuss New Zealand rejecting the WHO’s pandemic rule changes, the lingering fallout of the Royal Commission report and the media’s framing of Chris Hipkins’ personal drama. They argue establishment outlets are protecting political favourites while missing the bigger questions around accountability, sovereignty and public trust. For more information: Winston Peters Facebook Post on IHR Amendments NZ Herald: Mathew Hooton article: Royal Commission report – why Chris Hipkins must apologise to Aucklanders NZ Herald: Bruce Cotteril: TVNZ has lost its way and the public deserves better Penny Marie X Post on United Nations Sustainable Development Goals Leighton Smith Podcast #319 – March 11th 2026 – Robert MacCulloch NZ Herald: Top US Counterterrorism official Joe Kent resigns in opposition to Iran war Fiona Rose Diamond X Post"
+      },
+      {
+        "title": "KEN TURNER",
+        "url": "https://www.youtube.com/watch?v=d-va7z_ftTM",
+        "date_utc": "2026-08-26T10:35:35+00:00",
+        "summary": "Auckland City Councillor Ken Turner joins Paul Brennan to discuss how intensification plans are being progressed despite a $4 million consultation process being incomplete with many submissions yet to be analysed. Plan Change 120 will introduce high rise apartment blocks to parts of Auckland where residents are opposed to them. He draws strong parallels between the plan change and the 15 minute cities concept."
+      },
+      {
+        "title": "WINSTON PETERS",
+        "url": "https://www.youtube.com/watch?v=bpGRSv6zwzQ",
+        "date_utc": "2026-08-26T10:35:13+00:00",
+        "summary": "Paul Brennan is rejoined by Winston Peters to discuss a sweeping mix from Fonterra’s direction and New Zealand’s fuel vulnerability to tensions with China and defence ties with Australia. Peters defends rejecting the WHO pandemic changes as a matter of sovereignty and signals more action to come on COVID accountability."
+      },
+      {
+        "title": "MAREE’S MAILBAG",
+        "url": "https://www.youtube.com/watch?v=K7dRAAsmXjY",
+        "date_utc": "2026-08-26T10:35:12+00:00",
+        "summary": "Maree Buscke’s latest mailbag ranges from distrust of legacy media; to concerns over online censorship to anguished reflections on vaccine harm and the lasting bitterness of the COVID era. Maree highlights growing backlash against ideological capture in medical, nursing and midwifery councils and touches on RCR’s treatment in an AUT paper. For more information: Read the AUT Paper- Aotearoa New Zealand Media Ownership 2025 Watch the RCR Covid Inquiry Webinar and the RCR Covid Panel Text your feedback to 2057 or email inbox@rcr.media"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Ashley Church With A Round-Up Of The Last Fortnight In NZ Politics",
+        "url": "https://www.youtube.com/watch?v=c7WrwR7Obvo",
+        "date_utc": "2026-08-26T02:48:11+00:00",
+        "summary": "Ashley Church, Markets and Political Commentator with a round-up of property, politics, social media ban for under-16-year-olds and remembering the one and only superstar Dolly Parton."
+      },
+      {
+        "title": "Shane Cameron On His New Book 'Mountain Warrior'",
+        "url": "https://www.youtube.com/watch?v=-k1FNzptkwk",
+        "date_utc": "2026-08-26T02:33:32+00:00",
+        "summary": "Shane Cameron former New Zealand and Commonwealth champion boxer on his new book 'Mountain Warrior'. 'It's not how you fall - it's how you rise’."
+      },
+      {
+        "title": "Worst Property Managers Named & Calls For Rental Warrant Of Fitness",
+        "url": "https://www.youtube.com/watch?v=N690FGzxAY0",
+        "date_utc": "2026-08-26T02:22:18+00:00",
+        "summary": "Sarina Gibbon - Worst property managers named and shamed in new report and calls for a rental warrant of fitness, awarded from an accredited source."
+      },
+      {
+        "title": "Simon O’Connor On Concerns Around Social Media Ban For U16s",
+        "url": "https://www.youtube.com/watch?v=DS_rcvVrDPU",
+        "date_utc": "2026-08-26T02:05:57+00:00",
+        "summary": "Simon O’Connor on concerns around the Government's social media ban for U16s."
+      },
+      {
+        "title": "Mark Regev On Gaza, Lebanon And The Strait Of Hormuz",
+        "url": "https://www.youtube.com/watch?v=6NWJze7kPow",
+        "date_utc": "2026-08-26T00:38:33+00:00",
+        "summary": "Mark Regev on Gaza, Lebanon and the Strait of Hormuz."
+      },
+      {
+        "title": "Karl Le Quesne On Electoral Commission’s Treaty Of Waitangi Concerns",
+        "url": "https://www.youtube.com/watch?v=-T6ksw0dxqo",
+        "date_utc": "2026-08-26T00:21:44+00:00",
+        "summary": "Chief Electoral Officer, Karl Le Quesne on Electoral Commission’s Treaty of Waitangi concerns."
+      },
       {
         "title": "Auckland's Harbour Crossing: More Studies, No Decisions",
         "url": "https://www.youtube.com/watch?v=q17t7vLU6Pw",
@@ -272,42 +308,6 @@
         "url": "https://www.youtube.com/watch?v=FHPmnBAiCqA",
         "date_utc": "2026-08-25T00:05:05+00:00",
         "summary": "David Seymour calls for one law for all with new bill."
-      },
-      {
-        "title": "Don Brash On ACT’s New Constitution Reform Bill",
-        "url": "https://www.youtube.com/watch?v=wLrn7UH12nw",
-        "date_utc": "2026-08-24T23:30:12+00:00",
-        "summary": "Don Brash on ACT’s new Constitution Reform Bill."
-      },
-      {
-        "title": "Opportunity Party’s Proposed Land Tax And Labour’s Plans For Landlords",
-        "url": "https://www.youtube.com/watch?v=2iI_eYwIW-Y",
-        "date_utc": "2026-08-24T05:57:43+00:00",
-        "summary": "Matt Ball, Property Investors Federation Spokesperson on the Opportunity Party’s proposed land tax and Labour’s plans for landlords and the future of interest deductibility."
-      },
-      {
-        "title": "Why The ‘Conservative’ Māori Should Come Out from the Shadows",
-        "url": "https://www.youtube.com/watch?v=D9FoSHelDZY",
-        "date_utc": "2026-08-24T05:52:14+00:00",
-        "summary": "Harete Hipango-Brownlie, NZ First Candidate on her piece: “Why The ‘Conservative’ Māori Should Come Out from the Shadows”."
-      },
-      {
-        "title": "More Local Government Corruption In Auckland?",
-        "url": "https://www.youtube.com/watch?v=Sn4C14JebIM",
-        "date_utc": "2026-08-24T03:46:02+00:00",
-        "summary": "More local government corruption in Auckland? Cr Daniel Newman on the latest allegations surrounding the Manurewa community board."
-      },
-      {
-        "title": "Is FENZ Out Of Control? The Minister Responsible Discusses The Issues.",
-        "url": "https://www.youtube.com/watch?v=Wy4aU-d_sUg",
-        "date_utc": "2026-08-24T02:30:04+00:00",
-        "summary": "Is FENZ out of control? Minister responsible Hon Brooke van Velden discusses the Issues."
-      },
-      {
-        "title": "Former AB Captain Taine Randell On The Weekend’s Bok Test",
-        "url": "https://www.youtube.com/watch?v=FFs_Ea-AVLk",
-        "date_utc": "2026-08-24T02:21:16+00:00",
-        "summary": "Former AB captain Taine Randell on the weekend’s Bok test, and the ongoing legal concussion case against World Rugby"
       }
     ],
     "opinions": [
