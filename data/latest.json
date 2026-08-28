@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-08-27T20:57:59Z",
+  "generated_utc": "2026-08-28T21:20:42Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,99 +126,147 @@
     ],
     "youtube": [
       {
-        "title": "MONEY TALKS",
-        "url": "https://www.youtube.com/watch?v=szN2vV_8TyQ",
-        "date_utc": "2026-08-27T20:07:18+00:00",
-        "summary": "Paul Brennan speaks with Farzin Irani around concerns a New Zealand–India trade deal could accelerate digital payment systems and central bank digital currencies. They discuss growing economic pressure at home, with rising living costs, a weakening housing market, and warnings of stagflation. They also discuss fuel supply risks and preparing for coming economic turmoil as shortages begin to hit every aspect of the global economy. Farzin has updated his website with new free resources to help people prepare for the future. Discover more from Farzin on Linktr.ee DISCLAIMER: The views and information shared on this show are for educational and informational purposes only. They do not constitute personalised financial, investment, tax, or legal advice. Listeners should seek guidance from a licensed financial professional who can provide advice based on their individual situation."
-      },
-      {
         "title": "FREDDIE PONTON",
-        "url": "https://www.youtube.com/watch?v=diobkbEanyw",
-        "date_utc": "2026-08-27T20:06:57+00:00",
-        "summary": "Freddie Ponton joins Paul Brennan for an update on the situation in Gaza, since the Iran War pushed it out of the headlines. He describes severe shortages of food, medicine and clean water, alongside disease outbreaks and collapsing sanitation. The discussion also explores Israeli public opinion, Iran’s military pressure on Israel, and what Ponton sees as the failure of Western governments and mainstream media to confront or adequately report the scale of the crisis. PLEASE NOTE: These are complex and sensitive issues, and we aim to provide a balanced conversation. As always, we encourage you to listen, reflect, and explore the various perspectives, including Alon Roth Snir, Vanessa Beeley, Greg Simons and RCR hosts Simon O’Connor and Rodney Hide. Discover more from 21st Century Wire or find them on X Follow Freddie on X"
-      },
-      {
-        "title": "KYLIE CRONWRIGHT",
-        "url": "https://www.youtube.com/watch?v=BEzwpB3Sk0k",
-        "date_utc": "2026-08-27T20:06:39+00:00",
-        "summary": "Maree Buscke speaks with Kylie Cronwright, a food preservation educator and founder of Patch to Pantry, about the growing return to home cooking and self-sufficiency. Kylie explains how her background in food technology and experiences during COVID-19 and Cyclone Gabrielle fuelled interest in preserving and pantry building. They explore simple entry points like chutneys, dehydrating, and bulk storage, while challenging reliance on processed food. They highlight how even small households can build resilience, save money, and reconnect with traditional skills through practical, everyday food preparation. For further information: Check out the Masterclass replay: Start preserving food at home visit the Patch to Pantry and Kiwi Family Kitchen websites"
-      },
-      {
-        "title": "JASON TEH",
-        "url": "https://www.youtube.com/watch?v=GDDqCp-Q8Mc",
-        "date_utc": "2026-08-27T20:05:16+00:00",
-        "summary": "Jason Teh, Senior Analyst and Portfolio Manager at Clime Investment Management, joins Paul Brennan to discuss Australia’s fuel vulnerability with reserves sitting at roughly 30 days, far below the 90-day international benchmark.. The shift away from domestic refining toward cheaper Asian imports has eroded resilience, while governments are now scrambling to secure supply and storage. Jason highlights the need for long-term energy security planning, including diversified sources and stronger reserves to withstand future disruptions. For more information visit the Clime website"
-      },
-      {
-        "title": "GREENWASHED",
-        "url": "https://www.youtube.com/watch?v=zweVE7WAZZ8",
-        "date_utc": "2026-08-27T20:04:50+00:00",
-        "summary": "Jaspreet Boparai and Don Nicolson unpack the climate scenario RCP8.5, once widely used in modelling and now under growing scrutiny. They explore how it has shaped coastal risk maps, LIM reports, and property values, and why homeowners may want to ask what assumptions sit behind the numbers. For further information: Local Government Official Information and Meetings Amendment Act 2023 Southland District Council: Coastal Hazards In the case of the Southland Coast and Rakiura Stewart Island, Sea Level Rise & Extreme Sea Level Exposure Spatial Forecasting Technical Report, 765 properties in Southland are affected in some of the scenarios. Ministry for the Environment: Aotearoa New Zealand climate change projections More information on deciding which emissions scenario to use can be found in Aotearoa New Zealand’s first national adaptation plan which recommends the middle-of-the-road emissions scenario (SSP2-4.5, RCP4.5) and the fossil fuel-intensive development scenario (SSP5-8.5, RCP8.5) be used for detailed hazard and risk assessments in both coastal and non-coastal areas. It is appropriate to consider more than one scenario for stress testing due to the complexity of being a project"
-      },
-      {
-        "title": "The need to be very mindful, diligent for candidates as well as the wider public of what sort...",
-        "url": "https://www.youtube.com/shorts/UUkFO8HJxYg",
-        "date_utc": "2026-08-27T20:03:06+00:00",
-        "summary": "\"The need to be very mindful, diligent for candidates as well as the wider public of what sort of activities might be going on there that could be driven by outside interests.\" - Tim van de Molen, National MP Are New Zealand's politicians and voters prepared for foreign interference attempts during this year's election? 🎥 Watch here: https://rcr.media/episodes/tim-van-de-molen-national-mp-from-rural-waikato-to-global-affairs #RCRMedia"
-      },
-      {
-        "title": "These oil producing states and the Islamic states...",
-        "url": "https://www.youtube.com/shorts/H0z1eIVJ0zE",
-        "date_utc": "2026-08-27T19:30:32+00:00",
-        "summary": "\"These oil producing states and the Islamic states... that 1.8 billion population, Sunni-majority countries that I talked about before, that is a huge global influence.\" - Kathryn Ennis-Carter Are we underestimating the geopolitical influence of the world's wealthy Islamic and oil-producing nations? 🎥 Watch here: https://rcr.media/episodes/kathryn-ennis-carter-governance-and-public-management-adviser-the-middle-easts-hidden-power-struggle #RCRMedia"
-      },
-      {
-        "title": "THE WILMS REPORT",
-        "url": "https://www.youtube.com/watch?v=OAS6N4sdtzg",
-        "date_utc": "2026-08-27T19:07:08+00:00",
-        "summary": "Tim Wilms joins Paul Brennan to talk about random violence in Melbourne, and broad concern about crime and public safety. They discuss cultural tensions at sporting events, debates over gender-neutral facilities and scepticism around government vaccination campaigns. They also cover key political developments, fuel security and ongoing economic pressures. Discover more from Tim at The Unshackled"
-      },
-      {
-        "title": "CLARE SWINNEY",
-        "url": "https://www.youtube.com/watch?v=zRYni1TN97s",
-        "date_utc": "2026-08-27T19:05:06+00:00",
-        "summary": "Paul Brennan is joined by citizen journalist Clare Swinney, to discuss her concerns over bird flu planning in New Zealand, which she says echo Covid-era responses. A whistleblower from a North Island council in contact with Swinney says agencies are quietly expanding contingency plans, including surveillance, PPE stockpiles, and potential mass culling, with limited public scrutiny."
-      },
-      {
-        "title": "SUZANNE LEVY",
-        "url": "https://www.youtube.com/watch?v=cvPNyY2k4fM",
-        "date_utc": "2026-08-27T19:05:04+00:00",
-        "summary": "Paul Brennan talks with Suzanne Levy of Speak Up for Women, about a nationwide review of council swimming pool facilities, which found most are labelled single-sex but often operate as mixed-sex due to unclear or gender-identity policies. Only a small number of councils were identified as maintaining clearly female-only spaces, while many lacked firm guidelines altogether. For more information check out the Speak Up For Women website"
+        "url": "https://www.youtube.com/watch?v=p3X-S34Wb6U",
+        "date_utc": "2026-08-28T21:05:36+00:00",
+        "summary": "Freddie Ponton joins Paul Brennan to discuss escalating tensions involving Iran, Russia and Cuba, and how they point to a broader deterioration in global stability. He discusses Iran's refusal to alter its position despite US pressure and questions the credibility of ceasefire arrangements. He also examines Russia's potential response to a deadly drone strike in eastern Ukraine. Freddie also highlights growing US-Cuba tensions, suggesting recent military-to-military contacts may signal significant developments ahead. Discover more from 21st Century Wire or find them on X Follow Freddie on X"
       },
       {
         "title": "TECH TUESDAY",
-        "url": "https://www.youtube.com/watch?v=y1fHm9kBI7k",
-        "date_utc": "2026-08-27T19:04:57+00:00",
-        "summary": "Paul Brennan and Steven Sykes explore how AI is reshaping cybersecurity, as long-hidden vulnerabilities in code are uncovered. They also discuss increasing data collection in everyday technology and discuss how constant updates, surveillance and subscriptions are quietly redefining ownership and control in modern digital life."
+        "url": "https://www.youtube.com/watch?v=Ebwt9Q_g0LY",
+        "date_utc": "2026-08-28T21:05:25+00:00",
+        "summary": "In this Tech Tuesday, Steven Sykes discusses concerns around digital privacy and emerging technology. He explains how de-googled phones and privacy-focused operating systems are gaining attention as users become more aware of app trackers and data collection. They also touch on age verification systems, stricter ID requirements for phones and SIM cards and how smart TVs track viewer behaviour."
       },
       {
-        "title": "THE BRENNAN BAROMETER",
-        "url": "https://www.youtube.com/watch?v=0CgcaQ4ctuw",
-        "date_utc": "2026-08-27T19:03:57+00:00",
-        "summary": "Paul Brennan delivers an impromptu “Brennan Barometer” reacting to a tense exchange in Nelson, where Sue Grey of the NZ Outdoors and Freedom Party questioned Chris Hipkins about vaccine-related harm. Paul reinforces his message from earlier Barometers: slowly, slowly catchy monkey."
+        "title": "MONEY TALKS",
+        "url": "https://www.youtube.com/watch?v=iYNVYfbR7Go",
+        "date_utc": "2026-08-28T21:05:08+00:00",
+        "summary": "Simon Angelo joins Paul Brennan to discuss the Reserve Bank’s OCR decision and Budget 2026. Simon says it lacks a grand vision and criticises the lack of policies to address New Zealand’s declining birth rate and long-term fiscal pressures. They also explore defence spending and the country’s appetite for risk, before turning to investment opportunities driven by AI, quantum computing, and technological innovation. DISCLAIMER: The views and information shared on this show are for educational and informational purposes only. They do not constitute personalised financial, investment, tax, or legal advice. Listeners should seek guidance from a licensed financial professional who can provide advice based on their individual situation. Discover more from Simon at Wealth Morning"
       },
       {
-        "title": "Opportunity, you see, wants to restrict political donations to $30,000 a year.",
-        "url": "https://www.youtube.com/shorts/XdEzbmXW3Ew",
-        "date_utc": "2026-08-27T19:02:22+00:00",
-        "summary": "\"Opportunity, you see, wants to restrict political donations to $30,000 a year.\" - Peter Williams So what should voters make of a TOP board member contributing around $250,000 to the party in 2026 alone? Does the party's own position on political donations still stack up? 🎥 Watch here: https://rcr.media/episodes/peter-williams-on-politics-dont-dismiss-top-a-genuine-threat-to-the-centre-right #RCRMedia"
+        "title": "JODIE BRUNING",
+        "url": "https://www.youtube.com/watch?v=cR_7p5t_qFg",
+        "date_utc": "2026-08-28T21:04:56+00:00",
+        "summary": "Jodie Bruning from Physicians and Scientists for Global Responsibility argues proposed amendments to New Zealand’s HSNO legislation risk weakening environmental and public health protections in favour of agrochemical and biotechnology interests. She claims industry-linked groups have had outsized influence over the policy process, while regulators are increasingly focused on “efficiency” and fast-tracking approvals. For everything you need to Say No to the Gene Technology Bill For more information check out the Daily Telegraph: Democracy lost and a regulatory system in retreat and the PSGR website"
       },
       {
-        "title": "FREDDIE PONTON",
-        "url": "https://www.youtube.com/watch?v=zVwJLANzvpw",
-        "date_utc": "2026-08-27T18:06:25+00:00",
-        "summary": "Paul Brennan is rejoined by Freddie Ponton, Associate Editor at 21st Century Wire. This week they discuss escalating tensions in the Gulf and the breakdown of meaningful negotiations between the United States and Iran. Ongoing military actions, deep mistrust, and competing agendas leave the situation in stalemate. Ponton says shifting alliances and strained Western credibility are accelerating a broader geopolitical realignment. Discover more from 21st Century Wire or find them on X Follow Freddie on X"
+        "title": "KEVIN MORAN",
+        "url": "https://www.youtube.com/watch?v=wpN0X3RyXl0",
+        "date_utc": "2026-08-28T21:04:11+00:00",
+        "summary": "Kevin Moran joins Paul Brennan to discuss a major victory for Save Our Springs and Golden Bay after NZ Petroleum and Minerals declined Siren Gold a mining licence for Sam’s Creek near the Te Waikoropupū Springs aquifer. Kevin explains concerns about toxic mining waste, arsenic contamination, and the long-term risks to one of the world’s clearest freshwater springs. He says strong public opposition, legal action and environmental concerns helped stop the proposal, though campaigners remain vigilant against future mining attempts. Discover more from Save Our Springs on Facebook"
       },
       {
-        "title": "PAUL’S MAILBAG",
-        "url": "https://www.youtube.com/watch?v=JrnkNcXMihI",
-        "date_utc": "2026-08-27T18:05:08+00:00",
-        "summary": "Paul Brennan mailbag touches on fuel security, global conflict, health debates and media trust. There is praise for guests like Alia Bland, Katie Ashby-Koppens, Steven Sykes, and Art Berman, alongside scepticism about war coverage and claims of fear-driven narratives. Listeners also share personal experiences, practical resilience ideas and strong political views, revealing a deeply engaged audience grappling with uncertainty, preparedness and competing interpretations of global events. Text your feedback to 2057 or email inbox@rcr.media Sign up to RCR Bites at www.BiteMe.News or if you’re an existing RCR+ member, simply click on the upgrade button along the top of www.RCR.Media"
+        "title": "BOTH BARRELS",
+        "url": "https://www.youtube.com/watch?v=W6_TtVacvIU",
+        "date_utc": "2026-08-28T20:05:53+00:00",
+        "summary": "Maree Buscke and Rachel Stewart debate grade inflation, changing university pathways and whether tertiary education is delivering value for young people. They discuss rising A-grade rates and increasing student debt, noting that practical skills and trades are being undervalued while more students pursue degrees. Discover more from Rachel on Substack and X"
+      },
+      {
+        "title": "SUZY HANSEN",
+        "url": "https://www.youtube.com/watch?v=1el6sKwGvdQ",
+        "date_utc": "2026-08-28T20:05:02+00:00",
+        "summary": "Paul Brennan speaks with long-time UFO researcher Suzy Hansen about decades of sightings, witness accounts, and growing international attention on unexplained aerial phenomena. Suzy discusses the Kaikōura Lights, claims of recurring patterns in New Zealand reports, and her own experiences investigating strange encounters since childhood. Discover more at UFocusNZ"
+      },
+      {
+        "title": "PROF ROB MACCULLOCH",
+        "url": "https://www.youtube.com/watch?v=sfK6ETcBPCw",
+        "date_utc": "2026-08-28T20:04:42+00:00",
+        "summary": "Talking with Paul Brennan, Professor Robert MacCulloch delivers a scathing critique of the government’s budget, calling the promised return to surplus a “phony” and “reverse-engineered” political exercise designed for election headlines rather than economic reality. He says both National and Labour have failed to address long-term fiscal problems, particularly rising superannuation and healthcare costs – and warns debt could spiral toward crisis levels."
+      },
+      {
+        "title": "KIRRALIE SMITH",
+        "url": "https://www.youtube.com/watch?v=UJpf63VUG-c",
+        "date_utc": "2026-08-28T20:04:15+00:00",
+        "summary": "Maree Buscke speaks with Kirralie Smith about her New South Wales Supreme Court appeal after being ordered to pay damages over comments relating to transwomen in female sports. Smith discusses the wider impact of the Tickle v Giggle ruling, growing public debate in Australia, and efforts by MPs to strengthen sex-based protections in law. For more information: Visit the Binary Website Donate to Support Kirralie's High Court Challenge Get Devasted the Book Watch Kirralie's other RCR Interviews: Courtroom Battle over Women's Sport Speech, Sport & Control Australia's Battle over Sex Based Rights, Trans Medical Ethics & The Future of Women's Sport Watch Sall Grover's RCR Interviews: Fallout from Giggle vs Tickle Fighting for Women's Spaces Policy Pause and the Fight for Boundaries"
+      },
+      {
+        "title": "CAMERON BAGRIE",
+        "url": "https://www.youtube.com/watch?v=PEG6vtARBRg",
+        "date_utc": "2026-08-28T20:04:04+00:00",
+        "summary": "Cameron Bagrie joins Paul Brennan to break down the Government’s latest Budget, describing it as a “broccoli budget” – tough but necessary. Bagrie says the Government is prioritising fiscal responsibility and infrastructure while shrinking core government spending to move from deficit to surplus."
+      },
+      {
+        "title": "There is some degree of ideological messaging in practically everything that you consume...",
+        "url": "https://www.youtube.com/shorts/yEHixWdhcj0",
+        "date_utc": "2026-08-28T20:01:17+00:00",
+        "summary": "\"There is some degree of ideological messaging in practically everything that you consume passively and actively.\" - Frank Wright How much influence do advertising, entertainment, education and social media really have over the way we see the world? 🎥 Watch here: https://rcr.media/episodes/frank-wright-restore-britain-founder-how-the-wests-ruling-elite-manufactures-belief #RCRMedia"
+      },
+      {
+        "title": "WEDNESDAY WEBINARS",
+        "url": "https://www.youtube.com/watch?v=xprPzdgPAys",
+        "date_utc": "2026-08-28T19:08:08+00:00",
+        "summary": "Maree Buscke is joined by Kathryn Ennis-Carter to discuss growing concerns around council-led “managed retreat” policies linked to climate adaptation planning. They examine the use of extreme IPCC modelling, rising insurance levies, flood mapping, iwi involvement in coastal planning, and the influence of central government frameworks on local councils. They also look at Kapiti CALM , a grassroots group challenging Kapiti Coast climate adaptation plans and encouraging residents to engage in council consultations, submissions, and local planning decisions. For further information: Discover: CRU (Coastal Ratepayers United) A community group advocating for fair, transparent coastal policies and challenging flawed modelling. Kāpiti CALM A grassroots group of residents and business owners Watch: Last Wednesday's Webinar: RCR360 Unplugged Managed Out update Wednesday Webinar Council Watch Managed Retreat Part 1 Alistair Harding’s original Managed Out feature documentary exploring managed retreat and its impact on coastal communities and property owners Alistair’s interview with Salima Padamsey from Coastal Ratepayers United on the bombshell international report calling for the end of the "
+      },
+      {
+        "title": "DOUG CASEY",
+        "url": "https://www.youtube.com/watch?v=Sc3tKR0ZP3k",
+        "date_utc": "2026-08-28T19:07:39+00:00",
+        "summary": "Maree Buscke speaks with Doug Casey about rising Middle East tensions, debt, inflation and global economic instability. Casey says that expanding government debt, currency creation and geopolitical conflict are placing pressure on financial systems and could reshape trade and investment patterns. For further information: Check out Doug Casey's International Man, The Preparation or purchase “The Preparation” Watch Maree's previous interviews with Doug Casey: The Global Culture Trends and How this Affects Finance and Money Management and Global Unrest and the Global Financial Situation is the Calm Before the Storm"
+      },
+      {
+        "title": "FI BUCHET (FiBu)",
+        "url": "https://www.youtube.com/watch?v=5Y7zkfnboyk",
+        "date_utc": "2026-08-28T19:06:47+00:00",
+        "summary": "Pink Floyd tribute performer Fi Buchet, aka FiBu, joins host Meagan McNamara for NZ Music Month to discuss touring New Zealand with the Pink Floyd Experience. FiBu reflects on the emotional impact of performing The Wall, the strong sense of community surrounding the band, and how its themes of freedom and resistance continue to resonate today. She also shares memories from the anti-mandate protests, talks about her own music collaborations and upcoming instrumental EP, and encourages audiences to catch the final tour performances in Napier* and Palmerston North. *At time of publishing, the Napier show has been cancelled. Discover more from FiBu and the Pink Floyd Experience Get your copy of Heart of the Protest"
+      },
+      {
+        "title": "KANE TITCHENER",
+        "url": "https://www.youtube.com/watch?v=L2w-XvcgB8w",
+        "date_utc": "2026-08-28T19:05:11+00:00",
+        "summary": "Paul Brennan speaks with Fluoride Free NZ spokesperson Kane Titchener about a recent US federal appeals court decision that overturned a landmark fluoride ruling that said water fluoridation posed an unreasonable risk to children’s health. Importantly, the decision was based on procedural grounds rather than scientific evidence. Kane says the court did not dispute research linking fluoridation to lower IQ and neurotoxicity and activists are considering an appeal. Discover more from Fluoride Free NZ"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "ML Says Air New Zealand Are A Loss-Making National Embarrassment",
+        "url": "https://www.youtube.com/watch?v=qGowJ1P1ddY",
+        "date_utc": "2026-08-28T02:35:25+00:00",
+        "summary": "Michael Laws says Air New Zealand are a loss-making national embarrassment"
+      },
+      {
+        "title": "Why 18% Of Kiwi Kids Leave School With Zero Qualifications",
+        "url": "https://www.youtube.com/watch?v=RspDOBCKVgw",
+        "date_utc": "2026-08-28T02:24:53+00:00",
+        "summary": "SPANZ chairperson Louise Anaru on why 18% of Kiwi kids leave school with zero qualifications"
+      },
+      {
+        "title": "Breaking News: Craig Stobo’s First Interview As A NZ First Candidate",
+        "url": "https://www.youtube.com/watch?v=PLQUtBclpU8",
+        "date_utc": "2026-08-28T01:38:30+00:00",
+        "summary": "Breaking News: Craig Stobo’s first interview as a NZ First candidate"
+      },
+      {
+        "title": "Paul Henry On ACT’s Plan To Abolish The Climate Change Commission",
+        "url": "https://www.youtube.com/watch?v=1dvLAav0ku0",
+        "date_utc": "2026-08-28T00:37:15+00:00",
+        "summary": "Paul Henry on ACT’s plan to abolish the Climate Change Commission."
+      },
+      {
+        "title": "Who Will Be The Silly Sausage Of The Week?",
+        "url": "https://www.youtube.com/watch?v=dhrOkKYeNKU",
+        "date_utc": "2026-08-28T00:14:50+00:00",
+        "summary": "Who will be the Silly Sausage of the week on the Friday Fry Up?"
+      },
+      {
+        "title": "Free Speech Fridays #171 – Laura McClure & Maurice Williamson",
+        "url": "https://www.youtube.com/watch?v=9JOhfEVLt-0",
+        "date_utc": "2026-08-28T00:01:22+00:00",
+        "summary": "Free Speech Fridays with Laura McClure & Maurice Williamson is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss MBIE misleading the Government, the Under 16s Social Media Ban Plan, Auckland Transport new job role, and more."
+      },
+      {
+        "title": "Jillaine Heather On Concerns Of Digital ID With U16 Social Media Ban",
+        "url": "https://www.youtube.com/watch?v=GTW1szg1jto",
+        "date_utc": "2026-08-27T23:49:58+00:00",
+        "summary": "Jillaine Heather on concerns of Digital ID with U16 social media ban."
+      },
+      {
+        "title": "Jordan Williams On Corruption In Public Service & MBIE",
+        "url": "https://www.youtube.com/watch?v=E4PveLZL_Vw",
+        "date_utc": "2026-08-27T23:31:43+00:00",
+        "summary": "Jordan Williams on corruption in Public Service and the MBIE."
+      },
       {
         "title": "How We Reform The State Sector - NZ Initiative's Dr Oliver Hartwich",
         "url": "https://www.youtube.com/watch?v=es2leqVJzOg",
@@ -260,54 +308,6 @@
         "url": "https://www.youtube.com/watch?v=0e6Xles0yRE",
         "date_utc": "2026-08-27T04:50:11+00:00",
         "summary": "There’s something rotten (even infernal) at the heart of the public sector, explains Michael Laws"
-      },
-      {
-        "title": "George Ngatai Goes Head To Head With Volunteer Announcer Shubz",
-        "url": "https://www.youtube.com/watch?v=sAeHDbwsCjg",
-        "date_utc": "2026-08-27T01:15:34+00:00",
-        "summary": "Radio Aotearoa owner & ex NZ First candidate, George Ngatai goes head to head with volunteer announcer Shubz."
-      },
-      {
-        "title": "Muriel Newman On Karl Le Quisne’s Response To The Electoral Commission",
-        "url": "https://www.youtube.com/watch?v=9LKteS7HEH8",
-        "date_utc": "2026-08-26T23:53:14+00:00",
-        "summary": "Muriel Newman on Karl Le Quisne’s response to the Electoral Commission dramas."
-      },
-      {
-        "title": "Will The Opportunity Party Sink Or Swim At The Election?",
-        "url": "https://www.youtube.com/watch?v=lGyHYZlasag",
-        "date_utc": "2026-08-26T23:37:00+00:00",
-        "summary": "Claire Robinson on whether Opportunity Party will sink or swim at the Election."
-      },
-      {
-        "title": "Cecilia Robinson From B4-16 Defends The U16 Social Media Ban",
-        "url": "https://www.youtube.com/watch?v=eLchi4IldMY",
-        "date_utc": "2026-08-26T23:31:58+00:00",
-        "summary": "Cecilia Robinson from B4-16 defends the U16 social media ban."
-      },
-      {
-        "title": "Ashley Church With A Round-Up Of The Last Fortnight In NZ Politics",
-        "url": "https://www.youtube.com/watch?v=c7WrwR7Obvo",
-        "date_utc": "2026-08-26T02:48:11+00:00",
-        "summary": "Ashley Church, Markets and Political Commentator with a round-up of property, politics, social media ban for under-16-year-olds and remembering the one and only superstar Dolly Parton."
-      },
-      {
-        "title": "Shane Cameron On His New Book 'Mountain Warrior'",
-        "url": "https://www.youtube.com/watch?v=-k1FNzptkwk",
-        "date_utc": "2026-08-26T02:33:32+00:00",
-        "summary": "Shane Cameron former New Zealand and Commonwealth champion boxer on his new book 'Mountain Warrior'. 'It's not how you fall - it's how you rise’."
-      },
-      {
-        "title": "Worst Property Managers Named & Calls For Rental Warrant Of Fitness",
-        "url": "https://www.youtube.com/watch?v=N690FGzxAY0",
-        "date_utc": "2026-08-26T02:22:18+00:00",
-        "summary": "Sarina Gibbon - Worst property managers named and shamed in new report and calls for a rental warrant of fitness, awarded from an accredited source."
-      },
-      {
-        "title": "Simon O’Connor On Concerns Around Social Media Ban For U16s",
-        "url": "https://www.youtube.com/watch?v=DS_rcvVrDPU",
-        "date_utc": "2026-08-26T02:05:57+00:00",
-        "summary": "Simon O’Connor on concerns around the Government's social media ban for U16s."
       }
     ],
     "opinions": [
