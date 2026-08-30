@@ -1,0 +1,1282 @@
+<title>Farm Gate Stand</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,400..800&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+
+<style>
+:root{
+  --ground:#E2E5DF;
+  --sheet:#FBFBF8;
+  --sheet-2:#F1F3ED;
+  --ink:#171D1A;
+  --muted:#616B65;
+  --rule:#CDD2CA;
+  --rule-2:#A6AEA6;
+  --mark:#C67A0B;
+  --mark-ink:#7C4C05;
+  --mark-tint:rgba(198,122,11,.10);
+  --barn:#24523F;
+  --oxide:#97381F;
+  --oxide-tint:rgba(151,56,31,.07);
+  --shadow:0 1px 2px rgba(23,29,26,.06),0 8px 24px -12px rgba(23,29,26,.18);
+
+  --f-display:"Archivo","Helvetica Neue",Arial,sans-serif;
+  --f-body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,"SF Mono",Menlo,monospace;
+
+  --col:68ch;
+  --pad:clamp(1.1rem,4vw,2.6rem);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#111614;
+    --sheet:#1A201D;
+    --sheet-2:#212925;
+    --ink:#E3E7E1;
+    --muted:#8F9A93;
+    --rule:#2E3732;
+    --rule-2:#47524C;
+    --mark:#E5A429;
+    --mark-ink:#F0B84A;
+    --mark-tint:rgba(229,164,41,.12);
+    --barn:#6FB394;
+    --oxide:#E08663;
+    --oxide-tint:rgba(224,134,99,.10);
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -12px rgba(0,0,0,.7);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#111614;
+  --sheet:#1A201D;
+  --sheet-2:#212925;
+  --ink:#E3E7E1;
+  --muted:#8F9A93;
+  --rule:#2E3732;
+  --rule-2:#47524C;
+  --mark:#E5A429;
+  --mark-ink:#F0B84A;
+  --mark-tint:rgba(229,164,41,.12);
+  --barn:#6FB394;
+  --oxide:#E08663;
+  --oxide-tint:rgba(224,134,99,.10);
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -12px rgba(0,0,0,.7);
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--ground);
+  color:var(--ink);
+  font-family:var(--f-body);
+  font-size:1.0625rem;
+  line-height:1.62;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1120px;margin:0 auto;padding:clamp(1rem,3vw,2.5rem) clamp(.75rem,3vw,2rem) 5rem}
+
+/* ---------- title block ---------- */
+.titleblock{
+  background:var(--sheet);
+  border:1.5px solid var(--rule-2);
+  box-shadow:var(--shadow);
+}
+.tb-top{padding:var(--pad) var(--pad) 1.4rem;border-bottom:1.5px solid var(--rule-2)}
+.tb-eyebrow{
+  font-family:var(--f-mono);font-size:.7rem;font-weight:500;
+  letter-spacing:.2em;text-transform:uppercase;color:var(--barn);
+  display:flex;flex-wrap:wrap;gap:.5rem .9rem;margin:0 0 1.1rem;
+}
+h1{
+  font-family:var(--f-display);
+  font-variation-settings:"wdth" 84,"wght" 780;
+  font-size:clamp(2.6rem,8.5vw,5.2rem);
+  line-height:.92;letter-spacing:-.015em;text-wrap:balance;
+  margin:0 0 .85rem;
+}
+.tb-lede{max-width:58ch;margin:0;color:var(--muted);font-size:1.08rem}
+.tb-lede strong{color:var(--ink);font-weight:600}
+.tb-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(158px,1fr))}
+.tb-cell{padding:.85rem var(--pad);border-right:1px solid var(--rule);border-top:1px solid var(--rule)}
+.tb-cell:last-child{border-right:0}
+.tb-k{font-family:var(--f-mono);font-size:.63rem;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);display:block;margin-bottom:.2rem}
+.tb-v{font-family:var(--f-display);font-variation-settings:"wdth" 88,"wght" 600;font-size:.98rem;line-height:1.3}
+
+/* ---------- sheets ---------- */
+.sheet{
+  background:var(--sheet);
+  border:1.5px solid var(--rule-2);
+  border-top:0;
+  box-shadow:var(--shadow);
+  display:grid;
+  grid-template-columns:5.6rem minmax(0,1fr);
+}
+.sheet-no{
+  border-right:1px solid var(--rule);
+  padding:calc(var(--pad) * .9) 0 2rem;
+  text-align:center;
+  background:var(--sheet-2);
+}
+.sheet-no span{
+  font-family:var(--f-mono);font-size:1.35rem;font-weight:600;
+  color:var(--mark-ink);letter-spacing:-.02em;
+}
+.sheet-no small{
+  display:block;font-family:var(--f-mono);font-size:.58rem;
+  letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin-top:.35rem;
+}
+.sheet-body{padding:calc(var(--pad) * .9) var(--pad) calc(var(--pad) * 1.1);min-width:0}
+@media (max-width:640px){
+  .sheet{grid-template-columns:1fr}
+  .sheet-no{border-right:0;border-bottom:1px solid var(--rule);padding:.55rem var(--pad);text-align:left;display:flex;align-items:baseline;gap:.6rem}
+  .sheet-no small{margin-top:0}
+}
+
+h2{
+  font-family:var(--f-display);
+  font-variation-settings:"wdth" 86,"wght" 720;
+  font-size:clamp(1.55rem,3.6vw,2.15rem);
+  line-height:1.06;letter-spacing:-.012em;text-wrap:balance;
+  margin:0 0 .3rem;
+}
+.deck{color:var(--muted);max-width:var(--col);margin:0 0 1.6rem;font-size:1.02rem}
+h3{
+  font-family:var(--f-display);
+  font-variation-settings:"wdth" 92,"wght" 640;
+  font-size:1.1rem;letter-spacing:.005em;
+  margin:2rem 0 .5rem;
+}
+h3:first-child{margin-top:0}
+h4{
+  font-family:var(--f-mono);font-size:.68rem;font-weight:600;
+  letter-spacing:.17em;text-transform:uppercase;color:var(--barn);
+  margin:1.7rem 0 .5rem;
+}
+p{max-width:var(--col);margin:0 0 1rem}
+ul,ol{max-width:var(--col);margin:0 0 1.1rem;padding-left:1.15rem}
+li{margin-bottom:.42rem}
+li::marker{color:var(--rule-2)}
+ol li::marker{font-family:var(--f-mono);font-size:.85em;color:var(--mark-ink)}
+strong{font-weight:600}
+em{font-style:italic}
+code,.num{font-family:var(--f-mono);font-size:.88em;font-variant-numeric:tabular-nums}
+code{background:var(--sheet-2);border:1px solid var(--rule);border-radius:2px;padding:.05em .34em}
+a{color:var(--barn);text-underline-offset:2px}
+a:focus-visible,summary:focus-visible{outline:2px solid var(--mark);outline-offset:3px}
+
+/* ---------- figures ---------- */
+figure{
+  margin:1.7rem 0 1.9rem;
+  background:var(--sheet-2);
+  border:1px solid var(--rule);
+  padding:1.1rem 1.1rem .9rem;
+  overflow-x:auto;
+}
+figure svg{display:block;width:100%;min-width:440px;max-width:100%;height:auto;color:var(--ink)}
+figcaption{
+  margin-top:.9rem;padding-top:.8rem;border-top:1px solid var(--rule);
+  font-size:.9rem;color:var(--muted);max-width:74ch;
+}
+figcaption b{color:var(--ink);font-weight:600}
+
+.dwg .ln{fill:none;stroke:currentColor;stroke-width:1.5;stroke-linejoin:round}
+.dwg .heavy{fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:square}
+.dwg .thin{fill:none;stroke:currentColor;stroke-width:.9;opacity:.5}
+.dwg .hid{fill:none;stroke:currentColor;stroke-width:1.1;stroke-dasharray:6 4;opacity:.55}
+.dwg .fillA{fill:currentColor;opacity:.09;stroke:none}
+.dwg .fillB{fill:currentColor;opacity:.19;stroke:none}
+.dwg .tint{fill:var(--mark);opacity:.11;stroke:none}
+.dwg .mk{fill:none;stroke:var(--mark);stroke-width:2}
+.dwg .mkf{fill:var(--mark);opacity:.75;stroke:none}
+.dwg .dim{fill:none;stroke:var(--mark);stroke-width:1;opacity:.85}
+.dwg .lead{fill:none;stroke:currentColor;stroke-width:.9;opacity:.6}
+.dwg text{font-family:var(--f-mono);font-size:12px;fill:currentColor}
+.dwg .t-dim{fill:var(--mark-ink);font-size:11.5px;font-weight:500}
+.dwg .t-lbl{font-size:10.5px;font-weight:600;letter-spacing:.13em}
+.dwg .t-note{font-size:11px;opacity:.78}
+.dwg .t-big{font-family:var(--f-display);font-variation-settings:"wdth" 88,"wght" 700;font-size:13px;letter-spacing:.02em}
+
+/* ---------- tables ---------- */
+.scroll{overflow-x:auto;margin:1.2rem 0 1.5rem;border:1px solid var(--rule)}
+table{border-collapse:collapse;width:100%;min-width:520px;font-size:.9rem}
+caption{
+  text-align:left;font-family:var(--f-mono);font-size:.66rem;letter-spacing:.17em;
+  text-transform:uppercase;color:var(--muted);padding:.6rem .8rem;
+  background:var(--sheet-2);border-bottom:1px solid var(--rule);
+}
+th{
+  text-align:left;font-family:var(--f-mono);font-size:.65rem;font-weight:600;
+  letter-spacing:.13em;text-transform:uppercase;color:var(--muted);
+  padding:.55rem .8rem;border-bottom:1.5px solid var(--rule-2);white-space:nowrap;
+}
+td{padding:.5rem .8rem;border-bottom:1px solid var(--rule);vertical-align:top}
+tbody tr:last-child td{border-bottom:0}
+td.n,th.n{font-family:var(--f-mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+td.ref{font-family:var(--f-mono);font-weight:600;color:var(--mark-ink);white-space:nowrap}
+tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--barn);padding:.5rem .8rem}
+
+/* ---------- callouts ---------- */
+.note{
+  border-left:3px solid var(--mark);
+  background:var(--mark-tint);
+  padding:.85rem 1rem;margin:1.3rem 0;max-width:var(--col);
+  font-size:.96rem;
+}
+.note p:last-child{margin-bottom:0}
+.warn{border-left-color:var(--oxide);background:var(--oxide-tint)}
+.warn h4{color:var(--oxide);margin-top:0}
+.note h4{margin-top:0}
+
+.cards{display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule);grid-template-columns:repeat(auto-fit,minmax(210px,1fr));margin:1.4rem 0 1.6rem}
+.card{background:var(--sheet);padding:1rem}
+.card h5{font-family:var(--f-mono);font-size:.64rem;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin:0 0 .45rem;font-weight:600}
+.card p{font-size:.94rem;margin:0;max-width:none}
+.card .big{font-family:var(--f-display);font-variation-settings:"wdth" 86,"wght" 720;font-size:1.5rem;line-height:1.1;display:block;margin-bottom:.2rem}
+
+.sign{
+  border:2px solid var(--ink);background:var(--sheet-2);
+  padding:1.1rem 1.2rem;margin:1.1rem 0;max-width:38ch;
+  font-family:var(--f-display);text-align:center;
+}
+.sign .l1{font-variation-settings:"wdth" 80,"wght" 800;font-size:1.75rem;line-height:1;letter-spacing:.01em;display:block}
+.sign .l2{font-variation-settings:"wdth" 88,"wght" 600;font-size:1rem;display:block;margin-top:.4rem}
+.sign .l3{font-family:var(--f-mono);font-size:.8rem;display:block;margin-top:.55rem;color:var(--muted)}
+
+.foot{
+  margin-top:2rem;padding:1.1rem var(--pad);background:var(--sheet);
+  border:1.5px solid var(--rule-2);border-top:0;
+  font-family:var(--f-mono);font-size:.72rem;letter-spacing:.06em;
+  color:var(--muted);display:flex;flex-wrap:wrap;gap:.4rem 1.4rem;justify-content:space-between;
+}
+@media (prefers-reduced-motion:no-preference){
+  .sheet,.titleblock{animation:rise .5s ease-out both}
+}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+</style>
+
+<div class="wrap">
+
+<!-- ============ TITLE BLOCK ============ -->
+<header class="titleblock">
+  <div class="tb-top">
+    <p class="tb-eyebrow"><span>Working drawings</span><span>Rev A</span><span>Dimensions in mm</span></p>
+    <h1>Farm Gate<br>Stand</h1>
+    <p class="tb-lede">A <strong>2400 &times; 700</strong> roofed roadside stand in three bays &mdash; flowers, eggs, produce &mdash; with an insulated egg well, a weathertight <strong>carton-return hatch</strong> built into the bench, and a bolted honesty box. Everything here is drawn to be built from a standard timber-yard order over two weekends.</p>
+  </div>
+  <div class="tb-grid">
+    <div class="tb-cell"><span class="tb-k">Bay 01</span><span class="tb-v">Flowers</span></div>
+    <div class="tb-cell"><span class="tb-k">Bay 02</span><span class="tb-v">Eggs &amp; pay</span></div>
+    <div class="tb-cell"><span class="tb-k">Bay 03</span><span class="tb-v">Produce</span></div>
+    <div class="tb-cell"><span class="tb-k">Overall</span><span class="tb-v">2400 &times; 700 &times; 2050h</span></div>
+    <div class="tb-cell"><span class="tb-k">Est. materials</span><span class="tb-v">$950&ndash;1,300 NZD</span></div>
+    <div class="tb-cell"><span class="tb-k">Build time</span><span class="tb-v">2 weekends</span></div>
+  </div>
+</header>
+
+<!-- ============ 01 ============ -->
+<section class="sheet">
+  <div class="sheet-no"><span>01</span><small>Elevation</small></div>
+  <div class="sheet-body">
+    <h2>The stand, front on</h2>
+    <p class="deck">Three 800&nbsp;mm bays under one mono-pitch roof. The bays are not arbitrary &mdash; each one solves a different problem, and the order they sit in is the order a customer meets them.</p>
+
+    <figure class="dwg">
+      <svg viewBox="0 0 880 740" role="img" aria-label="Front elevation of a 2400 by 2050 millimetre gate stand divided into three 800 millimetre bays: flowers on the left, eggs and payment in the centre, produce on the right.">
+        <defs>
+          <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M0 0 L10 5 L0 10 z" fill="var(--mark)"></path>
+          </marker>
+          <marker id="arI" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+            <path d="M0 0 L10 5 L0 10 z" fill="currentColor" opacity=".6"></path>
+          </marker>
+        </defs>
+
+        <!-- roof -->
+        <rect class="fillB" x="126" y="104" width="624" height="9"></rect>
+        <rect class="ln" x="126" y="104" width="624" height="9"></rect>
+        <g class="thin">
+          <line x1="160" y1="104" x2="160" y2="113"></line><line x1="220" y1="104" x2="220" y2="113"></line>
+          <line x1="280" y1="104" x2="280" y2="113"></line><line x1="340" y1="104" x2="340" y2="113"></line>
+          <line x1="400" y1="104" x2="400" y2="113"></line><line x1="460" y1="104" x2="460" y2="113"></line>
+          <line x1="520" y1="104" x2="520" y2="113"></line><line x1="580" y1="104" x2="580" y2="113"></line>
+          <line x1="640" y1="104" x2="640" y2="113"></line><line x1="700" y1="104" x2="700" y2="113"></line>
+        </g>
+
+        <!-- top plate -->
+        <rect class="fillA" x="150" y="113" width="576" height="21"></rect>
+        <rect class="ln" x="150" y="113" width="576" height="21"></rect>
+
+        <!-- posts -->
+        <rect class="fillB" x="150" y="113" width="22" height="487"></rect>
+        <rect class="ln" x="150" y="113" width="22" height="487"></rect>
+        <rect class="fillB" x="704" y="113" width="22" height="487"></rect>
+        <rect class="ln" x="704" y="113" width="22" height="487"></rect>
+        <!-- hidden centre stud on back wall -->
+        <rect class="hid" x="427" y="134" width="22" height="466"></rect>
+        <!-- below ground -->
+        <line class="hid" x1="161" y1="600" x2="161" y2="636"></line>
+        <line class="hid" x1="715" y1="600" x2="715" y2="636"></line>
+
+        <!-- bay divider guides -->
+        <line class="thin" x1="342" y1="134" x2="342" y2="600"></line>
+        <line class="thin" x1="534" y1="134" x2="534" y2="600"></line>
+
+        <!-- upper shelf -->
+        <rect class="fillB" x="150" y="256" width="576" height="8"></rect>
+        <rect class="ln" x="150" y="256" width="576" height="8"></rect>
+        <path class="thin" d="M172 264 L172 286 L196 264 Z"></path>
+        <path class="thin" d="M427 264 L427 286 L451 264 Z"></path>
+        <path class="thin" d="M682 264 L682 286 L706 264 Z"></path>
+
+        <!-- bench -->
+        <rect class="fillB" x="150" y="376" width="576" height="8"></rect>
+        <rect class="ln" x="150" y="376" width="576" height="8"></rect>
+        <rect class="fillA" x="150" y="384" width="576" height="21"></rect>
+        <rect class="ln" x="150" y="384" width="576" height="21"></rect>
+
+        <!-- lower shelf -->
+        <rect class="fillB" x="150" y="520" width="576" height="8"></rect>
+        <rect class="ln" x="150" y="520" width="576" height="8"></rect>
+        <rect class="fillA" x="150" y="528" width="576" height="16"></rect>
+        <rect class="ln" x="150" y="528" width="576" height="16"></rect>
+
+        <!-- ===== BAY 1 flowers ===== -->
+        <text class="t-lbl" x="246" y="160" text-anchor="middle">01 &nbsp;FLOWERS</text>
+        <!-- bucket board on bench, buckets dropped through -->
+        <g class="ln">
+          <path d="M182 376 L190 314 L242 314 L250 376"></path>
+          <path d="M246 376 L254 314 L306 314 L314 376"></path>
+        </g>
+        <path class="fillA" d="M182 376 L190 314 L242 314 L250 376 Z"></path>
+        <path class="fillA" d="M246 376 L254 314 L306 314 L314 376 Z"></path>
+        <line class="ln" x1="186" y1="322" x2="246" y2="322"></line>
+        <line class="ln" x1="250" y1="322" x2="310" y2="322"></line>
+        <!-- flower stems -->
+        <g class="thin">
+          <path d="M204 314 L196 272"></path><path d="M214 314 L216 266"></path><path d="M226 314 L236 274"></path>
+          <path d="M268 314 L262 270"></path><path d="M280 314 L282 264"></path><path d="M292 314 L300 272"></path>
+        </g>
+        <g class="mkf">
+          <circle cx="196" cy="270" r="6"></circle><circle cx="216" cy="264" r="6"></circle><circle cx="236" cy="272" r="6"></circle>
+          <circle cx="262" cy="268" r="6"></circle><circle cx="282" cy="262" r="6"></circle><circle cx="300" cy="270" r="6"></circle>
+        </g>
+        <!-- agee jars on upper shelf -->
+        <g class="ln">
+          <path d="M180 256 L180 236 L196 236 L196 256"></path>
+          <path d="M212 256 L212 234 L228 234 L228 256"></path>
+          <path d="M244 256 L244 236 L260 236 L260 256"></path>
+          <path d="M276 256 L276 234 L292 234 L292 256"></path>
+        </g>
+        <g class="thin">
+          <line x1="180" y1="243" x2="196" y2="243"></line><line x1="212" y1="241" x2="228" y2="241"></line>
+          <line x1="244" y1="243" x2="260" y2="243"></line><line x1="276" y1="241" x2="292" y2="241"></line>
+        </g>
+        <g class="mkf">
+          <circle cx="188" cy="228" r="4"></circle><circle cx="220" cy="226" r="4"></circle>
+          <circle cx="252" cy="228" r="4"></circle><circle cx="284" cy="226" r="4"></circle>
+        </g>
+        <!-- spare buckets below -->
+        <path class="ln" d="M186 520 L192 470 L232 470 L238 520"></path>
+        <path class="ln" d="M256 520 L262 470 L302 470 L308 520"></path>
+        <text class="t-note" x="246" y="508" text-anchor="middle">spares + water</text>
+
+        <!-- ===== BAY 2 eggs + pay ===== -->
+        <text class="t-lbl" x="438" y="160" text-anchor="middle">02 &nbsp;EGGS + PAY</text>
+        <!-- honesty box on back wall -->
+        <rect class="tint" x="408" y="276" width="60" height="48"></rect>
+        <rect class="mk" x="408" y="276" width="60" height="48"></rect>
+        <line class="mk" x1="416" y1="288" x2="446" y2="288"></line>
+        <text class="t-dim" x="438" y="342" text-anchor="middle">PAY HERE</text>
+        <!-- two proud hatches in the bench -->
+        <path class="fillB" d="M352 358 L352 376 L436 376 L436 352 Z"></path>
+        <path class="ln" d="M352 358 L436 352 L436 376 L352 376 Z"></path>
+        <path class="mk" d="M348 360 L440 349"></path>
+        <path class="fillB" d="M446 358 L446 376 L524 376 L524 352 Z"></path>
+        <path class="ln" d="M446 358 L524 352 L524 376 L446 376 Z"></path>
+        <path class="mk" d="M442 360 L528 349"></path>
+        <!-- compartments under bench -->
+        <rect class="hid" x="356" y="384" width="76" height="60"></rect>
+        <rect class="hid" x="450" y="384" width="70" height="104"></rect>
+        <text class="t-note" x="394" y="404" text-anchor="middle">egg well</text>
+        <text class="t-note" x="485" y="404" text-anchor="middle">carton</text>
+        <text class="t-note" x="485" y="418" text-anchor="middle">return</text>
+        <!-- restock crates below -->
+        <rect class="ln" x="360" y="486" width="72" height="34"></rect>
+        <rect class="ln" x="450" y="500" width="72" height="20"></rect>
+        <text class="t-note" x="396" y="508" text-anchor="middle">stock</text>
+
+        <!-- ===== BAY 3 produce ===== -->
+        <text class="t-lbl" x="630" y="160" text-anchor="middle">03 &nbsp;PRODUCE</text>
+        <!-- hanging rail -->
+        <line class="heavy" x1="542" y1="180" x2="718" y2="180"></line>
+        <g class="ln">
+          <path d="M562 180 L562 196"></path><path d="M596 180 L596 196"></path>
+          <path d="M630 180 L630 196"></path><path d="M664 180 L664 196"></path><path d="M698 180 L698 196"></path>
+        </g>
+        <g class="fillB">
+          <ellipse cx="562" cy="212" rx="11" ry="17"></ellipse><ellipse cx="596" cy="216" rx="12" ry="20"></ellipse>
+          <ellipse cx="630" cy="212" rx="11" ry="17"></ellipse><ellipse cx="664" cy="216" rx="12" ry="20"></ellipse>
+          <ellipse cx="698" cy="211" rx="10" ry="16"></ellipse>
+        </g>
+        <g class="ln">
+          <ellipse cx="562" cy="212" rx="11" ry="17"></ellipse><ellipse cx="596" cy="216" rx="12" ry="20"></ellipse>
+          <ellipse cx="630" cy="212" rx="11" ry="17"></ellipse><ellipse cx="664" cy="216" rx="12" ry="20"></ellipse>
+          <ellipse cx="698" cy="211" rx="10" ry="16"></ellipse>
+        </g>
+        <text class="t-note" x="630" y="250" text-anchor="middle">onions + garlic, plaited</text>
+        <!-- trays on bench -->
+        <g class="ln">
+          <rect x="546" y="348" width="80" height="28"></rect>
+          <rect x="636" y="348" width="80" height="28"></rect>
+        </g>
+        <text class="t-note" x="586" y="367" text-anchor="middle">tomatoes</text>
+        <text class="t-note" x="676" y="367" text-anchor="middle">lettuce</text>
+        <!-- pumpkins + sack on lower shelf -->
+        <g class="fillB"><circle cx="566" cy="498" r="21"></circle><circle cx="608" cy="502" r="17"></circle></g>
+        <g class="ln"><circle cx="566" cy="498" r="21"></circle><circle cx="608" cy="502" r="17"></circle>
+          <line x1="566" y1="477" x2="566" y2="473"></line><line x1="608" y1="485" x2="608" y2="482"></line></g>
+        <path class="fillA" d="M642 520 L646 470 L700 470 L704 520 Z"></path>
+        <path class="ln" d="M642 520 L646 470 L700 470 L704 520 Z"></path>
+        <text class="t-note" x="673" y="500" text-anchor="middle">spuds</text>
+
+        <!-- ground -->
+        <line class="heavy" x1="70" y1="600" x2="800" y2="600"></line>
+        <g class="thin">
+          <line x1="80" y1="600" x2="70" y2="612"></line><line x1="110" y1="600" x2="100" y2="612"></line>
+          <line x1="140" y1="600" x2="130" y2="612"></line><line x1="170" y1="600" x2="160" y2="612"></line>
+          <line x1="200" y1="600" x2="190" y2="612"></line><line x1="230" y1="600" x2="220" y2="612"></line>
+          <line x1="260" y1="600" x2="250" y2="612"></line><line x1="290" y1="600" x2="280" y2="612"></line>
+          <line x1="320" y1="600" x2="310" y2="612"></line><line x1="350" y1="600" x2="340" y2="612"></line>
+          <line x1="380" y1="600" x2="370" y2="612"></line><line x1="410" y1="600" x2="400" y2="612"></line>
+          <line x1="440" y1="600" x2="430" y2="612"></line><line x1="470" y1="600" x2="460" y2="612"></line>
+          <line x1="500" y1="600" x2="490" y2="612"></line><line x1="530" y1="600" x2="520" y2="612"></line>
+          <line x1="560" y1="600" x2="550" y2="612"></line><line x1="590" y1="600" x2="580" y2="612"></line>
+          <line x1="620" y1="600" x2="610" y2="612"></line><line x1="650" y1="600" x2="640" y2="612"></line>
+          <line x1="680" y1="600" x2="670" y2="612"></line><line x1="710" y1="600" x2="700" y2="612"></line>
+          <line x1="740" y1="600" x2="730" y2="612"></line><line x1="770" y1="600" x2="760" y2="612"></line>
+          <line x1="800" y1="600" x2="790" y2="612"></line>
+        </g>
+
+        <!-- bay dims -->
+        <g class="dim">
+          <line x1="150" y1="646" x2="150" y2="664"></line><line x1="342" y1="646" x2="342" y2="664"></line>
+          <line x1="534" y1="646" x2="534" y2="664"></line><line x1="726" y1="646" x2="726" y2="664"></line>
+          <line x1="150" y1="655" x2="342" y2="655" marker-start="url(#ar)" marker-end="url(#ar)"></line>
+          <line x1="342" y1="655" x2="534" y2="655" marker-start="url(#ar)" marker-end="url(#ar)"></line>
+          <line x1="534" y1="655" x2="726" y2="655" marker-start="url(#ar)" marker-end="url(#ar)"></line>
+        </g>
+        <text class="t-dim" x="246" y="651" text-anchor="middle">800</text>
+        <text class="t-dim" x="438" y="651" text-anchor="middle">800</text>
+        <text class="t-dim" x="630" y="651" text-anchor="middle">800</text>
+        <!-- overall dim -->
+        <g class="dim">
+          <line x1="150" y1="664" x2="150" y2="702"></line><line x1="726" y1="664" x2="726" y2="702"></line>
+          <line x1="150" y1="694" x2="726" y2="694" marker-start="url(#ar)" marker-end="url(#ar)"></line>
+        </g>
+        <text class="t-dim" x="438" y="690" text-anchor="middle">2400 overall</text>
+
+        <!-- level markers -->
+        <g class="dim">
+          <line x1="740" y1="108" x2="778" y2="108"></line>
+          <line x1="740" y1="180" x2="778" y2="180"></line>
+          <line x1="740" y1="260" x2="778" y2="260"></line>
+          <line x1="740" y1="380" x2="778" y2="380"></line>
+          <line x1="740" y1="524" x2="778" y2="524"></line>
+          <line x1="740" y1="600" x2="800" y2="600"></line>
+        </g>
+        <g class="t-dim">
+          <text x="782" y="105">2050</text>
+          <text x="782" y="177">1750</text>
+          <text x="782" y="257">1400</text>
+          <text x="782" y="377">900</text>
+          <text x="782" y="521">300</text>
+          <text x="804" y="597">0</text>
+        </g>
+        <text class="t-note" x="782" y="120">roof</text>
+        <text class="t-note" x="782" y="192">rail</text>
+        <text class="t-note" x="782" y="272">shelf</text>
+        <text class="t-note" x="782" y="392">bench</text>
+        <text class="t-note" x="782" y="536">shelf</text>
+      </svg>
+      <figcaption><b>Front elevation, 1:20.</b> Flowers sit on the road end where their colour does the advertising; eggs and the honesty box sit dead centre so the whole transaction happens in one place; hanging onions and garlic take the far bay where nothing is at head height. The two sloped hatches in the centre bench are the egg well and the carton return &mdash; both are compartments <em>inside</em> the bench, so nothing blocks the view along the counter.</figcaption>
+    </figure>
+
+    <div class="cards">
+      <div class="card"><h5>Bench</h5><p><span class="big">900</span>Standing counter height. Gapped decking, so you can hose it down.</p></div>
+      <div class="card"><h5>Upper shelf</h5><p><span class="big">1400</span>Eye level. Agee jars, spare cartons, ripening tomatoes.</p></div>
+      <div class="card"><h5>Hanging rail</h5><p><span class="big">1750</span>Above head height. Air moves round the garlic while it cures.</p></div>
+      <div class="card"><h5>Lower shelf</h5><p><span class="big">300</span>Off the ground, out of the splash. Pumpkins, sacks, stock.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 02 ============ -->
+<section class="sheet">
+  <div class="sheet-no"><span>02</span><small>Section</small></div>
+  <div class="sheet-body">
+    <h2>Weather and reach</h2>
+    <p class="deck">Two things decide whether a gate stand still looks good in year three: where the water goes, and whether a customer can reach the back of the bench without leaning on it.</p>
+
+    <figure class="dwg">
+      <svg viewBox="0 0 640 730" role="img" aria-label="Side section showing the roof sloping to the rear, a 300 millimetre front overhang sheltering the counter, and runoff falling behind the back wall clear of the goods.">
+        <!-- sheltered envelope -->
+        <path class="tint" d="M122 47 L408 140 L408 600 L122 600 Z"></path>
+
+        <!-- roof -->
+        <path class="fillB" d="M122 38 L408 131 L408 140 L122 47 Z"></path>
+        <path class="ln" d="M122 38 L408 131 L408 140 L122 47 Z"></path>
+
+        <!-- posts -->
+        <rect class="fillB" x="200" y="60" width="23" height="540"></rect>
+        <rect class="ln" x="200" y="60" width="23" height="540"></rect>
+        <rect class="fillB" x="359" y="112" width="23" height="488"></rect>
+        <rect class="ln" x="359" y="112" width="23" height="488"></rect>
+
+        <!-- back wall -->
+        <rect class="fillA" x="371" y="120" width="11" height="480"></rect>
+        <rect class="ln" x="371" y="120" width="11" height="480"></rect>
+
+        <!-- bench -->
+        <rect class="fillB" x="200" y="358" width="182" height="8"></rect>
+        <rect class="ln" x="200" y="358" width="182" height="8"></rect>
+        <rect class="fillA" x="200" y="366" width="182" height="21"></rect>
+        <rect class="ln" x="200" y="366" width="182" height="21"></rect>
+        <!-- hatch proud of bench -->
+        <path class="ln" d="M234 358 L234 330 L352 318 L352 358"></path>
+        <path class="mk" d="M228 332 L358 316 L358 324 L228 340 Z"></path>
+
+        <!-- lower shelf -->
+        <rect class="fillB" x="200" y="514" width="182" height="8"></rect>
+        <rect class="ln" x="200" y="514" width="182" height="8"></rect>
+        <rect class="fillA" x="200" y="522" width="182" height="16"></rect>
+        <rect class="ln" x="200" y="522" width="182" height="16"></rect>
+
+        <!-- upper shelf -->
+        <rect class="fillB" x="309" y="229" width="73" height="8"></rect>
+        <rect class="ln" x="309" y="229" width="73" height="8"></rect>
+        <path class="thin" d="M318 237 L318 258 L340 237 Z"></path>
+
+        <!-- hanging rail -->
+        <circle class="fillB" cx="232" cy="145" r="6"></circle>
+        <circle class="ln" cx="232" cy="145" r="6"></circle>
+        <text class="t-note" x="246" y="149">rail</text>
+
+        <!-- brace -->
+        <line class="ln" x1="382" y1="200" x2="330" y2="200"></line>
+        <line class="ln" x1="223" y1="200" x2="330" y2="200"></line>
+        <text class="t-note" x="250" y="194">top plate</text>
+
+        <!-- customer -->
+        <g class="thin" opacity=".45">
+          <circle cx="82" cy="176" r="17" fill="none" stroke="currentColor" stroke-width="1.6"></circle>
+          <path d="M82 193 L82 400" stroke-width="1.6"></path>
+          <path d="M82 250 L152 336" stroke-width="1.6"></path>
+          <path d="M82 250 L52 320" stroke-width="1.6"></path>
+          <path d="M82 400 L64 520 L60 600" stroke-width="1.6"></path>
+          <path d="M82 400 L100 520 L104 600" stroke-width="1.6"></path>
+        </g>
+        <text class="t-note" x="30" y="150">1700</text>
+        <line class="lead" x1="154" y1="338" x2="196" y2="352" marker-end="url(#arI)"></line>
+        <text class="t-note" x="96" y="352">reach</text>
+
+        <!-- rain -->
+        <path class="mk" stroke-dasharray="6 5" d="M418 138 C 430 260, 424 420, 422 578" marker-end="url(#ar)"></path>
+        <text class="t-dim" x="432" y="300">runoff</text>
+        <text class="t-dim" x="432" y="316">falls</text>
+        <text class="t-dim" x="432" y="332">behind</text>
+        <path class="lead" stroke-dasharray="5 4" d="M74 96 L164 156" marker-end="url(#arI)"></path>
+        <text class="t-note" x="66" y="86">driving rain</text>
+
+        <!-- ground + footing -->
+        <line class="heavy" x1="40" y1="600" x2="500" y2="600"></line>
+        <rect class="fillA" x="190" y="600" width="43" height="58"></rect>
+        <rect class="hid" x="190" y="600" width="43" height="58"></rect>
+        <rect class="hid" x="349" y="600" width="43" height="58"></rect>
+        <text class="t-note" x="120" y="632">600 deep,</text>
+        <text class="t-note" x="120" y="646">concrete collar</text>
+        <line class="lead" x1="176" y1="628" x2="192" y2="628" marker-end="url(#arI)"></line>
+
+        <!-- horizontal dims -->
+        <g class="dim">
+          <line x1="122" y1="676" x2="122" y2="700"></line>
+          <line x1="200" y1="676" x2="200" y2="700"></line>
+          <line x1="382" y1="676" x2="382" y2="700"></line>
+          <line x1="408" y1="676" x2="408" y2="700"></line>
+          <line x1="122" y1="692" x2="200" y2="692" marker-start="url(#ar)" marker-end="url(#ar)"></line>
+          <line x1="200" y1="692" x2="382" y2="692" marker-start="url(#ar)" marker-end="url(#ar)"></line>
+        </g>
+        <text class="t-dim" x="161" y="688" text-anchor="middle">300</text>
+        <text class="t-dim" x="291" y="688" text-anchor="middle">700 frame</text>
+        <text class="t-dim" x="416" y="716" text-anchor="middle">100</text>
+        <line class="dim" x1="408" y1="700" x2="424" y2="710"></line>
+
+        <!-- slope callout -->
+        <path class="dim" d="M250 82 L330 108 L250 108 Z"></path>
+        <text class="t-dim" x="256" y="126">fall 200 / run 700 &asymp; 16&deg;</text>
+
+        <!-- levels -->
+        <g class="dim">
+          <line x1="430" y1="67" x2="470" y2="67"></line>
+          <line x1="430" y1="119" x2="470" y2="119"></line>
+          <line x1="440" y1="233" x2="470" y2="233"></line>
+          <line x1="440" y1="362" x2="470" y2="362"></line>
+          <line x1="440" y1="518" x2="470" y2="518"></line>
+        </g>
+        <g class="t-dim">
+          <text x="474" y="64">2050 front plate</text>
+          <text x="474" y="116">1850 rear plate</text>
+          <text x="474" y="230">1400 shelf</text>
+          <text x="474" y="359">900 bench</text>
+          <text x="474" y="515">300 shelf</text>
+        </g>
+      </svg>
+      <figcaption><b>Section through one bay, 1:20.</b> The roof falls 200&nbsp;mm to the rear, so every drop lands <em>behind</em> the back wall &mdash; not on the produce and not down a customer's neck. A 300&nbsp;mm front overhang keeps the counter dry in ordinary rain; the sloped hatch lids handle the sideways stuff. At 700&nbsp;mm deep, an adult can reach the back of the bench flat-footed, which is why the depth stops there.</figcaption>
+    </figure>
+
+    <h4>Why these numbers</h4>
+    <ul>
+      <li><strong>700&nbsp;mm deep, not 900.</strong> Any deeper and the back row becomes a dead zone that only you can reach &mdash; and things rot there.</li>
+      <li><strong>16&deg; pitch.</strong> Well above the minimum for corrugate, and steep enough that leaves and blossom wash off instead of composting on your roof.</li>
+      <li><strong>Solid back wall, full height.</strong> It is the windbreak, the sign board, the honesty-box fixing and the reason rain never crosses the bench. Do not substitute a half wall.</li>
+      <li><strong>Posts 600&nbsp;mm into the ground with a concrete collar.</strong> A 2400 &times; 2050 stand with a solid back is a sail. Nor&#8217;westers have taken lighter stands than this.</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============ 03 ============ -->
+<section class="sheet">
+  <div class="sheet-no"><span>03</span><small>Site plan</small></div>
+  <div class="sheet-body">
+    <h2>Where it sits</h2>
+    <p class="deck">Siting decides your takings more than anything you build. Two rules: customers must be able to stop safely, and they should never need to come through your gate.</p>
+
+    <figure class="dwg">
+      <svg viewBox="0 0 860 430" role="img" aria-label="Site plan showing the stand set 600 millimetres inside the property boundary facing south onto the road, a gravel pull-off on the berm, sightlines both ways, and the north arrow behind the stand.">
+        <!-- road -->
+        <rect class="fillB" x="0" y="342" width="860" height="88"></rect>
+        <line class="ln" x1="0" y1="342" x2="860" y2="342"></line>
+        <g class="thin">
+          <line x1="30" y1="396" x2="90" y2="396"></line><line x1="120" y1="396" x2="180" y2="396"></line>
+          <line x1="210" y1="396" x2="270" y2="396"></line><line x1="300" y1="396" x2="360" y2="396"></line>
+          <line x1="390" y1="396" x2="450" y2="396"></line><line x1="480" y1="396" x2="540" y2="396"></line>
+          <line x1="570" y1="396" x2="630" y2="396"></line><line x1="660" y1="396" x2="720" y2="396"></line>
+          <line x1="750" y1="396" x2="810" y2="396"></line>
+        </g>
+        <text class="t-note" x="20" y="422">road</text>
+
+        <!-- pull-off apron -->
+        <path class="tint" d="M250 300 L610 300 L586 342 L226 342 Z"></path>
+        <path class="mk" stroke-dasharray="7 5" d="M250 300 L610 300 L586 342 L226 342 Z"></path>
+        <text class="t-dim" x="418" y="326" text-anchor="middle">metalled pull-off &mdash; 5.0 &times; 3.0 m</text>
+
+        <!-- boundary / fence -->
+        <line class="heavy" x1="0" y1="300" x2="330" y2="300"></line>
+        <line class="heavy" x1="540" y1="300" x2="860" y2="300"></line>
+        <g class="thin">
+          <line x1="40" y1="300" x2="40" y2="288"></line><line x1="90" y1="300" x2="90" y2="288"></line>
+          <line x1="140" y1="300" x2="140" y2="288"></line><line x1="190" y1="300" x2="190" y2="288"></line>
+          <line x1="240" y1="300" x2="240" y2="288"></line><line x1="290" y1="300" x2="290" y2="288"></line>
+          <line x1="590" y1="300" x2="590" y2="288"></line><line x1="640" y1="300" x2="640" y2="288"></line>
+          <line x1="690" y1="300" x2="690" y2="288"></line><line x1="740" y1="300" x2="740" y2="288"></line>
+          <line x1="790" y1="300" x2="790" y2="288"></line><line x1="840" y1="300" x2="840" y2="288"></line>
+        </g>
+        <text class="t-note" x="686" y="292">boundary fence</text>
+        <!-- gate -->
+        <line class="ln" x1="330" y1="300" x2="540" y2="300" stroke-dasharray="4 4"></line>
+        <path class="ln" d="M540 300 L470 258"></path>
+        <text class="t-note" x="470" y="252">gate (stays shut)</text>
+
+        <!-- paddock -->
+        <text class="t-note" x="60" y="120">your paddock</text>
+
+        <!-- stand -->
+        <rect class="fillA" x="300" y="207" width="171" height="50"></rect>
+        <rect class="ln" x="300" y="207" width="171" height="50"></rect>
+        <line class="heavy" x1="300" y1="207" x2="471" y2="207"></line>
+        <text class="t-big" x="385" y="238" text-anchor="middle">STAND</text>
+        <text class="t-note" x="490" y="212">solid back wall</text>
+        <line class="lead" x1="486" y1="208" x2="474" y2="208" marker-end="url(#arI)"></line>
+        <!-- customer side -->
+        <g class="lead">
+          <line x1="330" y1="272" x2="330" y2="262" marker-end="url(#arI)"></line>
+          <line x1="380" y1="272" x2="380" y2="262" marker-end="url(#arI)"></line>
+          <line x1="430" y1="272" x2="430" y2="262" marker-end="url(#arI)"></line>
+        </g>
+        <text class="t-note" x="380" y="288" text-anchor="middle">open front &mdash; customers stay this side</text>
+
+        <!-- setback dim -->
+        <g class="dim">
+          <line x1="286" y1="257" x2="286" y2="300"></line>
+          <line x1="278" y1="257" x2="294" y2="257"></line>
+          <line x1="278" y1="300" x2="294" y2="300"></line>
+        </g>
+        <text class="t-dim" x="216" y="282">600 setback</text>
+
+        <!-- sightlines -->
+        <g class="dim">
+          <line x1="20" y1="362" x2="250" y2="362" marker-start="url(#ar)" marker-end="url(#ar)"></line>
+          <line x1="586" y1="362" x2="840" y2="362" marker-start="url(#ar)" marker-end="url(#ar)"></line>
+        </g>
+        <text class="t-dim" x="135" y="358" text-anchor="middle">clear sightline</text>
+        <text class="t-dim" x="713" y="358" text-anchor="middle">clear sightline</text>
+
+        <!-- north + sun -->
+        <path class="mk" d="M800 130 L800 60"></path>
+        <path class="mkf" d="M800 52 L806 68 L794 68 Z"></path>
+        <text class="t-dim" x="800" y="146" text-anchor="middle">N</text>
+        <path class="lead" stroke-dasharray="5 4" d="M640 60 A 180 180 0 0 1 800 40"></path>
+        <text class="t-note" x="600" y="56">midday sun</text>
+        <text class="t-note" x="560" y="176">sun stays behind the</text>
+        <text class="t-note" x="560" y="190">back wall all day</text>
+
+        <!-- prevailing wind -->
+        <path class="lead" stroke-dasharray="5 4" d="M60 40 L170 130" marker-end="url(#arI)"></path>
+        <text class="t-note" x="60" y="30">prevailing NW</text>
+      </svg>
+      <figcaption><b>Site plan, indicative.</b> The stand sits 600&nbsp;mm inside your boundary and faces the road, so buyers park on the berm and never open the gate &mdash; better for your dogs, your stock and your biosecurity. Facing the open front <em>south</em> puts the back wall between the goods and the sun for the whole day, which matters more for eggs and cut flowers than any amount of shade cloth.</figcaption>
+    </figure>
+
+    <div class="note warn">
+      <h4>Check before you form anything</h4>
+      <p>The berm in front of your fence is almost always <strong>road reserve, not your land</strong>. Forming a metalled pull-off there, and putting a sign on it, usually needs your district council's say-so &mdash; and if you front a state highway, NZTA's. Ring the council roading team before you order metal; it is a five-minute call and it is much cheaper than moving it later.</p>
+    </div>
+
+    <p>If the road only allows a north-facing front, you have not lost &mdash; but extend the front overhang to 500&nbsp;mm and add a drop-down shade batten across the top plate, and move the egg well to the shaded end of the bench.</p>
+  </div>
+</section>
+
+<!-- ============ 04 ============ -->
+<section class="sheet">
+  <div class="sheet-no"><span>04</span><small>Detail</small></div>
+  <div class="sheet-body">
+    <h2>The egg station</h2>
+    <p class="deck">Bay 02 does two jobs that pull in opposite directions: keep eggs cool and shaded going out, and keep returned cartons bone dry coming back. Both become compartments inside the bench, each under its own sloped, overhanging lid.</p>
+
+    <h3>The egg well</h3>
+    <p>Cut a well into the benchtop and drop a <strong>20&ndash;30&nbsp;L chilly bin</strong> into it, sitting on four cleats screwed to the bench frame so the rim carries the weight. You get insulation, a wipe-clean interior and a thing you can lift out and scrub, for about forty dollars. Size the opening to the bin's rim less 20&nbsp;mm and cut it after you have the bin, not before.</p>
+    <p>Above it sits a sloped lid, 60&nbsp;mm proud of the bench, overhanging its rebate on all four sides. Lift it, take a dozen, drop it. Nothing is on show to bake in the sun.</p>
+
+    <div class="note">
+      <h4>Do not chill them first</h4>
+      <p>An egg taken out of a fridge and put in a warm stand sweats, and that condensation carries bacteria straight through the shell. Unwashed farm eggs are fine at ambient temperature &mdash; keep them <em>shaded and steady</em>, restock in small lots twice a day in summer, and never move them cold&nbsp;&rarr;&nbsp;warm.</p>
+    </div>
+
+    <h3>The carton-return hatch</h3>
+    <p>The compartment beside the well takes cartons back. This is the part people get wrong: they build a sealed box, and three weeks later it is full of soft, damp, unusable cardboard, because a closed box in the sun breathes moisture in and never lets it out. The box has to shed water <em>and</em> vent.</p>
+
+    <figure class="dwg">
+      <svg viewBox="0 0 800 500" role="img" aria-label="Section through the carton return hatch showing an overhanging sloped lid on a sealed rebate, high vents with insect mesh, nested cartons inside, and a floor raised on battens over weep holes.">
+        <!-- bench decking either side -->
+        <rect class="fillB" x="120" y="116" width="120" height="11"></rect>
+        <rect class="ln" x="120" y="116" width="120" height="11"></rect>
+        <rect class="fillB" x="480" y="116" width="110" height="11"></rect>
+        <rect class="ln" x="480" y="116" width="110" height="11"></rect>
+        <text class="t-note" x="150" y="146">benchtop</text>
+
+        <!-- box walls -->
+        <rect class="fillA" x="240" y="71" width="14" height="364"></rect>
+        <rect class="ln" x="240" y="71" width="14" height="364"></rect>
+        <rect class="fillA" x="466" y="56" width="14" height="379"></rect>
+        <rect class="ln" x="466" y="56" width="14" height="379"></rect>
+
+        <!-- lid -->
+        <path class="tint" d="M226 59 L494 44 L494 56 L226 71 Z"></path>
+        <path class="mk" d="M226 59 L494 44 L494 56 L226 71 Z"></path>
+        <!-- hinge -->
+        <rect class="mkf" x="478" y="36" width="18" height="8"></rect>
+        <!-- seal beads -->
+        <g class="mkf">
+          <circle cx="252" cy="66" r="4"></circle><circle cx="330" cy="61" r="4"></circle>
+          <circle cx="408" cy="57" r="4"></circle><circle cx="466" cy="53" r="4"></circle>
+        </g>
+        <!-- turn button -->
+        <circle class="mk" cx="232" cy="80" r="7"></circle>
+        <line class="mk" x1="226" y1="80" x2="238" y2="80"></line>
+
+        <!-- vents -->
+        <circle class="ln" cx="473" cy="96" r="7"></circle>
+        <g class="thin">
+          <line x1="466" y1="93" x2="480" y2="93"></line><line x1="466" y1="99" x2="480" y2="99"></line>
+          <line x1="470" y1="89" x2="470" y2="103"></line><line x1="476" y1="89" x2="476" y2="103"></line>
+        </g>
+
+        <!-- nested cartons -->
+        <g class="ln">
+          <path d="M262 250 L458 244 L458 262 L262 268 Z"></path>
+          <path d="M262 274 L458 268 L458 286 L262 292 Z"></path>
+          <path d="M262 298 L458 292 L458 310 L262 316 Z"></path>
+          <path d="M262 322 L458 316 L458 334 L262 340 Z"></path>
+          <path d="M262 346 L458 340 L458 358 L262 364 Z"></path>
+          <path d="M262 370 L458 364 L458 382 L262 388 Z"></path>
+          <path d="M262 394 L458 388 L458 406 L262 412 Z"></path>
+        </g>
+        <text class="t-note" x="360" y="232" text-anchor="middle">returned cartons, nested &mdash; holds about 3 dozen</text>
+
+        <!-- floor + battens -->
+        <rect class="fillB" x="254" y="416" width="212" height="11"></rect>
+        <rect class="ln" x="254" y="416" width="212" height="11"></rect>
+        <rect class="ln" x="268" y="427" width="20" height="10"></rect>
+        <rect class="ln" x="432" y="427" width="20" height="10"></rect>
+        <!-- weep holes -->
+        <circle class="mkf" cx="262" cy="422" r="4"></circle>
+        <circle class="mkf" cx="458" cy="422" r="4"></circle>
+
+        <!-- box bottom line -->
+        <line class="ln" x1="240" y1="435" x2="480" y2="435"></line>
+
+        <!-- callouts left -->
+        <g class="lead">
+          <line x1="216" y1="52" x2="252" y2="60" marker-end="url(#arI)"></line>
+          <line x1="216" y1="92" x2="230" y2="84" marker-end="url(#arI)"></line>
+          <line x1="216" y1="422" x2="256" y2="422" marker-end="url(#arI)"></line>
+        </g>
+        <text class="t-note" x="30" y="48">20 mm drip lip overhangs</text>
+        <text class="t-note" x="30" y="62">the rebate on all four sides</text>
+        <text class="t-note" x="52" y="96">turn button &mdash;</text>
+        <text class="t-note" x="52" y="110">wind takes loose lids</text>
+        <text class="t-note" x="70" y="418">&Oslash;8 weep holes,</text>
+        <text class="t-note" x="70" y="432">both front corners</text>
+
+        <!-- callouts right -->
+        <g class="lead">
+          <line x1="560" y1="40" x2="496" y2="40" marker-end="url(#arI)"></line>
+          <line x1="560" y1="66" x2="474" y2="56" marker-end="url(#arI)"></line>
+          <line x1="560" y1="96" x2="484" y2="96" marker-end="url(#arI)"></line>
+          <line x1="560" y1="432" x2="456" y2="432" marker-end="url(#arI)"></line>
+        </g>
+        <text class="t-note" x="566" y="36">stainless piano hinge</text>
+        <text class="t-note" x="566" y="62">D-section EPDM seal</text>
+        <text class="t-note" x="566" y="92">2 &times; &Oslash;25 vents,</text>
+        <text class="t-note" x="566" y="106">insect mesh behind</text>
+        <text class="t-note" x="566" y="428">floor on 18 mm battens &mdash;</text>
+        <text class="t-note" x="566" y="442">cartons never sit in water</text>
+
+        <!-- dims -->
+        <g class="dim">
+          <line x1="240" y1="458" x2="240" y2="478"></line>
+          <line x1="480" y1="458" x2="480" y2="478"></line>
+          <line x1="240" y1="470" x2="480" y2="470" marker-start="url(#ar)" marker-end="url(#ar)"></line>
+          <line x1="512" y1="71" x2="536" y2="71"></line>
+          <line x1="512" y1="435" x2="536" y2="435"></line>
+          <line x1="528" y1="71" x2="528" y2="435" marker-start="url(#ar)" marker-end="url(#ar)"></line>
+        </g>
+        <text class="t-dim" x="360" y="466" text-anchor="middle">320 deep</text>
+        <text class="t-dim" x="540" y="258">420 internal</text>
+        <text class="t-dim" x="244" y="106">60 proud</text>
+      </svg>
+      <figcaption><b>Section through the carton-return hatch, 1:4.</b> The lid is proud of the bench and overhangs its rebate, so wind-driven rain runs <em>off</em> rather than tracking in. Two mesh vents high on the back wall let the box breathe, and the floor sits on battens over weep holes, so the one drip that does get in has somewhere to go. Internal width is <span class="num">324</span>&nbsp;mm &mdash; check it against your own cartons before you cut, since a one-dozen carton runs close to <span class="num">300</span>&nbsp;mm.</figcaption>
+    </figure>
+
+    <h4>House rules for returns</h4>
+    <ul>
+      <li>Take back <strong>clean, dry, undamaged</strong> cartons only. Anything soft, stained or split goes in the fire, not back into stock.</li>
+      <li>Empty the return box every time you restock. Cartons that live in there for a fortnight are not worth reusing.</li>
+      <li>Reuse only cartons that carried <em>your</em> eggs, or cover the old producer's branding entirely with your own label &mdash; sending a buyer home with someone else's name and address on the box is misleading, and it is the one part of carton reuse that can actually get you in trouble.</li>
+      <li>Give people a reason: <strong>20c off a dozen</strong> for a returned carton is enough, and it costs you less than a new carton does.</li>
+    </ul>
+
+    <div class="sign">
+      <span class="l1">CARTON RETURN</span>
+      <span class="l2">Clean &amp; dry only, please</span>
+      <span class="l3">20c off your next dozen</span>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 05 ============ -->
+<section class="sheet">
+  <div class="sheet-no"><span>05</span><small>Bay 01</small></div>
+  <div class="sheet-body">
+    <h2>Flowers</h2>
+    <p class="deck">Flowers are what stops the car. They go in the bay nearest the approaching traffic, and they go at bench height where the colour is at eye level from the road.</p>
+
+    <h3>The bucket board</h3>
+    <p>Rather than standing buckets on the bench where a nor&#8217;wester will have them over, the benchtop in bay 01 is a <strong>bucket board</strong>: a 250&nbsp;mm-deep piece of 18&nbsp;mm ply let into the decking with <strong>three &Oslash;230&nbsp;mm holes at 260&nbsp;mm centres</strong>. A tapered 10&nbsp;L bucket drops in about 100&nbsp;mm and wedges on its own taper &mdash; stable, quick to swap, and the water is out of sight.</p>
+    <ul>
+      <li>Cut the holes with a jigsaw and a nail-and-string trammel; ease the edges with sandpaper so the buckets do not scuff.</li>
+      <li>Buckets are black, not white &mdash; less algae, and the stems read better against them.</li>
+      <li>Fill fresh every morning. Water more than a day old will cost you sales faster than any amount of arranging.</li>
+    </ul>
+
+    <h3>Agee jars on the upper shelf</h3>
+    <p>Single-jar posies at <span class="num">1400</span>&nbsp;mm are the impulse buy &mdash; someone who was not going to stop for a bunch will take a jar. Two details make the shelf work:</p>
+    <ul>
+      <li>A <strong>20&nbsp;mm lip rail</strong> along the front edge of the shelf, so a knocked jar rocks back instead of off. Non-negotiable with a hard floor below.</li>
+      <li>Price the jar <em>with</em> the flowers and invite the jar back &mdash; a second return box is not needed; a crate marked <em>JARS BACK HERE</em> on the lower shelf does the job. Agee jars are worth more than the posy.</li>
+    </ul>
+
+    <div class="note">
+      <h4>What actually sells at a gate</h4>
+      <p>Mixed seasonal bunches at one flat price beat carefully graded ranges every time. Wrap in newspaper or brown paper with a rubber band, not cellophane. Keep the buckets full but not crammed &mdash; a bucket with six good bunches in it sells better than one with fifteen.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 06 ============ -->
+<section class="sheet">
+  <div class="sheet-no"><span>06</span><small>Bay 02</small></div>
+  <div class="sheet-body">
+    <h2>Produce</h2>
+    <p class="deck">Bay 03 carries three quite different loads &mdash; heavy things that must sit low, soft things that must sit shaded, and things that want air all round them.</p>
+
+    <div class="cards">
+      <div class="card"><h5>Lower shelf &mdash; 300</h5><p>Pumpkins, 20&nbsp;kg spud sacks, kumara crates. Slatted, so grit and water fall through, and low enough that lifting a sack does not mean lifting it high.</p></div>
+      <div class="card"><h5>Bench &mdash; 900</h5><p>Shallow crates of tomatoes, lettuce, beans, peas, bunched radishes. One crate per line, never stacked &mdash; a buyer will not dig.</p></div>
+      <div class="card"><h5>Hanging rail &mdash; 1750</h5><p>25&nbsp;NB galvanised pipe on two flanges under the front plate. Plaited onions and garlic, S-hooks, moving air.</p></div>
+    </div>
+
+    <h3>The hanging rail earns its keep</h3>
+    <p>Onions and garlic hung in moving air keep curing and keep selling; the same bulbs in a crate sweat and sprout. The rail also puts a band of colour and shape at head height that reads from a moving car, which a flat bench cannot do. Fix the flanges to the underside of the front top plate, not to the ply &mdash; a full plait of garlic is heavier than it looks.</p>
+
+    <h3>Handling the heavy lines</h3>
+    <ul>
+      <li><strong>Pumpkins:</strong> stalk on, cured hard, sat on a slat not on ply. One cut display half under a cloche if you want to show flesh colour &mdash; but sell it that day.</li>
+      <li><strong>Potatoes:</strong> paper or hessian sacks, never clear plastic. Light greens them, plastic sweats them. Mark the variety and whether they are washed; unwashed keep far better and most gate buyers prefer them.</li>
+      <li><strong>Leaf and soft crops:</strong> shaded bay, restocked in the cool of the morning, and pulled before they wilt rather than marked down. One tired lettuce does more damage to the stand's reputation than an empty crate.</li>
+    </ul>
+
+    <div class="scroll">
+      <table>
+        <caption>Indicative season, lower South Island / inland Canterbury</caption>
+        <thead><tr><th>Line</th><th>Peak</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Eggs</td><td class="n">Sep&ndash;Mar</td><td>Slows through winter; expect a lean July</td></tr>
+          <tr><td>Cut flowers</td><td class="n">Oct&ndash;Apr</td><td>Daffodils and blossom bring an early Aug&ndash;Sep run</td></tr>
+          <tr><td>Tomatoes, beans, peas</td><td class="n">Dec&ndash;Mar</td><td>The busiest weeks of the year &mdash; restock twice daily</td></tr>
+          <tr><td>Lettuce, radish</td><td class="n">Oct&ndash;May</td><td>Bolts in a hot spell; sow little and often</td></tr>
+          <tr><td>Garlic</td><td class="n">Jan&ndash;Jun</td><td>Cure 3&ndash;4 weeks before it goes on the rail</td></tr>
+          <tr><td>Onions</td><td class="n">Feb&ndash;Aug</td><td>Plaits sell better than loose</td></tr>
+          <tr><td>Pumpkins</td><td class="n">Mar&ndash;Aug</td><td>Cure hard; they carry the winter stand</td></tr>
+          <tr><td>Potatoes</td><td class="n">Jan&ndash;Sep</td><td>Sacks; the reliable year-round line</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 07 ============ -->
+<section class="sheet">
+  <div class="sheet-no"><span>07</span><small>Detail</small></div>
+  <div class="sheet-body">
+    <h2>Getting paid</h2>
+    <p class="deck">An honesty box works in New Zealand &mdash; but it works far better when it is obviously hard to rob and when there is a second way to pay. Build both in from day one.</p>
+
+    <figure class="dwg">
+      <svg viewBox="0 0 720 470" role="img" aria-label="Section through the honesty box: a slot in the front face, two staggered baffle plates preventing anything being fished back out, a lockable front door, and coach bolts through the back into a solid stud with their nuts inside the locked cavity.">
+        <!-- stud, cut -->
+        <rect class="fillA" x="430" y="20" width="108" height="430"></rect>
+        <rect class="ln" x="430" y="20" width="108" height="430"></rect>
+        <g class="thin">
+          <line x1="430" y1="60" x2="538" y2="20"></line><line x1="430" y1="120" x2="538" y2="80"></line>
+          <line x1="430" y1="180" x2="538" y2="140"></line><line x1="430" y1="240" x2="538" y2="200"></line>
+          <line x1="430" y1="300" x2="538" y2="260"></line><line x1="430" y1="360" x2="538" y2="320"></line>
+          <line x1="430" y1="420" x2="538" y2="380"></line>
+        </g>
+        <text class="t-note" x="548" y="240">90 &times; 45 stud,</text>
+        <text class="t-note" x="548" y="254">full height</text>
+
+        <!-- box shell -->
+        <path class="fillA" d="M238 74 L430 60 L430 430 L238 430 Z"></path>
+        <path class="ln" d="M238 74 L430 60 L430 430 L238 430 Z"></path>
+        <!-- sloped top with lip -->
+        <path class="fillB" d="M226 78 L436 62 L436 74 L226 90 Z"></path>
+        <path class="ln" d="M226 78 L436 62 L436 74 L226 90 Z"></path>
+
+        <!-- slot + hood -->
+        <path class="mk" d="M238 112 L216 100 L238 96"></path>
+        <rect class="mkf" x="234" y="104" width="10" height="14"></rect>
+        <text class="t-dim" x="96" y="104">slot 120 &times; 12,</text>
+        <text class="t-dim" x="96" y="120">hooded</text>
+        <line class="lead" x1="200" y1="108" x2="228" y2="106" marker-end="url(#arI)"></line>
+
+        <!-- baffles -->
+        <path class="mk" d="M244 120 L344 214"></path>
+        <path class="mk" d="M426 186 L326 278"></path>
+        <text class="t-note" x="352" y="150">baffle 1</text>
+        <text class="t-note" x="248" y="264">baffle 2</text>
+        <path class="lead" stroke-dasharray="5 4" d="M250 126 L336 208 L332 236 L336 272 L360 320 L360 372" marker-end="url(#arI)"></path>
+
+        <!-- cash -->
+        <g class="fillB">
+          <rect x="262" y="392" width="150" height="10"></rect>
+          <rect x="272" y="404" width="130" height="10"></rect>
+          <rect x="258" y="416" width="152" height="10"></rect>
+        </g>
+        <g class="thin">
+          <rect x="262" y="392" width="150" height="10"></rect>
+          <rect x="272" y="404" width="130" height="10"></rect>
+          <rect x="258" y="416" width="152" height="10"></rect>
+        </g>
+
+        <!-- door -->
+        <line class="ln" x1="238" y1="130" x2="238" y2="430" stroke-dasharray="7 4"></line>
+        <circle class="mk" cx="248" cy="146" r="8"></circle>
+        <line class="mk" x1="243" y1="146" x2="253" y2="146"></line>
+        <circle class="ln" cx="240" cy="426" r="5"></circle>
+        <text class="t-note" x="120" y="150">cam lock</text>
+        <line class="lead" x1="176" y1="146" x2="238" y2="146" marker-end="url(#arI)"></line>
+        <text class="t-note" x="120" y="428">hinged at the foot</text>
+        <line class="lead" x1="212" y1="424" x2="232" y2="426" marker-end="url(#arI)"></line>
+
+        <!-- bolts -->
+        <g class="mk">
+          <line x1="404" y1="150" x2="560" y2="150"></line>
+          <line x1="404" y1="380" x2="560" y2="380"></line>
+        </g>
+        <g class="mkf">
+          <rect x="552" y="144" width="12" height="12"></rect>
+          <rect x="552" y="374" width="12" height="12"></rect>
+          <circle cx="404" cy="150" r="6"></circle>
+          <circle cx="404" cy="380" r="6"></circle>
+        </g>
+        <text class="t-note" x="576" y="146">4 &times; M8 coach bolts</text>
+        <text class="t-note" x="576" y="160">through the stud</text>
+        <text class="t-note" x="576" y="376">nuts sit inside the</text>
+        <text class="t-note" x="576" y="390">locked cavity</text>
+
+        <!-- sign above -->
+        <rect class="ln" x="238" y="12" width="198" height="40"></rect>
+        <text class="t-big" x="268" y="38">PAY HERE</text>
+        <g class="fillB">
+          <rect x="396" y="18" width="8" height="8"></rect><rect x="412" y="18" width="8" height="8"></rect>
+          <rect x="404" y="26" width="8" height="8"></rect><rect x="420" y="26" width="8" height="8"></rect>
+          <rect x="396" y="34" width="8" height="8"></rect><rect x="420" y="34" width="8" height="8"></rect>
+        </g>
+        <text class="t-note" x="396" y="60">QR</text>
+
+        <!-- dims -->
+        <g class="dim">
+          <line x1="238" y1="446" x2="238" y2="462"></line>
+          <line x1="430" y1="446" x2="430" y2="462"></line>
+          <line x1="238" y1="456" x2="430" y2="456" marker-start="url(#ar)" marker-end="url(#ar)"></line>
+        </g>
+        <text class="t-dim" x="334" y="452" text-anchor="middle">160 deep</text>
+      </svg>
+      <figcaption><b>Section through the honesty box, 1:2.</b> The two staggered baffles are the whole trick: a note posted through the slot falls past both, and nothing &mdash; hand, wire or bent coat hanger &mdash; can follow it back up. Bolting through <span class="num">90</span>&nbsp;mm of solid stud with the nuts inside the locked cavity means there is nothing to undo from the outside; a box screwed to <span class="num">12</span>&nbsp;mm ply comes off with one good pull.</figcaption>
+    </figure>
+
+    <h4>Specification</h4>
+    <ul>
+      <li><strong>Shell:</strong> 3&nbsp;mm folded steel, or 18&nbsp;mm ply lined with sheet steel on the door and floor. Powder-coat or paint to match the stand.</li>
+      <li><strong>Slot:</strong> <span class="num">120 &times; 12</span>&nbsp;mm in the front face, under a small hood so rain cannot run in. Coins and folded notes go through; a hand does not.</li>
+      <li><strong>Baffles:</strong> two <span class="num">2</span>&nbsp;mm plates at roughly 45&deg;, staggered so there is no straight path from the slot to the cash.</li>
+      <li><strong>Lock:</strong> cam lock or a hasp and a decent padlock. Two keys, one on the tractor.</li>
+      <li><strong>Fixing:</strong> 4 &times; M8 coach bolts through the centre stud, nuts and washers inside the locked cavity.</li>
+      <li><strong>Mounted at</strong> <span class="num">1150&ndash;1350</span>&nbsp;mm on the back wall of bay 02, so it is at hand height and directly in front of anyone taking eggs.</li>
+    </ul>
+
+    <h3>The second way to pay</h3>
+    <p>Bank transfer now does more of the work than the box does. Put your account number on a painted sign at eye level with a short reference instruction, and add a QR code that opens a pre-filled payment link. It removes the change problem entirely, it gives you a record for your books, and it means a customer with no cash still buys.</p>
+
+    <div class="sign">
+      <span class="l1">HONESTY BOX</span>
+      <span class="l2">Cash in the slot, or bank transfer</span>
+      <span class="l3">00-0000-0000000-00 &middot; ref: your name</span>
+    </div>
+
+    <h4>Keeping the box boring to rob</h4>
+    <ul>
+      <li><strong>Empty it daily</strong>, and put up a small sign saying you do. An obviously empty box is not worth breaking.</li>
+      <li><strong>No float.</strong> Price everything in whole dollars &mdash; $5, $8, $10 &mdash; so nobody needs change and there is never a dish of coins on show.</li>
+      <li><strong>Keep a tally book</strong> in the stand, or note the takings when you empty it. Gate sales are still income, and a shoebox of receipts in April is nobody's idea of a good time.</li>
+      <li><strong>A camera on the shed pointed at the stand</strong> does more than a bigger padlock, and a small sign saying so does more again.</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============ 08 ============ -->
+<section class="sheet">
+  <div class="sheet-no"><span>08</span><small>Schedule</small></div>
+  <div class="sheet-body">
+    <h2>Materials and cut list</h2>
+    <p class="deck">Sized for a standard New Zealand timber-yard order. Treatment levels matter more than species: <strong>H4 in the ground, H3.2 above it</strong>, and if you are within a few kilometres of the coast, stainless fixings rather than galvanised.</p>
+
+    <div class="scroll">
+      <table>
+        <caption>Cut list &mdash; structure</caption>
+        <thead><tr><th>Ref</th><th>Member</th><th>Size</th><th class="n">Length</th><th class="n">Qty</th></tr></thead>
+        <tbody>
+          <tr class="group"><td colspan="5">Posts and frame</td></tr>
+          <tr><td class="ref">P1</td><td>Front post</td><td>90 &times; 90 H4</td><td class="n">2700</td><td class="n">2</td></tr>
+          <tr><td class="ref">P2</td><td>Rear post</td><td>90 &times; 90 H4</td><td class="n">2500</td><td class="n">2</td></tr>
+          <tr><td class="ref">P3</td><td>Centre stud, back wall (honesty box)</td><td>90 &times; 45 H4</td><td class="n">2500</td><td class="n">1</td></tr>
+          <tr><td class="ref">T1</td><td>Top plate, front</td><td>90 &times; 45 H3.2</td><td class="n">2400</td><td class="n">1</td></tr>
+          <tr><td class="ref">T2</td><td>Top plate, rear</td><td>90 &times; 45 H3.2</td><td class="n">2400</td><td class="n">1</td></tr>
+          <tr><td class="ref">BR</td><td>Diagonal brace, back frame</td><td>90 &times; 45 H3.2</td><td class="n">900</td><td class="n">4</td></tr>
+          <tr class="group"><td colspan="5">Bench and shelves</td></tr>
+          <tr><td class="ref">B1</td><td>Bench rail, front and rear</td><td>90 &times; 45 H3.2</td><td class="n">2400</td><td class="n">2</td></tr>
+          <tr><td class="ref">B2</td><td>Bench joist</td><td>90 &times; 45 H3.2</td><td class="n">610</td><td class="n">4</td></tr>
+          <tr><td class="ref">S1</td><td>Lower shelf rail</td><td>90 &times; 45 H3.2</td><td class="n">2400</td><td class="n">2</td></tr>
+          <tr><td class="ref">S2</td><td>Lower shelf joist</td><td>90 &times; 45 H3.2</td><td class="n">610</td><td class="n">4</td></tr>
+          <tr><td class="ref">U1</td><td>Upper shelf bearer</td><td>90 &times; 45 H3.2</td><td class="n">2400</td><td class="n">1</td></tr>
+          <tr><td class="ref">U2</td><td>Upper shelf bracket</td><td>90 &times; 45 H3.2</td><td class="n">260</td><td class="n">3</td></tr>
+          <tr><td class="ref">D1</td><td>Bench decking</td><td>140 &times; 32 H3.2</td><td class="n">2400</td><td class="n">5</td></tr>
+          <tr><td class="ref">D2</td><td>Lower shelf decking</td><td>140 &times; 32 H3.2</td><td class="n">2400</td><td class="n">5</td></tr>
+          <tr><td class="ref">D3</td><td>Upper shelf decking</td><td>140 &times; 32 H3.2</td><td class="n">2400</td><td class="n">2</td></tr>
+          <tr><td class="ref">D4</td><td>Shelf lip rail (flowers)</td><td>40 &times; 20 H3.2</td><td class="n">800</td><td class="n">1</td></tr>
+          <tr class="group"><td colspan="5">Roof and wall</td></tr>
+          <tr><td class="ref">R1</td><td>Rafter, birdsmouthed over both plates</td><td>90 &times; 45 H3.2</td><td class="n">1150</td><td class="n">4</td></tr>
+          <tr><td class="ref">R2</td><td>Purlin</td><td>70 &times; 45 H3.2</td><td class="n">2580</td><td class="n">3</td></tr>
+          <tr><td class="ref">R3</td><td>Corrugate, 0.4&nbsp;mm, 860 cover</td><td>Colorsteel / galv</td><td class="n">1200</td><td class="n">3</td></tr>
+          <tr><td class="ref">W1</td><td>Back wall</td><td>12&nbsp;mm H3 ply</td><td class="n">2400 &times; 1800</td><td class="n">1 sheet</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="scroll">
+      <table>
+        <caption>Cut list &mdash; egg well, carton return, bucket board (18&nbsp;mm H3 ply)</caption>
+        <thead><tr><th>Ref</th><th>Part</th><th class="n">Size</th><th class="n">Qty</th><th>Note</th></tr></thead>
+        <tbody>
+          <tr><td class="ref">E1</td><td>Egg-well cleats</td><td class="n">45 &times; 45 &times; 300</td><td class="n">4</td><td>Carry the chilly bin's rim</td></tr>
+          <tr><td class="ref">E2</td><td>Egg-well lid</td><td class="n">To suit bin + 40</td><td class="n">1</td><td>Sloped, 20&nbsp;mm overhang all round</td></tr>
+          <tr><td class="ref">C1</td><td>Return box, back</td><td class="n">360 &times; 420</td><td class="n">1</td><td>&nbsp;</td></tr>
+          <tr><td class="ref">C2</td><td>Return box, front</td><td class="n">360 &times; 380</td><td class="n">1</td><td>Shorter &mdash; gives the lid its fall</td></tr>
+          <tr><td class="ref">C3</td><td>Return box, sides</td><td class="n">284 &times; 420/380</td><td class="n">2</td><td>Tapered top edge</td></tr>
+          <tr><td class="ref">C4</td><td>Return box, floor</td><td class="n">324 &times; 284</td><td class="n">1</td><td>On 18&nbsp;mm battens</td></tr>
+          <tr><td class="ref">C5</td><td>Return box, lid</td><td class="n">400 &times; 370</td><td class="n">1</td><td>20&nbsp;mm lip on three sides</td></tr>
+          <tr><td class="ref">F1</td><td>Bucket board</td><td class="n">800 &times; 250</td><td class="n">1</td><td>3 &times; &Oslash;230 holes at 260 crs</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="scroll">
+      <table>
+        <caption>Hardware and consumables</caption>
+        <thead><tr><th>Item</th><th>Spec</th><th class="n">Qty</th></tr></thead>
+        <tbody>
+          <tr><td>Chilly bin</td><td>20&ndash;30&nbsp;L, hard-sided</td><td class="n">1</td></tr>
+          <tr><td>Piano hinge</td><td>Stainless, 350&nbsp;mm</td><td class="n">2</td></tr>
+          <tr><td>Weather seal</td><td>D-section EPDM, self-adhesive</td><td class="n">4&nbsp;m</td></tr>
+          <tr><td>Vent mesh</td><td>Stainless insect mesh offcut</td><td class="n">1</td></tr>
+          <tr><td>Turn buttons / hasps</td><td>Galvanised</td><td class="n">2</td></tr>
+          <tr><td>Hanging rail</td><td>25&nbsp;NB galvanised pipe + 2 flanges</td><td class="n">2450</td></tr>
+          <tr><td>Honesty box</td><td>Lockable steel, slot + baffles</td><td class="n">1</td></tr>
+          <tr><td>Coach bolts</td><td>M8 &times; 130 galvanised, nuts + washers</td><td class="n">4</td></tr>
+          <tr><td>Structural bolts</td><td>M12 galvanised, post to plate</td><td class="n">8</td></tr>
+          <tr><td>Screws</td><td>14g &times; 100 and 10g &times; 50, stainless or hot-dip galv</td><td class="n">2 boxes</td></tr>
+          <tr><td>Roofing screws</td><td>Hex head with EPDM washers</td><td class="n">30</td></tr>
+          <tr><td>Concrete</td><td>Rapid-set post mix, 20&nbsp;kg</td><td class="n">6 bags</td></tr>
+          <tr><td>Paint</td><td>Exterior primer + 2 coats acrylic</td><td class="n">4&nbsp;L</td></tr>
+          <tr><td>Buckets</td><td>10&nbsp;L tapered, black</td><td class="n">6</td></tr>
+          <tr><td>Crates</td><td>Shallow, stackable</td><td class="n">6</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="note">
+      <h4>On the estimate</h4>
+      <p>At 2026 New Zealand retail this list lands roughly between <strong>$950 and $1,300</strong>, with timber about a third of it and the roof, ply and honesty box most of the rest. Milled macrocarpa off the farm, recycled iron, or a second-hand cash box will take a solid few hundred off. Prices move &mdash; treat this as a shopping list to price, not a quote.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 09 ============ -->
+<section class="sheet">
+  <div class="sheet-no"><span>09</span><small>Sequence</small></div>
+  <div class="sheet-body">
+    <h2>Build sequence</h2>
+    <p class="deck">Two weekends, in this order. The boxes are bench work &mdash; build them inside on a wet evening while the concrete goes off.</p>
+
+    <ol>
+      <li><strong>Set out.</strong> String line along the fence, mark the four post centres at 2400 &times; 700, and check the diagonals match before you dig anything. Confirm the boundary while you are at it.</li>
+      <li><strong>Dig and set.</strong> Four holes 600 deep, 300 across. Bed 100&nbsp;mm of compacted metal in the base of each so the post foot drains, stand the posts, brace them plumb and pour the collars. Leave them overnight.</li>
+      <li><strong>Top plates and braces.</strong> Front plate at 2050, rear at 1850, bolted through with M12s. Fit the four diagonal braces in the back frame now &mdash; the stand will feel completely different once they are in.</li>
+      <li><strong>Bench and shelf frames.</strong> Rails at 900 and 300, joists at 610 between them. Frame the two bay-02 compartments while the frame is open &mdash; retro-fitting them later is miserable.</li>
+      <li><strong>Rafters, purlins, roof.</strong> Birdsmouth the four rafters over both plates, 300 proud at the front and 100 at the rear. Three purlins, then the corrugate, fixed on the crest with EPDM-washered screws. Never fix in the pan.</li>
+      <li><strong>Back wall.</strong> Ply on, centre stud in, all edges primed and sealed &mdash; especially the bottom edge, which is what rots first. Hold it 50&nbsp;mm clear of the ground.</li>
+      <li><strong>Decking.</strong> Bench and shelves, 5&nbsp;mm gaps between boards. Cut the egg-well opening and the bucket-board recess after the decking is down and you have the bin in your hand.</li>
+      <li><strong>Boxes.</strong> Glue and screw the return box with exterior PU, seal every cut edge, fit hinge, seal, vents, battens and weep holes. Drop it into its compartment and hang the lids.</li>
+      <li><strong>Fit-out.</strong> Hanging rail flanges under the front plate, shelf lip rail, honesty box bolted to the centre stud, signs on.</li>
+      <li><strong>Paint.</strong> Primer plus two coats, end grain first. Leave it a fortnight before you seal the return box's rubber against fresh paint.</li>
+      <li><strong>Soft open.</strong> One weekend with eggs and one other line only. Watch what people actually stop for, then load the bays properly.</li>
+    </ol>
+
+    <div class="note">
+      <h4>The detail everyone skips</h4>
+      <p>Seal <em>every</em> cut end and every drilled hole, on the treated timber and the ply both. Treatment does not penetrate to the core, so a raw cut end standing in a puddle is the one place a stand like this fails, and it fails from the inside where you cannot see it coming.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 10 ============ -->
+<section class="sheet">
+  <div class="sheet-no"><span>10</span><small>Compliance</small></div>
+  <div class="sheet-body">
+    <h2>Before you open</h2>
+    <p class="deck">Selling your own eggs and produce at your own gate is deliberately easy in New Zealand &mdash; but the detail sits with MPI and your council, and it does change. Treat everything below as the list of things to confirm, not as the answer.</p>
+
+    <div class="note warn">
+      <h4>Confirm these yourself</h4>
+      <p>Rules and thresholds shift, and yours may differ by district. Ring <strong>MPI</strong> about the eggs and your <strong>district council</strong> about the stall and the sign before you open. Both calls are short, free, and much easier than being asked to shut down in your second week.</p>
+    </div>
+
+    <h4>Eggs</h4>
+    <ul>
+      <li>MPI has long allowed <strong>small flocks selling direct to consumers</strong> at the gate to operate without a registered risk management programme &mdash; the commonly cited line is 100 or fewer laying hens. Confirm the current threshold and what it requires of you.</li>
+      <li><strong>Never sell cracked, leaking or visibly dirty eggs.</strong> This is the one rule with no nuance in it.</li>
+      <li><strong>Do not wash them.</strong> Washing strips the bloom that keeps bacteria out. Wipe a lightly marked egg dry; discard a badly soiled one.</li>
+      <li>Label each carton with <strong>your name, your address and the pack date</strong>, even where you are not strictly required to. It is good practice, it builds trust, and it makes a traceback trivial if you ever need one.</li>
+      <li>Reused cartons must not carry <strong>another producer's branding</strong> in a way that misleads the buyer. Your own label over the top solves it.</li>
+    </ul>
+
+    <h4>Fruit and vegetables</h4>
+    <ul>
+      <li>Whole, unprocessed produce sold by the grower generally sits outside the Food Act's registration requirements. The moment you <strong>cut, cook, bag as a prepared salad, or preserve</strong> anything, you are in different territory &mdash; check first.</li>
+      <li>Sell your own produce. Reselling someone else's changes what you are, both legally and to the neighbours.</li>
+    </ul>
+
+    <h4>The road and the sign</h4>
+    <ul>
+      <li>The berm is usually <strong>road reserve</strong>. A formed pull-off, and often a roadside sign, needs council approval; on a state highway it needs NZTA's.</li>
+      <li>Some district plans treat a permanent roadside stall as a structure or as commercial activity in a rural zone. Ask before you concrete anything in.</li>
+      <li>Sightlines both ways matter more than any of it. If a car cannot stop safely, the stand is in the wrong place regardless of what the rules permit.</li>
+    </ul>
+
+    <h4>Money and cover</h4>
+    <ul>
+      <li>Gate takings are <strong>income</strong>. Keep a tally book in the stand; it takes ten seconds a day and saves a bad afternoon in April.</li>
+      <li>Tell your <strong>insurer</strong>. A structure at your boundary that the public uses is worth a sentence on the policy, and public liability cover is usually cheap to add.</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============ 11 ============ -->
+<section class="sheet">
+  <div class="sheet-no"><span>11</span><small>Operating</small></div>
+  <div class="sheet-body">
+    <h2>Running it</h2>
+    <p class="deck">The stand is a fortnight's work. What decides whether it is still going next summer is the rhythm you put around it.</p>
+
+    <h3>Price so nobody needs change</h3>
+    <p>Whole dollars, ideally $5 / $8 / $10, and no odd cents anywhere on the board. It removes the float, it removes the coin dish, and it removes the customer who drives off because they only had a twenty. Hand-letter the prices on a board rather than printing them &mdash; painted prices read as a farm, printed ones read as a shop.</p>
+
+    <h3>Restock twice, not once</h3>
+    <p>Morning and late afternoon in summer, once a day the rest of the year. Every restock: pull anything tired, empty the carton return, empty the honesty box, top up the flower buckets, write the day's takings in the book. Ten minutes, and it is the difference between a stand people check and one they drive past.</p>
+
+    <h3>Never leave it empty-looking</h3>
+    <p>A half-empty bay reads as closed from a moving car. If a line runs out, spread the rest across the bench and put a jar of flowers where the gap is. Keep one thing at eye level in every bay at all times.</p>
+
+    <h3>Signs to paint</h3>
+    <div class="cards">
+      <div class="card"><h5>Road sign</h5><p><strong>EGGS &middot; FLOWERS &middot; VEG</strong><br>Big, high-contrast, one line, readable at 80&nbsp;km/h. Not a list.</p></div>
+      <div class="card"><h5>On the back wall</h5><p><strong>Everything here is grown or laid on this farm.</strong><br>One sentence. It is the whole pitch.</p></div>
+      <div class="card"><h5>By the box</h5><p><strong>Cash in the slot or bank transfer.</strong><br>Account number, reference, QR. Emptied daily.</p></div>
+      <div class="card"><h5>On the hatches</h5><p><strong>EGGS &mdash; lift lid</strong> and <strong>CARTON RETURN &mdash; clean &amp; dry</strong>. People will not open an unlabelled box.</p></div>
+    </div>
+
+    <h3>What to change after the first season</h3>
+    <ul>
+      <li><strong>Watch which bay empties first</strong> and give it more room. The bay layout here is a starting hypothesis, not a finding.</li>
+      <li><strong>Count the carton returns.</strong> If the rate is under about a third, the incentive is too small or the box is not obvious enough &mdash; usually the second.</li>
+      <li><strong>If cash keeps beating transfers,</strong> your account sign is too small or too far from the goods. Move it to eye level directly above the egg well.</li>
+      <li><strong>Add a chalkboard</strong> for what is new this week. It is the cheapest thing you can do to make regulars stop again.</li>
+    </ul>
+  </div>
+</section>
+
+<footer class="foot">
+  <span>Farm gate market stand &middot; Rev A</span>
+  <span>All dimensions in millimetres &middot; verify on site</span>
+  <span>Sheets 01&ndash;11</span>
+</footer>
+
+</div>
