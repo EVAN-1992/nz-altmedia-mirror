@@ -1,8 +1,38 @@
 {
-  "generated_utc": "2026-08-29T15:34:14Z",
+  "generated_utc": "2026-08-30T15:18:20Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "If I Were PM: Fix The Machine Before The Policies",
+        "url": "https://realitycheck.radio/if-i-were-pm-fix-the-machine-before-the-policies/",
+        "date_utc": "2026-08-29T22:54:18Z",
+        "summary": "by Dr Oliver Hartwich On my first morning as Prime […]"
+      },
+      {
+        "title": "One Nation serves a hard lesson on elite theory",
+        "url": "https://realitycheck.radio/one-nation-serves-a-hard-lesson-on-elite-theory/",
+        "date_utc": "2026-08-28T22:57:21Z",
+        "summary": "by M. K. Grant What does grass-roots popularity offer parliamentarians? […]"
+      },
+      {
+        "title": "National’s Online Safety Bill is a Trojan Horse",
+        "url": "https://realitycheck.radio/nationals-online-safety-bill-is-a-trojan-horse/",
+        "date_utc": "2026-08-28T22:49:57Z",
+        "summary": "by Rodney Hide In 1990 I travelled the country warning […]"
+      },
+      {
+        "title": "Election Concerns",
+        "url": "https://realitycheck.radio/election-concerns/",
+        "date_utc": "2026-08-27T22:46:56Z",
+        "summary": "by Dr Muriel Newman Last week I received an email […]"
+      },
+      {
+        "title": "Riding Shotgun – ep 59: One Flu Over the Cuckoos Nest",
+        "url": "https://realitycheck.radio/riding-shotgun-ep-59-one-flu-over-the-cuckoos-nest/",
+        "date_utc": "2026-08-27T22:18:09Z",
+        "summary": "by Rachel Stewart So, this is me after a week […]"
+      },
       {
         "title": "WHO’s High-Price Pandemic Plan",
         "url": "https://realitycheck.radio/whos-high-price-pandemic-plan/",
@@ -64,161 +94,137 @@
         "summary": "by Ray Pistol On August 30 patriots will once again March […]"
       },
       {
-        "title": "Bigger councils are no bargain for business",
-        "url": "https://realitycheck.radio/bigger-councils-are-no-bargain-for-business/",
-        "date_utc": "2026-08-20T23:05:17Z",
-        "summary": "by Nick Clark Suppose a business is deciding where to […]"
-      },
-      {
-        "title": "The Paper Trail of Silence: What They Knew, What They Hid, and How the Inquiries Missed It",
-        "url": "https://realitycheck.radio/the-paper-trail-of-silence-what-they-knew-what-they-hid-and-how-the-inquiries-missed-it/",
-        "date_utc": "2026-08-20T22:33:21Z",
-        "summary": "by Rodney Hide Imagine a medical authority receiving explicit, documented […]"
-      },
-      {
-        "title": "Reflections on Vaccine Mandates, Free Speech and Political Accountability",
-        "url": "https://realitycheck.radio/reflections-on-vaccine-mandates-free-speech-and-political-accountability/",
-        "date_utc": "2026-08-20T22:31:19Z",
-        "summary": "by Peter Williams A Personal Perspective from the Margins of […]"
-      },
-      {
-        "title": "What will Opportunity actually cost us – and who’s in the driver’s seat?",
-        "url": "https://realitycheck.radio/what-will-opportunity-actually-cost-us-and-whos-in-the-drivers-seat/",
-        "date_utc": "2026-08-19T23:32:32Z",
-        "summary": "by Peter Williams There’s a new political party that’s beginning […]"
-      },
-      {
-        "title": "Insights from the polls",
-        "url": "https://realitycheck.radio/insights-from-the-polls/",
-        "date_utc": "2026-08-19T23:16:43Z",
-        "summary": "by Dr Muriel Newman With the 2026 General Election only […]"
-      },
-      {
-        "title": "DON BRASH: Former Reserve Bank Governor and Former National and ACT Leader: Strategic Voting, MMP Overhang and the 2026 Election",
-        "url": "https://realitycheck.radio/episodes/don-brash-former-reserve-bank-governor-and-former-national-and-act-leader-strategic-voting-mmp-overhang-and-the-2026-election/",
-        "date_utc": "2026-08-27T03:35:33Z",
+        "title": "BERNADETTE SOARES: NZ-India Free Trade Deal: Dairy Blocked, Immigration Ignored, Who Benefits?",
+        "url": "https://realitycheck.radio/episodes/bernadette-soares-nz-india-free-trade-deal-dairy-blocked-immigration-ignored-who-benefits/",
+        "date_utc": "2026-08-29T21:14:28Z",
         "summary": ""
       },
       {
-        "title": "SAM UFFINDELL: National MP for Tauranga: Council Under Fire Over Landslide",
-        "url": "https://realitycheck.radio/episodes/sam-uffindell-national-mp-for-tauranga-council-under-fire-over-landslide/",
-        "date_utc": "2026-08-27T03:23:57Z",
+        "title": "KATHRYN PICK: Four-Year Investigation: Data Collector or Pawn in a Larger Game?",
+        "url": "https://realitycheck.radio/episodes/kathryn-pick-four-year-investigation-data-collector-or-pawn-in-a-larger-game/",
+        "date_utc": "2026-08-29T21:14:16Z",
         "summary": ""
       },
       {
-        "title": "NICK HUDSON: Chairman of PANDA: The Fauci Farce and False Pandemic Narrative",
-        "url": "https://realitycheck.radio/episodes/nick-hudson-chairman-of-panda-the-fauci-farce-and-false-pandemic-narrative/",
-        "date_utc": "2026-08-27T00:21:50Z",
+        "title": "JOSEPH MOONEY: NZ Parliament’s Power Problem: Are Regulators Running the Show?",
+        "url": "https://realitycheck.radio/episodes/joseph-mooney-nz-parliaments-power-problem-are-regulators-running-the-show/",
+        "date_utc": "2026-08-29T21:14:07Z",
         "summary": ""
       },
       {
-        "title": "MEDIA MATTERS: The Political Free Pass for Hipkins",
-        "url": "https://realitycheck.radio/episodes/media-matters-the-political-free-pass-for-hipkins/",
-        "date_utc": "2026-08-26T23:07:22Z",
+        "title": "SAM UFFINDEL: Tauranga City Council: Who’s Really Accountable After Eight Years?",
+        "url": "https://realitycheck.radio/episodes/sam-uffindel-tauranga-city-council-whos-really-accountable-after-eight-years/",
+        "date_utc": "2026-08-29T21:13:52Z",
         "summary": ""
       },
       {
-        "title": "WEDNESDAY WEBINARS: Council Watch: Open Forum",
-        "url": "https://realitycheck.radio/episodes/wednesday-webinars-council-watch-open-forum/",
-        "date_utc": "2026-08-26T22:56:44Z",
+        "title": "MEDIA MATTERS: Globalist Control: Choose God Over Arms in the Fight Back",
+        "url": "https://realitycheck.radio/episodes/media-matters-globalist-control-choose-god-over-arms-in-the-fight-back/",
+        "date_utc": "2026-08-29T21:13:37Z",
         "summary": ""
       }
     ],
     "youtube": [
       {
-        "title": "GREENWASHED",
-        "url": "https://www.youtube.com/watch?v=_sGDsrmOORQ",
-        "date_utc": "2026-08-29T15:10:49+00:00",
-        "summary": "Jaspreet Boparai and Don Nicolson discuss the IPCC’s decision to exclude the SSP5-8.5 emissions scenario from future assessments and argue that worst-case climate assumptions remain embedded in New Zealand infrastructure planning. They focus on South Dunedin flood mitigation proposals, consultant involvement, insurance implications and Ministry for the Environment guidance. Jaspreet contends that climate risk modelling has created a self-reinforcing system benefiting large engineering firms and insurers, while Don argues governments should revisit policies driving rising costs for ratepayers and taxpayers. For more information: Navigating Collaborative Procurement for New Zealand’s Water Reform – consultants unite NZ Three Waters Reform – Change is coming – The impact on the industry – 6,000–9,000 news jobs thanks to Three Waters reforms, c2022 ODT News: Councillors ‘manipulated, silenced’ over South D plan WSP (previously OPUS, originally Ministry of Works): About WSP NZ Limited: Environmental Training Centre Helen Clark & WSP’s Insurance Retreat: New report warns of insurance crisis due to climate change; urges immediate action Ministry for the Environment (MfE) calls SSP5-8.5 a "
+        "title": "ROB SCOTT",
+        "url": "https://www.youtube.com/watch?v=FZ1qIg-KROs",
+        "date_utc": "2026-08-30T15:05:21+00:00",
+        "summary": "Southland District Mayor Rob Scott joins Rodney Hide to discuss the Government’s proposed local government reforms and why he believes the accelerated amalgamation process risks undermining local democracy. Scott outlines Southland’s existing plan to become a unitary authority, argues the Government’s three-month deadline leaves little room for meaningful public consultation and reflects on the challenges councils face under increasing central government direction. Discover the Southland Mayor on Facebook or on the Southland District Council website"
       },
       {
-        "title": "LESLIE MANOOKIAN",
-        "url": "https://www.youtube.com/watch?v=sMex5eunVBU",
-        "date_utc": "2026-08-29T15:07:05+00:00",
-        "summary": "Leslie Manookian, founder of the Health Freedom Defense Fund, discusses the U.S. Supreme Court's refusal to hear a challenge to Covid-era vaccine mandates, strengthening government authority over personal medical choices. She outlines efforts to advance Medical Freedom Act legislation in multiple states and cites polling she says shows strong public support for informed consent. Leslie also raises concerns about digital IDs, data centres, AI infrastructure and surveillance systems and expanding state control over our lives. For everything you need to Say No to Digital ID For further information: HFD: The Supreme Court's refusal to consider bodily autonomy is a disgrace HFD: The Medical Freedom Act Coalition sees successes sweep across the nation HFD: Data center construction boom an ominous sign Children's Health Defense Arizona: A united stand to protect homeopathy Discover Leslie Manookian on X"
+        "title": "WINSTON PETERS",
+        "url": "https://www.youtube.com/watch?v=JPQ0Bfh9Bjc",
+        "date_utc": "2026-08-30T15:04:47+00:00",
+        "summary": "Winston Peters discusses NZ First's election campaign, arguing the party is gaining momentum despite media criticism. He outlines plans to expand offshore energy exploration, revive New Zealand's energy security and reform immigration settings. Peters also criticises the India free trade agreement, questions the closure of Marsden Point, comments on roadside drug testing, media independence and accountability and reiterates New Zealand First's opposition to gene technology while saying the party is still considering its position on the HSNO Amendment Bill."
       },
       {
-        "title": "LEITH VAN ONSELEN",
-        "url": "https://www.youtube.com/watch?v=YkmMkGPVCaQ",
-        "date_utc": "2026-08-29T15:06:46+00:00",
-        "summary": "Paul Brennan speaks with Leith van Onselen, chief economist at MB Fund and co-founder of MacroBusiness, about signs that Australia's long property boom may be ending. Leith argues Sydney and Melbourne are leading a housing correction that could become the largest in 40 years, driven by higher interest rates, tax changes, weakening confidence and falling auction clearance rates. For more information visit MacroBusiness or find them on X and YouTube"
+        "title": "ERIKA HARVEY",
+        "url": "https://www.youtube.com/watch?v=uiLYVPu_z80",
+        "date_utc": "2026-08-30T15:04:31+00:00",
+        "summary": "Erika Harvey returns to discuss fresh legal action over the Tauranga Marine Precinct sale, arguing key questions about ownership of the wharf, public funding and the structure of the deal remain unanswered. She tells Paul Brennan that court action is now needed to clarify who owns the wharf. For more information: Check out the Lobby for Good substack – Tauranga was told to move on. The money trail says we should look closer For more from Erika or Lobby For Good or find Lobby for Good on X For everything you need to know about the local body elections visit Council Watch"
       },
       {
-        "title": "HOLLY LAWFORD-SMITH",
-        "url": "https://www.youtube.com/watch?v=3Xzge1A8Vd4",
-        "date_utc": "2026-08-29T15:06:37+00:00",
-        "summary": "Maree Buscke speaks with University of Melbourne political philosopher Holly Lawford-Smith about the state of free speech in Australia, high-profile legal cases involving gender identity and women's spaces and growing concerns over hate speech laws and academic culture. They discuss activism, feminism, ideological conformity on university campuses, and Holly's book Feminism Beyond Left and Right . You can find Holly on her website , YouTube and X For Holly's book Feminism Beyond Left and Right"
+        "title": "JASON WATSON",
+        "url": "https://www.youtube.com/watch?v=BKOGnaBDZcs",
+        "date_utc": "2026-08-30T15:04:18+00:00",
+        "summary": "Paul Brennan speaks with registered nurse Jason Watson about his peer-reviewed article on suicidality in transgender-identifying individuals, which was withdrawn from the Australian Nursing and Midwifery Journal shortly after publication. Jason discusses his analysis of the evidence behind gender-affirming care, the influence of the Cass Review, concerns about affirmation-only clinical approaches and the role of research in challenging accepted practice. CONTENT WARNING: This interview discusses the sensitive topic of suicide/self-harm. Listener discretion is advised."
       },
       {
-        "title": "NEIL JOHNSTONE",
-        "url": "https://www.youtube.com/watch?v=bxbmaNnLTFA",
-        "date_utc": "2026-08-29T15:04:26+00:00",
-        "summary": "South Dunedin has for years been touted as the front line of the battle against climate change in New Zealand. But is it really a climate catastrophe? Or is the real issue a pipes' problem that has been known since the 1960s? Retired Otago Catchment Board and Otago Regional Council flood engineer, Neil Johnstone says it's the latter – in his words, “It's not a climate change problem, it's a catchment problem”. For more information South Dunedin Flooding – History of Council Neglect – Report – 3-6-26"
+        "title": "TE KIRA LAWRENCE",
+        "url": "https://www.youtube.com/watch?v=8IPWJAbRqck",
+        "date_utc": "2026-08-30T15:04:17+00:00",
+        "summary": "Napier City councillor Te Kira Lawrence joins Maree Buscke to discuss Hawke's Bay's proposal to pursue a single unitary authority under the Government's local government reforms. They explore why public sentiment appears to have shifted since previous amalgamation referendums, weighing potential efficiencies against concerns over representation, centralisation and the lack of detailed information available. Lawrence also explains her decision to stand as a New Zealand First candidate in the upcoming general election. You can find more on Te Kira: On the Napier City Council website and Te Kira Lawrence NCC Facebook page Or on the New Zealand First website and Te Kira Lawrence NZ First Facebook page"
       },
       {
-        "title": "MONEY TALKS",
-        "url": "https://www.youtube.com/watch?v=IOiyntZZfKE",
-        "date_utc": "2026-08-29T14:05:49+00:00",
-        "summary": "Farzin Irani joins Paul Brennan for this week’s edition of Money Talks. They discuss competing theories about the conflicts in Iran and Russia/Ukraine and global energy markets. Irani says investors should focus less on proving grand narratives and more on protecting wealth. DISCLAIMER: The views and information shared on this show are for educational and informational purposes only. They do not constitute personalised financial, investment, tax, or legal advice. Listeners should seek guidance from a licensed financial professional who can provide advice based on their individual situation. Farzin has updated his website with free resources to help people prepare for the future Discover more from Farzin on Linktr.ee"
+        "title": "THE FOURTH ESTATE",
+        "url": "https://www.youtube.com/watch?v=HLkF0i5eUhM",
+        "date_utc": "2026-08-30T14:07:40+00:00",
+        "summary": "Maree Buscke is joined on The Fourth Estate by David Harvey and Peter Williams for a wide-ranging media wrap: TVNZ's baffling choice to bury Ryan Fox's British Open win behind FIFA World Cup coverage, redundancies rippling through Stuff and the Herald, suppression orders around the Pauline Hanna inquest and the Māori roll debate. They also take aim at “fear porn” journalism around bird flu and weather warnings, before touching on Paul Henry and Michael Laws's political comebacks ahead of November's election. Sign up for RCR Bites News"
       },
       {
-        "title": "BOTH BARRELS",
-        "url": "https://www.youtube.com/watch?v=e14wl1-cbYc",
-        "date_utc": "2026-08-29T14:05:26+00:00",
-        "summary": "Maree Buscke and Rachel Stewart discuss the Gell-Mann Amnesia Effect and the collapse of trust in legacy media, arguing that many people now turn to alternative sources while risking new echo chambers. They explore social media algorithms, censorship, advertiser influence and the changing culture within journalism. Discover more from Rachel on Substack and X For more information: Riding Shotgun: A Case of Media Amnesia Ian Wishart Website NY Post Tulsi Gabbard / Antony Fauci article The Real Antony Fauci Book Michael Campbell's RCR Interview with Peter Williams ABC Rejects Sall Grover's opinion piece Sall Grover X Post RNZ: Mathew Hooton appointed editor of The Post"
-      },
-      {
-        "title": "SUE MIDDLETON",
-        "url": "https://www.youtube.com/watch?v=lFboM15GyOE",
-        "date_utc": "2026-08-29T14:04:46+00:00",
-        "summary": "Emeritus Professor Sue Middleton joins Maree Buscke to discuss her support for the Definition of Woman and Man Amendment Bill and why she believes biological sex remains an essential legal category. Drawing on decades of work in education, women's studies and sexuality, Middleton argues that sex and gender identity are distinct concepts and warns that confusion between them has implications for women's rights, statistics, language and public policy. For more information: Read Sue's article in the Waikato Times: Why New Zealand Law needs clear definitions of man and woman, June 11 2026 Check out Sue's website Read the Feminist Older Women Lobbyists (FOWL) submission to the Law commission on proposed changes to the Human Rights Act"
-      },
-      {
-        "title": "JO GALER",
-        "url": "https://www.youtube.com/watch?v=MUY0yUq8ixM",
-        "date_utc": "2026-08-29T14:04:37+00:00",
-        "summary": "Following the release of plans to alleviate South Dunedin’s flooding problems with parks, canals and managed retreat, South Dunedin has become the poster-child for climate change adaptation. But residents, city councillors and flood engineers have also come forward with reports that the planners have been ignoring evidence that the real problem is an infrastructure one. In this interview, RCR’s Alistair Harding talks to Dunedin City Councillor, Jo Galer who says the process has lacked transparency and appears pre-determined. For more information check out: South Dunedin Flooding – History of Council Neglect – Report – 3-6-26"
-      },
-      {
-        "title": "RODNEY’S MAILBAG",
-        "url": "https://www.youtube.com/watch?v=WEDiGtK9N7g",
-        "date_utc": "2026-08-29T14:04:37+00:00",
-        "summary": "Rodney Hide looks through his latest mailbag, beginning with reactions to interviews with Sarah and Randall Farrant and Gary Moller, including debate over Gary’s description of Chile. Listeners also praise Rodney’s empathy and interviewing style. Much of the discussion centres on Ashley Church’s book Prophecy Shock , with correspondents offering differing interpretations of biblical prophecy, Israel and the end times. Text your feedback to 2057 or email inbox@rcr.media"
-      },
-      {
-        "title": "ALLAN BEEVER",
-        "url": "https://www.youtube.com/watch?v=uOlsPxY_wUU",
-        "date_utc": "2026-08-29T13:11:11+00:00",
-        "summary": "Professor Allan Beever of Auckland University of Technology joins Paul Brennan to discuss why New Zealand faces a pivotal moment as the post-war world gives way to a more complex multipolar order. He argues that Wellington has yet to develop a clear strategy for balancing its traditional ties with the United States against growing economic links with China and emerging powers. Discover more from Allan on YouTube"
-      },
-      {
-        "title": "MICHAEL CAMPBELL",
-        "url": "https://www.youtube.com/watch?v=bLcT0SYoUHM",
-        "date_utc": "2026-08-29T13:06:30+00:00",
-        "summary": "Veteran broadcaster Peter Williams catches up with US Open Golf Champion Michael Campbell, who famously won holding off Tiger Woods in 2005. Campbell opens up candidly about developing atrial fibrillation after his second Moderna vaccine and his deep frustration that no one in government or the pharmaceutical industry has accepted responsibility. He is also highly critical of the mainstream media for perpetuating misinformation about the vaccine. Keep up to date and sign up for Bites News"
-      },
-      {
-        "title": "THE WILMS REPORT",
-        "url": "https://www.youtube.com/watch?v=UKvYkY2cApI",
-        "date_utc": "2026-08-29T13:05:19+00:00",
-        "summary": "Paul Brennan is joined by Tim Wilms to discuss Australia’s first H5N1 bird flu cases and growing public scepticism toward media warnings. They discuss possible impacts of the government response on poultry. They also discuss Pauline Hanson’s “Fire the Liar” campaign, protests surrounding her events and her National Press Club speech. Discover more from Tim at The Unshackled"
+        "title": "CAMERON MURRAY",
+        "url": "https://www.youtube.com/watch?v=KVnyDqaSe5g",
+        "date_utc": "2026-08-30T14:06:11+00:00",
+        "summary": "Michael Arbon speaks with Dr Cameron Murray, Chief Economist at Fresh Economic Thinking, about the assumptions driving Australia's housing debate. Dr Murray challenges popular narratives around affordability, supply shortages, immigration and first-home ownership, arguing that interest rates, credit creation and inflation have far greater influence on housing prices than commonly believed. For further information: Visit Fresh Economic Thinking or find them on YouTube Find Dr Cameron Murray on X Discover more from Michael Arbon on Facebook and X"
       },
       {
         "title": "UNDER THE HOOD",
-        "url": "https://www.youtube.com/watch?v=qa03SCY7m8w",
-        "date_utc": "2026-08-29T13:03:59+00:00",
-        "summary": "On Under the Hood , Graham ‘Hoody' Hood reflects on why people can become trapped in destructive patterns, whether in relationships, resentment or unhealthy ways of thinking. Drawing on a powerful experience from his days as an outback pilot, he explores how familiarity with pain can make freedom difficult to embrace. Hoody argues that healing, forgiveness and personal responsibility are essential to rebuilding families, communities and nations, urging listeners to stop living in the past and choose a more hopeful path forward. Discover more from Hoody at Club Grubbery or find him on Facebook and X"
+        "url": "https://www.youtube.com/watch?v=pqfPiGuYI-Q",
+        "date_utc": "2026-08-30T14:04:24+00:00",
+        "summary": "Graham Hood explores how parents shape their children's future relationships by the example they set at home. Reflecting on his own experiences, Hoody argues that a strong marriage provides children with security, stability and a healthy model for adult life. He challenges modern child-centred parenting, emphasising that prioritising the marital relationship ultimately benefits the whole family. Discover more from Hoody at Club Grubbery or find him on Facebook and X"
       },
       {
-        "title": "PAUL’S MAILBAG",
-        "url": "https://www.youtube.com/watch?v=45xcLGG3sVY",
-        "date_utc": "2026-08-29T13:03:57+00:00",
-        "summary": "Paul Brennan shares listener reactions to interviews covering Wellington's water reforms, roadside drug testing, Robert Muldoon, weather warnings, council spending and international affairs. Listeners reflect on nostalgia for a more unified New Zealand, concerns about bureaucracy and national sovereignty and frustration with what they see as excessive government intervention. Text your feedback to 2057 or email inbox@rcr.media"
+        "title": "THE BRENNAN BAROMETER",
+        "url": "https://www.youtube.com/watch?v=Vf8wuG638PM",
+        "date_utc": "2026-08-30T14:04:01+00:00",
+        "summary": "From politicians to reporters, Paul Brennan takes a satirical look at New Zealand's hi-vis obsession, asking whether safety culture has become more about performance than protection. Sign up for RCR Bites News"
+      },
+      {
+        "title": "MICHAEL ARBON",
+        "url": "https://www.youtube.com/watch?v=fyGhjXv91SU",
+        "date_utc": "2026-08-30T14:03:34+00:00",
+        "summary": "Michael Arbon examines Australia's housing shortfall, arguing the Albanese government's target of building 1.2 million homes in five years is slipping further out of reach. Discover more from Michael on Facebook and X"
+      },
+      {
+        "title": "LIFE IS MENTAL",
+        "url": "https://www.youtube.com/watch?v=YHwWALiwiTA",
+        "date_utc": "2026-08-30T13:07:19+00:00",
+        "summary": "Meagan McNamara and Jen Bainbridge explore extreme beauty trends, including salmon sperm facial treatments, and discuss celebrity culture, media priorities, elite circles and the Epstein files. They also examine a controversial Ellen DeGeneres segment and the broader questions it raises about the stories that dominate headlines. Sign up for RCR Bites News"
+      },
+      {
+        "title": "WEDNESDAY WEBINARS",
+        "url": "https://www.youtube.com/watch?v=u_j1OiTewY4",
+        "date_utc": "2026-08-30T13:07:18+00:00",
+        "summary": "Natalie Cutler-Welsh is joined by natural health practitioner Karen Creighton for a wide-ranging webinar challenging popular health wisdom. From peptides and cholesterol to statins, exercise and thyroid function, Karen unpacked why standard blood test numbers often mislead, pointing instead to triglyceride-to-HDL ratios and liver health as the real story behind fatigue, weight gain and hormonal chaos. The conversation closed with a striking, more speculative claim about EMFs and biofields, alongside her own wellness remedy, Living Resilience. DISCLAIMER: The views and information shared on this show are for educational and informational purposes only. They are not intended as medical or health advice, and do not constitute personalised diagnosis, treatment, or recommendations. Listeners should seek guidance from their trusted healthcare provider for advice tailored to their individual circumstances. Karen is offering RCR listeners a special price for her Living Blueprint Duo – helping your body remember what it was designed to do. Just $99! Check out Karen’s slide show Health-Myths"
+      },
+      {
+        "title": "JENNY HORST",
+        "url": "https://www.youtube.com/watch?v=avGDlEH0aDg",
+        "date_utc": "2026-08-30T13:07:01+00:00",
+        "summary": "Simon O'Connor speaks with Jenny Horst, CEO of Upside Youth Mentoring, about helping young people thrive through meaningful relationships rather than more screen time. They discuss the growing impact of social media on youth wellbeing, the importance of real-world connection and practical ways parents can strengthen family relationships through shared experiences, play and everyday conversations. For more information: Visit the Upside Website Check out Community youth mentoring or Online youth mentoring Find Upside on Facebook and Jenny Horst on LinkedIn"
+      },
+      {
+        "title": "HARVEY WEAKE",
+        "url": "https://www.youtube.com/watch?v=zzVVMQSNphI",
+        "date_utc": "2026-08-30T13:05:08+00:00",
+        "summary": "Paul Brennan speaks with Harvey Weake, a 30-year petrochemical industry veteran, about Winston Peters’ proposal to expand offshore energy mapping. Harvey supports the policy but argues New Zealand must first rebuild its energy institutions through a dedicated Ministry of Energy with the expertise to develop a coherent national strategy. Stay up to date. Sign up for RCR Bites News"
+      },
+      {
+        "title": "RIDING SHOTGUN",
+        "url": "https://www.youtube.com/watch?v=-uiZSOqx3no",
+        "date_utc": "2026-08-30T13:04:51+00:00",
+        "summary": "Rachel Stewart argues that the media and public institutions wrongly portray the so-called “rainbow community” as a single, unified group, ignoring the diversity of views among gay people. She criticises Pride events, activist politics, and local government support for Pride initiatives, contending they have become divisive, overly sexualised, and increasingly out of step with many New Zealanders. Discover more from Rachel on Substack and X"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "18% Of Kiwi Kids Leave School With Zero Qualifications.",
+        "url": "https://www.youtube.com/watch?v=l1IvFfCwWfc",
+        "date_utc": "2026-08-30T09:17:14+00:00",
+        "summary": "SPANZ chairperson Louise Anaru on why 18% of Kiwi kids leave school with zero qualifications"
+      },
       {
         "title": "ML Says Air New Zealand Are A Loss-Making National Embarrassment",
         "url": "https://www.youtube.com/watch?v=qGowJ1P1ddY",
@@ -226,10 +232,10 @@
         "summary": "Michael Laws says Air New Zealand are a loss-making national embarrassment"
       },
       {
-        "title": "Why 18% Of Kiwi Kids Leave School With Zero Qualifications",
+        "title": "Emeritus Professor Inness Asher on NZ’s child poverty epidemic",
         "url": "https://www.youtube.com/watch?v=RspDOBCKVgw",
         "date_utc": "2026-08-28T02:24:53+00:00",
-        "summary": "SPANZ chairperson Louise Anaru on why 18% of Kiwi kids leave school with zero qualifications"
+        "summary": "Emeritus Professor Inness Asher On NZ’s Child Poverty Epidemic"
       },
       {
         "title": "Breaking News: Craig Stobo’s First Interview As A NZ First Candidate",
@@ -302,12 +308,6 @@
         "url": "https://www.youtube.com/watch?v=DsNtl9jZvh4",
         "date_utc": "2026-08-27T05:05:53+00:00",
         "summary": "Why the under-16 social media ban won’t work - Former Judge David Harvey"
-      },
-      {
-        "title": "There’s Something Rotten At The Heart Of The Public Sector",
-        "url": "https://www.youtube.com/watch?v=0e6Xles0yRE",
-        "date_utc": "2026-08-27T04:50:11+00:00",
-        "summary": "There’s something rotten (even infernal) at the heart of the public sector, explains Michael Laws"
       }
     ],
     "opinions": [
