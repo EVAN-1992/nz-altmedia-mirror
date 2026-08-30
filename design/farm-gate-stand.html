@@ -257,13 +257,13 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
 <!-- ============ TITLE BLOCK ============ -->
 <header class="titleblock">
   <div class="tb-top">
-    <p class="tb-eyebrow"><span>Working drawings</span><span>Rev C &mdash; five bays</span><span>Dimensions in mm</span></p>
+    <p class="tb-eyebrow"><span>Working drawings</span><span>Rev D &mdash; honey added</span><span>Dimensions in mm</span></p>
     <h1>Farm Gate<br>Stand</h1>
-    <p class="tb-lede">A <strong>4000 &times; 700</strong> roofed roadside stand in five bays &mdash; flowers, eggs, punnets and greens, roots and bulk, and a gated garden-goods bin &mdash; with an insulated egg well, a weathertight <strong>carton-return hatch</strong> built into the bench, a raked punnet rack, a standing root trough and a bolted honesty box. Everything here is drawn to be built from a standard timber-yard order over two weekends.</p>
+    <p class="tb-lede">A <strong>4000 &times; 700</strong> roofed roadside stand in five bays &mdash; flowers, eggs, punnets and greens, roots and bulk, and a gated garden-goods bin &mdash; with an insulated egg well, a weathertight <strong>carton-return hatch</strong> built into the bench, a shaded honey shelf, a raked punnet rack, a standing root trough and a bolted honesty box. Everything here is drawn to be built from a standard timber-yard order over two weekends.</p>
   </div>
   <div class="tb-grid">
     <div class="tb-cell"><span class="tb-k">Bay 01</span><span class="tb-v">Flowers</span></div>
-    <div class="tb-cell"><span class="tb-k">Bay 02</span><span class="tb-v">Eggs &amp; pay</span></div>
+    <div class="tb-cell"><span class="tb-k">Bay 02</span><span class="tb-v">Eggs, honey &amp; pay</span></div>
     <div class="tb-cell"><span class="tb-k">Bay 03</span><span class="tb-v">Punnets &amp; greens</span></div>
     <div class="tb-cell"><span class="tb-k">Bay 04</span><span class="tb-v">Roots &amp; bulk</span></div>
     <div class="tb-cell"><span class="tb-k">Bay 05</span><span class="tb-v">Garden goods</span></div>
@@ -280,7 +280,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
     <p class="deck">Five 800&nbsp;mm bays under one mono-pitch roof. The bays are not arbitrary &mdash; each one solves a different problem, and the order they sit in is the order a customer meets them. Bays 03 and 04 split the vegetables by what they <em>need</em> rather than what they are; bay 05 sits at the far end because fertiliser and open food should never be neighbours.</p>
 
     <figure class="dwg">
-      <svg viewBox="0 0 1220 720" role="img" aria-label="Front elevation of a 4000 by 2050 millimetre gate stand in five 800 millimetre bays: flowers, eggs and payment, punnets and greens, roots and bulk, and a gated garden-goods bin at the far end holding sacks of blood and bone on a raised plinth.">
+      <svg viewBox="0 0 1220 720" role="img" aria-label="Front elevation of a 4000 by 2050 millimetre gate stand in five 800 millimetre bays: flowers; eggs, honey and payment; punnets and greens; roots and bulk; and a gated garden-goods bin at the far end holding sacks of blood and bone on a raised plinth.">
         <defs>
           <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
             <path d="M0 0 L10 5 L0 10 z" fill="var(--mark)"></path>
@@ -391,7 +391,23 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
         <text class="t-note" x="258" y="496" text-anchor="middle">spares + water</text>
 
         <!-- ============ BAY 02 EGGS + PAY ============ -->
-        <text class="t-lbl" x="434" y="172" text-anchor="middle">02 &nbsp;EGGS + PAY</text>
+        <text class="t-lbl" x="434" y="172" text-anchor="middle">02 &nbsp;EGGS + HONEY</text>
+        <!-- honey on the upper shelf, deepest shade on the stand -->
+        <g class="fillA">
+          <rect x="356" y="245" width="17" height="19"></rect><rect x="383" y="245" width="17" height="19"></rect>
+          <rect x="410" y="245" width="17" height="19"></rect><rect x="437" y="245" width="17" height="19"></rect>
+          <rect x="464" y="245" width="17" height="19"></rect><rect x="491" y="245" width="17" height="19"></rect>
+        </g>
+        <g class="ln">
+          <rect x="356" y="245" width="17" height="19"></rect><rect x="383" y="245" width="17" height="19"></rect>
+          <rect x="410" y="245" width="17" height="19"></rect><rect x="437" y="245" width="17" height="19"></rect>
+          <rect x="464" y="245" width="17" height="19"></rect><rect x="491" y="245" width="17" height="19"></rect>
+          <line x1="355" y1="249" x2="374" y2="249"></line><line x1="382" y1="249" x2="401" y2="249"></line>
+          <line x1="409" y1="249" x2="428" y2="249"></line><line x1="436" y1="249" x2="455" y2="249"></line>
+          <line x1="463" y1="249" x2="482" y2="249"></line><line x1="490" y1="249" x2="509" y2="249"></line>
+        </g>
+        <rect class="mk" x="346" y="257" width="176" height="6"></rect>
+        <text class="t-note" x="434" y="240" text-anchor="middle">honey &mdash; 40 mm lip rail</text>
         <rect class="tint" x="410" y="296" width="48" height="42"></rect>
         <rect class="mk" x="410" y="296" width="48" height="42"></rect>
         <line class="mk" x1="418" y1="306" x2="450" y2="306"></line>
@@ -608,12 +624,12 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
           <text x="1144" y="577">0</text>
         </g>
       </svg>
-      <figcaption><b>Front elevation, 1:30.</b> A fifth bay takes the stand to <span class="num">4000</span> and puts the garden goods at the far end &mdash; <span class="num">2400</span>&nbsp;mm of stand between a sack of blood and bone and an open egg well, with a full-height post between them. Bay 05 has no bench and no lower shelf: it is a full-height bin with a slatted plinth <span class="num">150</span>&nbsp;mm off the ground and a hinged mesh gate across the front. The gate is not for people. It is for dogs, who will find a sack of blood and bone from the road.</figcaption>
+      <figcaption><b>Front elevation, 1:30.</b> A fifth bay takes the stand to <span class="num">4000</span> and puts the garden goods at the far end &mdash; <span class="num">2400</span>&nbsp;mm of stand between a sack of blood and bone and an open egg well, with a full-height post between them. Bay 05 has no bench and no lower shelf: it is a full-height bin with a slatted plinth <span class="num">150</span>&nbsp;mm off the ground and a hinged mesh gate across the front. The gate is not for people. It is for dogs, who will find a sack of blood and bone from the road. Honey needed no new bay at all &mdash; it went on the bay 02 upper shelf, the coolest, darkest, most-watched spot on the stand.</figcaption>
     </figure>
 
     <div class="cards">
       <div class="card"><h5>Bench</h5><p><span class="big">900</span>Standing counter height. Gapped decking, so you can hose it down.</p></div>
-      <div class="card"><h5>Upper shelf</h5><p><span class="big">1400</span>Eye level. Agee jars, spare cartons, ripening tomatoes.</p></div>
+      <div class="card"><h5>Upper shelf</h5><p><span class="big">1400</span>Eye level, deep shade. Agee jars, the honey, ripening tomatoes.</p></div>
       <div class="card"><h5>Punnet rack</h5><p><span class="big">980&ndash;1260</span>Three raked tiers on dead wall space. Chest height, and you see into every punnet.</p></div>
       <div class="card"><h5>Hanging rail</h5><p><span class="big">1750</span>Above head height. Air moves round the garlic while it cures.</p></div>
       <div class="card"><h5>Lower shelf</h5><p><span class="big">300</span>Off the ground, out of the splash. Pumpkins, sacks, stock.</p></div>
@@ -863,8 +879,8 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
 <section class="sheet">
   <div class="sheet-no"><span>04</span><small>Detail</small></div>
   <div class="sheet-body">
-    <h2>The egg station</h2>
-    <p class="deck">Bay 02 does two jobs that pull in opposite directions: keep eggs cool and shaded going out, and keep returned cartons bone dry coming back. Both become compartments inside the bench, each under its own sloped, overhanging lid.</p>
+    <h2>Eggs and honey</h2>
+    <p class="deck">Bay 02 carries the three things people actually stop for. Two of them pull in opposite directions &mdash; keep eggs cool and shaded going out, keep returned cartons bone dry coming back &mdash; and both become compartments inside the bench under their own sloped, overhanging lids. The third, honey, needed nothing built at all.</p>
 
     <h3>The egg well</h3>
     <p>Cut a well into the benchtop and drop a <strong>20&ndash;30&nbsp;L chilly bin</strong> into it, sitting on four cleats screwed to the bench frame so the rim carries the weight. You get insulation, a wipe-clean interior and a thing you can lift out and scrub, for about forty dollars. Size the opening to the bin's rim less 20&nbsp;mm and cut it after you have the bin, not before.</p>
@@ -993,6 +1009,27 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
       <span class="l1">CARTON RETURN</span>
       <span class="l2">Clean &amp; dry only, please</span>
       <span class="l3">20c off your next dozen</span>
+    </div>
+
+    <h3>The honey shelf</h3>
+    <p>Honey does not need a bay of its own, and building one would make the stand worse. It wants shade, stillness and somewhere you can keep half an eye on it &mdash; and the <span class="num">1400</span>&nbsp;mm upper shelf in bay 02 is already the coolest, darkest, most-watched spot on the whole stand: roof above, solid ply behind, and the honesty box directly below it. Six to eight 500&nbsp;g jars sit across <span class="num">800</span>&nbsp;mm at eye level, right where the customer is already reaching for their wallet.</p>
+    <p>The only thing it needs built is a <strong>40&nbsp;mm lip rail</strong> along the front edge of the shelf, the same detail as the Agee jars in bay 01. Glass on a windy shelf with a hard floor below is not a risk worth taking to save a length of 40 &times; 20.</p>
+    <ul>
+      <li><strong>Never stack jars,</strong> and never put honey where the sun reaches it. Heat and light darken it and strip the flavour &mdash; the same jar in a sunny window is a visibly worse product in a fortnight.</li>
+      <li><strong>Crystallised honey is not spoiled honey,</strong> but most customers think it is. A small card &mdash; <em>&ldquo;Gone solid? That is real honey doing what it does. Stand the jar in warm water.&rdquo;</em> &mdash; sells more of it than anything else you can write.</li>
+      <li><strong>Two sizes, whole dollars.</strong> 500&nbsp;g and 1&nbsp;kg. Tamper-evident lids, and check every seal before it goes out.</li>
+      <li><strong>It is the highest-value thing per jar on the stand.</strong> Put out what you would be relaxed about losing, and restock from the house rather than filling the shelf.</li>
+    </ul>
+
+    <div class="note warn">
+      <h4>Honey jars do not come back</h4>
+      <p>You have deliberately built a returns culture for egg cartons, and Agee jars come back for the flowers &mdash; so say plainly on the shelf that <strong>honey jars are not returnable</strong>. Refilling a customer&#8217;s used jar with food is a different proposition entirely from reusing a dry carton, and it is very unlikely to be acceptable under whatever food programme you end up operating. Give people a clean new jar every time.</p>
+    </div>
+
+    <div class="sign">
+      <span class="l1">OUR OWN HONEY</span>
+      <span class="l2">500 g and 1 kg &middot; raw and unfiltered</span>
+      <span class="l3">Gone solid? Stand the jar in warm water</span>
     </div>
   </div>
 </section>
@@ -1233,6 +1270,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
           <tr><td>Lettuce, radish</td><td class="n">Oct&ndash;May</td><td>Bolts in a hot spell; sow little and often</td></tr>
           <tr><td>Cut flowers</td><td class="n">Oct&ndash;Apr</td><td>Daffodils and blossom bring an early Aug run</td></tr>
           <tr><td>Eggs</td><td class="n">Sep&ndash;Mar</td><td>Slows through winter; expect a lean July</td></tr>
+          <tr><td>Honey</td><td class="n">All year</td><td>Extracted Dec&ndash;Apr, but it keeps &mdash; sells every month</td></tr>
           <tr class="group"><td colspan="3">Cool season &mdash; what keeps the stand open</td></tr>
           <tr><td>Carrots</td><td class="n">Nov&ndash;Jun</td><td>Bunched with tops through the whole run</td></tr>
           <tr><td>Broccoli</td><td class="n">Apr&ndash;Nov</td><td>Side shoots keep cropping after the head</td></tr>
@@ -1556,7 +1594,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
           <tr><td class="ref">D1</td><td>Bench decking</td><td>140 &times; 32 H3.2</td><td class="n">3200</td><td class="n">5</td></tr>
           <tr><td class="ref">D2</td><td>Lower shelf decking</td><td>140 &times; 32 H3.2</td><td class="n">3200</td><td class="n">5</td></tr>
           <tr><td class="ref">D3</td><td>Upper shelf decking</td><td>140 &times; 32 H3.2</td><td class="n">4000</td><td class="n">2</td></tr>
-          <tr><td class="ref">D4</td><td>Shelf lip rail (flowers, bay 01)</td><td>40 &times; 20 H3.2</td><td class="n">800</td><td class="n">1</td></tr>
+          <tr><td class="ref">D4</td><td>Shelf lip rail &mdash; Agee jars (bay 01) and honey (bay 02)</td><td>40 &times; 20 H3.2</td><td class="n">800</td><td class="n">2</td></tr>
           <tr class="group"><td colspan="5">Roof and wall</td></tr>
           <tr><td class="ref">R1</td><td>Rafter, birdsmouthed over both plates, at 800 centres</td><td>90 &times; 45 H3.2</td><td class="n">1150</td><td class="n">6</td></tr>
           <tr><td class="ref">R2</td><td>Purlin</td><td>70 &times; 45 H3.2</td><td class="n">4180</td><td class="n">3</td></tr>
@@ -1684,6 +1722,19 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
       <li>Reused cartons must not carry <strong>another producer's branding</strong> in a way that misleads the buyer. Your own label over the top solves it.</li>
     </ul>
 
+    <h4>Honey &mdash; the strictest thing on this stand</h4>
+    <div class="note warn">
+      <p>Do not treat honey like eggs. It is comfortably the most regulated line here, and the gap is wide enough that it is worth a conversation with MPI <em>before</em> you extract a single frame for sale.</p>
+    </div>
+    <ul>
+      <li><strong>Register your hives.</strong> Beekeeping in New Zealand sits under the American Foulbrood National Pest Management Plan &mdash; apiaries have to be registered and an annual disease return filed. This applies whether or not you sell a thing.</li>
+      <li><strong>Honey is an animal product.</strong> Extracting and packing it for sale generally has to happen under a registered risk management programme. There are small-scale pathways for selling direct to consumers, but they are <em>not</em> automatic the way the small-flock egg position is. Confirm which one you fall under before you start.</li>
+      <li><strong>Label it properly:</strong> your name and address, net weight, a batch or best-before date. Treat this as required, not optional.</li>
+      <li><strong>Do not write &ldquo;m&#257;nuka&rdquo;</strong> unless the honey has been tested and meets MPI&#8217;s definition. It is a legally defined term with a specific test behind it, and it is the single easiest way to get yourself in real trouble on a $12 jar.</li>
+      <li><strong>No health or therapeutic claims.</strong> Not on the jar, not on the sign, not on a chalkboard.</li>
+      <li><strong>Carry the infant warning:</strong> honey is not for children under 12 months.</li>
+    </ul>
+
     <h4>Fruit and vegetables</h4>
     <ul>
       <li>Whole, unprocessed produce sold by the grower generally sits outside the Food Act's registration requirements. The moment you <strong>cut, cook, bag as a prepared salad, or preserve</strong> anything, you are in different territory &mdash; check first.</li>
@@ -1741,7 +1792,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
 </section>
 
 <footer class="foot">
-  <span>Farm gate market stand &middot; Rev C</span>
+  <span>Farm gate market stand &middot; Rev D</span>
   <span>All dimensions in millimetres &middot; verify on site</span>
   <span>Sheets 01&ndash;12</span>
 </footer>
