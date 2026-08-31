@@ -186,6 +186,7 @@ figcaption b{color:var(--ink);font-weight:600}
 .dwg .tint{fill:var(--mark);opacity:.11;stroke:none}
 .dwg .mk{fill:none;stroke:var(--mark);stroke-width:2}
 .dwg .mkf{fill:var(--mark);opacity:.75;stroke:none}
+.dwg .board{fill:currentColor;opacity:.55;stroke:none}
 .dwg .dim{fill:none;stroke:var(--mark);stroke-width:1;opacity:.85}
 .dwg .lead{fill:none;stroke:currentColor;stroke-width:.9;opacity:.6}
 .dwg text{font-family:var(--f-mono);font-size:12px;fill:currentColor}
@@ -257,7 +258,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
 <!-- ============ TITLE BLOCK ============ -->
 <header class="titleblock">
   <div class="tb-top">
-    <p class="tb-eyebrow"><span>Working drawings</span><span>Rev J &mdash; foliage, pallet plinths</span><span>Dimensions in mm</span></p>
+    <p class="tb-eyebrow"><span>Working drawings</span><span>Rev K &mdash; end-wall board signs</span><span>Dimensions in mm</span></p>
     <h1>Farm Gate<br>Stand</h1>
     <p class="tb-lede">A <strong>4000 &times; 700</strong> roofed roadside stand in five bays &mdash; flowers; eggs and honey; punnets and greens; roots and bulk; and an orchard bay &mdash; plus a free-standing pallet stack of bagged farm manure well clear of the far end, with an insulated egg well, a weathertight <strong>carton-return hatch</strong> built into the bench, a shaded herb shelf, a raked punnet rack, level slatted fruit trays, two standing water troughs, a bolted honesty box, walls on three sides and a full-length rail of swappable blackboard signs. Everything here is drawn to be built from a standard timber-yard order over two weekends.</p>
   </div>
@@ -1866,7 +1867,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
   <div class="sheet-no"><span>10</span><small>Shelter</small></div>
   <div class="sheet-body">
     <h2>Walls and signs</h2>
-    <p class="deck">Closing both ends turns the stand from a roof into a shelter &mdash; and wind, not rain, is what actually wrecks cut flowers and herbs. But a fully boxed-in stand stops the airflow the hanging garlic and rosemary need, so the ends close with a gap left deliberately at the top.</p>
+    <p class="deck">Closing both ends turns the stand from a roof into a shelter &mdash; and wind, not rain, is what actually wrecks cut flowers and herbs. But a fully boxed-in stand stops the airflow the hanging garlic and rosemary need, so the ends close with a gap left deliberately at the top. Each new wall then becomes a sign face, and every line on it comes off when that line is not for sale.</p>
 
     <figure class="dwg">
       <svg viewBox="0 0 540 520" role="img" aria-label="End elevation showing a full-height plywood end wall stopping 200 millimetres short of the roof, leaving a bird-meshed vent strip so air still moves through the stand.">
@@ -1907,10 +1908,36 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
         <line class="hid" x1="140" y1="386" x2="266" y2="386"></line>
         <line class="hid" x1="140" y1="188" x2="266" y2="188"></line>
 
-        <!-- painted road sign on the outer face -->
-        <rect class="ln" x="152" y="206" width="102" height="58"></rect>
-        <text class="t-big" x="203" y="230" text-anchor="middle">EGGS</text>
-        <text class="t-big" x="203" y="252" text-anchor="middle">FLOWERS</text>
+        <!-- stacked board sign, both ends: one line per removable board -->
+        <g class="thin">
+          <line x1="152" y1="168" x2="152" y2="428"></line>
+          <line x1="266" y1="168" x2="266" y2="428"></line>
+        </g>
+        <rect class="board" x="155" y="172" width="108" height="30"></rect>
+        <rect class="ln" x="155" y="172" width="108" height="30"></rect>
+        <g class="board">
+          <rect x="155" y="210" width="108" height="21"></rect>
+          <rect x="155" y="234" width="108" height="21"></rect>
+          <rect x="155" y="258" width="108" height="21"></rect>
+          <rect x="155" y="282" width="108" height="21"></rect>
+          <rect x="155" y="306" width="108" height="21"></rect>
+          <rect x="155" y="330" width="108" height="21"></rect>
+          <rect x="155" y="354" width="108" height="21"></rect>
+          <rect x="155" y="378" width="108" height="21"></rect>
+        </g>
+        <g class="ln">
+          <rect x="155" y="210" width="108" height="21"></rect>
+          <rect x="155" y="234" width="108" height="21"></rect>
+          <rect x="155" y="258" width="108" height="21"></rect>
+          <rect x="155" y="282" width="108" height="21"></rect>
+          <rect x="155" y="306" width="108" height="21"></rect>
+          <rect x="155" y="330" width="108" height="21"></rect>
+          <rect x="155" y="354" width="108" height="21"></rect>
+          <rect x="155" y="378" width="108" height="21"></rect>
+        </g>
+        <!-- one pocket empty, blank board waiting -->
+        <rect class="hid" x="155" y="402" width="108" height="21"></rect>
+        <path class="mk" d="M300 412 L272 412" marker-end="url(#ar)"></path>
 
         <!-- ground -->
         <line class="heavy" x1="60" y1="440" x2="360" y2="440"></line>
@@ -1925,16 +1952,20 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
         <!-- callouts -->
         <g class="lead">
           <line x1="330" y1="120" x2="272" y2="132" marker-end="url(#arI)"></line>
-          <line x1="330" y1="220" x2="262" y2="228" marker-end="url(#arI)"></line>
-          <line x1="330" y1="330" x2="262" y2="330" marker-end="url(#arI)"></line>
+          <line x1="330" y1="186" x2="268" y2="186" marker-end="url(#arI)"></line>
+          <line x1="330" y1="290" x2="268" y2="290" marker-end="url(#arI)"></line>
         </g>
         <text class="t-dim" x="336" y="110">200 vent strip, bird mesh &mdash;</text>
         <text class="t-dim" x="336" y="124">the garlic and rosemary still</text>
         <text class="t-dim" x="336" y="138">need air moving over them</text>
-        <text class="t-note" x="336" y="216">permanent painted sign.</text>
-        <text class="t-note" x="336" y="230">Chalk never lives outdoors</text>
-        <text class="t-note" x="336" y="326">12 mm H3 ply, both ends,</text>
-        <text class="t-note" x="336" y="340">mid stud at 350</text>
+        <text class="t-note" x="336" y="182">farm name &mdash; fixed board</text>
+        <text class="t-note" x="336" y="272">one line per board, matt black,</text>
+        <text class="t-note" x="336" y="286">white PAINTED lettering:</text>
+        <text class="t-note" x="336" y="300">EGGS &middot; HONEY &middot; FLOWERS &middot;</text>
+        <text class="t-note" x="336" y="314">FOLIAGE &middot; HERBS &middot; VEG &middot;</text>
+        <text class="t-note" x="336" y="328">FRUIT &middot; SPUDS &middot; MANURE</text>
+        <text class="t-dim" x="306" y="416">line off? Lift its board out,</text>
+        <text class="t-dim" x="306" y="430">shuffle up, blank in the bottom</text>
 
         <!-- dims -->
         <g class="dim">
@@ -1945,16 +1976,33 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
         <text class="t-dim" x="203" y="474" text-anchor="middle">700</text>
         <text class="t-note" x="203" y="500" text-anchor="middle">front &larr;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; back</text>
       </svg>
-      <figcaption><b>End elevation.</b> The wall stops <span class="num">200</span>&nbsp;mm short of the roof on purpose. Closing an end completely would make the stand a three-sided box with a lid, and the hanging onions, garlic and rosemary in bay 04 cure only because air moves over them &mdash; seal the ends and they sweat and sprout instead. The strip is meshed rather than open because a stand with a sheltered ledge and no mesh becomes somewhere birds roost, directly above your produce.</figcaption>
+      <figcaption><b>End elevation, both ends identical.</b> The wall stops <span class="num">200</span>&nbsp;mm short of the roof on purpose. Closing an end completely would make the stand a three-sided box with a lid, and the hanging onions, garlic and rosemary in bay 04 cure only because air moves over them &mdash; seal the ends and they sweat and sprout instead. The strip is meshed rather than open because a stand with a sheltered ledge and no mesh becomes somewhere birds roost, directly above your produce.</figcaption>
     </figure>
 
     <h4>Why close the ends at all</h4>
     <ul>
       <li><strong>Wind, not rain, is what ruins the stock.</strong> A nor&#8217;wester blowing the length of an open-ended stand strips cut flowers, dries out herbs and lifts anything light straight off the bench. The roof already handles the rain.</li>
-      <li><strong>Two more sign faces</strong>, one of them facing the traffic before it reaches you &mdash; the single most valuable surface on the whole build.</li>
+      <li><strong>Two sign faces</strong>, one of them facing the traffic before it reaches you &mdash; the single most valuable surface on the whole build. Both carry the stacked board sign below.</li>
       <li><strong>The end bays stop being second-class.</strong> Bay 01 and bay 05 are currently the exposed ones; closing the ends means the flowers and the stone fruit get the same shelter as the middle.</li>
       <li><strong>It costs two sheets of ply and two studs</strong>, and the frame and bracing are already there to carry it.</li>
     </ul>
+
+
+    <h3>The end-wall sign</h3>
+    <p>Both end walls carry the same thing: a <strong>stack of boards, one line per board</strong>, matt black with white lettering. A fixed name board at the top, then the product lines below it &mdash; and every one of those lifts out on its own, so a line you are not selling this week simply is not on the sign.</p>
+    <p><strong>The mechanism is the sign rail again, turned on its side.</strong> Two vertical stiles fixed to the end wall, <span class="num">600</span> apart, with a pair of cleats forming a pocket for each board. The pocket is <span class="num">25</span>&nbsp;mm deep in the left stile and <span class="num">10</span> in the right, so you slide a board left, its right end clears, and it swings out &mdash; without touching the boards above or below it. No hinges, no turn buttons, nothing to drop in the grass.</p>
+    <ul>
+      <li><strong>Nine product boards per end:</strong> FREE RANGE EGGS &middot; HONEY &middot; FLOWERS &middot; FOLIAGE &middot; FRESH HERBS &middot; VEGETABLES &middot; FRUIT &middot; PUMPKINS &amp; SPUDS &middot; FARM MANURE. Boards are <span class="num">600 &times; 120</span>, 12&nbsp;mm ply, on a <span class="num">135</span>&nbsp;mm pitch.</li>
+      <li><strong>Shuffle up and blank the bottom.</strong> A gap halfway down a stack reads as broken. Take the board out, move the ones below it up a pocket, and drop a plain black blank into the empty pocket at the foot. Keep three blanks a side and the sign always reads as one solid block.</li>
+      <li><strong>Paint the lettering. Do not chalk it.</strong> This is an outside face &mdash; the first southerly takes chalk off it. The blackboard finish is there for the look and so a board can be repainted when a line changes name; the chalk lives under the roof on the shelf rail, where it stays dry.</li>
+      <li><strong>Give the spare boards a home.</strong> A matching pocket on the <em>inside</em> face of the same wall, out of the weather. Boards left leaning in a shed cup and warp within a season, and then they will not slide.</li>
+      <li><strong>The top board is the farm name</strong> and it is screwed on, not pocketed. It is the only thing on the sign that never changes.</li>
+    </ul>
+
+    <div class="note">
+      <h4>What this sign is and is not</h4>
+      <p>At <span class="num">600</span>&nbsp;wide with roughly 80&nbsp;mm lettering, this is a <strong>menu</strong> &mdash; read as somebody slows, or standing at the stand deciding. It is not what stops a car at 80&nbsp;km/h. If you want that, it is a separate roadside sign, and a roadside sign almost certainly sits in the road reserve, which is council territory (Sheet 03). Do not try to make this board stack do both jobs by cramming it with bigger text; you will lose the lines instead.</p>
+    </div>
 
     <h3>Signs that change without a screwdriver</h3>
     <p>What the stand sells changes every few weeks, so painting the bay names on the wall would be wrong within a month. Instead the fascia of the upper shelf carries a <strong>grooved rail the full 4000</strong>, and the signs are loose boards that drop into it. Finish the boards in blackboard paint and the two ideas become one: a permanent line gets hand-lettered once, a changing line gets chalked and wiped.</p>
@@ -2058,7 +2106,12 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
           <tr><td class="ref">D4</td><td>Shelf lip rail &mdash; posies and honey (bay 01), herb trough (bay 02)</td><td>40 &times; 20 H3.2</td><td class="n">800</td><td class="n">2</td></tr>
           <tr><td class="ref">G1</td><td>Sign rail, top &mdash; grooved 6 &times; 20 on one pass</td><td>40 &times; 40 H3.2</td><td class="n">4000</td><td class="n">1</td></tr>
           <tr><td class="ref">G2</td><td>Sign rail, bottom &mdash; grooved 6 &times; 10</td><td>40 &times; 25 H3.2</td><td class="n">4000</td><td class="n">1</td></tr>
-          <tr><td class="ref">G3</td><td>Sign boards</td><td>6&nbsp;mm ply</td><td class="n">380 &times; 180</td><td class="n">12</td></tr>
+          <tr><td class="ref">G3</td><td>Shelf-rail sign boards</td><td>6&nbsp;mm ply</td><td class="n">380 &times; 180</td><td class="n">12</td></tr>
+          <tr><td class="ref">G4</td><td>End-wall sign stile &mdash; 2 per end</td><td>40 &times; 40 H3.2</td><td class="n">1400</td><td class="n">4</td></tr>
+          <tr><td class="ref">G5</td><td>Board pockets &mdash; cleats, 25 deep one side, 10 the other</td><td>20 &times; 20 H3.2</td><td class="n">5&nbsp;m</td><td class="n">&mdash;</td></tr>
+          <tr><td class="ref">G6</td><td>End-wall boards, lettered</td><td>12&nbsp;mm ply</td><td class="n">600 &times; 120</td><td class="n">18</td></tr>
+          <tr><td class="ref">G7</td><td>End-wall blanks &mdash; 3 a side</td><td>12&nbsp;mm ply</td><td class="n">600 &times; 120</td><td class="n">6</td></tr>
+          <tr><td class="ref">G8</td><td>Farm name board &mdash; fixed, screwed</td><td>12&nbsp;mm ply</td><td class="n">600 &times; 200</td><td class="n">2</td></tr>
           <tr class="group"><td colspan="5">Roof and wall</td></tr>
           <tr><td class="ref">R1</td><td>Rafter, birdsmouthed over both plates, at 800 centres</td><td>90 &times; 45 H3.2</td><td class="n">1150</td><td class="n">6</td></tr>
           <tr><td class="ref">R2</td><td>Purlin</td><td>70 &times; 45 H3.2</td><td class="n">4180</td><td class="n">3</td></tr>
@@ -2132,7 +2185,8 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
           <tr><td>Roofing screws</td><td>Hex head with EPDM washers</td><td class="n">50</td></tr>
           <tr><td>Concrete</td><td>Rapid-set post mix, 20&nbsp;kg</td><td class="n">12 bags</td></tr>
           <tr><td>Paint</td><td>Exterior primer + 2 coats acrylic</td><td class="n">9&nbsp;L</td></tr>
-          <tr><td>Blackboard paint</td><td>For the sign boards, both sides</td><td class="n">1&nbsp;L</td></tr>
+          <tr><td>Blackboard paint</td><td>Shelf-rail boards and all end-wall boards</td><td class="n">2&nbsp;L</td></tr>
+          <tr><td>White exterior enamel</td><td>Lettering the end-wall boards &mdash; paint, not chalk</td><td class="n">500&nbsp;ml</td></tr>
           <tr><td>Chalk markers</td><td>Fat weatherproof, white</td><td class="n">2</td></tr>
           <tr><td>Hand sanitiser</td><td>Pump bottle + bracket for the bay-05 post</td><td class="n">1</td></tr>
           <tr><td>Buckets, flowers</td><td>10&nbsp;L tapered, black</td><td class="n">6</td></tr>
@@ -2145,7 +2199,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
 
     <div class="note">
       <h4>On the estimate</h4>
-      <p>At 2026 New Zealand retail this list lands roughly between <strong>$1,600 and $2,150</strong> &mdash; the end walls, the sign rail and a dozen boards add about $150. Dropping the sixth bay took about $300 off &mdash; 800&nbsp;mm of plate, purlin, roof and decking, a sheet of ply, and the gate and plinth that bagged manure turned out not to need. The pallets should cost you nothing. Milled macrocarpa off the farm, recycled iron, or a second-hand cash box will take a solid few hundred off. Prices move &mdash; treat this as a shopping list to price, not a quote.</p>
+      <p>At 2026 New Zealand retail this list lands roughly between <strong>$1,700 and $2,300</strong> &mdash; the end walls, both sign systems and about thirty boards add roughly $250 all up. Dropping the sixth bay took about $300 off &mdash; 800&nbsp;mm of plate, purlin, roof and decking, a sheet of ply, and the gate and plinth that bagged manure turned out not to need. The pallets should cost you nothing. Milled macrocarpa off the farm, recycled iron, or a second-hand cash box will take a solid few hundred off. Prices move &mdash; treat this as a shopping list to price, not a quote.</p>
     </div>
   </div>
 </section>
@@ -2165,7 +2219,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
       <li><strong>Back wall and both end walls.</strong> Ply on, studs at 800, 1200 and 2400, every sheet joint landing on a stud; the end walls take a mid stud each and stop 200&nbsp;mm below the plate, with bird mesh stapled across the strip from inside. All edges primed and sealed &mdash; especially the bottom edge, which is what rots first. Hold it 50&nbsp;mm clear of the ground.</li>
       <li><strong>Decking.</strong> Bench and shelves the full 4000, 5&nbsp;mm gaps between boards. Cut the two well openings and the bucket-board recess after the decking is down and you have both bins in your hand.</li>
       <li><strong>Boxes.</strong> Glue and screw the return box with exterior PU, seal every cut edge, fit hinge, seal, vents, battens and weep holes. Drop it into its compartment and hang all three lids.</li>
-      <li><strong>Fit-out.</strong> Punnet rack screwed through into the bay-03 studs and the orchard tray rack into the bay-05 studs &mdash; check the angles before you fix them, since one rakes 15&deg; and the other only 5&deg;. Hanging rail flanges under the front plate in bay 04, both troughs with their stop-ends siliconed and leak-tested on the ground overnight &mdash; the herb one goes up on the bay 02 shelf, over your own eggs, so do not skip that &mdash; shelf lip rails in bays 01 and 02, the two grooved sign rails run the full length, honesty box bolted to the 1200 stud, signs on.</li>
+      <li><strong>Fit-out.</strong> Punnet rack screwed through into the bay-03 studs and the orchard tray rack into the bay-05 studs &mdash; check the angles before you fix them, since one rakes 15&deg; and the other only 5&deg;. Hanging rail flanges under the front plate in bay 04, both troughs with their stop-ends siliconed and leak-tested on the ground overnight &mdash; the herb one goes up on the bay 02 shelf, over your own eggs, so do not skip that &mdash; shelf lip rails in bays 01 and 02, the two grooved sign rails run the full length, the board-pocket stiles on both end walls, honesty box bolted to the 1200 stud, signs on.</li>
       <li><strong>The three pallet plinths.</strong> Grade free-draining metal under each. Cut-down single pallets tight to the base of bays 01 and 04 for the foliage buckets and the bulk produce, front edges painted white; two heat-treated pallets stacked and screwed together, top one turned 90&deg;, sited 1500&nbsp;mm clear of bay 05 for the manure. Bracket the hand sanitiser to the bay-05 post. Do the manure one last &mdash; nothing about it should touch the food bays.</li>
       <li><strong>Paint.</strong> Primer plus two coats, end grain first. Leave it a fortnight before you seal the return box's rubber against fresh paint.</li>
       <li><strong>Soft open.</strong> One weekend with eggs and one other line only. Watch what people actually stop for, then load the bays properly.</li>
@@ -2261,7 +2315,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
 
     <h3>Signs to paint</h3>
     <div class="cards">
-      <div class="card"><h5>The approach end wall</h5><p><strong>EGGS &middot; FLOWERS &middot; VEG</strong><br>Painted, not chalked. Big, high-contrast, one line, readable at 80&nbsp;km/h. Still not a list &mdash; a dozen lines on one roadside sign reads as nothing at all.</p></div>
+      <div class="card"><h5>Both end walls</h5><p><strong>A stack of black boards, one line each.</strong><br>Painted, not chalked. Pull the board for anything you have not got &mdash; a sign advertising something that is not there is worse than no sign.</p></div>
       <div class="card"><h5>On the back wall</h5><p><strong>Everything here is grown, laid or collected on this farm.</strong><br>One sentence. With the bought-in fertiliser gone, it is true again &mdash; the manure is yours too.</p></div>
       <div class="card"><h5>By the box</h5><p><strong>Cash in the slot or bank transfer.</strong><br>Account number, reference, QR. Emptied daily.</p></div>
       <div class="card"><h5>On the hatches</h5><p><strong>EGGS &mdash; lift lid</strong> and <strong>CARTON RETURN &mdash; clean &amp; dry</strong>. People will not open an unlabelled box.</p></div>
@@ -2282,7 +2336,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
 </section>
 
 <footer class="foot">
-  <span>Farm gate market stand &middot; Rev J</span>
+  <span>Farm gate market stand &middot; Rev K</span>
   <span>All dimensions in millimetres &middot; verify on site</span>
   <span>Sheets 01&ndash;14</span>
 </footer>
