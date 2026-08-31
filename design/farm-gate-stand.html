@@ -257,12 +257,12 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
 <!-- ============ TITLE BLOCK ============ -->
 <header class="titleblock">
   <div class="tb-top">
-    <p class="tb-eyebrow"><span>Working drawings</span><span>Rev H &mdash; end walls, sign rail</span><span>Dimensions in mm</span></p>
+    <p class="tb-eyebrow"><span>Working drawings</span><span>Rev J &mdash; foliage, pallet plinths</span><span>Dimensions in mm</span></p>
     <h1>Farm Gate<br>Stand</h1>
     <p class="tb-lede">A <strong>4000 &times; 700</strong> roofed roadside stand in five bays &mdash; flowers; eggs and honey; punnets and greens; roots and bulk; and an orchard bay &mdash; plus a free-standing pallet stack of bagged farm manure well clear of the far end, with an insulated egg well, a weathertight <strong>carton-return hatch</strong> built into the bench, a shaded herb shelf, a raked punnet rack, level slatted fruit trays, two standing water troughs, a bolted honesty box, walls on three sides and a full-length rail of swappable blackboard signs. Everything here is drawn to be built from a standard timber-yard order over two weekends.</p>
   </div>
   <div class="tb-grid">
-    <div class="tb-cell"><span class="tb-k">Bay 01</span><span class="tb-v">Flowers &amp; honey</span></div>
+    <div class="tb-cell"><span class="tb-k">Bay 01</span><span class="tb-v">Flowers, foliage &amp; honey</span></div>
     <div class="tb-cell"><span class="tb-k">Bay 02</span><span class="tb-v">Eggs, herbs &amp; pay</span></div>
     <div class="tb-cell"><span class="tb-k">Bay 03</span><span class="tb-v">Punnets &amp; greens</span></div>
     <div class="tb-cell"><span class="tb-k">Bay 04</span><span class="tb-v">Roots &amp; bulk</span></div>
@@ -372,7 +372,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
         <rect class="ln" x="170" y="514" width="880" height="20"></rect>
 
         <!-- ============ BAY 01 FLOWERS ============ -->
-        <text class="t-lbl" x="258" y="172" text-anchor="middle">01 &nbsp;FLOWERS + HONEY</text>
+        <text class="t-lbl" x="258" y="172" text-anchor="middle">01 &nbsp;FLOWERS + FOLIAGE</text>
         <g class="fillA">
           <path d="M182 382 L188 324 L228 324 L234 382 Z"></path>
           <path d="M232 382 L238 324 L278 324 L284 382 Z"></path>
@@ -418,9 +418,59 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
         </g>
         <rect class="ln" x="170" y="258" width="176" height="5"></rect>
         <text class="t-note" x="258" y="232" text-anchor="middle">posies, with honey set between</text>
-        <path class="ln" d="M188 506 L192 466 L228 466 L232 506"></path>
-        <path class="ln" d="M252 506 L256 466 L292 466 L296 506"></path>
-        <text class="t-note" x="258" y="496" text-anchor="middle">spares + water</text>
+        <!-- foliage buckets on a single-height pallet plinth, standing in front of bay 01 -->
+        <g class="fillB">
+          <rect x="176" y="548" width="164" height="6"></rect>
+          <rect x="176" y="574" width="164" height="6"></rect>
+        </g>
+        <g class="ln">
+          <rect x="176" y="548" width="164" height="6"></rect>
+          <rect x="180" y="554" width="18" height="20"></rect>
+          <rect x="249" y="554" width="18" height="20"></rect>
+          <rect x="318" y="554" width="18" height="20"></rect>
+          <rect x="176" y="574" width="164" height="6"></rect>
+        </g>
+        <g class="fillA">
+          <path d="M182 548 L188 480 L226 480 L232 548 Z"></path>
+          <path d="M238 548 L244 480 L282 480 L288 548 Z"></path>
+          <path d="M292 548 L298 480 L334 480 L340 548 Z"></path>
+        </g>
+        <g class="ln">
+          <path d="M182 548 L188 480 L226 480 L232 548"></path>
+          <path d="M238 548 L244 480 L282 480 L288 548"></path>
+          <path d="M292 548 L298 480 L334 480 L340 548"></path>
+        </g>
+        <!-- eucalyptus: paired round leaves -->
+        <g class="thin">
+          <path d="M200 480 L196 404"></path><path d="M212 480 L216 410"></path>
+        </g>
+        <g class="fillB">
+          <circle cx="192" cy="416" r="4"></circle><circle cx="200" cy="424" r="4"></circle>
+          <circle cx="193" cy="434" r="4"></circle><circle cx="201" cy="442" r="4"></circle>
+          <circle cx="194" cy="452" r="4"></circle><circle cx="202" cy="460" r="4"></circle>
+          <circle cx="220" cy="420" r="4"></circle><circle cx="212" cy="428" r="4"></circle>
+          <circle cx="221" cy="438" r="4"></circle><circle cx="213" cy="446" r="4"></circle>
+          <circle cx="222" cy="456" r="4"></circle><circle cx="214" cy="464" r="4"></circle>
+        </g>
+        <!-- olive: narrow leaves -->
+        <g class="thin">
+          <path d="M256 480 L252 406"></path><path d="M268 480 L272 412"></path>
+          <path d="M246 420 L256 415"></path><path d="M247 434 L257 429"></path>
+          <path d="M248 448 L258 443"></path><path d="M249 462 L259 457"></path>
+          <path d="M278 424 L268 419"></path><path d="M277 438 L267 433"></path>
+          <path d="M276 452 L266 447"></path><path d="M275 466 L265 461"></path>
+        </g>
+        <!-- hydrangea: mophead -->
+        <g class="thin">
+          <path d="M308 480 L304 436"></path><path d="M322 480 L326 440"></path>
+        </g>
+        <g class="fillB">
+          <circle cx="304" cy="424" r="11"></circle><circle cx="326" cy="430" r="9"></circle>
+        </g>
+        <g class="ln">
+          <circle cx="304" cy="424" r="11"></circle><circle cx="326" cy="430" r="9"></circle>
+        </g>
+        <text class="t-note" x="258" y="596" text-anchor="middle">foliage &mdash; eucalyptus, olive, hydrangea</text>
 
         <!-- ============ BAY 02 EGGS + HONEY ============ -->
         <text class="t-lbl" x="434" y="172" text-anchor="middle">02 &nbsp;EGGS + HERBS</text>
@@ -684,7 +734,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
         </g>
         <text class="t-dim" x="1180" y="666">1500 min clear of the food bays</text>
       </svg>
-      <figcaption><b>Front elevation, 1:30.</b> Five bays at <span class="num">4000</span>, walled on three sides. The herbs sit up on the bay 02 shelf at eye level, in the deepest shade the stand has and directly above the honesty box; the honey moves the other way, a few jars set between the posies in bay 01, where glass among glass sells both. Bay 01 gets its third flower bucket back as a result. Rosemary is woody and does not wilt, so it hangs on the bay 04 rail with the garlic rather than standing in water. The manure comes out of the stand entirely and stands on its own: bagged manure needs none of what blood and bone needed &mdash; no roof, because sealed bags shed rain; no gate, because dogs are not interested; no insulated separation, because it is not rendered meat. What it does need is to be <em>off the ground and at a liftable height</em>, and two stacked pallets do that for nothing. Bags start at <span class="num">290</span> instead of at your boots, and the top of a three-bag stack lands at about <span class="num">740</span> &mdash; the height you load a car boot from.</figcaption>
+      <figcaption><b>Front elevation, 1:30.</b> Five bays at <span class="num">4000</span>, walled on three sides. The herbs sit up on the bay 02 shelf at eye level, in the deepest shade the stand has and directly above the honesty box; the honey moves the other way, a few jars set between the posies in bay 01, where glass among glass sells both. Bay 01 gets its third flower bucket back as a result. Rosemary is woody and does not wilt, so it hangs on the bay 04 rail with the garlic rather than standing in water. Nothing on this stand stands on the shingle: the foliage buckets sit on a cut-down pallet tight to the base of bay 01, and bulk pumpkins and spare sacks get the same treatment at bay 04 &mdash; see Sheet 08. The manure comes out of the stand entirely and stands on its own: bagged manure needs none of what blood and bone needed &mdash; no roof, because sealed bags shed rain; no gate, because dogs are not interested; no insulated separation, because it is not rendered meat. What it does need is to be <em>off the ground and at a liftable height</em>, and two stacked pallets do that for nothing. Bags start at <span class="num">290</span> instead of at your boots, and the top of a three-bag stack lands at about <span class="num">740</span> &mdash; the height you load a car boot from.</figcaption>
     </figure>
 
     <div class="cards">
@@ -888,12 +938,19 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
         <text class="t-note" x="120" y="212">solid back wall</text>
         <line class="lead" x1="188" y1="208" x2="225" y2="208" marker-end="url(#arI)"></line>
         <!-- customer side -->
+        <!-- pallet plinths: nothing sits on the shingle -->
+        <rect class="tint" x="228" y="257" width="57" height="34"></rect>
+        <rect class="mk" x="228" y="257" width="57" height="34"></rect>
+        <text class="t-dim" x="256" y="278" text-anchor="middle">foliage</text>
+        <rect class="tint" x="399" y="257" width="83" height="34"></rect>
+        <rect class="mk" x="399" y="257" width="83" height="34"></rect>
+        <text class="t-dim" x="440" y="278" text-anchor="middle">bulk spuds</text>
         <g class="lead">
-          <line x1="270" y1="272" x2="270" y2="262" marker-end="url(#arI)"></line>
-          <line x1="370" y1="272" x2="370" y2="262" marker-end="url(#arI)"></line>
-          <line x1="470" y1="272" x2="470" y2="262" marker-end="url(#arI)"></line>
+          <line x1="310" y1="278" x2="310" y2="262" marker-end="url(#arI)"></line>
+          <line x1="345" y1="278" x2="345" y2="262" marker-end="url(#arI)"></line>
+          <line x1="380" y1="278" x2="380" y2="262" marker-end="url(#arI)"></line>
         </g>
-        <text class="t-note" x="370" y="288" text-anchor="middle">open front &mdash; customers stay this side</text>
+        <text class="t-note" x="345" y="296" text-anchor="middle">open front &mdash; customers stay this side</text>
 
         <!-- setback dim -->
         <g class="dim">
@@ -1106,8 +1163,8 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
 <section class="sheet">
   <div class="sheet-no"><span>05</span><small>Bay 01</small></div>
   <div class="sheet-body">
-    <h2>Flowers and honey</h2>
-    <p class="deck">Flowers are what stops the car. They go in the bay nearest the approaching traffic, at bench height where the colour is at eye level from the road. The honey sits on the shelf above them, a few jars at a time, because glass among glass is the best thing you can do for both.</p>
+    <h2>Flowers, foliage and honey</h2>
+    <p class="deck">Flowers are what stops the car. They go in the bay nearest the approaching traffic, at bench height where the colour is at eye level from the road. Honey sits on the shelf above them, a few jars at a time, because glass among glass suits both. Foliage stands in deep buckets below and in front &mdash; the least work and the longest life of anything on the stand.</p>
 
     <h3>The bucket board</h3>
     <p>Rather than standing buckets on the bench where a nor&#8217;wester will have them over, the benchtop in bay 01 is a <strong>bucket board</strong>: a 250&nbsp;mm-deep piece of 18&nbsp;mm ply let into the decking with <strong>two &Oslash;230&nbsp;mm holes at 260&nbsp;mm centres</strong>, the third having given way to the herb trough. A tapered 10&nbsp;L bucket drops in about 100&nbsp;mm and wedges on its own taper &mdash; stable, quick to swap, and the water is out of sight.</p>
@@ -1123,6 +1180,28 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
       <li>A <strong>20&nbsp;mm lip rail</strong> along the front edge of the shelf, so a knocked jar rocks back instead of off. Non-negotiable with a hard floor below.</li>
       <li>Price the jar <em>with</em> the flowers and invite the jar back &mdash; a second return box is not needed; a crate marked <em>JARS BACK HERE</em> on the lower shelf does the job. Agee jars are worth more than the posy.</li>
     </ul>
+
+
+    <h3>Foliage, below and in front</h3>
+    <p>Foliage earns its bay space twice over: people arranging their own flowers need greenery, and a bunch of it turns a $5 bunch of blooms into something that looks like $15. It also outlasts everything else here &mdash; a bucket that does not sell today is still perfectly saleable next week, which almost nothing else on this stand can claim.</p>
+    <p><strong>The buckets stand in front, not underneath.</strong> A foliage stem runs 600&ndash;800&nbsp;mm and a 15&nbsp;L bucket is 370 tall, so a full bucket stands about 770 &mdash; and there is only <span class="num">600</span>&nbsp;mm of clear height under a 900 bench. They go instead in deep buckets on a low pallet plinth on the shingle, tight against the base of bay 01. Flowers above and behind, foliage below and in front, which is how a flower stall reads anyway.</p>
+    <ul>
+      <li><strong>15&nbsp;L buckets, not the 10&nbsp;L used above.</strong> Woody stems drink hard and long stems need the ballast or the first gust has them over. Half-fill them.</li>
+      <li><strong>Split or crush every woody stem end</strong> before it goes in, and strip any leaf below the waterline. It is the difference between one week and three.</li>
+      <li><strong>Cut in the morning and condition in deep water</strong> for a few hours in the shade before anything goes out.</li>
+    </ul>
+
+    <h4>The three worth growing for it</h4>
+    <ul>
+      <li><strong>Eucalyptus</strong> is the workhorse &mdash; silver dollar and <em>cinerea</em> both sell. Scented, three weeks in water, and it dries well, so stems that do not sell become dried bunches rather than waste. Cut it in the cool of the morning; leaves picked in afternoon heat droop and never fully come back.</li>
+      <li><strong>Olive</strong> is the one people ask for by name, especially for weddings &mdash; grey-green, elegant, and a very long vase life. Cut sparingly from any one tree; olives are slow and you will see the shape change before the tree minds.</li>
+      <li><strong>Hydrangea</strong> is the odd one out and worth understanding. It is not really foliage, and it wilts faster than anything else you will cut, because it drinks through its <em>head</em> as well as its stem. Cut it, split the stem, and <strong>submerge the whole head in water for an hour</strong> before it goes out. A wilted head will usually come back from a full submersion &mdash; tell customers that, because most of them have written hydrangeas off. Heads left to go papery on the bush in late season sell again as <strong>dried hydrangea</strong> right through winter.</li>
+    </ul>
+
+    <div class="note">
+      <h4>Foliage is what keeps bay 01 open in July</h4>
+      <p>Eucalyptus and olive crop every month of the year, and dried hydrangea and dried gum carry straight through the cold. When the flowers stop in May this bay would otherwise be three empty buckets and some honey. Put a board up saying the foliage is there &mdash; nobody expects to buy greenery at a gate stall, so nobody looks for it unless you tell them.</p>
+    </div>
 
     <h3>Honey among the posies</h3>
     <p>Two or three jars of honey set between the Agee jars on the bay 01 shelf, not a row of a dozen on its own. It is the same glass at the same scale, the amber reads beautifully against cut flowers, and it puts the highest-value jar on the stand in the first bay a customer reaches &mdash; where they are still browsing rather than counting out money.</p>
@@ -1341,6 +1420,9 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
           <tr><td>Parsley</td><td class="n">01</td><td>Herb trough, bunched</td><td>Flat-leaf outsells curly; cut outer stems only</td></tr>
           <tr><td>Chives</td><td class="n">01</td><td>Herb trough, banded bunches</td><td>Sell the flowers too &mdash; they are edible</td></tr>
           <tr><td>Rosemary</td><td class="n">04</td><td>Hanging rail, dry &mdash; never in water</td><td>Cut long: sprigs sell as roasting skewers</td></tr>
+          <tr><td>Eucalyptus</td><td class="n">01</td><td>15&nbsp;L bucket on the foliage plinth</td><td>Cut in the morning; afternoon-cut leaves droop for good</td></tr>
+          <tr><td>Olive</td><td class="n">01</td><td>15&nbsp;L bucket, stems split</td><td>Cut sparingly &mdash; olives are slow to regrow</td></tr>
+          <tr><td>Hydrangea</td><td class="n">01</td><td>15&nbsp;L bucket, deep water</td><td>Submerge the whole head for an hour before it goes out</td></tr>
           <tr><td>Lettuce</td><td class="n">03</td><td>Greens well, roots on if you can</td><td>Wilts by mid-morning in direct sun</td></tr>
           <tr><td>Carrots</td><td class="n">04</td><td>Bunched in the trough + loose crate</td><td>Tops wilt before the root does</td></tr>
           <tr><td>Beetroot</td><td class="n">04</td><td>Bunched, tops on, standing</td><td>Never trim the root &mdash; it bleeds</td></tr>
@@ -1387,6 +1469,9 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
           <tr><td>Apples</td><td class="n">Mar&ndash;Sep</td><td>Stored well, they carry bay 05 all winter</td></tr>
           <tr><td>Parsley</td><td class="n">Oct&ndash;Jun</td><td>Nearly year-round; bolts its second spring</td></tr>
           <tr><td>Rosemary</td><td class="n">All year</td><td>Evergreen &mdash; the herb that is there in July</td></tr>
+          <tr><td>Eucalyptus, olive</td><td class="n">All year</td><td>Cuts every month; dries well when it does not sell</td></tr>
+          <tr><td>Hydrangea, fresh</td><td class="n">Dec&ndash;Apr</td><td>Wilts fastest of anything &mdash; submerge before selling</td></tr>
+          <tr><td>Hydrangea, dried</td><td class="n">Apr&ndash;Sep</td><td>Papery late heads carry bay 01 through winter</td></tr>
           <tr><td>Cauliflower</td><td class="n">May&ndash;Oct</td><td>Cut in the cool of the morning</td></tr>
           <tr><td>Leeks</td><td class="n">May&ndash;Sep</td><td>Stands in the ground &mdash; lift as you sell</td></tr>
           <tr><td>Parsnips</td><td class="n">May&ndash;Sep</td><td>Sweetens after the first hard frost</td></tr>
@@ -1508,7 +1593,30 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
 <section class="sheet">
   <div class="sheet-no"><span>08</span><small>Off-stand</small></div>
   <div class="sheet-body">
-    <h2>The manure stack</h2>
+    <h2>Pallets and bulk</h2>
+    <p class="deck">One rule covers everything that will not fit on a shelf: <strong>nothing sits on the shingle.</strong> Not a sack, not a pumpkin, not a bucket. Shingle wicks water straight up into a sack, grit works into everything standing on it, and anything at ground level is picked up from a full bend. Recycled pallets fix all three for nothing, and the stand uses three of them.</p>
+
+    <div class="scroll">
+      <table>
+        <caption>The three plinths</caption>
+        <thead><tr><th>Plinth</th><th>Where</th><th class="n">Height</th><th>Carries</th></tr></thead>
+        <tbody>
+          <tr><td>Foliage</td><td>Tight to the base of bay 01</td><td class="n">145</td><td>Three 15&nbsp;L buckets of eucalyptus, olive, hydrangea</td></tr>
+          <tr><td>Bulk produce</td><td>Tight to the base of bay 04</td><td class="n">145</td><td>Overflow pumpkins and spare sacks of spuds</td></tr>
+          <tr><td>Manure</td><td>Far end, 1500 clear of bay 05</td><td class="n">290</td><td>Bagged farm manure, three high</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h4>Why two heights</h4>
+    <p>The manure plinth is <strong>two pallets</strong> because you lift 20&nbsp;kg sacks off it repeatedly and the extra 145&nbsp;mm changes the whole lift. The two food plinths are <strong>one pallet</strong> because they sit where customers stand: a 290&nbsp;mm step at the foot of the counter is something people trip over while reaching across it. Keep both no more than <span class="num">500</span>&nbsp;mm deep so nobody has to step onto one, tuck them under the <span class="num">300</span>&nbsp;mm roof overhang, and paint the front edge white so it is seen.</p>
+
+    <div class="note">
+      <h4>The lower shelf still does the work</h4>
+      <p>Pumpkins and sacks on display stay on the slatted lower shelf at <span class="num">300</span> &mdash; already off the ground, already under the roof. The bulk plinth is for the <em>overflow</em>: the spare half-dozen pumpkins and the stack of sacks you would otherwise stand on the gravel.</p>
+    </div>
+
+    <h3>The manure stack</h3>
     <p class="deck">Bagged farm manure does not belong in the stand, and building it a bay was over-engineering. It needs no roof, no gate and no insulated separation &mdash; it needs to be off the ground, at a height a person can lift from, and well clear of the food. Two stacked pallets do all of that for nothing.</p>
 
     <figure class="dwg">
@@ -1995,7 +2103,9 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
           <tr><td class="ref">O4</td><td>Tray front lip</td><td class="n">30 &times; 20 &times; 800</td><td class="n">3</td><td>H3.2</td></tr>
           <tr><td class="ref">O5</td><td>Rack fixing rail</td><td class="n">90 &times; 45 &times; 800</td><td class="n">2</td><td>Into the studs, as the punnet rack</td></tr>
           <tr class="group"><td colspan="5">Off-stand &mdash; manure pallet stack</td></tr>
-          <tr><td class="ref">M1</td><td>Pallets, heat-treated</td><td class="n">1165 &times; 1165</td><td class="n">2</td><td>Check the ISPM 15 stamp &mdash; HT, never MB</td></tr>
+          <tr><td class="ref">M1</td><td>Pallets, heat-treated &mdash; manure stack, stacked two high</td><td class="n">1165 &times; 1165</td><td class="n">2</td><td>Check the ISPM 15 stamp &mdash; HT, never MB</td></tr>
+          <tr><td class="ref">M5</td><td>Foliage plinth &mdash; pallet cut down, bay 01</td><td class="n">800 &times; 500</td><td class="n">1</td><td>Single height; front edge painted white</td></tr>
+          <tr><td class="ref">M6</td><td>Bulk produce plinth &mdash; pallet cut down, bay 04</td><td class="n">1165 &times; 500</td><td class="n">1</td><td>Single height; overflow pumpkins and sacks</td></tr>
           <tr><td class="ref">M2</td><td>Pallet fixing screws</td><td class="n">14g &times; 100</td><td class="n">8</td><td>Down through the top pallet into the blocks</td></tr>
           <tr><td class="ref">M3</td><td>Free-draining metal</td><td class="n">1.5 &times; 1.5 m</td><td class="n">&mdash;</td><td>Graded to fall away from the stack</td></tr>
           <tr><td class="ref">M4</td><td>Bags</td><td class="n">15&ndash;20 kg</td><td class="n">&mdash;</td><td>Woven poly or plastic, slit the base to drain</td></tr>
@@ -2025,7 +2135,8 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
           <tr><td>Blackboard paint</td><td>For the sign boards, both sides</td><td class="n">1&nbsp;L</td></tr>
           <tr><td>Chalk markers</td><td>Fat weatherproof, white</td><td class="n">2</td></tr>
           <tr><td>Hand sanitiser</td><td>Pump bottle + bracket for the bay-05 post</td><td class="n">1</td></tr>
-          <tr><td>Buckets</td><td>10&nbsp;L tapered, black</td><td class="n">6</td></tr>
+          <tr><td>Buckets, flowers</td><td>10&nbsp;L tapered, black</td><td class="n">6</td></tr>
+          <tr><td>Buckets, foliage</td><td>15&nbsp;L, deeper &mdash; woody stems drink hard</td><td class="n">4</td></tr>
           <tr><td>Crates</td><td>Shallow, stackable</td><td class="n">10</td></tr>
           <tr><td>Punnets</td><td>250&nbsp;g / 500&nbsp;g, plain &mdash; shallow ones for berries</td><td class="n">2 sleeves</td></tr>
         </tbody>
@@ -2055,7 +2166,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
       <li><strong>Decking.</strong> Bench and shelves the full 4000, 5&nbsp;mm gaps between boards. Cut the two well openings and the bucket-board recess after the decking is down and you have both bins in your hand.</li>
       <li><strong>Boxes.</strong> Glue and screw the return box with exterior PU, seal every cut edge, fit hinge, seal, vents, battens and weep holes. Drop it into its compartment and hang all three lids.</li>
       <li><strong>Fit-out.</strong> Punnet rack screwed through into the bay-03 studs and the orchard tray rack into the bay-05 studs &mdash; check the angles before you fix them, since one rakes 15&deg; and the other only 5&deg;. Hanging rail flanges under the front plate in bay 04, both troughs with their stop-ends siliconed and leak-tested on the ground overnight &mdash; the herb one goes up on the bay 02 shelf, over your own eggs, so do not skip that &mdash; shelf lip rails in bays 01 and 02, the two grooved sign rails run the full length, honesty box bolted to the 1200 stud, signs on.</li>
-      <li><strong>The manure stack.</strong> Grade free-draining metal 1500&nbsp;mm clear of bay 05, lay two heat-treated pallets with the top one turned 90&deg; and screw them together, and bracket the hand sanitiser to the bay-05 post. Do this last &mdash; nothing about it should touch the food bays.</li>
+      <li><strong>The three pallet plinths.</strong> Grade free-draining metal under each. Cut-down single pallets tight to the base of bays 01 and 04 for the foliage buckets and the bulk produce, front edges painted white; two heat-treated pallets stacked and screwed together, top one turned 90&deg;, sited 1500&nbsp;mm clear of bay 05 for the manure. Bracket the hand sanitiser to the bay-05 post. Do the manure one last &mdash; nothing about it should touch the food bays.</li>
       <li><strong>Paint.</strong> Primer plus two coats, end grain first. Leave it a fortnight before you seal the return box's rubber against fresh paint.</li>
       <li><strong>Soft open.</strong> One weekend with eggs and one other line only. Watch what people actually stop for, then load the bays properly.</li>
     </ol>
@@ -2161,6 +2272,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
       <li><strong>Watch which bay empties first</strong> and give it more room. The five-bay split is a starting hypothesis, not a finding &mdash; if the punnets outrun everything, the rack wants a fourth tier or a second bay.</li>
       <li><strong>Count the carton returns.</strong> If the rate is under about a third, the incentive is too small or the box is not obvious enough &mdash; usually the second.</li>
       <li><strong>If cash keeps beating transfers,</strong> your account sign is too small or too far from the goods. Move it to eye level directly above the egg well.</li>
+      <li><strong>Foliage is the least work on the stand.</strong> It needs no shade, no daily pull-through and no restocking rhythm, and it keeps for weeks. If a bucket is slow, leave it &mdash; unlike everything else here, waiting costs you nothing.</li>
       <li><strong>Herbs are the best margin on the stand.</strong> If the trough empties daily, widen it before you widen anything else &mdash; a second 250&nbsp;mm length costs almost nothing and takes only the last flower bucket.</li>
       <li><strong>Use the sign rail properly.</strong> A board chalked with what came in this morning is the cheapest thing you can do to make regulars stop again &mdash; and turning a board blank-side out the moment a line runs out is the cheapest way to stop them driving off disappointed.</li>
       <li><strong>Five bays is about right for one run.</strong> At 4000 the stand reads as a whole from a moving car and every bay is within an easy restock walk. Anything that does not need a roof &mdash; the manure is the example &mdash; should sit outside it on its own rather than driving the building longer.</li>
@@ -2170,7 +2282,7 @@ tbody tr.group td{background:var(--sheet-2);font-family:var(--f-mono);font-size:
 </section>
 
 <footer class="foot">
-  <span>Farm gate market stand &middot; Rev H</span>
+  <span>Farm gate market stand &middot; Rev J</span>
   <span>All dimensions in millimetres &middot; verify on site</span>
   <span>Sheets 01&ndash;14</span>
 </footer>
