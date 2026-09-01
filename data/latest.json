@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-08-31T17:58:22Z",
+  "generated_utc": "2026-09-01T15:26:40Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Doctor raises new questions over myocarditis deaths and monitoring after RCR teen vaccine revelations",
+        "url": "https://realitycheck.radio/doctor-raises-new-questions-over-myocarditis-deaths-and-monitoring-after-rcr-teen-vaccine-revelations/",
+        "date_utc": "2026-09-01T09:29:12Z",
+        "summary": ""
+      },
       {
         "title": "The Compliant Citizen",
         "url": "https://realitycheck.radio/the-compliant-citizen/",
@@ -88,137 +94,197 @@
         "summary": "by Peter Williams Too much of the talk at breakfast […]"
       },
       {
-        "title": "The Architecture of Belief",
-        "url": "https://realitycheck.radio/the-architecture-of-belief/",
-        "date_utc": "2026-08-22T23:02:06Z",
-        "summary": "by Rodney Hide I was a materialist from primary school. […]"
-      },
-      {
-        "title": "KATHRYN PICK: NZ Teacher Mandates: The Exodus That Left 5,000+ Behind",
-        "url": "https://realitycheck.radio/episodes/kathryn-pick-nz-teacher-mandates-the-exodus-that-left-5000-behind/",
-        "date_utc": "2026-08-31T17:11:21Z",
+        "title": "DR ALISON GOODWIN: GP and Patient Rights Advocate: Myocarditis – A Deep Dive into Covid Era Heart Damage",
+        "url": "https://realitycheck.radio/episodes/dr-alison-goodwin-gp-and-patient-rights-advocate-myocarditis-a-deep-dive-into-covid-era-heart-damage/",
+        "date_utc": "2026-09-01T07:30:36Z",
         "summary": ""
       },
       {
-        "title": "KATHRYN ENNIS CARTER: Armenia’s Governance Crisis: When the State Becomes the Enemy",
-        "url": "https://realitycheck.radio/episodes/kathryn-ennis-carter-armenias-governance-crisis-when-the-state-becomes-the-enemy/",
-        "date_utc": "2026-08-31T17:11:06Z",
+        "title": "TECH TUESDAY: With Steven Sykes: The Surveillance Arms Race & How to Push Back",
+        "url": "https://realitycheck.radio/episodes/tech-tuesday-with-steven-sykes-the-surveillance-arms-race-how-to-push-back/",
+        "date_utc": "2026-09-01T05:29:32Z",
         "summary": ""
       },
       {
-        "title": "FREDDIE PONTON: CIA’s Moscow Mystery: What Was Radcliffe Really Doing On That Cargo Plane?",
-        "url": "https://realitycheck.radio/episodes/freddie-ponton-cias-moscow-mystery-what-was-radcliffe-really-doing-on-that-cargo-plane/",
-        "date_utc": "2026-08-31T17:10:57Z",
+        "title": "TWO BLOKES & A BOT: with Tauriq Barron: AI Gets Smarter, Safety Concerns Grow",
+        "url": "https://realitycheck.radio/episodes/two-blokes-a-bot-with-tauriq-barron-ai-gets-smarter-safety-concerns-grow/",
+        "date_utc": "2026-09-01T03:05:43Z",
         "summary": ""
       },
       {
-        "title": "KATHRYN ENNIS-CARTER: Islam’s Quiet Shift: How the Hijab Conquered Nations That Once Rejected It",
-        "url": "https://realitycheck.radio/episodes/kathryn-ennis-carter-islams-quiet-shift-how-the-hijab-conquered-nations-that-once-rejected-it/",
-        "date_utc": "2026-08-31T17:10:43Z",
+        "title": "THE WILMS REPORT: with Tim Wilms: Australia’s Migration Muddle, Free Speech and Political Turmoil",
+        "url": "https://realitycheck.radio/episodes/the-wilms-report-with-tim-wilms-australias-migration-muddle-free-speech-and-political-turmoil/",
+        "date_utc": "2026-09-01T02:52:18Z",
         "summary": ""
       },
       {
-        "title": "KATHRYN PICK: Struck Off: Is NZ Teaching’s Door Closed Forever?",
-        "url": "https://realitycheck.radio/episodes/kathryn-pick-struck-off-is-nz-teachings-door-closed-forever/",
-        "date_utc": "2026-08-31T17:10:30Z",
+        "title": "SHANE JONES: New Zealand First Deputy Leader: ‘A Grand Coalition is in the Offing’",
+        "url": "https://realitycheck.radio/episodes/shane-jones-new-zealand-first-deputy-leader-a-grand-coalition-is-in-the-offing/",
+        "date_utc": "2026-09-01T02:35:16Z",
         "summary": ""
       }
     ],
     "youtube": [
       {
-        "title": "WEDNESDAY WEBINARS",
-        "url": "https://www.youtube.com/watch?v=P5HqrujQ6pU",
-        "date_utc": "2026-08-31T17:08:21+00:00",
-        "summary": "Maree Buscke and Kathryn Ennis-Carter run through a big week of local government news, from Stuart Smith's Members Bill and the Local Government Systems Improvement Bill to Simon Watts' proposed 4% rates cap and stalled amalgamation proposals. They work through listener questions covering rates affordability, water charges, residential parking fees, council staffing and contract transparency, plus the Mount Maunganui disaster report, urging ratepayers to use LGOIMA requests to hold councils accountable. Catch Simon O'Connor's talking with Stuart Smith about his Local Government Management of Local Authorities Amendment Bill. For more on the Mount Maunganui disaster report, check out RCR's A Political Agenda Want the local government stories others miss? Get RCR Bites FREE every weekday"
+        "title": "DR ALISON GOODWIN",
+        "url": "https://www.youtube.com/watch?v=IRLfTchYreQ",
+        "date_utc": "2026-09-01T08:05:08+00:00",
+        "summary": "Paul Brennan speaks with Dr Alison Goodwin, a New Zealand GP and patient-rights advocate, about her ongoing investigation into Covid-19 vaccine injuries. Goodwin discusses myocarditis mechanisms and symptoms, disputed death tolls, redacted coroner and MedSafe records, the exclusion of teenagers from post-vaccine monitoring, and what she describes as systemic buck-passing among health authorities. The conversation touches on specific cases, medical tribunals, and the upcoming election's potential influence on accountability. Watch What Officials Knew About Myocarditis Risk for Teens Read RCR's Beyond the Bite full report For the documented evidence and wider timeline, visit ThePeoplesReport.co.nz and ThePeoplesPosition.co.nz For the timeline around 12-15 year olds No longer trusting the 6pm news? Get RCR Bites, delivered FREE every weekday."
       },
       {
-        "title": "MEDIA MATTERS",
-        "url": "https://www.youtube.com/watch?v=7jhUTJiKf5w",
-        "date_utc": "2026-08-31T17:06:14+00:00",
-        "summary": "Maree Buscke and Marty Gibson discuss the perceived media and political “free pass” given to Chris Hipkins, including his handling of COVID-19 and vaccine rollout issues. They also examine proposed social media restrictions for under-16s, arguing these could expand government control and digital ID systems. The hosts compare Hipkins and Christopher Luxon as technocratic leaders and question whether major parties are increasingly selecting candidates who prioritise party compliance over independent representation. For more on Myocarditis Risk in Teens Read more about the evidence and events surrounding the Covid-19 response in The People's Position and The People's Report and see RCR's updated myocarditis timeline. RCR Bites Lead Story: Labour backs under-16 social media ban, but Government says no time for vote Say No to Digital ID campaign Check out this three-part series with Maree Buscke and independent journalist Bonnie Flaws exploring the rollout of Digital ID in New Zealand: Part 1 , Part 2 and Part 3 For all the news you need this election season, get RCR Bites delivered FREE every weekday"
+        "title": "We've now had a report come out that outlined failures of the council going back 25 years",
+        "url": "https://www.youtube.com/shorts/Qfn83U9Y-qY",
+        "date_utc": "2026-09-01T07:02:05+00:00",
+        "summary": "\"We've now had a report come out that outlined failures of the council going back 25 years.\" - Cameron Luxton, ACT Party MP How should councils be held accountable when failures identified over decades are followed by a tragedy costing six lives? 🎥 Watch here: https://rcr.media/episodes/cameron-luxton-act-party-mp-mount-maunganui-tragedy-local-government-mmp #RCRMedia"
       },
       {
-        "title": "NICK HUDSON",
-        "url": "https://www.youtube.com/watch?v=ctK9Gr4M-Ko",
-        "date_utc": "2026-08-31T17:06:04+00:00",
-        "summary": "Paul Brennan talks with Nick Hudson, chairman of Pandemics, Data & Analytics (PANDA), who argues Anthony Fauci is merely a “controlled asset” sustaining a false pandemic narrative. Hudson ranges widely across contested territory, dismissing 9/11 and October 7 as false flags, calling vaccines and cancer screening a scam, and framing conflicts in Ukraine and the Middle East as covers for food-chain disruption, while reflecting on feeling alienated from those he calls “normies.” Discover more from Nick on X and PANDA There’s always more to the story. Get RCR Bites , FREE every weekday"
+        "title": "So that's what I'd advise people to do. Start doing the legal stuff.",
+        "url": "https://www.youtube.com/shorts/HPwz92wBWXs",
+        "date_utc": "2026-09-01T06:30:49+00:00",
+        "summary": "\"So that's what I'd advise people to do. Start doing the legal stuff.\" - Rachel Matthews, author, educator & Council Watch activist @RachelMathewsUK Are ordinary residents making enough use of the law to hold councils accountable when they believe something is wrong? 🎥 Watch here: https://rcr.media/episodes/rachel-mathews-madeleine-hunt-council-watch-uk-and-nz-councils-centralising-power #RCRMedia"
       },
       {
-        "title": "SAM UFFINDELL",
-        "url": "https://www.youtube.com/watch?v=MjpdjyF1ez4",
-        "date_utc": "2026-08-31T17:06:03+00:00",
-        "summary": "National MP Sam Uffindell spoke with Simon O’Connor about the fatal Mount Maunganui landslide that killed six people, with a recent report finding it was preventable despite warnings spanning 25 years. Uffindell criticised Tauranga City Council’s lack of accountability, its handling of affected businesses, and a controversial land deal where the council sold prime land near the Harbour Bridge for $13.9 million, despite estimates valuing it at $20–33 million. The council then committed $29 million to fund a wharf for the developer and provided $9.5 million in vendor finance. For more on Sam Uffindell and on Facebook For more on the Mount Maunganui landslide: A Political Agenda with Maree Buscke, Ro Edge & David Lynch Get the election news that matters — RCR Bites FREE every weekday."
+        "title": "TECH TUESDAY",
+        "url": "https://www.youtube.com/watch?v=nIXiQn0lmqo",
+        "date_utc": "2026-09-01T06:04:28+00:00",
+        "summary": "Steven Sykes joins Paul Brennan for Tech Tuesday to discuss mass surveillance, privacy and digital tracking. They examine the AT&T whistleblower case, adversarial technology showcased at DEF CON, automated camera systems, privacy questions around property photography, and practical advice for listeners considering Linux as Windows 10 support comes to an end. For everything you need to Say No to Digital ID Cut through the hype. Get RCR Bites FREE every weekday"
       },
       {
-        "title": "BERNADETTE SOARES",
-        "url": "https://www.youtube.com/watch?v=x2t0zGvQj9o",
-        "date_utc": "2026-08-31T17:04:03+00:00",
-        "summary": "Maree Buscke talks with New Zealand First's Upper Harbour candidate about her move from Vision NZ and New Conservative to New Zealand First. They discuss the cost-of-living pressures she's hearing on the campaign trail, and her strong opposition to the proposed India free trade agreement. She also reflects on how immigration settings have changed since she arrived from India in 1989. Discover more from Bernadette Soares and on X For all the news you need this election season, get RCR Bites FREE every weekday."
+        "title": "That's about twice as much as the Hastings Golf Course is allowed to use in a year...",
+        "url": "https://www.youtube.com/shorts/2cSQ4mXelZ4",
+        "date_utc": "2026-09-01T06:01:49+00:00",
+        "summary": "\"That's about twice as much as the Hastings Golf Course is allowed to use in a year, and far less than other golf courses.\" - Dr Eric Crampton, Chief Economist at NZ Initiative Does that comparison make 220 million litres sound less alarming - or should the environmental impact matter regardless of what other users consume? 🎥 Watch here: https://rcr.media/episodes/dr-eric-crampton-chief-economist-at-nz-initiative-new-zealands-ai-data-centre-opportunity #RCRMedia"
       },
       {
-        "title": "MONEY TALKS",
-        "url": "https://www.youtube.com/watch?v=p5UCUpsu0Eg",
-        "date_utc": "2026-08-31T16:08:30+00:00",
-        "summary": "Simon Angelo and Paul Brennan discuss the shift away from New Zealand property as the dominant path to wealth, arguing that shares and productive businesses may offer stronger long-term returns. They also examine falling graduate employment, the shortage of skilled trades, AI’s impact on jobs, New Zealand’s manufacturing base, and Angelo’s concerns about proposed tax policies and MMP voting ahead of the election. Discover more from Simon at Wealth Morning Look beyond the headlines. Get RCR Bites FREE every weekday"
+        "title": "TWO BLOKES & A BOT",
+        "url": "https://www.youtube.com/watch?v=k_uRdOklZ9M",
+        "date_utc": "2026-09-01T04:06:25+00:00",
+        "summary": "Rodney Hide and Tariq Barron unpack the latest AI developments, from OpenAI pausing new model releases after a major security incident to AI models finding ways around their training constraints. They discuss AI surpassing human developers, growing public opposition to AI data centres, and what this means for jobs and control of the technology. Tariq also shares practical tips for using AI effectively in everyday life, including job hunting, writing and research. Missed their last chat? AI’s Next Frontier There’s always more to the story. Get RCR Bites FREE every weekday"
       },
       {
-        "title": "THE FOURTH ESTATE",
-        "url": "https://www.youtube.com/watch?v=No7zj-CLD5Q",
-        "date_utc": "2026-08-31T16:07:14+00:00",
-        "summary": "Maree Buscke is joined by former judge David Harvey and political commentator Ani O’Brien to examine the proposed social media restrictions, age verification, privacy and the growing power of government regulators. They also discuss media coverage of the teen myocarditis story, how media represents the leaders of the various political parties, MMP election strategies, and who is to blame for the death of disgraced academic Jason Arday – the media, or the establishment that created him. For more information David's substack – A Halfling's View Ani's substacks Thought Crimes and Women’s Rights & Wrongs , and find her on X Look beyond the headlines with RCR Bites , FREE every weekday"
+        "title": "THE WILMS REPORT",
+        "url": "https://www.youtube.com/watch?v=wt1aVcAI1Cw",
+        "date_utc": "2026-09-01T03:04:44+00:00",
+        "summary": "Tim Wilms joins Paul Brennan to examine the latest developments in Australia, including free speech rallies, expanded ASIO powers, confusion over migration policy, One Nation’s by-election victory, the Sydney Swans scandal and its wider implications for AFL culture and government policy. Discover more from Tim at The Unshackled Look beyond the headlines. Get RCR Bites delivered FREE every weekday"
       },
       {
-        "title": "STUART SMITH",
-        "url": "https://www.youtube.com/watch?v=zli0f_mHcT0",
-        "date_utc": "2026-08-31T16:06:39+00:00",
-        "summary": "Simon O'Connor talks to Stuart Smith, MP for Kaikoura and Chief Government Whip, about the gravel and flooding crisis plaguing local rivers since the Kaikōura earthquake, and the consenting delays blocking proactive fixes. They also discuss Smith's Local Government Management of Local Authorities Amendment Bill, giving councillors real oversight over chief executives, and how the public can make submissions before the select committee deadline. For more on Stuart Smith and on Facebook Have your say on the Local Government (Management of Local Authorities) Amendment Bill For all the news you need this election season, RCR Bites FREE every weekday"
+        "title": "SHANE JONES",
+        "url": "https://www.youtube.com/watch?v=CSZL0_rQxFk",
+        "date_utc": "2026-09-01T03:04:32+00:00",
+        "summary": "Shane Jones joins Paul Brennan to discuss New Zealand First’s opposition to the proposed under-16 social media restrictions, leaving the Paris Agreement, migrant labour exploitation in the kiwifruit industry, electricity market reform and New Zealand’s fuel security. He also addresses concerns around Air New Zealand, regional connectivity and the future of affordable energy. Discover more from Shane Jones , also on X and Facebook For all the news you need this election season, get RCR Bites delivered FREE every weekday"
       },
       {
-        "title": "RACHEL MATHEWS & MADELEINE HUNT",
-        "url": "https://www.youtube.com/watch?v=SCVsTdRFtNg",
-        "date_utc": "2026-08-31T16:06:28+00:00",
-        "summary": "A timely Council Watch discussion with Maree Buscke and Kathryn Ennis-Carter, and with author, educator & Council Watch activist Rachel Matthews, and Heritage Party General Secretary & civic accountability advocate Madeleine Hunt, exploring local government reforms in the UK and New Zealand. The panel examines growing centralisation, regional mayoral structures, council accountability, legal challenges, funding pressures and the influence of global initiatives on local decision-making. For more information National Residents for Civic Accountability (NRCA) Madeleine’s Substack Council Watch (Colchester & Countrywide!) YouTube channel Rachel’s Accidental Activist book Feel like there’s more to the story? Get RCR Bites , FREE every weekday"
+        "title": "So, instead of a 120-seat MMP system, you've got a 136 MMP system.",
+        "url": "https://www.youtube.com/shorts/sXSIz_CdE2g",
+        "date_utc": "2026-08-31T21:54:07+00:00",
+        "summary": "\"So, instead of a 120-seat MMP system, you've got a 136 MMP system.\" - Simon Angelo, Investor & Financial Commentator If voters want a stronger centre-right bloc, could strategically splitting the two votes be more effective than simply voting for the same party twice? Simon Angelo crunches the numbers. 🎥 Watch here: https://rcr.media/episodes/money-talks-with-simon-angelo-when-property-stops-being-the-easy-wealth-builder #RCRMedia #MoneyTalks"
       },
       {
-        "title": "ROSS COLLETT",
-        "url": "https://www.youtube.com/watch?v=q6EDneijuUY",
-        "date_utc": "2026-08-31T16:05:48+00:00",
-        "summary": "Rodney Hide speaks with Ross Collett, who was diagnosed with terminal pancreatic cancer and given just 2–3 months to live. Ross chose to pursue alternative treatments, including hyperbaric oxygen therapy, and has now completed more than 230 sessions. More than a year on, he remains active, optimistic and determined to make the most of his time. Disclaimer: This interview shares Ross Collett’s personal experience and views on cancer treatment. It is not medical advice or a recommendation for any particular treatment. Always consult a qualified healthcare professional before making decisions about your health or treatment. For more on Wellington Hyperbaric There’s always more to the story. Get RCR Bites , FREE every weekday"
+        "title": "A stack of young people are going to have health conditions brought about because three...",
+        "url": "https://www.youtube.com/shorts/Z7eQFn4nD8Y",
+        "date_utc": "2026-08-31T20:02:04+00:00",
+        "summary": "\"A stack of young people are going to have health conditions brought about because three ministers in particular ... decided to ignore the warnings.\" - Winston Peters, Foreign Minister and NZ First Party Leader When a serious claim is dismissed as \"fake news\", shouldn't the evidence behind that dismissal be made clear? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-social-media-bans-dairy-reform-covid-truth-a-four-party-coalition-crisis #RCRMedia"
       },
       {
-        "title": "CAMERON LUXTON",
-        "url": "https://www.youtube.com/watch?v=25pqGV2rzJ0",
-        "date_utc": "2026-08-31T15:10:08+00:00",
-        "summary": "Maree Buscke speaks with ACT Party MP Cameron Luxton about the Mount Maunganui tragedy and calls for accountability, ACT’s push to strengthen the rule of law and protect property rights, local government reform and rates, and whether tactical voting could reshape the Coalition’s prospects at the upcoming election. Discover more from Cameron on Facebook and X For all the news you need this election season, get RCR Bites , delivered FREE every weekday."
+        "title": "JESSICA HENRARD",
+        "url": "https://www.youtube.com/watch?v=xcNdp2daKZ4",
+        "date_utc": "2026-08-31T19:06:22+00:00",
+        "summary": "Natalie Cutler-Welsh is joined by Jessica Henrard, nervous system specialist, exercise and human movement coach, with 24 years in health and 14 years specialising in Neural Reset Technique (NRT). She explores the nervous system’s role in physical function, confidence and wellbeing, and how understanding and regulating different nervous system states can support recovery and improved function. For more on The Jessica Treatment and all her links There’s always more to the story. Get RCR Bites FREE every weekday"
       },
       {
-        "title": "DR GUY HATCHARD",
-        "url": "https://www.youtube.com/watch?v=BQqAwZgm83U",
-        "date_utc": "2026-08-31T15:04:33+00:00",
-        "summary": "Paul Brennan speaks with health and food-safety advocate Dr Guy Hatchard about mounting pressure on New Zealand’s hospitals, rising excess deaths, falling birth and fertility rates, and increasing infant mortality. They question whether authorities are properly monitoring these trends and examine possible pandemic-era consequences, gene-based medicine, nutrition, lifestyle and political accountability. Dr Hatchard argues that New Zealand urgently needs to confront its deteriorating health indicators rather than ignore them. For more from Guy in the Hatchard Report: Red Flag: NZ mortality up in 2026 Look beyond the health headlines. Get RCR Bites delivered FREE every weekday For everything you need to Say No to the Gene Tech Bill"
+        "title": "BARBARA ROBERTS",
+        "url": "https://www.youtube.com/watch?v=XqlSzgAJSf8",
+        "date_utc": "2026-08-31T19:05:07+00:00",
+        "summary": "Homeopath and pharmacist Barbara Roberts joins Paul Brennan to discuss her new book, Informed Choice: Options for Preventing and Treating Infectious Disease in the 21st Century. They explore vaccination, natural immunity, vitamins, homeopathy and the importance of having access to information about a range of healthcare options so individuals can make informed decisions for themselves.\\ For more on Homeopath Barbara and on Facebook , and her new book Check out Barbara's earlier interview on RCR: Inside New Zealand’s Homoeopathy Shake-Up For stories you won’t find on the 6pm news, get RCR Bites FREE every weekday"
       },
       {
-        "title": "WINSTON PETERS",
-        "url": "https://www.youtube.com/watch?v=CPmJjTb9rt8",
-        "date_utc": "2026-08-31T15:04:23+00:00",
-        "summary": "Winston Peters joins Paul Brennan for a wide-ranging discussion covering New Zealand First’s opposition to the proposed under-16 social media ban, concerns over age verification and civil liberties, coalition tensions, and plans to challenge Fonterra’s dairy monopoly. Discover more from Winston Peters on X and Facebook Look beyond the headlines this election season. Get RCR Bites FREE every weekday"
+        "title": "FREDDIE PONTON",
+        "url": "https://www.youtube.com/watch?v=AO_-rOEGfC4",
+        "date_utc": "2026-08-31T19:04:30+00:00",
+        "summary": "Freddie Ponton joins Paul Brennan to examine the latest geopolitical developments, from the CIA director’s unusual Moscow meeting and Britain’s expanded missile support for Ukraine to Israel’s looming election and growing political tensions. They also explore the US sanctions campaign against Iran, its potential impact on global energy markets, and what it reveals about the shifting balance of power. Discover more from 21st Century Wire or find them on X Follow Freddie on X For more to the story, here's Kathryn Ennis-Carter The Middle East’s Hidden Power Struggle (Part 1) Tracing the Deep Roots of the Middle East Conflict (Part 2) Part 3 coming soon Tired of headlines telling you what to think? Think for yourself. Get RCR Bites FREE every weekday"
       },
       {
-        "title": "PAUL’S MAILBAG",
-        "url": "https://www.youtube.com/watch?v=3ZH61zWufYw",
-        "date_utc": "2026-08-31T15:04:16+00:00",
-        "summary": "Paul Brennan catches up on some of his latest mail, responding to listener feedback on roadside drug testing, AI data centres and surveillance, mandatory folic acid fortification in the UK, and ongoing demands for COVID accountability. He also covers concerns about the proposed 1080 poison drop, bird flu, the over 311,000 teenagers who received a second COVID shot after the government knew of the risk of myocarditis, and a listener’s experience with a submission being returned under the HSNO Amendments Bill process. TEXT your feedback to 2057 or EMAIL inbox@rcr.media Look beyond the headlines. Get RCR Bites FREE every weekday Add your name to our Face the Music campaign, calling for Labour leader Chris Hipkins to step down over his COVID decisions and his blatant disregard for the health and well-being of New Zealanders, especially children Catch up on the content mentioned LEGAL HUB: Katie Ashby-Koppens: Roadside Drug Testing – Rights, Process & Concerns TOM DEWEESE – Founder of the American Policy Center: Pushing Back on Data Centres and the Surveillance State DR CLARE CRAIG – UK Consultant Pathologist: Questioning Mandatory Folic Acid Fortification THE BRENNAN BAROMETER: COVID A"
+        "title": "PROF MAAN ALKAISI",
+        "url": "https://www.youtube.com/watch?v=h-TJnJrCLEA",
+        "date_utc": "2026-08-31T19:04:21+00:00",
+        "summary": "Paul Brennan speaks with Professor Maan Alkaisi, who lost his wife in the 2011 CTV building collapse, about the fatal Mount Maunganui landslide that killed six people during January's extreme rainfall. Drawing parallels between both disasters, Alkaisi discusses ignored engineering reports, a lack of accountability among council leadership, and the pattern of costly inquiries producing little real change, calling for genuine oversight to prevent further preventable loss of life. More from RCR on the Mount Maunganui disaster Sam Uffindell, National MP for Tauranga: Council Under Fire Over Landslide Cameron Luxton, ACT Party MP: Mount Maunganui Tragedy, Local Government & MMP A Political Agenda with Maree Buscke, Ro Edge and David Lynch David Lynch, Advocate: Call for Royal Inquiry into Mount Tragedy Go beyond the 6pm news with RCR Bites — FREE every weekday"
       },
       {
-        "title": "MICHAEL ARBON",
-        "url": "https://www.youtube.com/watch?v=TlBoIv4Z2Zc",
-        "date_utc": "2026-08-31T15:03:52+00:00",
-        "summary": "Michael Arbon examines whether Australia’s compulsory superannuation system has delivered on its promise of reducing reliance on the age pension. He looks at rising contribution rates, changing tax rules, the enormous pool of money now controlled by super funds, and the economic opportunity cost for households. Arbon argues that directing super towards mortgages could dramatically reduce debt and asks whether Australians should have more freedom over their own money. Discover more from Michael on Facebook , Instagram and X Look beyond the headlines. Get RCR Bites FREE every weekday"
+        "title": "UNDER THE HOOD",
+        "url": "https://www.youtube.com/watch?v=Tke6CoUsBxU",
+        "date_utc": "2026-08-31T19:04:17+00:00",
+        "summary": "Graham “Hoody” Hood reflects on how fear, social media and division fuel conflict, arguing that empathy and genuine conversation are the strongest antidotes. Drawing on personal experiences of defusing hostility and his work in recovery, he makes the case for restoration over retribution, urging people to seek understanding, accountability and common ground to heal families, communities and society. Discover more from Hoody at Club Grubbery or find him on Facebook and X Think deeper. Question more. Get RCR Bites FREE every weekday"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Selwyn Mayor On Fast Track Housing Developments & That 4% Rates Cap",
+        "url": "https://www.youtube.com/watch?v=tRlktv0xB2g",
+        "date_utc": "2026-09-01T07:26:22+00:00",
+        "summary": "Selwyn Mayor Lydia Giddon on fast track housing developments & that 4% rates cap"
+      },
+      {
+        "title": "Doing Away With The Idea Of A New Tax On Kiwis Travelling Within NZ",
+        "url": "https://www.youtube.com/watch?v=qamMO7zBFaI",
+        "date_utc": "2026-09-01T05:40:22+00:00",
+        "summary": "ACT MP Cameron Luxton on the Local Tourist Dividend: doing away with the idea of a new tax on Kiwis travelling within their own country."
+      },
+      {
+        "title": "Air NZ Records Loss, Student Loan Cap Affects Would-Be Pilots & More",
+        "url": "https://www.youtube.com/watch?v=eP4ywzACgTQ",
+        "date_utc": "2026-09-01T05:23:08+00:00",
+        "summary": "Irene King, Aviation Commentator - Air NZ records eye-watering loss, Student loan cap a massive blight for would-be pilots and Government support welcomed in regional airports."
+      },
+      {
+        "title": "A Call For Sexual Violence Expert Panels To Replace Rape Trial Juries",
+        "url": "https://www.youtube.com/watch?v=5RJxUmJwFEo",
+        "date_utc": "2026-09-01T04:55:59+00:00",
+        "summary": "Ruth Money, Victim's Advocate on the call for sexual violence expert panels to replace juries at rape trials."
+      },
+      {
+        "title": "Intern Kate On Output Envy’s Father’s Day Deals",
+        "url": "https://www.youtube.com/watch?v=Ob2LDLMh4os",
+        "date_utc": "2026-09-01T02:57:35+00:00",
+        "summary": "Intern Kate on Output Envy’s Father’s Day deals."
+      },
+      {
+        "title": "Michael Laws Breaks Down The Roy Morgan Poll",
+        "url": "https://www.youtube.com/watch?v=SMDkpbY2wkw",
+        "date_utc": "2026-09-01T02:24:11+00:00",
+        "summary": "Shock! MIchael Laws breaks down the Roy Morgan poll and reveals that Labour won’t control any Centre-Left coalition government."
+      },
+      {
+        "title": "The Bizarre Scrap Stopping The Excavation Of The Moriori Waka",
+        "url": "https://www.youtube.com/watch?v=3V4NSawkVGE",
+        "date_utc": "2026-09-01T02:23:54+00:00",
+        "summary": "Maui Solomon on the bizarre scrap stopping the excavation of the Moriori waka (and the inconvenient truth)"
+      },
+      {
+        "title": "Centre Left will Entrench Te Tiriti & Co-Governance will be the start.",
+        "url": "https://www.youtube.com/watch?v=b1FSGvX4QlU",
+        "date_utc": "2026-09-01T02:06:54+00:00",
+        "summary": "Forget co-governance - the Centre Left will entrench Te Tiriti and co-governance will only be the start."
+      },
+      {
+        "title": "James Christmas On Leaked Tamaki Electorate Poll & Vote Splitting",
+        "url": "https://www.youtube.com/watch?v=sF7Zlfx_MIc",
+        "date_utc": "2026-09-01T01:34:17+00:00",
+        "summary": "James Christmas on Leaked Tamaki Electorate poll and vote splitting. The Platform live on YouTube — only $34.99/month! Join now → https://www.youtube.com/@theplatformnz/join Support The Platform by joining Platform Plus: https://theplatform.kiwi/platform-plus Download The Platform app for free: App Store: https://apps.apple.com/us/app/the-platform/id1596882626 Google Play: https://play.google.com/store/apps/details?id=kiwi.theplatform.android Call 0800 DEBATE or text us at 5050 (Standard SMS text charges will apply) Listen to The Platform's straight-talking, free-thinking hosts every weekday. Sean Plunket: 7am - 10am Michael Laws: 10am - 1pm Leah Panapa: 1pm - 4pm #ThePlatformNZ"
+      },
+      {
+        "title": "Todd Stephenson On The Electoral Commission’s Deception",
+        "url": "https://www.youtube.com/watch?v=HZvVowbAqr8",
+        "date_utc": "2026-09-01T00:49:27+00:00",
+        "summary": "Todd Stephenson on the Electoral Commission’s deception and mumbo jumbo."
+      },
+      {
+        "title": "Sean Plunket Reacts To Chris Luxon’s Announcement On Fuel Tax",
+        "url": "https://www.youtube.com/watch?v=tQYpbEDCYow",
+        "date_utc": "2026-09-01T00:17:44+00:00",
+        "summary": "Sean Plunket reacts to Chris Luxon’s announcement on Fuel Tax."
+      },
       {
         "title": "NZ Will Hurt If Fuel Tax Increases Keep Being Delayed Or Cancelled",
         "url": "https://www.youtube.com/watch?v=cje0zRSa-XE",
@@ -242,72 +308,6 @@
         "url": "https://www.youtube.com/watch?v=E5jdF72Yt2U",
         "date_utc": "2026-08-31T03:25:15+00:00",
         "summary": "Beneficiary advocate Kay Brereton on the government’s move to restrict 18/19 year olds from the dole"
-      },
-      {
-        "title": "Sir Ian Taylor Claims MMP Lets Act Party Tail Wag The National Dog",
-        "url": "https://www.youtube.com/watch?v=4vGcAMcvekA",
-        "date_utc": "2026-08-31T02:31:20+00:00",
-        "summary": "Sir Ian Taylor claims MMP lets the Act Party tail wag the National dog"
-      },
-      {
-        "title": "Former AB Captain Breaks Down The 2nd Boks-All Blacks Test",
-        "url": "https://www.youtube.com/watch?v=k8aIKFA1P1A",
-        "date_utc": "2026-08-31T02:08:33+00:00",
-        "summary": "Former AB captain Taine Randell breaks down the 2nd Boks-All Blacks test and previews the next."
-      },
-      {
-        "title": "Michael Laws Breaks Down The Tertiary Student Loan Issue",
-        "url": "https://www.youtube.com/watch?v=3BrAdslmcT8",
-        "date_utc": "2026-08-31T01:54:50+00:00",
-        "summary": "Michael Laws breaks down the tertiary student loan issue - its huge and perversely structured"
-      },
-      {
-        "title": "Tim Costley On FENZ Continuing To Act Up",
-        "url": "https://www.youtube.com/watch?v=T8Kcau4Wdbo",
-        "date_utc": "2026-08-31T00:39:43+00:00",
-        "summary": "Tim Costley on FENZ continuing to act up."
-      },
-      {
-        "title": "Richard Prebble Has Big Predictions For The Upcoming Election",
-        "url": "https://www.youtube.com/watch?v=JzFtFVlgBg8",
-        "date_utc": "2026-08-31T00:20:59+00:00",
-        "summary": "Richard Prebble has big predictions for the upcoming Election."
-      },
-      {
-        "title": "Willy Jackson Promising Co-Governance Under Labour Government",
-        "url": "https://www.youtube.com/watch?v=uNrQmL0RFi8",
-        "date_utc": "2026-08-31T00:02:58+00:00",
-        "summary": "Sean Plunket reacts to Willy Jackson promising Co-governance under Labour Government."
-      },
-      {
-        "title": "18% Of Kiwi Kids Leave School With Zero Qualifications.",
-        "url": "https://www.youtube.com/watch?v=l1IvFfCwWfc",
-        "date_utc": "2026-08-30T09:17:14+00:00",
-        "summary": "SPANZ chairperson Louise Anaru on why 18% of Kiwi kids leave school with zero qualifications"
-      },
-      {
-        "title": "ML Says Air New Zealand Are A Loss-Making National Embarrassment",
-        "url": "https://www.youtube.com/watch?v=qGowJ1P1ddY",
-        "date_utc": "2026-08-28T02:35:25+00:00",
-        "summary": "Michael Laws says Air New Zealand are a loss-making national embarrassment"
-      },
-      {
-        "title": "Emeritus Professor Inness Asher on NZ’s child poverty epidemic",
-        "url": "https://www.youtube.com/watch?v=RspDOBCKVgw",
-        "date_utc": "2026-08-28T02:24:53+00:00",
-        "summary": "Emeritus Professor Inness Asher On NZ’s Child Poverty Epidemic"
-      },
-      {
-        "title": "Breaking News: Craig Stobo’s First Interview As A NZ First Candidate",
-        "url": "https://www.youtube.com/watch?v=PLQUtBclpU8",
-        "date_utc": "2026-08-28T01:38:30+00:00",
-        "summary": "Breaking News: Craig Stobo’s first interview as a NZ First candidate"
-      },
-      {
-        "title": "Paul Henry On ACT’s Plan To Abolish The Climate Change Commission",
-        "url": "https://www.youtube.com/watch?v=1dvLAav0ku0",
-        "date_utc": "2026-08-28T00:37:15+00:00",
-        "summary": "Paul Henry on ACT’s plan to abolish the Climate Change Commission."
       }
     ],
     "opinions": [
