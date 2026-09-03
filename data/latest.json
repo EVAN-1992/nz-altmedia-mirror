@@ -1,19 +1,37 @@
 {
-  "generated_utc": "2026-09-02T15:02:30Z",
+  "generated_utc": "2026-09-03T14:56:41Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
       {
-        "title": "Doctor raises new questions over myocarditis deaths and monitoring after RCR teen vaccine revelations",
-        "url": "https://realitycheck.radio/doctor-raises-new-questions-over-myocarditis-deaths-and-monitoring-after-rcr-teen-vaccine-revelations/",
-        "date_utc": "2026-09-01T09:29:12Z",
-        "summary": ""
+        "title": "Seymour’s Focus On Equality Is 50 Years Too Late",
+        "url": "https://realitycheck.radio/seymours-focus-on-equality-is-50-years-too-late/",
+        "date_utc": "2026-09-03T00:11:41Z",
+        "summary": "by Nathan Smith The ACT Party’s policies to ensure equality […]"
+      },
+      {
+        "title": "Accountability lost",
+        "url": "https://realitycheck.radio/accountability-lost/",
+        "date_utc": "2026-09-03T00:00:50Z",
+        "summary": "by Simon O’Connor Accountability is a cornerstone of a successful […]"
+      },
+      {
+        "title": "Tour Report: Robben Island",
+        "url": "https://realitycheck.radio/tour-report-robben-island/",
+        "date_utc": "2026-09-01T00:06:15Z",
+        "summary": "by Peter Williams It’s surely a unique tourism experience in […]"
       },
       {
         "title": "The Compliant Citizen",
         "url": "https://realitycheck.radio/the-compliant-citizen/",
         "date_utc": "2026-08-30T23:05:11Z",
         "summary": "by Keri Molloy Australian researchers fitted five magpies with GPS […]"
+      },
+      {
+        "title": "Tour Report: Ticket Fiasco",
+        "url": "https://realitycheck.radio/tour-report-ticket-fiasco/",
+        "date_utc": "2026-08-30T00:04:05Z",
+        "summary": "by Peter Williams It was never going to be a […]"
       },
       {
         "title": "If I Were PM: Fix The Machine Before The Policies",
@@ -76,55 +94,115 @@
         "summary": "by Nicole Foss Drones have been a major game-changer in […]"
       },
       {
-        "title": "Tour Report",
-        "url": "https://realitycheck.radio/tour-report/",
-        "date_utc": "2026-08-25T22:38:02Z",
-        "summary": "by Peter Williams Our tour in South Africa is about […]"
-      },
-      {
-        "title": "Reflections from the ED",
-        "url": "https://realitycheck.radio/reflections-from-the-ed/",
-        "date_utc": "2026-08-23T22:40:32Z",
-        "summary": "by Simon O’Connor I recently had an unexpected visit to […]"
-      },
-      {
-        "title": "Trouble On Tour",
-        "url": "https://realitycheck.radio/trouble-on-tour/",
-        "date_utc": "2026-08-23T22:35:14Z",
-        "summary": "by Peter Williams Too much of the talk at breakfast […]"
-      },
-      {
-        "title": "FREDDIE PONTON: CIA’s Moscow Mystery: What Was Radcliffe Really Doing On That Cargo Plane?",
-        "url": "https://realitycheck.radio/episodes/freddie-ponton-cias-moscow-mystery-what-was-radcliffe-really-doing-on-that-cargo-plane/",
-        "date_utc": "2026-09-02T07:17:25Z",
+        "title": "DAVID CUNNINGHAM: CEO of Squirrel: NZ Housing Market Enters a New Normal",
+        "url": "https://realitycheck.radio/episodes/david-cunningham-ceo-of-squirrel-nz-housing-market-enters-a-new-normal/",
+        "date_utc": "2026-09-03T05:57:26Z",
         "summary": ""
       },
       {
-        "title": "MONEY TALKS: with Joel Robinson: Bitcoin’s Cascading Liquidations and ACT’s New Digital Asset Policy",
-        "url": "https://realitycheck.radio/episodes/money-talks-with-joel-robinson-bitcoins-cascading-liquidations-and-acts-new-digital-asset-policy/",
-        "date_utc": "2026-09-02T06:20:21Z",
+        "title": "MIA HUGHES: Director of Genspect Canada, Journalist and Researcher: Sexual Fetish and Male Lactation",
+        "url": "https://realitycheck.radio/episodes/mia-hughes-director-of-genspect-canada-journalist-and-researcher-sexual-fetish-and-male-lactation/",
+        "date_utc": "2026-09-03T03:42:08Z",
         "summary": ""
       },
       {
-        "title": "SIMON COURT: ACT’s Energy and Resources Spokesperson: Could New Zealand Walk Away From the Paris Agreement?",
-        "url": "https://realitycheck.radio/episodes/simon-court-acts-energy-and-resources-spokesperson-could-new-zealand-walk-away-from-the-paris-agreement/",
-        "date_utc": "2026-09-02T06:09:37Z",
+        "title": "PROF GREG SIMONS: International Media Professor: Reordering Power from Ukraine to Iran",
+        "url": "https://realitycheck.radio/episodes/prof-greg-simons-international-media-professor-reordering-power-from-ukraine-to-iran/",
+        "date_utc": "2026-09-03T03:19:35Z",
         "summary": ""
       },
       {
-        "title": "FREDDIE PONTON: 21st Century Wire Associate Editor: Who Really Controls the Strait of Hormuz?",
-        "url": "https://realitycheck.radio/episodes/freddie-ponton-21st-century-wire-associate-editor-who-really-controls-the-strait-of-hormuz/",
-        "date_utc": "2026-09-02T03:28:21Z",
+        "title": "MICHAEL ARBON: Anonymous Sources — Cowards Hiding in Plain Sight",
+        "url": "https://realitycheck.radio/episodes/michael-arbon-anonymous-sources-in-journalism-whos-really-pulling-the-strings-why/",
+        "date_utc": "2026-09-02T23:07:18Z",
         "summary": ""
       },
       {
-        "title": "MARK REGEV: Former Israeli Ambassador to the UK: Former Israeli Ambassador Warns of Iran’s Nuclear Threat",
-        "url": "https://realitycheck.radio/episodes/mark-regev-former-israeli-ambassador-to-the-uk-former-israeli-ambassador-warns-of-irans-nuclear-threat/",
-        "date_utc": "2026-09-02T02:49:03Z",
+        "title": "ALISON GOODWIN: COVID Vaccines: Pull Them Now — How Long Can They Drag This Out?",
+        "url": "https://realitycheck.radio/episodes/alison-goodwin-covid-vaccines-pull-them-now-how-long-can-they-drag-this-out/",
+        "date_utc": "2026-09-02T23:06:50Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "The best way to destroy your enemy is to make him your friend.",
+        "url": "https://www.youtube.com/shorts/WwNcsOhuvxk",
+        "date_utc": "2026-09-03T08:01:37+00:00",
+        "summary": "🇦🇺 \"The best way to destroy your enemy is to make him your friend.\" - Graham 'Hoody' Hood 🇦🇺 What if understanding your enemy isn't weakness - but one of the most powerful ways to defeat division? 🎥 Watch here: https://rcr.media/episodes/under-the-hood-with-graham-hoody-hood-turning-the-tide-of-battle #RCRMedia #UnderTheHood"
+      },
+      {
+        "title": "Anonymous Sources: Cowards Hiding in Plain Sight",
+        "url": "https://www.youtube.com/shorts/h_mnu1wmh8A",
+        "date_utc": "2026-09-03T07:45:27+00:00",
+        "summary": "🌐 https://RCR.Media | Anonymous Sources: Cowards Hiding in Plain Sight Throw the accusation. Name the target. Hide behind “anonymous sources”. Michael Arbon asks the question too few journalists seem willing to ask: Who is making the accusation and what do they have to gain? If you’re willing to attack someone’s character, have the courage to put your name to it. 📬 Tired of media spin? Get RCR Bites FREE every weekday: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "If those are your heart muscle cells, they're getting damaged. Now, they don't repair themselves.",
+        "url": "https://www.youtube.com/shorts/g6p9IyR1YWg",
+        "date_utc": "2026-09-03T06:30:54+00:00",
+        "summary": "\"If those are your heart muscle cells, they're getting damaged. Now, they don't repair themselves. They turn into scar tissue.\" - Dr Alison Goodwin, GP and Patient Rights Advocate If you developed chest pain, palpitations or shortness of breath after the COVID vaccination, were you warned that these could be signs of myocarditis? And did you seek help? 🎥 Watch here: https://rcr.media/episodes/dr-alison-goodwin-gp-and-patient-rights-advocate-myocarditis-a-deep-dive-into-covid-era-heart-damage #RCRMedia"
+      },
+      {
+        "title": "DAVID CUNNINGHAM",
+        "url": "https://www.youtube.com/watch?v=GTzp5zRvR-g",
+        "date_utc": "2026-09-03T06:04:40+00:00",
+        "summary": "Squirrel CEO David Cunningham joins Paul Brennan to challenge the gloomy headlines around New Zealand’s housing market. He argues slower sales, stable prices and greater housing supply signal a healthier “new normal”, while giving first-home buyers more choice and time to do their homework. Discover more on David Cunningham and Squirrel on Facebook and Instagram No longer trusting the 6pm news? Get RCR Bites, delivered FREE every weekday."
+      },
+      {
+        "title": "It doesn't make any sense to me that you can go through this entire process, and they deem...",
+        "url": "https://www.youtube.com/shorts/n3GEnVmtvLo",
+        "date_utc": "2026-09-03T06:01:53+00:00",
+        "summary": "\"It doesn't make any sense to me that you can go through this entire process, and they deem whatever I've done wrong as taking the highest sanction possible which is a strike-off.\" - Kathryn Pick, Former Principal Should a career-ending sanction be possible without a criminal conviction, particularly when the person was never stood down during a four-and-a-half-year investigation? Maree Buscke speaks with former principal Kathryn Pick about being terminated during the 2021 vaccine mandates, the lack of support from ministries and unions, and the four-and-a-half-year investigation that ended in her being struck off the teaching register. 🎥 Watch here: https://rcr.media/episodes/kathryn-pick-former-principal-struck-off-for-standing-by-her-school-community #RCRMedia"
+      },
+      {
+        "title": "MIA HUGHES",
+        "url": "https://www.youtube.com/watch?v=sq-sV6DjBOE",
+        "date_utc": "2026-09-03T04:05:36+00:00",
+        "summary": "CONTENT WARNING: This interview contains content which some listeners may find disturbing. Listener discretion is advised. Maree Buscke speaks with Mia Hughes, Director of Genspect Canada, about the controversial practice of biological men chemically inducing lactation to breastfeed babies, and the safeguarding concerns surrounding it. Discover more from Mia on X and at Genspect.org Stories you won’t see on the 6pm news — RCR Bites, delivered FREE every weekday."
+      },
+      {
+        "title": "PROF GREG SIMONS",
+        "url": "https://www.youtube.com/watch?v=t43M2RHTNrY",
+        "date_utc": "2026-09-03T04:05:12+00:00",
+        "summary": "Paul Brennan talks with an international media and geopolitical expert based in Bangladesh about shifting momentum in the Ukraine war, arguing Russia now holds numerical superiority and continues advancing despite years of miscalculation on all sides. They discuss Western political leadership, the risks of UK weapons production facilities becoming targets, and doubts over Trump's handling of Iran. They also discuss the widely touted Venezuela oil deal. Discover more from Greg on X Editorial Note This interview presents the perspective of the guest and includes statements about highly contested events and issues relating to Israel and Gaza. Some of those statements are disputed and remain the subject of significant factual, legal and political disagreement. RCR publishes a range of perspectives on contentious issues and encourages listeners to consider the discussion critically and alongside other viewpoints. For various perspectives on RCR Kathryn Ennis-Carter's The Middle East’s Hidden Power Struggle (Part 1) and Tracing the Deep Roots of the Middle East Conflict (Part 2) – Part 3 coming soon. Mark Regev, Former Israeli Ambassador Warns of Iran’s Nuclear Threat Tired of headlines "
+      },
+      {
+        "title": "They spend millions on investigations. Then it seems nobody actually either reads or...",
+        "url": "https://www.youtube.com/shorts/mUlblmDEsYU",
+        "date_utc": "2026-09-03T03:01:12+00:00",
+        "summary": "\"They spend millions on investigations. Then it seems nobody actually either reads or implements the recommendations.\" - Prof Maan Alkaisi, CTV Families Spokesperson If authorities receive clear warnings but fail to act, should accountability begin before the next tragedy happens, not after it? 🎥 Watch here: https://rcr.media/episodes/prof-maan-alkaisi-ctv-families-spokesperson-mt-maunganui-a-preventable-tragedy #RCRMedia"
+      },
+      {
+        "title": "MICHAEL ARBON",
+        "url": "https://www.youtube.com/shorts/fbuOpLmLPIk",
+        "date_utc": "2026-09-03T01:03:50+00:00",
+        "summary": "Michael Arbon argues that modern journalism's reliance on anonymous sources allows accusers to damage someone's reputation while facing none of the scrutiny applied to their named target. Discover more from Michael on Facebook , Instagram and X Look beyond the headlines. Get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "We are now as citizens paying for the irresponsibility of years of councils who basically have...",
+        "url": "https://www.youtube.com/shorts/M86EJ4RbYfI",
+        "date_utc": "2026-09-03T00:01:17+00:00",
+        "summary": "\"We are now as citizens paying for the irresponsibility of years of councils who basically have chosen to spend council rates money on shiny projects and virtue-signalling projects.\" - Kathryn Ennis-Carter, Governance and Public Management Adviser If councils had focused on maintaining essential infrastructure instead, would today's rates and water charges be so high? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-council-watch-open-forum #RCRMedia #WednesdayWebinar"
+      },
+      {
+        "title": "To create a regulator to control what people say in a format that they haven't been able to...",
+        "url": "https://www.youtube.com/shorts/60rtbM3jZhc",
+        "date_utc": "2026-09-02T20:02:48+00:00",
+        "summary": "\"To create a regulator to control what people say in a format that they haven't been able to control up until now, which has been the internet.\" - Maree Buscke At what point does \"protecting people\" become an excuse for government to regulate and control more of everyday life? Maree Buscke and Marty Gibson are back with Media Matters. 🎥 Watch here: https://rcr.media/episodes/media-matters-the-political-free-pass-for-hipkins #RCRMedia #MediaMatters"
+      },
+      {
+        "title": "I think for the normie out there, the number of tests that he takes has been rising and rising.",
+        "url": "https://www.youtube.com/shorts/LOFNMTKTVmc",
+        "date_utc": "2026-09-02T19:31:10+00:00",
+        "summary": "\"I think for the normie out there, the number of tests that he takes has been rising and rising.\" - Nick Hudson, Chairman of PANDA Are we being tested more than ever because it improves health - or because there is money in finding something to treat? 🎥 Watch here: https://rcr.media/episodes/nick-hudson-chairman-of-panda-the-fauci-farce-and-false-pandemic-narrative #RCRMedia"
+      },
+      {
+        "title": "He's been there for eight years.",
+        "url": "https://www.youtube.com/shorts/j9bhG_3FTog",
+        "date_utc": "2026-09-02T19:01:48+00:00",
+        "summary": "\"He's been there for eight years.\" - Sam Uffindell, National MP for Tauranga How many years is long enough before responsibility for an organisation's failures has to reach the person at the top? 🎥 Watch here: https://rcr.media/episodes/sam-uffindell-national-mp-for-tauranga-council-under-fire-over-landslide #RCRMedia"
+      },
       {
         "title": "MONEY TALKS",
         "url": "https://www.youtube.com/watch?v=owAsZzwzE_c",
@@ -136,89 +214,83 @@
         "url": "https://www.youtube.com/watch?v=XiefoX02Evo",
         "date_utc": "2026-09-02T07:04:32+00:00",
         "summary": "Simon Court MP joins Maree Buscke to discuss ACT’s push to renegotiate — or potentially leave — the Paris Agreement, protecting professionals from being punished for lawful personal views, local government reform, and what New Zealand children should be learning about the Holocaust, communism and history. Discover more from Simon Court MP and on Facebook RCR stories you don't want to miss Janet Dickson, the Real Estate Agent Fighting Back Against Controversial Course Kathryn Ennis-Carter's The Middle East’s Hidden Power Struggle (Part 1) and Tracing the Deep Roots of the Middle East Conflict (Part 2) – Part 3 coming soon. For election news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "It's really one-sided. It looks like India gets a lot of the benefits out of it.",
-        "url": "https://www.youtube.com/shorts/_qaAdiE1xRg",
-        "date_utc": "2026-09-02T07:01:32+00:00",
-        "summary": "\"It's really one-sided. It looks like India gets a lot of the benefits out of it.\" - Bernadette Soares, NZ First Candidate for Upper Harbour If a trade deal appears to favour one country over the other, should New Zealand be signing it at all? 🎥 Watch here: https://rcr.media/episodes/bernadette-soares-nz-first-candidate-for-upper-harbour-cost-of-living-the-india-fta-the-case-for-nz-first #RCRMedia"
-      },
-      {
-        "title": "In light of what you now know, how do you feel about that?",
-        "url": "https://www.youtube.com/shorts/Pw46w3SUrAE",
-        "date_utc": "2026-09-02T06:30:48+00:00",
-        "summary": "\"In light of what you now know, how do you feel about that?\" - Maree Buscke If you discovered that decisions putting you at risk were made without full informed consent, would it change who gets your vote? Maree Buscke and Marty Gibson are back with Media Matters. 🎥 Watch here: https://rcr.media/episodes/media-matters-the-political-free-pass-for-hipkins #RCRMedia #MediaMatters"
-      },
-      {
-        "title": "Is New Zealand's immigration system leaving the country open to exploitation?",
-        "url": "https://www.youtube.com/shorts/2lGAEkpOMoY",
-        "date_utc": "2026-09-02T06:30:34+00:00",
-        "summary": "\"That's what happens when you have blockchain migration, bringing a host of undesirables into New Zealand, who are here and regard us as some carcass that they can feed upon like vultures.\" - Shane Jones, NZ First Deputy Leader Is New Zealand's immigration system leaving the country open to exploitation? Shane Jones says it is - what do you think? 🎥 Watch here: https://rcr.media/episodes/shane-jones-new-zealand-first-deputy-leader-a-grand-coalition-is-in-the-offing"
-      },
-      {
-        "title": "So, the best I can offer you is two to three months of your life.",
-        "url": "https://www.youtube.com/shorts/PnlHAFcRTp4",
-        "date_utc": "2026-09-02T06:01:06+00:00",
-        "summary": "\"So, the best I can offer you is two to three months of your life.\" - Ross Collett, Retired Insurance Broker Rodney Hide speaks with Ross Collett, who was diagnosed with terminal pancreatic cancer and given just 2–3 months to live. Ross chose to pursue alternative treatments, including hyperbaric oxygen therapy, and has now completed more than 230 sessions. More than a year on, he remains active, optimistic and determined to make the most of his time. What would you do differently if you were told you had just 2-3 months to live? 🎥 Watch here: https://rcr.media/episodes/ross-collett-retired-insurance-broker-defying-a-terminal-cancer-diagnosis #RCRMedia"
-      },
-      {
-        "title": "FREDDIE PONTON",
-        "url": "https://www.youtube.com/watch?v=Anj_SMIi164",
-        "date_utc": "2026-09-02T04:05:19+00:00",
-        "summary": "Paul Brennan talks with Freddie Ponton, Associate Editor of Global Affairs at 21st Century Wire, about Iran's tightening control over the Strait of Hormuz and looming pressure on global oil supply. Freddie also dissects the widely touted Venezuela oil deal, arguing the underlying figures don't add up, before turning to Russia's warnings over UK-supplied missiles to Ukraine and the EU's contested plan to use frozen Russian assets to fund Ukraine. Discover more from 21st Century Wire or find them on X Follow Freddie on X Editorial Note This interview presents the perspective of the guest and includes statements about highly contested events and issues relating to Israel and Gaza. Some of those statements are disputed and remain the subject of significant factual, legal and political disagreement. RCR publishes a range of perspectives on contentious issues and encourages listeners to consider the discussion critically and alongside other viewpoints. For various perspectives on RCR Kathryn Ennis-Carter's The Middle East’s Hidden Power Struggle (Part 1) and Tracing the Deep Roots of the Middle East Conflict (Part 2) – Part 3 coming soon. Mark Regev, Former Israeli Ambassador Warns of Ir"
-      },
-      {
-        "title": "BOTH BARRELS",
-        "url": "https://www.youtube.com/watch?v=uZLgs36j-24",
-        "date_utc": "2026-09-02T03:05:26+00:00",
-        "summary": "On Both Barrels this week, Rachel Stewart and Maree Buscke discuss their experiences with a particularly severe flu season, describing how seriously ill they became and suggesting it may be the worst flu season since 2016. They also reflect on how the pandemic may have affected public trust in health advice and vaccination. The conversation then turns to Dolly Parton, celebrating her extraordinary music career, business success and philanthropic legacy, including her support for COVID-19 vaccine research. Riding Shotgun: We Can Be Heroes Dolly Parton's funniest moments Discover more from Maree on X and Rachel on Substack and X For discussions you won't hear elsewhere, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "MARK REGEV",
-        "url": "https://www.youtube.com/watch?v=IiXajZUd4HU",
-        "date_utc": "2026-09-02T03:04:47+00:00",
-        "summary": "Simon speaks with former Israeli ambassador Mark Regev about the ongoing Israel-Hamas conflict, Israel’s strikes on Iran’s nuclear facilities, growing ties between Israel and Arab nations and the prospects for change in Iran. Regev also addresses criticism of Israel, rising antisemitism and declining international support for the country. Discover more from Mark Regev on Facebook and on X Editorial Note This interview presents the perspective of the guest and includes statements about highly contested events and issues relating to Israel and Gaza. Some of those statements are disputed and remain the subject of significant factual, legal and political disagreement. RCR publishes a range of perspectives on contentious issues and encourages listeners to consider the discussion critically and alongside other viewpoints. For more from RCR on these issues Here's Kathryn Ennis-Carter in The Middle East’s Hidden Power Struggle (Part 1) and Tracing the Deep Roots of the Middle East Conflict (Part 2) – Part 3 coming soon. For another perspective, check out Freddie Ponton's Battle for the Global South or Professor Greg Simons' Consequences of US/Israel Attack on Iran Tired of headlines tellin"
-      },
-      {
-        "title": "DR KEVIN DONNELLY",
-        "url": "https://www.youtube.com/watch?v=_oSY6oZR9MM",
-        "date_utc": "2026-09-02T02:05:04+00:00",
-        "summary": "Dr Kevin Donnelly AM joins Michael Arbon to examine major changes in Australia’s education system, including the rise of low-fee independent schools, classical education and homeschooling. They discuss curriculum standards, academic rigour, political ideology in schools, parental choice and Donnelly’s argument for a more knowledge-rich, intellectually rigorous and freedom-focused approach to education. Discover more from Dr Kevin Donnelly and his book, Wake Up To Woke – It's Time, Australia The stories you won’t find on the 6pm news — RCR Bites , FREE every weekday"
-      },
-      {
-        "title": "Is Christopher Luxon's \"bottom line\" on Paris really a bottom line?",
-        "url": "https://www.youtube.com/watch?v=nZmF876Lrf4",
-        "date_utc": "2026-09-02T01:15:25+00:00",
-        "summary": "\"And I say again, any political leader deploying language such as bottom lines, I predict it'll line their bottom.\" - Shane Jones @mangonui08, NZ First Deputy Leader @nzfirst Is Christopher Luxon's \"bottom line\" on Paris really a bottom line - or could it come back to haunt him after the election? 🎥 Watch here: https://rcr.media/episodes/shane-jones-new-zealand-first-deputy-leader-a-grand-coalition-is-in-the-offing #RCRMedia"
-      },
-      {
-        "title": "Electric cars have fields that are equivalent to you living directly under a power line.",
-        "url": "https://www.youtube.com/shorts/nV06Wi99yYI",
-        "date_utc": "2026-09-02T00:02:04+00:00",
-        "summary": "\"Electric cars have fields that are equivalent to you living directly under a power line.\" - Dr Guy Hatchard, Food Safety & Natural Medicine Advocate If electric vehicles expose drivers and passengers to electromagnetic fields, should we be demanding more long-term research before assuming there is nothing to worry about? 🎥 Watch here: https://rcr.media/episodes/dr-guy-hatchard-food-safety-natural-medicine-advocate-latest-population-statistics-show-nz-in-crisis #RCRMedia"
-      },
-      {
-        "title": "A grand coalition is in the offing...",
-        "url": "https://www.youtube.com/shorts/LpidenB0QPc",
-        "date_utc": "2026-09-01T23:03:56+00:00",
-        "summary": "“I think the National Party have shown if they can't get their way with the ACT Party and the NZ First Party, then they'll go and find common ground with the Labour Party.\" - Shane Jones, NZ First Deputy Leader Would you vote differently if you believed National could ultimately govern alongside Labour? 🎥 Watch here: https://rcr.media/episodes/shane-jones-new-zealand-first-deputy-leader-a-grand-coalition-is-in-the-offing"
-      },
-      {
-        "title": "They're stripping us from any democracy practically. And that's what people need to learn.",
-        "url": "https://www.youtube.com/shorts/nmADUIdKid0",
-        "date_utc": "2026-09-01T20:01:19+00:00",
-        "summary": "\"They're stripping us from any democracy practically. And that's what people need to learn.\" - Madeleine Hunt, Heritage Party General Secretary & civic accountability advocate. @heritageparty Are councils becoming more centralised at the very moment communities need more direct influence over what happens in their own neighbourhoods? 🎥 Watch here: https://rcr.media/episodes/rachel-mathews-madeleine-hunt-council-watch-uk-and-nz-councils-centralising-power #RCRMedia"
-      },
-      {
-        "title": "When a government contravenes it and unilaterally goes back in time and makes their action legal...",
-        "url": "https://www.youtube.com/shorts/onQLn8BSNsk",
-        "date_utc": "2026-09-01T19:02:11+00:00",
-        "summary": "\"When a government contravenes it and unilaterally goes back in time and makes their action legal, it's right that the people of New Zealand can see that and turf them out.\" - Cameron Luxton, ACT Party MP Should New Zealand strengthen the Bill of Rights as a safeguard against governments overriding fundamental rights? 🎥 Watch here: https://rcr.media/episodes/cameron-luxton-act-party-mp-mount-maunganui-tragedy-local-government-mmp #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Why Three Senior Public Servants Mean That Integrity Is Dead In NZ",
+        "url": "https://www.youtube.com/watch?v=Lwc0qyiBuYA",
+        "date_utc": "2026-09-03T07:52:09+00:00",
+        "summary": "Why three senior public servants mean that integrity is dead in New Zealand."
+      },
+      {
+        "title": "Economist/Financial Commentator Craig Stobo Returns!",
+        "url": "https://www.youtube.com/watch?v=qU-AHmXV3Ww",
+        "date_utc": "2026-09-03T07:36:37+00:00",
+        "summary": "Economist/financial commentator Craig Stobo returns! The OCR, debt, inflation, the bond markets and much more."
+      },
+      {
+        "title": "Taxpayers Union Fires Up Over The Fake MBIE Resignation Scandal",
+        "url": "https://www.youtube.com/watch?v=UPRUaOfCACw",
+        "date_utc": "2026-09-03T07:06:52+00:00",
+        "summary": "Taxpayers’ Union’s Jordan Williams fires up over the fake MBIE resignation scandal"
+      },
+      {
+        "title": "Bill Allowing Farmers To Buy Their First Homes Using Kiwisaver",
+        "url": "https://www.youtube.com/watch?v=bE0XEzXwrJ8",
+        "date_utc": "2026-09-03T05:05:39+00:00",
+        "summary": "Suze Redmayne, MP for Rangitikei on her bill allowing farmers to buy their first homes using Kiwisaver."
+      },
+      {
+        "title": "OCR Rise A Knock To Retail Sector & Changes To The \"Move-On Orders\"",
+        "url": "https://www.youtube.com/watch?v=dWl4UQIrX5k",
+        "date_utc": "2026-09-03T05:02:22+00:00",
+        "summary": "Carolyn Young, CEO of Retail NZ on the OCR rise a knock to vulnerable retail sector and the \"Move-on orders\" will now exclude under 18s."
+      },
+      {
+        "title": "ACT’s Proposal To Scrap NZ’s Permanent Resident Visa",
+        "url": "https://www.youtube.com/watch?v=xDHE477rv04",
+        "date_utc": "2026-09-03T04:54:38+00:00",
+        "summary": "ACT MP, Parmjeet Parmar on their proposal to scrap New Zealand’s permanent resident visa."
+      },
+      {
+        "title": "Democracy Project’s Dr Bryce Edwards On The MMP Overhang Issue.",
+        "url": "https://www.youtube.com/watch?v=7sNS4B4E2Y0",
+        "date_utc": "2026-09-03T04:45:49+00:00",
+        "summary": "Democracy Project’s Dr Bryce Edwards on the MMP overhang issue."
+      },
+      {
+        "title": "MMP Overhang Is The Only Effective Answer To Te Pati Maori’s Tactics.",
+        "url": "https://www.youtube.com/watch?v=Ob5zh9udx2w",
+        "date_utc": "2026-09-03T04:18:26+00:00",
+        "summary": "Like it or not - creating the Centre-Right MMP overhang is the only effective answer to Te Pati Maori’s tactics."
+      },
+      {
+        "title": "David Seymour On Why ACT Stands For One Law For All",
+        "url": "https://www.youtube.com/watch?v=iMM6bXNqBqs",
+        "date_utc": "2026-09-03T00:55:23+00:00",
+        "summary": "David Seymour on why ACT stands for one law for all."
+      },
+      {
+        "title": "Eric Crampton On Infrastructure & Fuel Tax",
+        "url": "https://www.youtube.com/watch?v=LJuOtuo-4aI",
+        "date_utc": "2026-09-03T00:43:53+00:00",
+        "summary": "Eric Crampton on Infrastructure and Fuel Tax."
+      },
+      {
+        "title": "Guy Nunns On Andrew Little’s Lies On Tiaki Wai",
+        "url": "https://www.youtube.com/watch?v=ur2kb2CJhic",
+        "date_utc": "2026-09-03T00:00:46+00:00",
+        "summary": "Guy Nunns on Andrew Little’s Lies on Tiaki Wai."
+      },
+      {
+        "title": "Grant McCallum On Tamatha Paul’s Lies About Him In Parliament",
+        "url": "https://www.youtube.com/watch?v=jcXCfYGgwWM",
+        "date_utc": "2026-09-02T23:38:43+00:00",
+        "summary": "Grant McCallum on Tamatha Paul’s lies about him in parliament."
+      },
       {
         "title": "Cutting Red Tape Between The Farm Gate & The Freezer",
         "url": "https://www.youtube.com/watch?v=BYniYJMf0Hw",
@@ -236,78 +308,6 @@
         "url": "https://www.youtube.com/watch?v=6W7n5RBF5xI",
         "date_utc": "2026-09-02T04:44:32+00:00",
         "summary": "Davina Smolders, Far North District Councilor on being removed from a council committee because they didn't like her views, her tough questioning, and her challenges."
-      },
-      {
-        "title": "What Happens If you Have $, And Your Neighbouring Councils Don't?.",
-        "url": "https://www.youtube.com/watch?v=67vbR_1nRKc",
-        "date_utc": "2026-09-02T03:47:25+00:00",
-        "summary": "What happens if you have $, and your neighbouring councils don't?. Central Otago mayor Tamah Alley."
-      },
-      {
-        "title": "Free Flu Jabs For The Under-6s. GPs' President Explains Why.",
-        "url": "https://www.youtube.com/watch?v=T2vaWpFYafU",
-        "date_utc": "2026-09-02T02:15:17+00:00",
-        "summary": "Free flu jabs for the under-6s. GPs' president Dr Luke Bradford explains why."
-      },
-      {
-        "title": "Do We Still Need Juries? Defence lawyer Explores The Options.",
-        "url": "https://www.youtube.com/watch?v=ZWZ7uf5-fYQ",
-        "date_utc": "2026-09-02T02:06:07+00:00",
-        "summary": "Do we still need juries? Defence lawyer Marie Dyhrberg KC explores the options."
-      },
-      {
-        "title": "ML exposes the truth about the public sector strike.",
-        "url": "https://www.youtube.com/watch?v=7ZH-YpWgfOw",
-        "date_utc": "2026-09-02T01:53:12+00:00",
-        "summary": "Michael Laws exposes the truth about the public sector strike and pay comparisons with private sector."
-      },
-      {
-        "title": "Is It Time To Cancel Your Health Insurance? A Different Kind of Cancel Culture – YMM",
-        "url": "https://www.youtube.com/watch?v=ryPryuffkc8",
-        "date_utc": "2026-09-02T01:23:24+00:00",
-        "summary": "Your Money Matters with Harness Financial Episode 56 - Is It Time To Cancel Your Health Insurance? A Different Kind of Cancel Culture. Make smart decisions for your financial future with Samuel Rees-Thomas and Dieter Timmerman from Harness Financial. Find out more at https://www.harnessfinancial.co.nz/"
-      },
-      {
-        "title": "John Banks’ Hot Takes On The 2026 Election",
-        "url": "https://www.youtube.com/watch?v=OOhxAndYr2E",
-        "date_utc": "2026-09-02T01:08:17+00:00",
-        "summary": "John Banks’ hot takes on the upcoming 2026 Election."
-      },
-      {
-        "title": "Simon Court On National’s Paris Climate Accord Bottom Line",
-        "url": "https://www.youtube.com/watch?v=jusQCI_EDkQ",
-        "date_utc": "2026-09-02T00:38:26+00:00",
-        "summary": "ACT Party’s Simon Court on National’s Paris Climate Accord bottom line."
-      },
-      {
-        "title": "“National Shouldn’t Put Infrastructure On The Credit Card”",
-        "url": "https://www.youtube.com/watch?v=lGUdiG9mbz8",
-        "date_utc": "2026-09-02T00:25:03+00:00",
-        "summary": "Cameron Bagrie says National shouldn’t put infrastructure on the credit card."
-      },
-      {
-        "title": "How Many Nurses Do We Need?",
-        "url": "https://www.youtube.com/watch?v=D9vFgrwV0zA",
-        "date_utc": "2026-09-01T23:09:02+00:00",
-        "summary": "How many nurses do we need? Prudence Thompson, founder of Accent Health Recruitment."
-      },
-      {
-        "title": "Selwyn Mayor On Fast Track Housing Developments & That 4% Rates Cap",
-        "url": "https://www.youtube.com/watch?v=tRlktv0xB2g",
-        "date_utc": "2026-09-01T07:26:22+00:00",
-        "summary": "Selwyn Mayor Lydia Giddon on fast track housing developments & that 4% rates cap"
-      },
-      {
-        "title": "Doing Away With The Idea Of A New Tax On Kiwis Travelling Within NZ",
-        "url": "https://www.youtube.com/watch?v=qamMO7zBFaI",
-        "date_utc": "2026-09-01T05:40:22+00:00",
-        "summary": "ACT MP Cameron Luxton on the Local Tourist Dividend: doing away with the idea of a new tax on Kiwis travelling within their own country."
-      },
-      {
-        "title": "Air NZ Records Loss, Student Loan Cap Affects Would-Be Pilots & More",
-        "url": "https://www.youtube.com/watch?v=eP4ywzACgTQ",
-        "date_utc": "2026-09-01T05:23:08+00:00",
-        "summary": "Irene King, Aviation Commentator - Air NZ records eye-watering loss, Student loan cap a massive blight for would-be pilots and Government support welcomed in regional airports."
       }
     ],
     "opinions": [
