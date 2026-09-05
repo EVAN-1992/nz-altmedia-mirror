@@ -1,13 +1,19 @@
 {
-  "generated_utc": "2026-09-04T14:53:55Z",
+  "generated_utc": "2026-09-05T13:49:15Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
       {
+        "title": "Gaming the Election",
+        "url": "https://realitycheck.radio/gaming-the-election/",
+        "date_utc": "2026-09-04T23:23:09Z",
+        "summary": "by Dr Muriel Newman The election is on a knife-edge. […]"
+      },
+      {
         "title": "How many New Zealanders have died or been injured after Covid-19 vaccination?",
         "url": "https://realitycheck.radio/how-many-new-zealanders-have-died-or-been-injured-after-covid-19-vaccination/",
         "date_utc": "2026-09-04T05:38:00Z",
-        "summary": "by Bonnie Flaws After a recent RCR investigation revealed that […]"
+        "summary": ""
       },
       {
         "title": "Riding Shotgun – ep 60: WeCroak Is the Perfect App",
@@ -88,43 +94,55 @@
         "summary": "by Rachel Stewart So, this is me after a week […]"
       },
       {
-        "title": "WHO’s High-Price Pandemic Plan",
-        "url": "https://realitycheck.radio/whos-high-price-pandemic-plan/",
-        "date_utc": "2026-08-27T04:05:18Z",
+        "title": "SONIA ELIJAH: Excess Deaths Unveiled: Are Covid Vaccines The Inconvenient Truth?",
+        "url": "https://realitycheck.radio/episodes/sonia-elijah-excess-deaths-unveiled-are-covid-vaccines-the-inconvenient-truth/",
+        "date_utc": "2026-09-04T16:51:09Z",
         "summary": ""
       },
       {
-        "title": "THE BRENNAN BAROMETER: Forgiveness is a Superpower",
-        "url": "https://realitycheck.radio/episodes/the-brennan-barometer-forgiveness-is-a-superpower/",
-        "date_utc": "2026-09-04T05:10:07Z",
+        "title": "DAVID CUNNINGHAM: NZ Housing Reset: Cheaper Prices Are The New Normal, Get Used To It",
+        "url": "https://realitycheck.radio/episodes/david-cunningham-nz-housing-reset-cheaper-prices-are-the-new-normal-get-used-to-it/",
+        "date_utc": "2026-09-04T16:50:56Z",
         "summary": ""
       },
       {
-        "title": "JANET DICKSON: NZ Real Estate Agent: Licence Cancelled, Rules Changed – What Happens Now?",
-        "url": "https://realitycheck.radio/episodes/janet-dickson-nz-real-estate-agent-licence-cancelled-rules-changed-what-happens-now/",
-        "date_utc": "2026-09-04T05:09:10Z",
+        "title": "WEEKLY ROUNDUP: H1B Fee Barrier: Could the US Model Fix NZ’s Visa Problem?",
+        "url": "https://realitycheck.radio/episodes/weekly-roundup-h1b-fee-barrier-could-the-us-model-fix-nzs-visa-problem/",
+        "date_utc": "2026-09-04T16:49:37Z",
         "summary": ""
       },
       {
-        "title": "A POLITICAL AGENDA: With Maree Buscke, Sandra Goudie & Joshua Riley: Are NZ’s Laws Putting Rights and Freedoms at Risk?",
-        "url": "https://realitycheck.radio/episodes/a-political-agenda-with-maree-buscke-sandra-goudie-joshua-riley-are-nzs-laws-putting-rights-and-freedoms-at-risk/",
-        "date_utc": "2026-09-04T05:07:25Z",
+        "title": "DAVINA SMOLDERS: NZ Council Ousts Lone Non-Maori Voice for Ideological Non-Compliance",
+        "url": "https://realitycheck.radio/episodes/davina-smolders-nz-council-ousts-lone-non-maori-voice-for-ideological-non-compliance/",
+        "date_utc": "2026-09-04T16:48:59Z",
         "summary": ""
       },
       {
-        "title": "SONIA ELIJAH: British Investigative Journalist: BMJ retraction of Excess Deaths Study",
-        "url": "https://realitycheck.radio/episodes/sonia-elijah-british-investigative-journalist-bmj-retraction-of-excess-deaths-study/",
-        "date_utc": "2026-09-03T22:48:28Z",
-        "summary": ""
-      },
-      {
-        "title": "MEDIA MATTERS: Māori Nationalism Under the Microscope",
-        "url": "https://realitycheck.radio/episodes/media-matters-maori-nationalism-under-the-microscope/",
-        "date_utc": "2026-09-03T20:07:19Z",
+        "title": "SIMON COURT: NZ’s Paris Accord Exit: Could Walking Away Actually Work?",
+        "url": "https://realitycheck.radio/episodes/simon-court-nzs-paris-accord-exit-could-walking-away-actually-work/",
+        "date_utc": "2026-09-04T16:48:39Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "So, if it's one phrase, if you like, it's this idea of mediocrity, the lowest common denominator.",
+        "url": "https://www.youtube.com/shorts/94h5Bho1eLQ",
+        "date_utc": "2026-09-04T21:02:14+00:00",
+        "summary": "🇦🇺 \"So, if it's one phrase, if you like, it's this idea of mediocrity, the lowest common denominator.\" - Dr Kevin Donnelly, Director of the Education Standards Institute 🇦🇺 Has education sacrificed academic excellence in the pursuit of making sure nobody feels left behind? Michael Arbon speaks to Dr Kevin Donnelly. 🎥 Watch here: https://rcr.media/episodes/dr-kevin-donnelly-director-of-the-education-standards-institute-australias-education-system-and-the-rise-of-school-choice #RCRMedia"
+      },
+      {
+        "title": "There are other diseases where vitamins are part of the treatment protocol. And measles is one.",
+        "url": "https://www.youtube.com/shorts/gfF-t7mrF48",
+        "date_utc": "2026-09-04T20:02:01+00:00",
+        "summary": "\"There are other diseases where vitamins are part of the treatment protocol. And measles is one.\" - Barbara Roberts, Homeopath, Pharmacist and Author Vitamin A and measles already provide a precedent. The question is: are we doing enough research into what other roles vitamins could play in infectious disease treatment? 🎥 Watch here: https://rcr.media/episodes/barbara-roberts-homeopath-pharmacist-and-author-informed-choice-vaccination-and-natural-immunity #RCRMedia"
+      },
+      {
+        "title": "Four walls and a veil.",
+        "url": "https://www.youtube.com/shorts/NmUmkHW_uE4",
+        "date_utc": "2026-09-04T19:03:28+00:00",
+        "summary": "\"Four walls and a veil.\" - Kathryn Ennis-Carter, Governance and Public Management Advisor How can a society move toward greater freedom and then rapidly reverse course? Kathryn Ennis-Carter explores the forces behind the resurgence of fundamental Islam. 🎥 Watch here: https://rcr.media/episodes/kathryn-ennis-carter-governance-and-public-management-advisor-tracing-the-deep-roots-of-the-middle-east-conflict #RCRMedia"
+      },
       {
         "title": "A POLITICAL AGENDA",
         "url": "https://www.youtube.com/watch?v=RzL6m8x9S2s",
@@ -196,24 +214,6 @@
         "url": "https://www.youtube.com/shorts/_a7CIptvqsc",
         "date_utc": "2026-09-03T19:31:16+00:00",
         "summary": "\"People's immune systems have been adversely affected, and perhaps are not as efficient.\" - Dr Alison Goodwin, GP and Patient Rights Advocate If hospitalisations and staff sickness are surging, could changes in people's immune health be contributing to what we're seeing - and shouldn't that possibility at least be properly investigated? 🎥 Watch here: https://rcr.media/episodes/dr-alison-goodwin-gp-and-patient-rights-advocate-myocarditis-a-deep-dive-into-covid-era-heart-damage #RCRMedia"
-      },
-      {
-        "title": "It's perfectly legal, and as I say, what many people on the centre-right do anyway.",
-        "url": "https://www.youtube.com/shorts/VO5ocMPzgGo",
-        "date_utc": "2026-09-03T19:03:31+00:00",
-        "summary": "\"It's perfectly legal, and as I say, what many people on the centre-right do anyway.\" - Don Brash, Former National and ACT Leader Should tactical voting become a deliberate strategy for centre-right voters in this election? 🎥 Watch here: https://rcr.media/episodes/don-brash-former-reserve-bank-governor-and-former-national-and-act-leader-strategic-voting-mmp-overhang-and-the-2026-election #RCRMedia"
-      },
-      {
-        "title": "The best way to destroy your enemy is to make him your friend.",
-        "url": "https://www.youtube.com/shorts/WwNcsOhuvxk",
-        "date_utc": "2026-09-03T08:01:37+00:00",
-        "summary": "🇦🇺 \"The best way to destroy your enemy is to make him your friend.\" - Graham 'Hoody' Hood 🇦🇺 What if understanding your enemy isn't weakness - but one of the most powerful ways to defeat division? 🎥 Watch here: https://rcr.media/episodes/under-the-hood-with-graham-hoody-hood-turning-the-tide-of-battle #RCRMedia #UnderTheHood"
-      },
-      {
-        "title": "Anonymous Sources: Cowards Hiding in Plain Sight",
-        "url": "https://www.youtube.com/shorts/h_mnu1wmh8A",
-        "date_utc": "2026-09-03T07:45:27+00:00",
-        "summary": "🌐 https://RCR.Media | Anonymous Sources: Cowards Hiding in Plain Sight Throw the accusation. Name the target. Hide behind “anonymous sources”. Michael Arbon asks the question too few journalists seem willing to ask: Who is making the accusation and what do they have to gain? If you’re willing to attack someone’s character, have the courage to put your name to it. 📬 Tired of media spin? Get RCR Bites FREE every weekday: https://BiteMe.news #RCRMedia"
       }
     ]
   },
