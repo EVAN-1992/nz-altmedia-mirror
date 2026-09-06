@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-05T13:49:15Z",
+  "generated_utc": "2026-09-06T14:05:39Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,42 @@
     ],
     "youtube": [
       {
+        "title": "UNDER THE HOOD",
+        "url": "https://www.youtube.com/watch?v=wFNBuKoBTmw",
+        "date_utc": "2026-09-06T13:00:49+00:00",
+        "summary": "Graham “Hoody” Hood reflects on the airline safety instruction to fit your own oxygen mask before helping others, using it as a metaphor for character development, forgiveness and emotional resilience. He shares stories from a life-raft drill and Australia's wedge-tail eagles to argue that being strong yourself is what allows you to genuinely support family and community through hard times. Discover more from Hoody at Club Grubbery or find him on Facebook and X And for information on Hoody on a Roady NZ tour in October 2026 Think deeper. Question more. Get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "So, it should be easy for a coroner to ask the Ministry of Health...",
+        "url": "https://www.youtube.com/shorts/Lm7pALJu4vI",
+        "date_utc": "2026-09-06T07:01:03+00:00",
+        "summary": "\"So, it should be easy for a coroner to ask the Ministry of Health: 'What is the COVID vaccination status of this person?'\" - Dr Alison Goodwin, GP and Patient Rights Advocate Should this question have been routine for coroners - and if it wasn't, how many cases deserve to be looked at again? 🎥 Watch here: https://rcr.media/episodes/dr-alison-goodwin-gp-and-patient-rights-advocate-myocarditis-a-deep-dive-into-covid-era-heart-damage #RCRMedia"
+      },
+      {
+        "title": "It was so hard to sack a teacher. And yet overnight, there were just thousands of us that were...",
+        "url": "https://www.youtube.com/shorts/98injtOHlE4",
+        "date_utc": "2026-09-06T06:01:16+00:00",
+        "summary": "\"It was so hard to sack a teacher. And yet overnight, there were just thousands of us that were let go.\" - Kathryn Pick, Former Principal How did an education system with such a high threshold for dismissing teachers justify removing thousands of staff virtually overnight during the mandates? 🎥 Watch here: https://rcr.media/episodes/kathryn-pick-former-principal-struck-off-for-standing-by-her-school-community #RCRMedia"
+      },
+      {
+        "title": "But it's sort of settling into this new state where there's enough land for builders...",
+        "url": "https://www.youtube.com/shorts/8yFrqXXcejM",
+        "date_utc": "2026-09-06T03:01:19+00:00",
+        "summary": "\"But it's sort of settling into this new state where there's enough land for builders to develop subdivisions, build houses, and us to buy them.\" - David Cunningham, CEO of Squirrel Has New Zealand finally reached the point where housing supply can actually catch up with demand? 🎥 Watch here: https://rcr.media/episodes/david-cunningham-ceo-of-squirrel-nz-housing-market-enters-a-new-normal #RCRMedia"
+      },
+      {
+        "title": "\"And all these anti-Semites come out of the cracks and feel empowered, and feel energised, because t",
+        "url": "https://www.youtube.com/shorts/BkuBRRQRHME",
+        "date_utc": "2026-09-06T00:02:34+00:00",
+        "summary": "\"And all these anti-Semites come out of the cracks and feel empowered, and feel energised, because their side is winning.\" - Mark Regev, Former Israeli Ambassador to the UK @MarkRegev Simon speaks with former Israeli ambassador Mark Regev about the ongoing Israel-Hamas conflict, Israel’s strikes on Iran’s nuclear facilities, growing ties between Israel and Arab nations and the prospects for change in Iran. Regev also addresses criticism of Israel, rising antisemitism and declining international support for the country. 🎥 Watch here: https://rcr.media/episodes/dr-kevin-donnelly-director-of-the-education-standards-institute-australias-education-system-and-the-rise-of-school-choice #RCRMedia"
+      },
+      {
+        "title": "When you have a failure of governance that generally fails the people...",
+        "url": "https://www.youtube.com/shorts/P-NqDAxwNZY",
+        "date_utc": "2026-09-05T20:01:26+00:00",
+        "summary": "\"When you have a failure of governance that generally fails the people, this is when you get uprisings.\" - Kathryn Ennis-Carter, Governance and Public Management Advisor How far can governments push people before loss of trust turns into open resistance? 🎥 Watch here: https://rcr.media/episodes/kathryn-ennis-carter-governance-and-public-management-advisor-tracing-the-deep-roots-of-the-middle-east-conflict #RCRMedia"
+      },
+      {
         "title": "So, if it's one phrase, if you like, it's this idea of mediocrity, the lowest common denominator.",
         "url": "https://www.youtube.com/shorts/94h5Bho1eLQ",
         "date_utc": "2026-09-04T21:02:14+00:00",
@@ -178,42 +214,6 @@
         "url": "https://www.youtube.com/shorts/WyaqWrfvY70",
         "date_utc": "2026-09-04T06:01:43+00:00",
         "summary": "\"The company, before they gave us the job had to advertise the job in New Zealand, ensure that they couldn't fulfill that job within New Zealand.\" - Bernadette Soares, NZ First Candidate for Upper Harbour Was this kind of 'New Zealanders first' test a better immigration system than what we have today? 🎥 Watch here: https://rcr.media/episodes/bernadette-soares-nz-first-candidate-for-upper-harbour-cost-of-living-the-india-fta-the-case-for-nz-first #RCRMedia"
-      },
-      {
-        "title": "MEDIA MATTERS",
-        "url": "https://www.youtube.com/watch?v=GjJoVeWe0ms",
-        "date_utc": "2026-09-03T23:05:57+00:00",
-        "summary": "Maree and Marty examine growing concerns over Māori nationalism, identity politics and the effectiveness of Māori-focused government policies. They discuss Chris Trotter’s Haters and the Wreckers article, Willie Jackson’s Q+A interview with Jack Tame and whether targeted government spending has delivered better outcomes in education, health and crime. For more information: Q&A | Willie Jackson Interview Chris Trotter Article | The haters and the Wreckers"
-      },
-      {
-        "title": "SONIA ELIJAH",
-        "url": "https://www.youtube.com/watch?v=IFEiiwWq6q4",
-        "date_utc": "2026-09-03T23:04:34+00:00",
-        "summary": "Paul Brennan talks with British investigative journalist Sonia Elijah about the BMJ's retraction of a paper documenting 3 million excess deaths across 47 countries, which she argues meets the hallmarks of scientific suppression rather than genuine research misconduct. For more information: Sonia's substack | Sonia Elijah Investigates Her article: BMJ Retracts 2024 Excess Deaths Paper for the Sin of Spreading “Misinformation” Her interview on RCR in May 2023 | Sonia Elijah on the Pfizer Safety Report for Pregnancy & Lactation For more on this | Jeffrey Tucker, Brownstone Institute Founder: What Fauci’s Diaries Reveal Stories you won’t see on the 6pm news — RCR Bites, delivered FREE every weekday."
-      },
-      {
-        "title": "WEEKLY ROUNDUP",
-        "url": "https://www.youtube.com/watch?v=GonoyMdpYJc",
-        "date_utc": "2026-09-03T21:05:22+00:00",
-        "summary": "Dieuwe de Boer and William McGimpsey cover a busy week in immigration politics, starting with ACT's proposal to abolish permanent residency in New Zealand and require residents to spend real time in the country. They discuss Restore Britain's contested new paper on citizenship and national identity, Canadian police pressuring venues to cancel a migration conference, and Nathan Cofnas' push for a “hereditarian” rethink of racial disparities, before closing with Trump's sweeping US visa crackdowns."
-      },
-      {
-        "title": "RIDING SHOTGUN",
-        "url": "https://www.youtube.com/watch?v=cKgkU3RWI1s",
-        "date_utc": "2026-09-03T21:03:55+00:00",
-        "summary": "Rachel Stewart reflects on her own mortality and discovers that contemplating death can bring an unexpected sense of calm and perspective. She explores the Bhutanese practice of regularly thinking about death, her experience using the WeCroak app, and how reminders of mortality can help put everyday worries, anxieties and family dramas into perspective – sometimes with a much-needed dose of humour. Discover more from Rachel on Substack and X"
-      },
-      {
-        "title": "There's no point in me coming to see you. Good luck.",
-        "url": "https://www.youtube.com/shorts/0hM9K8MCVYg",
-        "date_utc": "2026-09-03T20:01:29+00:00",
-        "summary": "\"There's no point in me coming to see you. Good luck.\" - Kathryn Pick, Former Principal quotes NZEI Union Representative After paying thousands in union fees, would you expect more than \"good luck\" from your union when vaccine mandates were causing a staffing crisis at your school? Maree Buscke speaks with former principal Kathryn Pick about being terminated during the 2021 vaccine mandates, the lack of support from ministries and unions, and the four-and-a-half-year investigation that ended in her being struck off the teaching register. 🎥 Watch here: https://rcr.media/episodes/kathryn-pick-former-principal-struck-off-for-standing-by-her-school-community #RCRMedia"
-      },
-      {
-        "title": "People's immune systems have been adversely affected, and perhaps are not as efficient.",
-        "url": "https://www.youtube.com/shorts/_a7CIptvqsc",
-        "date_utc": "2026-09-03T19:31:16+00:00",
-        "summary": "\"People's immune systems have been adversely affected, and perhaps are not as efficient.\" - Dr Alison Goodwin, GP and Patient Rights Advocate If hospitalisations and staff sickness are surging, could changes in people's immune health be contributing to what we're seeing - and shouldn't that possibility at least be properly investigated? 🎥 Watch here: https://rcr.media/episodes/dr-alison-goodwin-gp-and-patient-rights-advocate-myocarditis-a-deep-dive-into-covid-era-heart-damage #RCRMedia"
       }
     ]
   },
