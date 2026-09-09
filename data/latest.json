@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-09-08T15:01:58Z",
+  "generated_utc": "2026-09-09T15:04:31Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Covid vaccine pregnancy risks: What did Fauci, Pfizer and the regulators know?",
+        "url": "https://realitycheck.radio/covid-vaccine-pregnancy-risks-what-did-fauci-pfizer-and-the-regulators-know/",
+        "date_utc": "2026-09-08T07:21:25Z",
+        "summary": "by Jen Bainbridge Recently surfaced communications and regulatory documents show […]"
+      },
       {
         "title": "What Do ‘Capitalism’ and ‘Socialism’ Really Mean?",
         "url": "https://realitycheck.radio/what-do-capitalism-and-socialism-really-mean/",
@@ -19,7 +25,7 @@
         "title": "How many New Zealanders have died or been injured after Covid-19 vaccination?",
         "url": "https://realitycheck.radio/how-many-new-zealanders-have-died-or-been-injured-after-covid-19-vaccination/",
         "date_utc": "2026-09-04T05:38:00Z",
-        "summary": ""
+        "summary": "by Bonnie Flaws After a recent RCR investigation revealed that […]"
       },
       {
         "title": "Riding Shotgun – ep 60: WeCroak Is the Perfect App",
@@ -88,43 +94,85 @@
         "summary": "by Rodney Hide In 1990 I travelled the country warning […]"
       },
       {
-        "title": "Election Concerns",
-        "url": "https://realitycheck.radio/election-concerns/",
-        "date_utc": "2026-08-27T22:46:56Z",
-        "summary": "by Dr Muriel Newman Last week I received an email […]"
-      },
-      {
-        "title": "SONIA ELIJAH: British Investigative Journalist: What Fauci & Pfizer Knew About Pregnancy Risks",
-        "url": "https://realitycheck.radio/episodes/sonia-elijah-british-investigative-journalist-what-fauci-pfizer-knew-about-pregnancy-risks/",
-        "date_utc": "2026-09-07T06:05:36Z",
+        "title": "MONEY TALKS: With Louis Boulanger: US Debt Hits $40 Trillion as Global Debt Risks Grow",
+        "url": "https://realitycheck.radio/episodes/money-talks-with-louis-boulanger-us-debt-hits-40-trillion-as-global-debt-risks-grow/",
+        "date_utc": "2026-09-09T04:47:46Z",
         "summary": ""
       },
       {
-        "title": "IRENA ZAGLADOV: SA Local Councillor and Liberal Women’s Council President: Who Decides – Parents or the State?",
-        "url": "https://realitycheck.radio/episodes/irena-zagladov-sa-local-councillor-and-liberal-womens-council-president-who-decides-parents-or-the-state/",
-        "date_utc": "2026-09-07T01:07:52Z",
+        "title": "FREDDIE PONTON: 21st Century Wire Associate Editor: Iran Rewrites the Rules in the Gulf",
+        "url": "https://realitycheck.radio/episodes/freddie-ponton-21st-century-wire-associate-editor-iran-rewrites-the-rules-in-the-gulf/",
+        "date_utc": "2026-09-09T03:52:07Z",
         "summary": ""
       },
       {
-        "title": "PROF GRANT SCHOFIELD: Professor of Public Health at Auckland University of Technology: How to Fix a Broken Health System",
-        "url": "https://realitycheck.radio/episodes/prof-grant-schofield-professor-of-public-health-at-auckland-university-of-technology-how-to-fix-a-broken-health-system/",
-        "date_utc": "2026-09-07T00:26:44Z",
+        "title": "SONIA ELIJAH: Pfizer’s Hidden Data: Miscarriages Buried in EU Safety Reports",
+        "url": "https://realitycheck.radio/episodes/sonia-elijah-pfizers-hidden-data-miscarriages-buried-in-eu-safety-reports/",
+        "date_utc": "2026-09-09T03:05:59Z",
         "summary": ""
       },
       {
-        "title": "MIA HUGHES: La Leche League’s Dark Turn: When Breastfeeding Advocacy Goes Too Far",
-        "url": "https://realitycheck.radio/episodes/mia-hughes-la-leche-leagues-dark-turn-when-breastfeeding-advocacy-goes-too-far/",
-        "date_utc": "2026-09-05T19:13:49Z",
+        "title": "SONIA ELIJAH: Fauci’s Admission: mRNA Vaccines and Miscarriage Risk Hidden in Plain Sight",
+        "url": "https://realitycheck.radio/episodes/sonia-elijah-faucis-admission-mrna-vaccines-and-miscarriage-risk-hidden-in-plain-sight/",
+        "date_utc": "2026-09-09T03:05:50Z",
         "summary": ""
       },
       {
-        "title": "MEDIA MATTERS: Millions Wasted: The Hard Truth About Community Funding Gone Wrong",
-        "url": "https://realitycheck.radio/episodes/media-matters-millions-wasted-the-hard-truth-about-community-funding-gone-wrong/",
-        "date_utc": "2026-09-05T19:13:41Z",
+        "title": "SONIA ELIJAH: Pfizer’s Hidden Data: Miscarriages, Neonatal Deaths, and Missing Outcomes Exposed",
+        "url": "https://realitycheck.radio/episodes/sonia-elijah-pfizers-hidden-data-miscarriages-neonatal-deaths-and-missing-outcomes-exposed/",
+        "date_utc": "2026-09-09T03:05:38Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "MONEY TALKS",
+        "url": "https://www.youtube.com/watch?v=0F0pl8lL1rA",
+        "date_utc": "2026-09-09T13:05:22+00:00",
+        "summary": "Paul Brennan speaks with Louis Boulanger about rising global debt and the growing cost of servicing it. They discuss the US national debt exceeding $40 trillion, weakening foreign demand for US Treasuries and the growing role of gold in central-bank reserves. Boulanger warns a global sovereign debt crisis may be emerging, and examines the potential impact on inflation, interest rates, currencies and households, including Japan’s debt and the yen carry trade. DISCLAIMER : The views and information shared on this show are for educational and informational purposes only. They do not constitute personalised financial, investment, tax, or legal advice. Listeners should seek guidance from a licensed financial professional who can provide advice based on their individual situation. Discover more from Louis at LB Now Tired of headlines telling you what to think? Think for yourself. Get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "FREDDIE PONTON",
+        "url": "https://www.youtube.com/watch?v=-ylDEtHw9QY",
+        "date_utc": "2026-09-09T13:02:19+00:00",
+        "summary": "Paul Brennan talks with 21st Century Wire's Freddie Ponton about Iran expanding its control over waters far beyond the Strait of Hormuz, disabling unauthorised vessels and warning any US allies joining the blockade will become targets. They also discuss Itamar Ben-Gvir's campaign centred on removing Gaza's population, which awaits US approval, and the Witkoff-Kushner meeting with Putin, where no territorial concessions were offered despite a temporary halt to strikes on Kyiv. Discover more from 21st Century Wire or find them on X Follow Freddie on X Editorial Note This interview presents the perspective of the guest and includes statements about highly contested events and issues relating to Israel and Gaza. Some of those statements are disputed and remain the subject of significant factual, legal and political disagreement. RCR publishes a range of perspectives on contentious issues and encourages listeners to consider the discussion critically and alongside other viewpoints. For various perspectives on RCR Mark Regev, Former Israeli Ambassador Warns of Iran’s Nuclear Threat Tired of headlines telling you what to think? Think for yourself. Get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "BOTH BARRELS",
+        "url": "https://www.youtube.com/watch?v=LLFIgrp7DKg",
+        "date_utc": "2026-09-09T13:02:01+00:00",
+        "summary": "Maree Buscke and Rachel Stewart host the Free Speech Union's Jillaine Heather and Stephen Franks for a debate on where free speech principles should apply. They clash over Rainbow Story Hour in libraries, with Stewart arguing children cannot meaningfully consent while Franks and Heather defend viewpoint-neutral access to public venues. The panel also examines Brian Tamaki's firearms licence revocation and whether New Zealand's “fit and proper person” test risks becoming a tool for political suppression. Discover more from the FSU Discover more from Maree on X and Rachel on Substack and X For news that makes you think, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "Don Brash has now come out and said: 'Well, actually, hold on a second here...",
+        "url": "https://www.youtube.com/shorts/PoCc84FIqCg",
+        "date_utc": "2026-09-09T07:01:14+00:00",
+        "summary": "\"Don Brash has now come out and said: 'Well, actually, hold on a second here. The other side can do this.'\" - Maree Buscke If Te Pāti Māori can use MMP strategically, what's stopping parties and voters on the other side from doing exactly the same thing? Maree Buscke and Marty Gibson are back with Media Matters. 🎥 Watch here: https://rcr.media/episodes/media-matters-maori-nationalism-under-the-microscope #RCRMedia #MediaMatters"
+      },
+      {
+        "title": "If you'd said that: 'Look, maybe it's not safe for this group', then people would be thinking...",
+        "url": "https://www.youtube.com/shorts/hvMQHAyczlE",
+        "date_utc": "2026-09-09T06:01:56+00:00",
+        "summary": "\"If you'd said that: 'Look, maybe it's not safe for this group', then people would be thinking: 'Well, is it safe for my group? Is it safe for all these other people?'\" - Dr Alison Goodwin, GP and Patient Rights Advocate If officials were afraid that warning 12-17-year-olds would make everyone else question the safety of the vaccines, was protecting the rollout more important than protecting the people being vaccinated? 🎥 Watch here: https://rcr.media/episodes/dr-alison-goodwin-gp-and-patient-rights-advocate-myocarditis-a-deep-dive-into-covid-era-heart-damage #RCRMedia"
+      },
+      {
+        "title": "And you're immediately guilty, just because you say: 'No, I'm not refusing you a saliva test...",
+        "url": "https://www.youtube.com/shorts/dc0dRLAS77U",
+        "date_utc": "2026-09-09T03:01:28+00:00",
+        "summary": "\"And you're immediately guilty, just because you say: 'No, I'm not refusing you a saliva test. I'm just refusing to scrape my tongue with a device that has a number of chemicals on it.'\" - Sandra Goudie, Former Coromandel MP and Thames-Coromandel Mayor Should refusing one particular roadside testing device automatically expose a driver to penalties if they're willing to be tested another way? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-maree-buscke-sandra-goudie-joshua-riley-are-nzs-laws-putting-rights-and-freedoms-at-risk #RCRMedia #APoliticalAgenda"
+      },
+      {
+        "title": "The anticipation is that the US is kicked out of West Asia. So, there's going to be a power vacuum.",
+        "url": "https://www.youtube.com/shorts/x7w13gryJIo",
+        "date_utc": "2026-09-09T00:01:47+00:00",
+        "summary": "\"The anticipation is that the US is kicked out of West Asia. So, there's going to be a power vacuum.\" - Prof Greg Simons, International Media Professor If America really is being pushed out, who fills the vacuum - and what does that mean for the global balance of power? 🎥 Watch here: https://rcr.media/episodes/prof-greg-simons-international-media-professor-reordering-power-from-ukraine-to-iran #RCRMedia"
+      },
+      {
+        "title": "La Leche League’s Shocking Shift?",
+        "url": "https://www.youtube.com/shorts/TV7e1CKudYE",
+        "date_utc": "2026-09-08T20:01:48+00:00",
+        "summary": "La Leche League’s Shocking Shift? \"All of a sudden, they're helping men lactate and breastfeed.\" - Mia Hughes, Director of Genspect Canada, Journalist and Researcher How did an organisation built around mothers and babies end up embracing male lactation? 🎥 Watch here: https://rcr.media/episodes/mia-hughes-director-of-genspect-canada-journalist-and-researcher-sexual-fetish-and-male-lactation #RCRMedia"
+      },
       {
         "title": "GARDENING WITH WALLY",
         "url": "https://www.youtube.com/watch?v=7J1sldxG-1Q",
@@ -166,59 +214,71 @@
         "url": "https://www.youtube.com/shorts/ik-PnHZelLs",
         "date_utc": "2026-09-08T06:01:06+00:00",
         "summary": "\"You have to stay schtum and say nothing and listen, but ignore it and decide that deep down you are rejecting what this is, that you are having to sit there and absorb.\" - Janet Dickson, NZ Real Estate Agent Janet was required to complete Te Kākano, a course covering Māori culture and tikanga, to meet her professional training requirements. Should this have anything to do with whether someone is allowed to work in real estate? Paul Brennan is joined by Janet Dickson following the cancellation of her real estate licence after she refused to complete the mandatory Te Kākano course. 🎥 Watch here: https://rcr.media/episodes/janet-dickson-nz-real-estate-agent-licence-cancelled-rules-changed-what-happens-now #RCRMedia"
-      },
-      {
-        "title": "You can just be hauled before, like if they think you know someone who's up to something",
-        "url": "https://www.youtube.com/shorts/lt-qyuXT9O0",
-        "date_utc": "2026-09-08T03:11:58+00:00",
-        "summary": "🇦🇺 \"You can just be hauled before, like if they think you know someone who's up to something, they can force you, compel you to answer questions, otherwise you go to jail for five years.\" - Tim Wilms from The Unshackled 🇦🇺 Imagine being dragged before ASIO simply because they think you might know someone. Is that a necessary security power - or a dangerous expansion of state power? 🎥 Watch here: https://rcr.media/episodes/the-wilms-report-with-tim-wilms-australias-migration-muddle-free-speech-and-political-turmoil #RCRMedia #TheWilmsReport"
-      },
-      {
-        "title": "You're getting hit with a pretty hefty tax bill for any disposal if you had the foresight...",
-        "url": "https://www.youtube.com/shorts/G3MsFRLokBk",
-        "date_utc": "2026-09-07T19:03:08+00:00",
-        "summary": "\"You're getting hit with a pretty hefty tax bill for any disposal if you had the foresight to invest a fair bit in a digital asset a while ago.\" - Joel Robinson, Radical Investment Could ACT's proposed capital gains exemption for crypto held over a year be a game changer for investors facing hefty IRD bills? 🎥 Watch here: https://rcr.media/episodes/money-talks-with-joel-robinson-bitcoins-cascading-liquidations-and-acts-new-digital-asset-policy #RCRMedia #MoneyTalks"
-      },
-      {
-        "title": "PROF GRANT SCHOFIELD",
-        "url": "https://www.youtube.com/watch?v=c5hzxhcEcUg",
-        "date_utc": "2026-09-07T13:03:11+00:00",
-        "summary": "Paul Brennan talks with public health expert Grant Schofield about New Zealand's deepening healthcare crisis, from GP shortages and ambulance delays to the election parties' health policies. Using Henry Ford's “faster horses” analogy, Schofield argues most parties are simply expanding an overwhelmed system rather than tackling preventable chronic disease, and calls for billions redirected into genuine prevention and flipped financial incentives in primary care. Discover more on the Make New Zealand Healthy website Or find them on Facebook , X and Telegram For election news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "SONIA ELIJAH",
-        "url": "https://www.youtube.com/watch?v=M4G0hEz-DH0",
-        "date_utc": "2026-09-07T13:02:12+00:00",
-        "summary": "British investigative journalist Sonia Elijah examines what Anthony Fauci, Pfizer and regulators knew about potential pregnancy risks from the Covid mRNA shots. She discusses Fauci’s January 2021 texts and diary entries, Pfizer’s pregnancy and lactation safety documents, reports of miscarriage and other adverse pregnancy outcomes, and a study of more than 220,000 pregnancies in Israel. For more information: Sonia's substack | Sonia Elijah Investigates Sonia's interview on RCR in May 2023 | Sonia Elijah on the Pfizer Safety Report for Pregnancy & Lactation Jeffrey Tucker of the Brownstone Institute recently on RCR | What Fauci’s Diaries Reveal Stories you won’t see on the 6pm news — RCR Bites, delivered FREE every weekday."
-      },
-      {
-        "title": "IRENA ZAGLADOV",
-        "url": "https://www.youtube.com/watch?v=OaH0nMoz7Kk",
-        "date_utc": "2026-09-07T13:01:59+00:00",
-        "summary": "Michael Arbon talks with South Australian local councillor and Liberal Women's Council president Irena Zagladov about the failed Childhood Gender Dysphoria Amendment Bill, arguing puberty blockers for minors lack evidence and that parents, not the state, should hold primary decision-making power. Drawing on her upbringing in Soviet Ukraine, she links growing state involvement in children's care to Marxist ideology and discusses the recently recommitted Parental Primacy Bill and the Senate's rejection of a motion affirming parental authority over social media bans. Discover more from Irena Zagladov on Facebook and Instagram , and the Liberal Women's Council The stories you won’t find on the 6pm news — RCR Bites , FREE every weekday"
-      },
-      {
-        "title": "If these workers are really worth their salt, if they're really the high-skilled workers...",
-        "url": "https://www.youtube.com/shorts/TsMpQiGq01I",
-        "date_utc": "2026-09-07T07:30:56+00:00",
-        "summary": "\"If these workers are really worth their salt, if they're really the high-skilled workers that we've been told they are, then it should be worthwhile to pay a $100,000 fee to bring them into the country.\" - William McGimpsey Would a huge visa fee separate genuinely valuable skilled workers from cheap imported labour? Dieuwe de Boer and William McGimpsey are back with Weekly Roundup. 🎥 Watch here: https://rcr.media/episodes/weekly-roundup-the-immigration-debate-reshaping-the-election #RCRMedia #TheWeeklyRoundup"
-      },
-      {
-        "title": "The global reserve is going to be so low that at some stage it's going to hit the market...",
-        "url": "https://www.youtube.com/shorts/o2Ehle01m-Y",
-        "date_utc": "2026-09-07T06:01:16+00:00",
-        "summary": "\"The global reserve is going to be so low that at some stage it's going to hit the market. And when it's going to do that, that's going to be really, really abrupt.\" - Freddie Ponton, Global Affairs Associate Editor 21st Century Wire Could the Strait of Hormuz crisis turn into a fuel, food and economic crisis much faster than people realise? 🎥 Watch here: https://rcr.media/episodes/freddie-ponton-21st-century-wire-associate-editor-who-really-controls-the-strait-of-hormuz #RCRMedia"
-      },
-      {
-        "title": "Because I was questioning procurements and finances and looking at it through an affordability...",
-        "url": "https://www.youtube.com/shorts/DWb62QrAxtg",
-        "date_utc": "2026-09-07T03:01:23+00:00",
-        "summary": "\"Because I was questioning procurements and finances and looking at it through an affordability lens, what was in the best interest of the ratepayers and how we were going to curb our expenses, I voted against some things.\" - Davina Smolders, Far North District Councillor Should challenging council spending be protected as part of an elected councillor's job - even when those questions upset powerful interests? 🎥 Watch here: https://rcr.media/episodes/davina-smolders-far-north-district-councillor-bay-of-islands-whangaroa-general-ward-councillor-challenges-iwi-influence-at-far-north-council #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Calls For Tougher Rideshare Rules As Passenger Complaints Rise",
+        "url": "https://www.youtube.com/watch?v=jD6KX07fw6c",
+        "date_utc": "2026-09-09T04:14:34+00:00",
+        "summary": "Warren Quirke, Small Passenger Service Association Manager - Calls for tougher rideshare rules as passenger complaints rise."
+      },
+      {
+        "title": "Voting Has Opened For Bird Of The Year!",
+        "url": "https://www.youtube.com/watch?v=IW0S9qjc9qo",
+        "date_utc": "2026-09-09T04:14:28+00:00",
+        "summary": "Kasey McDonnell, Forest & Bird Spokesperson - Voting has opened for Bird of The Year!"
+      },
+      {
+        "title": "Young People Are The Least Enrolled. Adriana Bird’s Campaign Response.",
+        "url": "https://www.youtube.com/watch?v=o6jYgTyz-tE",
+        "date_utc": "2026-09-09T02:59:23+00:00",
+        "summary": "Young people are the least enrolled. Adriana Bird’s campaign response."
+      },
+      {
+        "title": "Jenny Marcroft Speaking Before The Select Committee On The Legislation",
+        "url": "https://www.youtube.com/watch?v=QgBlV6UifOA",
+        "date_utc": "2026-09-09T02:43:22+00:00",
+        "summary": "NZ First MP Jenny Marcroft - Speaking before the select committee on the Legislation (Definitions of Woman and Man) Amendment Bill."
+      },
+      {
+        "title": "Treasury’s Attempt To White-Ant The Geothermal Power Project",
+        "url": "https://www.youtube.com/watch?v=MnImv1x8Diw",
+        "date_utc": "2026-09-09T02:37:58+00:00",
+        "summary": "Former Trade Minister Tim Groser on Treasury’s attempt to white-ant the geothermal power project"
+      },
+      {
+        "title": "Michael Comments Upon Another Triple Homicide",
+        "url": "https://www.youtube.com/watch?v=1jcAEIbj7mw",
+        "date_utc": "2026-09-09T02:11:38+00:00",
+        "summary": "Michael Laws comments upon another triple homicide: death penalty is the right punishment."
+      },
+      {
+        "title": "Citizenship/Super Debate, RNZ’s Overt Bias (& The Chinese Argument)",
+        "url": "https://www.youtube.com/watch?v=VgBNI8laQtI",
+        "date_utc": "2026-09-09T02:02:58+00:00",
+        "summary": "The citizenship/super debate, RNZ’s overt bias (& the Chinese argument)"
+      },
+      {
+        "title": "Nicole McKee On The Unfair Treatment Of Janet Dickson",
+        "url": "https://www.youtube.com/watch?v=jIb3LQ99yZo",
+        "date_utc": "2026-09-09T00:36:25+00:00",
+        "summary": "Nicole McKee on the unfair treatment of Janet Dickson."
+      },
+      {
+        "title": "Simon Court On Failed Climate Credit Auction",
+        "url": "https://www.youtube.com/watch?v=2MFuyci7JAQ",
+        "date_utc": "2026-09-09T00:01:38+00:00",
+        "summary": "Simon Court on failed climate credit auction."
+      },
+      {
+        "title": "Introducing James Cleine - NZ First Candidate For West Coast-Tasman",
+        "url": "https://www.youtube.com/watch?v=PgMyT60pfQc",
+        "date_utc": "2026-09-08T23:33:05+00:00",
+        "summary": "Introducing James Cleine as the NZ First Candidate for West Coast-Tasman."
+      },
       {
         "title": "What Does Central Government Need To Do To Make Local Government Work?",
         "url": "https://www.youtube.com/watch?v=29GcH-ZR5aE",
@@ -248,66 +308,6 @@
         "url": "https://www.youtube.com/watch?v=iNZDzMC0FKA",
         "date_utc": "2026-09-07T23:23:38+00:00",
         "summary": "David Farrar on the recent Curia Poll results."
-      },
-      {
-        "title": "Dave Worsley On The US Open",
-        "url": "https://www.youtube.com/watch?v=bq76vmcVsPQ",
-        "date_utc": "2026-09-07T23:07:46+00:00",
-        "summary": "Dave Worsley on the US Open."
-      },
-      {
-        "title": "David Cumin On ‘Kneecap’ Band’s Antisemitism Comment Before NZ Tour",
-        "url": "https://www.youtube.com/watch?v=B8fsBDFHOt4",
-        "date_utc": "2026-09-07T22:57:57+00:00",
-        "summary": "David Cumin on ‘Kneecap’ band’s antisemitism comment before NZ tour."
-      },
-      {
-        "title": "Kingitanga Spokesman on The Maori Queen Coronation Celebrations",
-        "url": "https://www.youtube.com/watch?v=9aJznLWXfIU",
-        "date_utc": "2026-09-07T21:27:22+00:00",
-        "summary": "Kingitanga spokesman Rahui Papa on the Maori Queen coronation celebrations and the politics within."
-      },
-      {
-        "title": "Bank Impersonation Scams More Than Doubled Last Month",
-        "url": "https://www.youtube.com/watch?v=41k5PkLhdVI",
-        "date_utc": "2026-09-07T05:39:20+00:00",
-        "summary": "Sean Lyons, Chief Online Safety Officer at Netsafe - Bank impersonation scams more than doubled last month."
-      },
-      {
-        "title": "Move-On Orders, Youth Crime & The Cost Of Govt On A Business",
-        "url": "https://www.youtube.com/watch?v=YPWdd-tEyLc",
-        "date_utc": "2026-09-07T05:23:11+00:00",
-        "summary": "Ash Parmar, former Member of Govt's Retail Crime Ministerial Advisory Group talks move-on orders, lack of action on youth crime and the cumulative cost of government on a business."
-      },
-      {
-        "title": "Greens' Proposal For A Govt-Owned Supermarket: Madness Or Merit?",
-        "url": "https://www.youtube.com/watch?v=dtXLs2znP-w",
-        "date_utc": "2026-09-07T05:20:43+00:00",
-        "summary": "Ernie Newman, Grocery Industry Expert on the Greens' proposal for a Govt-owned supermarket: madness or merit?"
-      },
-      {
-        "title": "Taxpayers Union's Rhys Hurley Exposes The Tikanga Leave Racism",
-        "url": "https://www.youtube.com/watch?v=4d-8JQL3ITs",
-        "date_utc": "2026-09-07T02:54:27+00:00",
-        "summary": "Taxpayers Union's Rhys Hurley exposes the tikanga leave racism within the public sector."
-      },
-      {
-        "title": "Taine Randell Explains That Boks Test & Our Last Chance In Baltimore",
-        "url": "https://www.youtube.com/watch?v=1cmB9aLRsPA",
-        "date_utc": "2026-09-07T02:33:40+00:00",
-        "summary": "Taine Randell explains that Boks test and our last chance in Baltimore"
-      },
-      {
-        "title": "ML Calls Out Abusive Social Media Antics Of Te Pati Maori Supporters",
-        "url": "https://www.youtube.com/watch?v=FGYOYz7jCa4",
-        "date_utc": "2026-09-07T02:00:37+00:00",
-        "summary": "Michael Laws calls out the feral, violent, abusive social media antics of Te Pati Maori supporters"
-      },
-      {
-        "title": "Janet Dickson On The Removal Of Her Real Estate License",
-        "url": "https://www.youtube.com/watch?v=9q_qBrr_x9Q",
-        "date_utc": "2026-09-07T01:54:58+00:00",
-        "summary": "Janet Dickson on the Removal of her Real Estate License."
       }
     ],
     "opinions": [
