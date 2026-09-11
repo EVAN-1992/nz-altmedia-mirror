@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-10T14:56:38Z",
+  "generated_utc": "2026-09-11T14:56:48Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,72 @@
     ],
     "youtube": [
       {
+        "title": "HARETE HIPANGO-BROWNLIE",
+        "url": "https://www.youtube.com/watch?v=SEMYa9LCBeY",
+        "date_utc": "2026-09-11T13:07:28+00:00",
+        "summary": "Maree Buscke talks with Harete Hipango-Brownlie former National MP and now NZ First candidate for Whanganui, about why she left National over its handling of Covid-era protests and mandates. Harete discusses cost-of-living and housing pressures in her electorate, criticises Māori political leadership over child abuse cases and Māori funding accountability, and argues New Zealanders should hold politicians to account for decisions made during the pandemic. For more on Harete For election news that matters, get RCR Bites FREE every weekday."
+      },
+      {
+        "title": "THE FOURTH ESTATE",
+        "url": "https://www.youtube.com/watch?v=ugQljnz_vQM",
+        "date_utc": "2026-09-11T13:02:52+00:00",
+        "summary": "Maree Buscke hosts barrister Matt Robson and filmmaker Gaylene Barnes to dissect Labour's vague new AI policy, a disputed media account of a candidate meeting confrontation over vaccine questions, and the censure of a Nelson GP for prescribing ivermectin during COVID. Robson and Barnes also clash gently over claims of left-wing media bias, with Barnes arguing independent creators face an “oxygen of amplification” blackout from legacy outlets. For more from the guests Matt Robson and at the NZ Fabian Society Gaylene Barnes , her film River of Freedom , the book Heart of the Protest and on Facebook , and her web-series The+Tribute Look beyond the headlines with RCR Bites , FREE every weekday."
+      },
+      {
+        "title": "MARK HOOPER",
+        "url": "https://www.youtube.com/watch?v=FJKuoY4INJI",
+        "date_utc": "2026-09-11T13:01:25+00:00",
+        "summary": "Paul Brennan talks with Federated Farmers board member Mark Hooper about the rural policies from six parties debated ahead of the election. Hooper welcomes cross-party appetite for productivity growth but flags concerns over Labour's ETS settings, the Greens' regenerative farming push, and Te Pāti Māori's proposed governance structures, while backing calls from National and ACT for fewer rules and stronger property rights. For more from Federated Farmers visit their website or find them on Facebook and X"
+      },
+      {
+        "title": "RIDING SHOTGUN",
+        "url": "https://www.youtube.com/watch?v=5OoNj5ylPyU",
+        "date_utc": "2026-09-11T13:01:06+00:00",
+        "summary": "Rachel Stewart examines the controversy surrounding New York Mayor Zohran Mamdani’s planned attendance at the 25th anniversary 9/11 commemorations, including criticism from victims’ families over his comments, political associations and appointment of Ramzi Kassem. She questions whether Mamdani’s presence is appropriate and argues that the families of those killed should have the final say. Discover more from Rachel on Substack and X"
+      },
+      {
+        "title": "Banks Breaking Wind",
+        "url": "https://www.youtube.com/shorts/qLg7GH7vJuc",
+        "date_utc": "2026-09-11T08:01:21+00:00",
+        "summary": "🌐 https://RCR.Media | 💨💰 Banks Breaking Wind Could wind turbines turn prime farmland into a financial liability? Michael Arbon warns landholders could face decommissioning costs of up to $600,000 per turbine — potentially wiping out years of lease income. Who ultimately pays when the turbines come down? 📫 Want the news behind the headlines? Get RCR Bites FREE every weekday: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "It's done to ensure that people get to value and respect this country as citizens.",
+        "url": "https://www.youtube.com/shorts/XpWPrEsOWQ4",
+        "date_utc": "2026-09-11T07:31:04+00:00",
+        "summary": "\"It's done to ensure that people get to value and respect this country as citizens.\" - Winston Peters, Foreign Minister and NZ First Party Leader Peters says restricting NZ Super to citizens isn't about saving money, but about making citizenship mean something. Should access to taxpayer-funded super require New Zealand citizenship? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-nz-first-pushes-back-on-calls-for-treaty-change #RCRMedia"
+      },
+      {
+        "title": "I think it's taking us down a dark alley and probably playing into the hands of those who...",
+        "url": "https://www.youtube.com/shorts/uVL9B_6WXsM",
+        "date_utc": "2026-09-11T06:31:02+00:00",
+        "summary": "\"I think it's taking us down a dark alley and probably playing into the hands of those who eventually want to make sure that the only firearm is in the hands of the state.\" - Stephen Franks, Free Speech Union guest Did New Zealand's post-Christchurch firearms debate become unnecessarily politicised, turning lawful gun owners into one side of a culture war? Rachel Stewart and Maree Buscke host the Free Speech Union's Jillaine Heather and Stephen Franks for a debate on where free speech principles should apply. 🎥 Watch here: https://rcr.media/episodes/both-barrels-maree-buscke-and-rachel-stewart-with-jillaine-heather-and-stephen-franks-where-do-free-speech-principles-apply #RCRMedia #BothBarrels"
+      },
+      {
+        "title": "If he sees a diabetic and prescribes insulin for them, he's given $150...",
+        "url": "https://www.youtube.com/shorts/BVJJwY9QJL8",
+        "date_utc": "2026-09-11T00:01:39+00:00",
+        "summary": "\"If he sees a diabetic and prescribes insulin for them, he's given $150. If he goes out of his way and counsels them about diet and manages to reverse that diabetes, he gets not a single cent.\" - Prof Grant Schofield, Professor of Public Health at Auckland University of Technology If doctors are financially rewarded for prescribing but not for helping patients achieve remission, are the incentives in our health system completely backwards? 🎥 Watch here: https://rcr.media/episodes/prof-grant-schofield-professor-of-public-health-at-auckland-university-of-technology-how-to-fix-a-broken-health-system #RCRMedia"
+      },
+      {
+        "title": "I really think probably media should be covering these cases more objectively and give more...",
+        "url": "https://www.youtube.com/shorts/-7U8Fl-sGNU",
+        "date_utc": "2026-09-10T21:01:34+00:00",
+        "summary": "🇦🇺 \"I really think probably media should be covering these cases more objectively and give more coverage to not to just the development that supports the agenda of the day, but what is really happening around the world.\" - Irena Zagladov, SA Local Councillor and Liberal Women's Council President 🇦🇺 Are Australian families hearing the full international debate over puberty blockers - including the evidence and cases that challenge prevailing approaches? 🎥 Watch here: https://rcr.media/episodes/irena-zagladov-sa-local-councillor-and-liberal-womens-council-president-who-decides-parents-or-the-state #RCRMedia"
+      },
+      {
+        "title": "What they found was excess fetal losses (which is miscarriages) after vaccination.",
+        "url": "https://www.youtube.com/shorts/6Pz1QM-irNw",
+        "date_utc": "2026-09-10T20:02:28+00:00",
+        "summary": "220,000 Pregnancies. A “Very Strong Signal”? \"What they found was excess fetal losses (which is miscarriages) after vaccination.\" - Sonia Elijah, British Investigative Journalist Sonia says the Israeli analysis found at least four additional fetal losses per 100 pregnancies. Is this the kind of safety signal that should have triggered much more investigation? 🎥 Watch here: https://rcr.media/episodes/sonia-elijah-british-investigative-journalist-what-fauci-pfizer-knew-about-pregnancy-risks #RCRMedia"
+      },
+      {
+        "title": "At the moment they're saying, 'Oh no, we're only going to do it on the high risk'...",
+        "url": "https://www.youtube.com/shorts/bmEWKyifh98",
+        "date_utc": "2026-09-10T19:03:21+00:00",
+        "summary": "\"At the moment they're saying, 'Oh no, we're only going to do it on the high risk'. Hello, it's putting that foot in the door.\" - Sandra Goudie, Former Coromandel MP and Thames-Coromandel Mayor If compulsory farm plans begin with only \"high risk\" properties, what guarantees they won't eventually be expanded to farmers across the entire country? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-maree-buscke-sandra-goudie-joshua-riley-are-nzs-laws-putting-rights-and-freedoms-at-risk #RCRMedia #APoliticalAgenda"
+      },
+      {
         "title": "NICOLE MCKEE",
         "url": "https://www.youtube.com/watch?v=mnAYROGJ47A",
         "date_utc": "2026-09-10T13:04:01+00:00",
@@ -148,77 +214,65 @@
         "url": "https://www.youtube.com/watch?v=G85vXtZ_aog",
         "date_utc": "2026-09-10T13:03:02+00:00",
         "summary": "In this interview, sociologist Jodie Bruning raises concerns about the Reserve Bank of New Zealand’s growing role in modernising the country’s retail payment system, arguing that the shift toward real-time payments could create infrastructure capable of supporting future central bank digital currencies or be linked with other government services and personal data. Bruning questions whether decisions involving critical digital infrastructure should be made by the RBNZ rather than Parliament, and calls for a new legislative framework with stronger democratic oversight. Discover more from Jodie on her Substack and on X , or visit PSGRNZ PSGRNZ's discussion on the RBNZ and the related Official Information Act Request can be found here | Digital Public Infrastructure (September 2026) — PSGRNZ advise that when the RBNZ responds, the page will be updated. Look beyond the headlines. Get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "MEDIA MATTERS",
-        "url": "https://www.youtube.com/watch?v=WSdBSLvEqag",
-        "date_utc": "2026-09-10T13:02:55+00:00",
-        "summary": "Maree Buscke and Marty Gibson examine the Green Party’s proposal to nationalise 120 supermarkets and two distribution centres under a new “Kiwi Mart” chain. They question whether the estimated $6.2 billion cost would deliver meaningful savings, and discuss alternative ways to improve competition, food access and local food production. For further information: NZ Herald | Ryan Bridge interview with Chloe Swarbrick The book | Behind the Tattooed Face by Heretaunga Pat Baker Website | Nourished for Nil Facebook | Nourished for Nil"
-      },
-      {
-        "title": "MICHAEL ARBON",
-        "url": "https://www.youtube.com/shorts/Z45GwFsnzyg",
-        "date_utc": "2026-09-10T13:01:46+00:00",
-        "summary": "Michael Arbon warns that Australia's wind turbine rollout could leave landholders exposed to decommissioning costs of up to $600,000 per turbine — potentially exceeding total lease income. He argues banks and valuers already treat contaminated land cautiously and should apply the same scrutiny to wind infrastructure, since landholders may ultimately bear the cost if energy companies default."
-      },
-      {
-        "title": "And at the end, this is where elite Māori get all the benefits, and those in whose name they...",
-        "url": "https://www.youtube.com/shorts/lAtjbtcX2UI",
-        "date_utc": "2026-09-10T07:30:46+00:00",
-        "summary": "\"And at the end, this is where elite Māori get all the benefits, and those in whose name they make the claims, get nothing.\" - Winston Peters, Foreign Minister and NZ First Party Leader Does Treaty-based policy genuinely improve life for ordinary Māori - or does too much benefit flow to institutions and political elites? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-nz-first-pushes-back-on-calls-for-treaty-change #RCRMedia"
-      },
-      {
-        "title": "270 Pregnancy Cases. 238 Outcomes Unknown. 23 Miscarriages Reported.",
-        "url": "https://www.youtube.com/shorts/WUgkmp6J-zI",
-        "date_utc": "2026-09-10T07:01:38+00:00",
-        "summary": "270 Pregnancy Cases. 238 Outcomes Unknown. 23 Miscarriages Reported. \"Of the 32 cases that were known, you've got 23 miscarriages, 23 spontaneous abortions.\" - Sonia Elijah, British Investigative Journalist Sonia says Pfizer's data recorded 270 pregnancy cases, with 238 outcomes unknown and 23 miscarriages among the 32 known outcomes. With so much of the pregnancy data unresolved, should far more follow-up have been required before conclusions were drawn about safety? 🎥 Watch here: https://rcr.media/episodes/sonia-elijah-british-investigative-journalist-what-fauci-pfizer-knew-about-pregnancy-risks #RCRMedia"
-      },
-      {
-        "title": "Any time they want to take something offline, currently they can.",
-        "url": "https://www.youtube.com/shorts/AEFNdoGWvT8",
-        "date_utc": "2026-09-10T06:01:16+00:00",
-        "summary": "\"Any time they want to take something offline, currently they can.\" - Joshua Riley, Sovereign Leader Meetings might leave a paper trail, but what happens when the conversation simply moves to an unrecorded phone call? Should every channel used to influence politicians be publicly disclosed? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-maree-buscke-sandra-goudie-joshua-riley-are-nzs-laws-putting-rights-and-freedoms-at-risk #RCRMedia #APoliticalAgenda"
-      },
-      {
-        "title": "RCR Wednesday Webinars - Lifestyle",
-        "url": "https://www.youtube.com/watch?v=zFbAHDmge5M",
-        "date_utc": "2026-09-10T00:17:40+00:00",
-        "summary": "Join RCR Host Natalie Cutler-Welsh and Wendy V, Health & Wellness Expert, for a practical look at five powerful truths about health, wellbeing and resilience. From ice baths to infrared saunas, Wendy will share practical health hacks and simple strategies to help boost energy, support resilience and optimise your wellbeing. 5 truths about health that will change how you feel."
-      },
-      {
-        "title": "When you look at something like Diethylstilbestrol that was given to women in the 40s, 50s, 60s...",
-        "url": "https://www.youtube.com/shorts/oe7PUShVIKs",
-        "date_utc": "2026-09-09T20:03:30+00:00",
-        "summary": "\"When you look at something like Diethylstilbestrol that was given to women in the 40s, 50s, 60s... it wasn't until a generation, two generations later, that they realised the daughters were turning up 40 years later with unusual reproductive tract cancers or infertility or other problems.\" - Dr Alison Goodwin, GP and Patient Rights Advocate If history has taught us that some medical effects can emerge decades later, should we be encouraging people with possible post COVID-vaccine myocarditis to speak up now? 🎥 Watch here: https://rcr.media/episodes/dr-alison-goodwin-gp-and-patient-rights-advocate-myocarditis-a-deep-dive-into-covid-era-heart-damage #RCRMedia"
-      },
-      {
-        "title": "But I would think in the next couple of weeks, given the state of the polls...",
-        "url": "https://www.youtube.com/shorts/yXcZ7XfFkMQ",
-        "date_utc": "2026-09-09T19:31:07+00:00",
-        "summary": "\"But I would think in the next couple of weeks, given the state of the polls, they're probably going to start calling you up and saying: 'We'd love to be on your show, Paul'.\" - Winston Peters - Foreign Minister and NZ First Party Leader Should political parties be willing to face audiences outside their preferred media bubble all the time - or only when they suddenly need the votes? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-nz-first-pushes-back-on-calls-for-treaty-change #RCRMedia"
-      },
-      {
-        "title": "It kind of felt like for a lot of Kiwis, all of a sudden it was just in their faces...",
-        "url": "https://www.youtube.com/shorts/SbTPsk_iyUs",
-        "date_utc": "2026-09-09T19:05:49+00:00",
-        "summary": "\"It kind of felt like for a lot of Kiwis, all of a sudden it was just in their faces. Whereas it was simmering along for a very long time.\" - Maree Buscke Did New Zealand fundamentally change between 2017 and 2023 - or did those six years simply expose ideological changes that had been building for decades? Maree Buscke and Marty Gibson are back with Media Matters. 🎥 Watch here: https://rcr.media/episodes/media-matters-maori-nationalism-under-the-microscope #RCRMedia #MediaMatters"
-      },
-      {
-        "title": "MONEY TALKS",
-        "url": "https://www.youtube.com/watch?v=0F0pl8lL1rA",
-        "date_utc": "2026-09-09T13:05:22+00:00",
-        "summary": "Paul Brennan speaks with Louis Boulanger about rising global debt and the growing cost of servicing it. They discuss the US national debt exceeding $40 trillion, weakening foreign demand for US Treasuries and the growing role of gold in central-bank reserves. Boulanger warns a global sovereign debt crisis may be emerging, and examines the potential impact on inflation, interest rates, currencies and households, including Japan’s debt and the yen carry trade. DISCLAIMER : The views and information shared on this show are for educational and informational purposes only. They do not constitute personalised financial, investment, tax, or legal advice. Listeners should seek guidance from a licensed financial professional who can provide advice based on their individual situation. Discover more from Louis at LB Now Tired of headlines telling you what to think? Think for yourself. Get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "FREDDIE PONTON",
-        "url": "https://www.youtube.com/watch?v=-ylDEtHw9QY",
-        "date_utc": "2026-09-09T13:02:19+00:00",
-        "summary": "Paul Brennan talks with 21st Century Wire's Freddie Ponton about Iran expanding its control over waters far beyond the Strait of Hormuz, disabling unauthorised vessels and warning any US allies joining the blockade will become targets. They also discuss Itamar Ben-Gvir's campaign centred on removing Gaza's population, which awaits US approval, and the Witkoff-Kushner meeting with Putin, where no territorial concessions were offered despite a temporary halt to strikes on Kyiv. Discover more from 21st Century Wire or find them on X Follow Freddie on X Editorial Note This interview presents the perspective of the guest and includes statements about highly contested events and issues relating to Israel and Gaza. Some of those statements are disputed and remain the subject of significant factual, legal and political disagreement. RCR publishes a range of perspectives on contentious issues and encourages listeners to consider the discussion critically and alongside other viewpoints. For various perspectives on RCR Mark Regev, Former Israeli Ambassador Warns of Iran’s Nuclear Threat Tired of headlines telling you what to think? Think for yourself. Get RCR Bites FREE every weekday"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "NZ First's Deputy On Cancelling The Waitangi Tribunal",
+        "url": "https://www.youtube.com/watch?v=2N5b1_F8TJw",
+        "date_utc": "2026-09-11T07:33:48+00:00",
+        "summary": "NZ First's deputy Shane Jones on cancelling the Waitangi Tribunal and NZ First's immigration policy that expels criminal non-citizens."
+      },
+      {
+        "title": "NZ First's Deputy On Cancelling The Waitangi Tribunal",
+        "url": "https://www.youtube.com/watch?v=O13B8fyevLo",
+        "date_utc": "2026-09-11T03:36:54+00:00",
+        "summary": "NZ First's deputy Shane Jones on cancelling the Waitangi Tribunal and NZ First's immigration policy that expels criminal non-citizens."
+      },
+      {
+        "title": "Retiring Labour MP Greg O'Connor Reflects Upon Parliament & Politics.",
+        "url": "https://www.youtube.com/watch?v=HLiWvvj7Z8k",
+        "date_utc": "2026-09-11T02:03:23+00:00",
+        "summary": "Retiring Labour MP Greg O'Connor reflects upon Parliament & politics."
+      },
+      {
+        "title": "Relationship Counsellor Angela Rennie On The New Dating Environment",
+        "url": "https://www.youtube.com/watch?v=MChj6bMQmZ8",
+        "date_utc": "2026-09-11T01:44:58+00:00",
+        "summary": "Our dating/mating maelstrom: Relationship counsellor Angela Rennie on the new dating environment"
+      },
+      {
+        "title": "Why Has Auckland Transport Adopted Apartheid As A Practical Policy?",
+        "url": "https://www.youtube.com/watch?v=Bgp5i6G0aYA",
+        "date_utc": "2026-09-11T01:28:42+00:00",
+        "summary": "Why has Auckland Transport adopted apartheid as a practical policy?"
+      },
+      {
+        "title": "Another Week Of Grilling For The Friday Fry Up",
+        "url": "https://www.youtube.com/watch?v=MmtOM5HyjS8",
+        "date_utc": "2026-09-11T00:36:44+00:00",
+        "summary": "Another week of grilling for the Friday Fry Up. Brought to you by Beard Brothers, crafted with care the old school way."
+      },
+      {
+        "title": "Free Speech Fridays #173 – Mark Champion & Maurice Williamson",
+        "url": "https://www.youtube.com/watch?v=K5HNbm9OW-0",
+        "date_utc": "2026-09-11T00:36:41+00:00",
+        "summary": "Free Speech Fridays with Mark Champion & Maurice Williamson is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss 9/11 attacks, the Public Service strike, Winston Peters appoints Jon Johansson as Swedish Ambassador, the Green’s Supermarket plans and more."
+      },
+      {
+        "title": "Robert Patman On 25 Years Since The 9/11 Attack",
+        "url": "https://www.youtube.com/watch?v=EwJcg9IAE00",
+        "date_utc": "2026-09-10T23:39:00+00:00",
+        "summary": "Robert Patman on 25 years since the 9/11 attack."
+      },
+      {
+        "title": "Bob McCoskrie On Family First Conference This Weekend",
+        "url": "https://www.youtube.com/watch?v=9_9nYEpjCvk",
+        "date_utc": "2026-09-10T23:01:07+00:00",
+        "summary": "Bob McCoskrie on the Family First conference this weekend."
+      },
       {
         "title": "Janet Wilson: \"The Rise Of Minor Parties Will Define This Election\"",
         "url": "https://www.youtube.com/watch?v=GyHMopOhk1g",
@@ -254,60 +308,6 @@
         "url": "https://www.youtube.com/watch?v=7BF-LTsBGsk",
         "date_utc": "2026-09-10T02:17:09+00:00",
         "summary": "TVNZ say we are ‘Aotearoa’ - it’s time to defund the state broadcaster."
-      },
-      {
-        "title": "Jillaine Heather On Labour’s New Online Regulation Announcement",
-        "url": "https://www.youtube.com/watch?v=T8OkbZVVxcY",
-        "date_utc": "2026-09-10T01:22:36+00:00",
-        "summary": "Jillaine Heather on Labour’s new online regulation announcement."
-      },
-      {
-        "title": "The Infamous Spa Pool Party, Balance NZ, Checks In With Sean",
-        "url": "https://www.youtube.com/watch?v=uwW2JDJ__es",
-        "date_utc": "2026-09-10T00:25:06+00:00",
-        "summary": "The infamous spa pool party, Balance NZ, checks in with Sean."
-      },
-      {
-        "title": "Developments In The Ombudsman’s Speech At Māori Coronation Event",
-        "url": "https://www.youtube.com/watch?v=bGvv1VV_8xA",
-        "date_utc": "2026-09-09T23:58:20+00:00",
-        "summary": "Developments in the Ombudsman’s speech at Māori coronation event."
-      },
-      {
-        "title": "They Want To Ban Cr Benedict Ong From Otago University. Why?",
-        "url": "https://www.youtube.com/watch?v=D9eQQc-yjW4",
-        "date_utc": "2026-09-09T21:41:52+00:00",
-        "summary": "They want to ban Cr Benedict Ong from Otago University. Why?"
-      },
-      {
-        "title": "Independent Review Into Mental Health & Addiction Telehealth Services",
-        "url": "https://www.youtube.com/watch?v=MP0fmPqctcI",
-        "date_utc": "2026-09-09T20:27:46+00:00",
-        "summary": "Matt Doocey, Mental Health Minister - An independent review into mental health and addiction telehealth services has been released."
-      },
-      {
-        "title": "Migrants & Academics Challenge NZ First Plan For Citizens-Only Super",
-        "url": "https://www.youtube.com/watch?v=wp2avnJ88iA",
-        "date_utc": "2026-09-09T20:27:41+00:00",
-        "summary": "Susan St John, Honorary Associate Professor in Economics at the University of Auckland on migrants and academics challenging NZ First’s plan to restrict NZ Super to NZ citizens."
-      },
-      {
-        "title": "Calls For Tougher Rideshare Rules As Passenger Complaints Rise",
-        "url": "https://www.youtube.com/watch?v=jD6KX07fw6c",
-        "date_utc": "2026-09-09T04:14:34+00:00",
-        "summary": "Warren Quirke, Small Passenger Service Association Manager - Calls for tougher rideshare rules as passenger complaints rise."
-      },
-      {
-        "title": "Voting Has Opened For Bird Of The Year!",
-        "url": "https://www.youtube.com/watch?v=IW0S9qjc9qo",
-        "date_utc": "2026-09-09T04:14:28+00:00",
-        "summary": "Kasey McDonnell, Forest & Bird Spokesperson - Voting has opened for Bird of The Year!"
-      },
-      {
-        "title": "Young People Are The Least Enrolled. Adriana Bird’s Campaign Response.",
-        "url": "https://www.youtube.com/watch?v=o6jYgTyz-tE",
-        "date_utc": "2026-09-09T02:59:23+00:00",
-        "summary": "Young people are the least enrolled. Adriana Bird’s campaign response."
       }
     ],
     "opinions": [
