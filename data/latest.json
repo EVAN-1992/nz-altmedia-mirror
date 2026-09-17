@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-16T15:23:20Z",
+  "generated_utc": "2026-09-17T15:30:13Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,78 @@
     ],
     "youtube": [
       {
+        "title": "WEDNESDAY WEBINAR",
+        "url": "https://www.youtube.com/watch?v=icu5eGYiAy8",
+        "date_utc": "2026-09-17T13:04:55+00:00",
+        "summary": "Former Reserve Bank Governor Don Brash joins Maree Buscke for a wide-ranging webinar on strategic voting under MMP, explaining why National's electorate strength could waste its party vote and urging centre-right voters to split their ballots. They cover ballooning government debt, the case for raising the super age, Treaty of Waitangi politics, GST's regressive edge, and why bold fiscal reform has been politically unpalatable since Ruth Richardson. For election news that matters, get RCR Bites FREE every weekday. For links mentioned in the webinar: RCR CONTENT: Don Brash | Strategic Voting, MMP Overhang & the 2026 Election A Political Agenda with Maree Buscke, Sandra Goudie & Joshua Riley | Are NZ’s Laws Putting Rights & Freedoms at Risk? A Political Agenda with Maree Buscke, Ro Edge and David Lynch | Political Accountability, MMP & the Rise of TOP A Politcal Agenda with Maree Buscke, Rachel Stewart and Rob MacCulloch | Political Messaging vs Meaningful Policy OTHER MEDIA: Birthgap | Documentary on the worldwide birth rate"
+      },
+      {
+        "title": "IVOR CUMMINS",
+        "url": "https://www.youtube.com/watch?v=C5CMQMAP6_I",
+        "date_utc": "2026-09-17T13:03:22+00:00",
+        "summary": "Ivor Cummins joins Paul Brennan from Dublin to recount his close encounter with Trump during the president's recent Irish visit, before turning to demographic data suggesting native Irish could become a minority within decades. They also dissect the backlash over a controversial male lactation conference and debate whether under-16 social media age verification is really about protecting children or ending online anonymity. Discover more from Ivor on his website The Fat Emperor or find him on Facebook and X For news that matters, get RCR Bites FREE every weekday."
+      },
+      {
+        "title": "LAURA MCCLURE",
+        "url": "https://www.youtube.com/watch?v=meKwTsDmZFw",
+        "date_utc": "2026-09-17T13:03:15+00:00",
+        "summary": "Maree Buscke speaks with ACT Party List MP Laura McClure about ACT’s new six-point small-business package, including a proposed youth training wage, freezing the minimum wage for three years, union fees and employment rules. They also discuss tax treatment for new technology, immigration settings, supermarket competition, the cost of essentials and ACT’s newly announced list, including Paul Henry’s entry into politics. For more on Laura McClure or find her on Facebook For election news that matters, get RCR Bites FREE every weekday."
+      },
+      {
+        "title": "MEDIA MATTERS",
+        "url": "https://www.youtube.com/watch?v=BsNfdzW07rQ",
+        "date_utc": "2026-09-17T13:02:22+00:00",
+        "summary": "Maree Buscke and Marty Gibson debate the media storm around AI existential risk, sparked by a young ex-Anthropic employee's public warnings and contrasting political reactions from Trump and Christopher Luxon. Maree argues fear over AI safety is being manufactured to entrench a handful of tech giants through capturing regulation, while Marty counters that the danger is real and society lacks the structures to debate it honestly, closing on his case for smaller, human-scale communities as a buffer against technocratic control. For more information check out Reclaim the Net | How the AI safety push creates new gatekeepers For news that matters, get RCR Bites FREE every weekday."
+      },
+      {
+        "title": "MAREE’S MUSINGS",
+        "url": "https://www.youtube.com/watch?v=bG7IHzuEi8c",
+        "date_utc": "2026-09-17T13:01:44+00:00",
+        "summary": "Maree Buscke examines the disciplinary censure of Nelson GP Dr Caroline Wheeler over her off-label prescribing of ivermectin during Covid, arguing the case's real significance lies beyond the drug itself. For news that matters, get RCR Bites FREE every weekday."
+      },
+      {
+        "title": "MICHAEL ARBON",
+        "url": "https://www.youtube.com/shorts/h1PzoVRMTCc",
+        "date_utc": "2026-09-17T13:00:38+00:00",
+        "summary": "Michael Arbon reports on the defeat of Senator Alex Antic's bill to repeal Australia's No Jab, No Pay policy, which stripped conscientious objection from vaccination requirements tied to family assistance payments back in 2015. Discover more from Michael on Facebook and X"
+      },
+      {
+        "title": "We have to be very careful about what we build, because we can't predict how that will be...",
+        "url": "https://www.youtube.com/shorts/YzBKdFMZ8bQ",
+        "date_utc": "2026-09-17T08:01:11+00:00",
+        "summary": "🌐 https://RCR.Media | 🇦🇺 \"We have to be very careful about what we build, because we can't predict how that will be used in the future.\" - Paul Conlon, Author and Engineer @PaulGConlon 🇦🇺 The real question may not be how today's government intends to use online regulation, but what powers it leaves behind for the next one. Are we building something we may later regret? Michael Arbon talks with Paul Conlon about Australia's new digital duty of care legislation. 🎥 Watch here: https://rcr.media/episodes/paul-conlon-author-and-engineer-digital-duty-of-care-explained #RCRMedia"
+      },
+      {
+        "title": "I can see down the track that New Zealand will one of these days...",
+        "url": "https://www.youtube.com/shorts/AOOj9-NtYsY",
+        "date_utc": "2026-09-17T07:32:20+00:00",
+        "summary": "\"I can see down the track that New Zealand will one of these days, if we go down the right pathway, be independent of those resources. And it'll set us free, being independent.\" - Winston Peters, Foreign Minister and NZ First Party Leader Should the Red Sea crisis be the wake-up call for New Zealand to become far more self-sufficient in its own energy and strategic resources? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-and-foreign-minister-people-we-need-not-people-who-need-us #RCRMedia"
+      },
+      {
+        "title": "\"So, the Māorification that's happening. But we've also seen the Modi-fication with Prime Minister M",
+        "url": "https://www.youtube.com/shorts/bXx-VznagLI",
+        "date_utc": "2026-09-17T06:00:59+00:00",
+        "summary": "\"So, the Māorification that's happening. But we've also seen the Modi-fication with Prime Minister Modi coming in and all those immigration settings and the shifting of the dial.\" - Harete Hipango-Brownlie, NZ First Whanganui Candidate Harete tells Maree Buscke New Zealand has seen both \"Māorification\" and now \"Modi-fication\". Is the country being reshaped politically and culturally faster than voters realise? 🎥 Watch here: https://rcr.media/episodes/harete-hipango-brownlie-nz-first-whanganui-candidate-politicians-need-to-front-up-over-covid-decisions #RCRMedia"
+      },
+      {
+        "title": "RCR Wednesday Webinars - Politics",
+        "url": "https://www.youtube.com/watch?v=b6LSJHNBhjg",
+        "date_utc": "2026-09-17T04:09:45+00:00",
+        "summary": "With the next election looming, the big question is: are voters playing the political game... or are the parties playing them? Join RCR host Maree Buscke and political heavyweight Don Brash as they tackle MMP, strategic voting, polling surprises and what could shape the next Government. What will the next election really look like? And could strategic voting change everything?"
+      },
+      {
+        "title": "They've been stacking gold at unbelievable pace, at a record pace, for the simple reason they...",
+        "url": "https://www.youtube.com/shorts/VBy4K6G2Z28",
+        "date_utc": "2026-09-16T20:01:50+00:00",
+        "summary": "\"They've been stacking gold at unbelievable pace, at a record pace, for the simple reason they want to use gold to net settle international trade, get away from the dollar, get away from the US Treasury as collateral for this trade, and replace it with gold.\" - Matthew Piepenburg, Von Greyerz Partner & Author of ‘Rigged To Fail’ If countries can increasingly settle trade without touching the dollar, what happens to America’s financial power when that trend reaches critical mass? 🎥 Watch here: https://rcr.media/episodes/matthew-piepenburg-von-greyers-partner-author-of-rigged-to-fail-checkmate-on-the-dollar-as-gold-reserves-expand #RCRMedia"
+      },
+      {
+        "title": "We found there's 35 distinct mechanisms that the mRNA injections can induce or accelerate cancer...",
+        "url": "https://www.youtube.com/shorts/hAHTgl2bts8",
+        "date_utc": "2026-09-16T19:31:19+00:00",
+        "summary": "\"We found there's 35 distinct mechanisms that the mRNA injections can induce or accelerate cancer. 35 of them.\" - Dr Nicolas Hulscher, Epidemiologist & McCullough Foundation Administrator Thirty-five separate mechanisms identified in published studies. Why has this received so little mainstream attention? 🎥 Watch here: https://rcr.media/episodes/dr-nicolas-hulscher-epidemiologist-mccullough-foundation-administrator-vaccine-dna-found-inside-a-rare-turbocancer-tumor #RCRMedia"
+      },
+      {
         "title": "CRAIG STOBO",
         "url": "https://www.youtube.com/watch?v=fGfxdBa5AhU",
         "date_utc": "2026-09-16T13:03:37+00:00",
@@ -142,83 +214,83 @@
         "url": "https://www.youtube.com/watch?v=Eid9iuvFquw",
         "date_utc": "2026-09-16T13:02:20+00:00",
         "summary": "Maree Buscke sits down with British writer and comedian Andrew Doyle, touring New Zealand with the Free Speech Union, to discuss the erosion of free expression in the UK and warning signs closer to home. They cover ideological capture in policing, academia and the BBC, the Jason Arday controversy at Cambridge, why comedians have become free speech's front line and Andrew's measured take on the genuine risks posed by superintelligent AI. Discover more from Andrew Doyle on his website and X"
-      },
-      {
-        "title": "BOTH BARRELS",
-        "url": "https://www.youtube.com/watch?v=DhZBhNFDkVs",
-        "date_utc": "2026-09-16T13:01:56+00:00",
-        "summary": "Maree Buscke and Rachel Stewart mark the 25th anniversary of 9/11, reflecting on how the attacks reshaped politics, language and public discourse across the West. They discuss the discomfort of commemorations gone awry, growing self-censorship in everyday conversation and a widening gulf between legacy media narratives and lived experience, before turning to New Zealand's election campaign and the rise of plain-spoken minor-party candidates. Discover more from Rachel on Substack and X For news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "FREDDIE PONTON",
-        "url": "https://www.youtube.com/watch?v=GqtzBtweQHo",
-        "date_utc": "2026-09-16T13:01:52+00:00",
-        "summary": "Freddie Ponton joins Paul Brennan to unpack the wildly conflicting death toll estimates for Gaza, from 49,000 to nearly a million and why the removal of rubble before independent investigators can access it raises serious concerns. The conversation then moves to the collapse of Saudi-backed forces in Yemen's “Ghost Army,” Houthi control over the Bab-el-Mandeb Strait and the BRICS summit's push toward de-dollarisation as the real threat to continued Western military dominance. Discover more from 21st Century Wire or find them on X Follow Freddie on X For news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "PAUL’S MAILBAG",
-        "url": "https://www.youtube.com/watch?v=aSrYkekjj8I",
-        "date_utc": "2026-09-16T13:01:49+00:00",
-        "summary": "Paul Brennan works through listener feedback on a packed fortnight of interviews — from Frank Wright on manufactured belief and Don Brash on strategic voting, to Dr Alison Goodwin on COVID-era myocarditis and Paul's own barometer on forgiveness as a superpower. Letters range from spiritual reflection and lingering COVID grief to a listener's link questioning depopulation agendas, alongside warm feedback on the Winston Peters interview. Text your feedback to 2057 or email inbox@rcr.media For links mentioned: Neil Douglas-Klotz HeartMath and Joe Dispenza Natalie Cutler-Welsh interview with Felicity Lerouge | Heart Sense for Overwhelm Relief Cyntha Koeter Substack | Fall of the Cabal Fall of the Cabal – 10-part documentary Fall of the Cabal | The Depopulation Agenda Justified?"
-      },
-      {
-        "title": "There'll be a census. And that census is going to be very important, because it may show how many...",
-        "url": "https://www.youtube.com/shorts/fndoOfjOXBg",
-        "date_utc": "2026-09-16T09:26:24+00:00",
-        "summary": "🌐 https://RCR.Media | \"There'll be a census. And that census is going to be very important, because it may show how many people are actually missing.\" - Freddie Ponton, Associate Editor 21st Century Wire Freddie Ponton on the latest developments in Gaza. 🎥 Watch here: https://rcr.media/episodes/freddie-ponton-associate-editor-21st-century-wire-counting-gazas-dead #RCRMedia"
-      },
-      {
-        "title": "How many times do we wish away the week? You know: 'I'll be glad when this week's over...",
-        "url": "https://www.youtube.com/shorts/DVXEpfw6mfM",
-        "date_utc": "2026-09-16T08:01:12+00:00",
-        "summary": "🇦🇺 \"How many times do we wish away the week? You know: 'I'll be glad when this week's over. I'll be glad when this year's over.'\" - Graham 'Hoody' Hood 🇦🇺 Are we so focused on getting through life that we forget to actually live it? 🎥 Watch here: https://rcr.media/episodes/under-the-hood-with-graham-hoody-hood-the-journey-matters-more-than-the-destination #RCRMedia #UnderTheHood"
-      },
-      {
-        "title": "So, the smoking guns have been found for the other organs...",
-        "url": "https://www.youtube.com/shorts/1O8I3FJgrgA",
-        "date_utc": "2026-09-16T07:02:01+00:00",
-        "summary": "\"So, the smoking guns have been found for the other organs, but yeah, now we have it for the turbo-cancers.\" - Dr Nicolas Hulscher, Epidemiologist & McCullough Foundation Administrator Hulscher says the tumour finding adds another piece to what he believes is a wider pattern. Should researchers now be routinely testing unusual tumours for vaccine-related genetic material? 🎥 Watch here: https://rcr.media/episodes/dr-nicolas-hulscher-epidemiologist-mccullough-foundation-administrator-vaccine-dna-found-inside-a-rare-turbocancer-tumor #RCRMedia"
-      },
-      {
-        "title": "There's a huge Somali district or faction have moved in. And since we're majority rules...",
-        "url": "https://www.youtube.com/shorts/zpo-aVfN4HY",
-        "date_utc": "2026-09-16T06:30:43+00:00",
-        "summary": "\"There's a huge Somali district or faction have moved in. And since we're majority rules, the majority of Somalis are going to the polls, and they're getting elected.\" - Bruce Pope, Simon O'Connor's Mate from The States Michigan is becoming a case study in how rapidly demographics and organised voting can reshape local power. Are voters paying enough attention to how quickly political control can change? 🎥 Watch here: https://rcr.media/episodes/bruce-pope-simons-mate-from-the-states-the-latest-from-the-united-states #RCRMedia"
-      },
-      {
-        "title": "That would be where probably our biggest concerns lie, is what is the makeup of the new government?",
-        "url": "https://www.youtube.com/shorts/-dDR1ZINWUc",
-        "date_utc": "2026-09-16T06:01:11+00:00",
-        "summary": "\"That would be where probably our biggest concerns lie, is what is the makeup of the new government? How strong are those third-party coalition partners, and how many of those policies that are slightly out on left-field influence the final Coalition Agreements.\" - Mark Hooper, Federated Farmers Board Member Could a smaller party with just enough leverage drag rural policy well away from what most voters thought they were voting for? 🎥 Watch here: https://rcr.media/episodes/mark-hooper-federated-farmers-board-member-feds-weigh-up-partys-farming-policies #RCRMedia"
-      },
-      {
-        "title": "What they were doing is a vigorous argument, and she should've been able to put up with that.",
-        "url": "https://www.youtube.com/shorts/v2u8JRJK5R4",
-        "date_utc": "2026-09-16T03:04:46+00:00",
-        "summary": "\"What they were doing is a vigorous argument, and she should've been able to put up with that.\" - Matt Robson, Barrister Have we reached the point where robust political disagreement is too easily portrayed as intimidation? Maree Buscke hosts barrister Matt Robson and filmmaker Gaylene Barnes on The Fourth Estate. 🎥 Watch here: https://rcr.media/episodes/the-fourth-estate-maree-buscke-with-matt-robson-and-gaylene-barnes-when-legacy-media-wont-give-you-the-mic #RCRMedia #TheFourthEstate"
-      },
-      {
-        "title": "For 2026, the number of antigens that a kid is liable to get was 105 from memory.",
-        "url": "https://www.youtube.com/shorts/kUv57kAVAh8",
-        "date_utc": "2026-09-15T20:02:08+00:00",
-        "summary": "\"For 2026, the number of antigens that a kid is liable to get was 105 from memory.\" - Grant Dixon, Documentary Filmmaker Dixon says that figure climbs even higher once additional COVID and flu doses are counted. Do most parents have any idea how much the childhood schedule has grown? 🎥 Watch here: https://rcr.media/episodes/grant-dixon-documentary-filmmaker-tracking-antigen-exposure-against-new-zealands-rising-autism-rates #RCRMedia"
-      },
-      {
-        "title": "They are now dictating the rules of engagement.",
-        "url": "https://www.youtube.com/shorts/uBRxbojWBUs",
-        "date_utc": "2026-09-15T19:03:51+00:00",
-        "summary": "\"They are now dictating the rules of engagement.\" - Freddie Ponton, Global Affairs Associate Editor 21st Century Wire Freddie argues Iran is no longer merely reacting to US pressure, but increasingly setting the terms of confrontation in the Gulf. Do you agree? 🎥 Watch here: https://rcr.media/episodes/freddie-ponton-21st-century-wire-associate-editor-iran-rewrites-the-rules-in-the-gulf #RCRMedia"
-      },
-      {
-        "title": "WEEKLY ROUNDUP",
-        "url": "https://www.youtube.com/watch?v=GoJf7HnoTfw",
-        "date_utc": "2026-09-15T13:03:11+00:00",
-        "summary": "Dieuwe de Boer and William McGimpsey break down a flurry of election-season immigration announcements, from NZ First's citizenship and deportation reforms to Labour's residency changes and Pauline Hanson's revised One Nation target in Australia. They also examine the Act Party's push to wind up the Waitangi Tribunal, before closing with reflections on Trump-era comments touching Irish reunification and the Israel-Palestine settlements row."
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Defence Of Grocery Oligopoly Predictable And Wrong.",
+        "url": "https://www.youtube.com/watch?v=Lby95SxSOiA",
+        "date_utc": "2026-09-17T10:36:02+00:00",
+        "summary": "Grocery Action founder Sue Chetwin says defence of grocery oligopoly predictable and wrong."
+      },
+      {
+        "title": "Hamilton Airport Given 15 More Years To Protect Land For Longer Runway",
+        "url": "https://www.youtube.com/watch?v=w9VDdDDP8g8",
+        "date_utc": "2026-09-17T05:30:15+00:00",
+        "summary": "Mark Morgan, Hamilton Airport Chief Executive on the airport being given another 15 years to protect land needed for a possible longer runway."
+      },
+      {
+        "title": "Elliot Ikilei: Political Roundup & An Update On His Election Campaign",
+        "url": "https://www.youtube.com/watch?v=FuLo3-6LAnI",
+        "date_utc": "2026-09-17T04:59:52+00:00",
+        "summary": "NZ First candidate, Elliot Ikilei with a political roundup and an update on how his election campaign is going."
+      },
+      {
+        "title": "ACT Wants To Freeze Minimum Wage & Reduce Youth Training Rate",
+        "url": "https://www.youtube.com/watch?v=-IAShaAxiZE",
+        "date_utc": "2026-09-17T04:32:13+00:00",
+        "summary": "ACT MP, Laura McClure - ACT wants to freeze minimum wage and reduce the youth training rate."
+      },
+      {
+        "title": "Richard Prebble Slams The Waitangi Tribunal",
+        "url": "https://www.youtube.com/watch?v=sggRwM1O7PM",
+        "date_utc": "2026-09-17T03:59:48+00:00",
+        "summary": "Richard Prebble slams the Waitangi Tribunal and recounts his brief experience as a member."
+      },
+      {
+        "title": "Economist (And NZF Candidate) On The Monopoly/Oligopoly Problem In NZ",
+        "url": "https://www.youtube.com/watch?v=hLzRnBHetCY",
+        "date_utc": "2026-09-17T03:48:33+00:00",
+        "summary": "Economist (and NZF candidate) Craig Stobo on the monopoly/oligopoly problem in NZ as it relates to food, electricity and services."
+      },
+      {
+        "title": "National & Labour Suddenly Understand We Have A Cost Of Living Crisis",
+        "url": "https://www.youtube.com/watch?v=ll0dmcmNapw",
+        "date_utc": "2026-09-17T02:55:43+00:00",
+        "summary": "Michael Laws questions why National and Labour suddenly understand that we have a cost of living crisis, and their supermarket responses."
+      },
+      {
+        "title": "Wayne Brown Protecting Unelected Voting Rights On Auckland Council",
+        "url": "https://www.youtube.com/watch?v=kBnyeR7YmEM",
+        "date_utc": "2026-09-17T00:33:24+00:00",
+        "summary": "Wayne Brown Protecting Unelected Voting Rights On Auckland Council Don Brash on Wayne Brown protecting unelected voting rights on Auckland Council."
+      },
+      {
+        "title": "Katherine Rich On National’s Supermarket Break-Up Plan",
+        "url": "https://www.youtube.com/watch?v=okqoF-IZum8",
+        "date_utc": "2026-09-17T00:22:42+00:00",
+        "summary": "Katherine Rich on National’s supermarket break-up plan."
+      },
+      {
+        "title": "Major Defamation Case Win Against Publisher HarperCollins",
+        "url": "https://www.youtube.com/watch?v=I3fC5575POo",
+        "date_utc": "2026-09-16T23:50:45+00:00",
+        "summary": "Helen Houghton on major defamation case win against publisher HarperCollins."
+      },
+      {
+        "title": "Cotality’s Nick Goodall Has Some Good News On House Prices",
+        "url": "https://www.youtube.com/watch?v=iz4CJc9YUns",
+        "date_utc": "2026-09-16T22:32:48+00:00",
+        "summary": "Cotality’s Nick Goodall has some good news on house prices"
+      },
+      {
+        "title": "The India FTA Is Just Weird. Fullstop.",
+        "url": "https://www.youtube.com/watch?v=nGPlQoO1XrQ",
+        "date_utc": "2026-09-16T22:27:04+00:00",
+        "summary": "The India FTA is just weird. Fullstop."
+      },
       {
         "title": "What The Federated Farmers’ Confidence Survey Says About The Industry",
         "url": "https://www.youtube.com/watch?v=5e86GlLiLF4",
@@ -236,78 +308,6 @@
         "url": "https://www.youtube.com/watch?v=jg-Pnpn5Xvc",
         "date_utc": "2026-09-16T05:11:21+00:00",
         "summary": "Carolyn Press-McKenzie, HUHA Founder on MPI investigating the death of a young bull spray-painted and dumped by owner's gate."
-      },
-      {
-        "title": "Taxpayers Union On The PM’s Claim that debt is under control.",
-        "url": "https://www.youtube.com/watch?v=cnGolUIyy6U",
-        "date_utc": "2026-09-16T02:37:22+00:00",
-        "summary": "Taxpayers Union’s Jordan Williams on the PM’s claim that debt is under control."
-      },
-      {
-        "title": "When The Insurer Happily Takes Your Premiums But Refuses To Pay Your Claim – YMM",
-        "url": "https://www.youtube.com/watch?v=rHOyN0HTP00",
-        "date_utc": "2026-09-16T02:11:00+00:00",
-        "summary": "Your Money Matters with Harness Financial Episode 57 - When The Insurer Happily Takes Your Premiums But Refuses To Pay Your Claim Make smart decisions for your financial future with Samuel Rees-Thomas and Dieter Timmerman from Harness Financial. Find out more at https://www.harnessfinancial.co.nz/"
-      },
-      {
-        "title": "Grow Some Balls! National’s Grand Plan For Food Prices",
-        "url": "https://www.youtube.com/watch?v=3JwGAwUxz-Q",
-        "date_utc": "2026-09-16T01:56:31+00:00",
-        "summary": "Grow some balls! National’s grand plan for food prices (but only if the bureaucrats approve)."
-      },
-      {
-        "title": "The Phillips Children Fiasco: We Need A Public Malfeasance Law.",
-        "url": "https://www.youtube.com/watch?v=z7mjS8yb2NA",
-        "date_utc": "2026-09-16T01:44:40+00:00",
-        "summary": "The Phillips children fiasco: we need a public malfeasance law."
-      },
-      {
-        "title": "British Comedian Andrew Doyle Joins Sean In Studio!",
-        "url": "https://www.youtube.com/watch?v=G1-2HfhYhm8",
-        "date_utc": "2026-09-16T00:04:14+00:00",
-        "summary": "British comedian Andrew Doyle joins Sean in studio!"
-      },
-      {
-        "title": "Sean Plunket Reacts To Andrea Vance’s Bizarre Coverage Of Latest Polls",
-        "url": "https://www.youtube.com/watch?v=7WEYuWKvK_o",
-        "date_utc": "2026-09-15T23:41:19+00:00",
-        "summary": "Sean Plunket Reacts to Andrea Vance’s bizarre coverage of the latest polls."
-      },
-      {
-        "title": "Military Analyst Sean Bell On The Conflict In Yemen",
-        "url": "https://www.youtube.com/watch?v=_1CuERFtUwU",
-        "date_utc": "2026-09-15T23:30:14+00:00",
-        "summary": "Military analyst Sean Bell on the conflict in Yemen."
-      },
-      {
-        "title": "Islamic Leaders In NZ Want A Law To Stop Their Religion Being Mocked.",
-        "url": "https://www.youtube.com/watch?v=rI8P50CiKDk",
-        "date_utc": "2026-09-15T05:57:23+00:00",
-        "summary": "Islamic leaders in NZ want a law to stop their religion being mocked. FSU’s Sammy Taghavi on the anti-democratic implications."
-      },
-      {
-        "title": "Older Drivers Will No Longer Face Routine Cognitive Testing Due To Age",
-        "url": "https://www.youtube.com/watch?v=qE7gXv63RLs",
-        "date_utc": "2026-09-15T05:53:43+00:00",
-        "summary": "Dr Luke Bradford, NZ College of General Practitioners President - Older drivers will no longer face routine cognitive testing just because of their age."
-      },
-      {
-        "title": "Visitor Levy Sharing Scheme Won't Cover The Cost Of Ruapehu's Tourism",
-        "url": "https://www.youtube.com/watch?v=SID6UYZZo2Y",
-        "date_utc": "2026-09-15T05:45:19+00:00",
-        "summary": "Weston Kirton, Ruapehu District Mayor - The proposed visitor levy sharing scheme won't cover the cost of Ruapehu's tourism."
-      },
-      {
-        "title": "Does NZ Really Have A Dangerous Youth Drinking Culture?",
-        "url": "https://www.youtube.com/watch?v=hW9EzqrV7dE",
-        "date_utc": "2026-09-15T05:19:50+00:00",
-        "summary": "Virginia Nicholls, Executive Director of Alcohol & Beverages Council - Does NZ really have a dangerous youth drinking culture?"
-      },
-      {
-        "title": "Will AI Destroy Humanity? And Which Country’s AI Is Attacking",
-        "url": "https://www.youtube.com/watch?v=gAnmcpqvStM",
-        "date_utc": "2026-09-15T02:52:28+00:00",
-        "summary": "Will AI destroy humanity? And which country’s AI is attacking Auck Uni? Computer science lecturer Ulrich Speidel."
       }
     ],
     "opinions": [
