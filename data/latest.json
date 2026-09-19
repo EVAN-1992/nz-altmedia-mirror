@@ -1,8 +1,50 @@
 {
-  "generated_utc": "2026-09-18T14:54:11Z",
+  "generated_utc": "2026-09-19T14:18:07Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "One Nation serves a hard lesson on elite theory",
+        "url": "https://realitycheck.radio/one-nation-serves-a-hard-lesson-on-elite-theory-2/",
+        "date_utc": "2026-09-19T03:23:21Z",
+        "summary": "by M. K. Grant What does grass-roots popularity offer parliamentarians? […]"
+      },
+      {
+        "title": "A Fragile Recovery",
+        "url": "https://realitycheck.radio/a-fragile-recovery/",
+        "date_utc": "2026-09-18T03:39:17Z",
+        "summary": "by Dr Muriel Newman A debate is raging over the […]"
+      },
+      {
+        "title": "A Naked Inconsistency",
+        "url": "https://realitycheck.radio/a-naked-inconsistency/",
+        "date_utc": "2026-09-17T04:00:41Z",
+        "summary": "by Simon O’Connor I recently interviewed Andrew Doyle for a podcast. Andrew’s […]"
+      },
+      {
+        "title": "Who Really Wins With ‘Free Trade’?",
+        "url": "https://realitycheck.radio/who-really-wins-with-free-trade/",
+        "date_utc": "2026-09-17T03:39:06Z",
+        "summary": "by Nathan Smith With all the talk about the benefits […]"
+      },
+      {
+        "title": "Remembering Entebbe",
+        "url": "https://realitycheck.radio/remembering-entebbe/",
+        "date_utc": "2026-09-16T03:29:28Z",
+        "summary": "by Peter Williams Fifty years ago, 1976, was quite the […]"
+      },
+      {
+        "title": "What’s the right size for a country?",
+        "url": "https://realitycheck.radio/whats-the-right-size-for-a-country/",
+        "date_utc": "2026-09-16T03:16:49Z",
+        "summary": "by Red-State Secession Some US states have fewer than a […]"
+      },
+      {
+        "title": "The New Zealand myth in Kenya",
+        "url": "https://realitycheck.radio/the-new-zealand-myth-in-kenya/",
+        "date_utc": "2026-09-15T03:27:02Z",
+        "summary": "by Peter Williams One of life’s oldest adages used to […]"
+      },
       {
         "title": "Nuclear waste storage ….. no big deal",
         "url": "https://realitycheck.radio/nuclear-waste-storage-no-big-deal/",
@@ -52,79 +94,61 @@
         "summary": "by Peter Williams Because of our relationship through rugby and […]"
       },
       {
-        "title": "Covid vaccine pregnancy risks: What did Fauci, Pfizer and the regulators know?",
-        "url": "https://realitycheck.radio/covid-vaccine-pregnancy-risks-what-did-fauci-pfizer-and-the-regulators-know/",
-        "date_utc": "2026-09-08T07:21:25Z",
-        "summary": "by Jen Bainbridge Recently surfaced communications and regulatory documents show […]"
-      },
-      {
-        "title": "Cash Removal Will Damage the Market Economy",
-        "url": "https://realitycheck.radio/cash-removal-will-damage-the-market-economy/",
-        "date_utc": "2026-09-07T23:25:45Z",
-        "summary": "by Frank Shostak According to certain experts, there is an […]"
-      },
-      {
-        "title": "What Do ‘Capitalism’ and ‘Socialism’ Really Mean?",
-        "url": "https://realitycheck.radio/what-do-capitalism-and-socialism-really-mean/",
-        "date_utc": "2026-09-06T00:11:49Z",
-        "summary": "by Vincent Cook The old debate between socialism and capitalism […]"
-      },
-      {
-        "title": "Gaming the Election",
-        "url": "https://realitycheck.radio/gaming-the-election/",
-        "date_utc": "2026-09-04T23:23:09Z",
-        "summary": "by Dr Muriel Newman The election is on a knife-edge. […]"
-      },
-      {
-        "title": "How many New Zealanders have died or been injured after Covid-19 vaccination?",
-        "url": "https://realitycheck.radio/how-many-new-zealanders-have-died-or-been-injured-after-covid-19-vaccination/",
-        "date_utc": "2026-09-04T05:38:00Z",
-        "summary": "by Bonnie Flaws After a recent RCR investigation revealed that […]"
-      },
-      {
-        "title": "Riding Shotgun – ep 60: WeCroak Is the Perfect App",
-        "url": "https://realitycheck.radio/riding-shotgun-ep-60-wecroak-is-the-perfect-app/",
-        "date_utc": "2026-09-04T05:05:41Z",
-        "summary": "by Rachel Stewart I find myself contemplating death a great […]"
-      },
-      {
-        "title": "Betting the Farm: Gene Tech Bill Risks Ignored",
-        "url": "https://realitycheck.radio/betting-the-farm-gene-tech-bill-risks-ignored/",
-        "date_utc": "2026-09-04T00:17:37Z",
-        "summary": "by Joshua Riley New Zealand’s food and fibre exports earned […]"
-      },
-      {
-        "title": "TECH TUESDAY: With Steven Sykes: De-Googling Your Phone before they close the Gate",
-        "url": "https://realitycheck.radio/episodes/tech-tuesday-with-steven-sykes-de-googling-your-phone-before-they-close-the-gate/",
-        "date_utc": "2026-09-15T07:10:46Z",
+        "title": "IVOR CUMMINS: Male Lactation Madness: Irish Conference Caves After Public Backlash",
+        "url": "https://realitycheck.radio/episodes/ivor-cummins-male-lactation-madness-irish-conference-caves-after-public-backlash/",
+        "date_utc": "2026-09-18T20:24:37Z",
         "summary": ""
       },
       {
-        "title": "SALL GROVER: Giggle App Founder: Facing the Future after Loss in Australia’s Top Court",
-        "url": "https://realitycheck.radio/episodes/sall-grover-giggle-app-founder-facing-the-future-after-loss-in-australias-top-court/",
-        "date_utc": "2026-09-15T04:08:21Z",
+        "title": "IVOR CUMMINS: Ireland’s Age Checks Online: Protecting Kids or Killing Anonymity?",
+        "url": "https://realitycheck.radio/episodes/ivor-cummins-irelands-age-checks-online-protecting-kids-or-killing-anonymity/",
+        "date_utc": "2026-09-18T20:24:05Z",
         "summary": ""
       },
       {
-        "title": "THE WILMS REPORT: With Tim Wilms: Digital Duty of Care Expands Censorship Powers",
-        "url": "https://realitycheck.radio/episodes/the-wilms-report-with-tim-wilms-digital-duty-of-care-expands-censorship-powers/",
-        "date_utc": "2026-09-15T04:06:27Z",
+        "title": "ANDREW DOYLE: UK’s Free Speech Crisis: 30 Arrests Daily and the Woke Censorship Warning",
+        "url": "https://realitycheck.radio/episodes/andrew-doyle-uks-free-speech-crisis-30-arrests-daily-and-the-woke-censorship-warning/",
+        "date_utc": "2026-09-18T20:23:43Z",
         "summary": ""
       },
       {
-        "title": "A POLITICAL AGENDA: Vigorous Debate or Drama? Just Say We Disagree and Move On",
-        "url": "https://realitycheck.radio/episodes/a-political-agenda-vigorous-debate-or-drama-just-say-we-disagree-and-move-on/",
-        "date_utc": "2026-09-15T00:30:53Z",
+        "title": "IVOR CUMMINS: Ireland’s Identity Crisis: A Nation’s True Soul Fading by 2040",
+        "url": "https://realitycheck.radio/episodes/ivor-cummins-irelands-identity-crisis-a-nations-true-soul-fading-by-2040/",
+        "date_utc": "2026-09-18T20:23:26Z",
         "summary": ""
       },
       {
-        "title": "A POLITICAL AGENDA: Myocarditis Cover-Up: Did Verrall Know and Call It Fake News?",
-        "url": "https://realitycheck.radio/episodes/a-political-agenda-myocarditis-cover-up-did-verrall-know-and-call-it-fake-news/",
-        "date_utc": "2026-09-15T00:28:46Z",
+        "title": "MEDIA MATTERS: Preserving Humanity: Why We Need AI-Free Bubbles to Stay Human",
+        "url": "https://realitycheck.radio/episodes/media-matters-preserving-humanity-why-we-need-ai-free-bubbles-to-stay-human/",
+        "date_utc": "2026-09-18T20:23:11Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "They were told right from the start there was no difference in the quality of food that was...",
+        "url": "https://www.youtube.com/shorts/26-qozZtVEc",
+        "date_utc": "2026-09-19T06:01:21+00:00",
+        "summary": "🌐 https://RCR.Media | \"They were told right from the start there was no difference in the quality of food that was produced using standard herbicides and pesticides versus the nutritional quality of food that was produced using organic techniques or on organic soils.\" - Dr Elvira Dommisse, Former GE Researcher Imagine beginning a nutrition degree and being told from day one that chemically treated food and organically grown food are nutritionally no different. Is that science being taught, or a conclusion being handed to students before the debate even begins? 🎥 Watch here: https://rcr.media/episodes/claire-bleakley-elvira-dommisse-ge-free-nz-president-former-ge-researcher-102-experimental-pesticides-approved-with-no-public-notice #RCRMedia"
+      },
+      {
+        "title": "The first one primes you. The second one boosts it into hyperdrive, and then you'll experience...",
+        "url": "https://www.youtube.com/shorts/vKiROowx_t0",
+        "date_utc": "2026-09-19T00:02:25+00:00",
+        "summary": "\"The first one primes you. The second one boosts it into hyperdrive, and then you'll experience the most damage.\" - Dr Nicolas Hulscher, Epidemiologist & McCullough Foundation Administrator If someone had already suffered a serious reaction after dose one, should they ever have been pressured to take dose two? 🎥 Watch here: https://rcr.media/episodes/dr-nicolas-hulscher-epidemiologist-mccullough-foundation-administrator-vaccine-dna-found-inside-a-rare-turbocancer-tumor #RCRMedia"
+      },
+      {
+        "title": "I think every man should go and change his birth certificate and clog the system.",
+        "url": "https://www.youtube.com/shorts/Np1FKGXwV-8",
+        "date_utc": "2026-09-18T21:02:26+00:00",
+        "summary": "🇦🇺 🌐 https://RCR.Media | \"I think every man should go and change his birth certificate and clog the system.\" - Sall Grover, Giggle App Founder 🇦🇺 Grover says the rules should be tested by taking them to their logical conclusion. Would mass participation expose flaws in the system, or simply create more chaos? 🎥 Watch here: https://rcr.media/episodes/sall-grover-giggle-app-founder-facing-the-future-after-loss-in-australias-top-court #RCRMedia"
+      },
+      {
+        "title": "We have to kind of do that deep dive into trusting our own experience.",
+        "url": "https://www.youtube.com/shorts/UOuRd6-vaFw",
+        "date_utc": "2026-09-18T20:01:36+00:00",
+        "summary": "🌐 https://RCR.Media | \"We have to kind of do that deep dive into trusting our own experience.\" - Dr Keith Tudor, Professor of Psychotherapy When everything around us feels confused and polarised, is learning to trust our own experience one of the most important skills we can develop? 🎥 Watch here: https://rcr.media/episodes/navigating-the-crazy-knowing-yourself-checking-reality #RCRMedia"
+      },
       {
         "title": "JAMES CORBETT",
         "url": "https://www.youtube.com/watch?v=pUwmHcq4VcM",
@@ -190,30 +214,6 @@
         "url": "https://www.youtube.com/watch?v=icu5eGYiAy8",
         "date_utc": "2026-09-17T13:04:55+00:00",
         "summary": "Former Reserve Bank Governor Don Brash joins Maree Buscke for a wide-ranging webinar on strategic voting under MMP, explaining why National's electorate strength could waste its party vote and urging centre-right voters to split their ballots. They cover ballooning government debt, the case for raising the super age, Treaty of Waitangi politics, GST's regressive edge, and why bold fiscal reform has been politically unpalatable since Ruth Richardson. For election news that matters, get RCR Bites FREE every weekday. For links mentioned in the webinar: RCR CONTENT: Don Brash | Strategic Voting, MMP Overhang & the 2026 Election A Political Agenda with Maree Buscke, Sandra Goudie & Joshua Riley | Are NZ’s Laws Putting Rights & Freedoms at Risk? A Political Agenda with Maree Buscke, Ro Edge and David Lynch | Political Accountability, MMP & the Rise of TOP A Politcal Agenda with Maree Buscke, Rachel Stewart and Rob MacCulloch | Political Messaging vs Meaningful Policy OTHER MEDIA: Birthgap | Documentary on the worldwide birth rate"
-      },
-      {
-        "title": "IVOR CUMMINS",
-        "url": "https://www.youtube.com/watch?v=C5CMQMAP6_I",
-        "date_utc": "2026-09-17T13:03:22+00:00",
-        "summary": "Ivor Cummins joins Paul Brennan from Dublin to recount his close encounter with Trump during the president's recent Irish visit, before turning to demographic data suggesting native Irish could become a minority within decades. They also dissect the backlash over a controversial male lactation conference and debate whether under-16 social media age verification is really about protecting children or ending online anonymity. Discover more from Ivor on his website The Fat Emperor or find him on Facebook and X For news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "LAURA MCCLURE",
-        "url": "https://www.youtube.com/watch?v=meKwTsDmZFw",
-        "date_utc": "2026-09-17T13:03:15+00:00",
-        "summary": "Maree Buscke speaks with ACT Party List MP Laura McClure about ACT’s new six-point small-business package, including a proposed youth training wage, freezing the minimum wage for three years, union fees and employment rules. They also discuss tax treatment for new technology, immigration settings, supermarket competition, the cost of essentials and ACT’s newly announced list, including Paul Henry’s entry into politics. For more on Laura McClure or find her on Facebook For election news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "MEDIA MATTERS",
-        "url": "https://www.youtube.com/watch?v=BsNfdzW07rQ",
-        "date_utc": "2026-09-17T13:02:22+00:00",
-        "summary": "Maree Buscke and Marty Gibson debate the media storm around AI existential risk, sparked by a young ex-Anthropic employee's public warnings and contrasting political reactions from Trump and Christopher Luxon. Maree argues fear over AI safety is being manufactured to entrench a handful of tech giants through capturing regulation, while Marty counters that the danger is real and society lacks the structures to debate it honestly, closing on his case for smaller, human-scale communities as a buffer against technocratic control. For more information check out Reclaim the Net | How the AI safety push creates new gatekeepers For news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "MAREE’S MUSINGS",
-        "url": "https://www.youtube.com/watch?v=bG7IHzuEi8c",
-        "date_utc": "2026-09-17T13:01:44+00:00",
-        "summary": "Maree Buscke examines the disciplinary censure of Nelson GP Dr Caroline Wheeler over her off-label prescribing of ivermectin during Covid, arguing the case's real significance lies beyond the drug itself. For news that matters, get RCR Bites FREE every weekday."
       }
     ]
   },
