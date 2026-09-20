@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-19T14:18:07Z",
+  "generated_utc": "2026-09-20T14:38:51Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,66 @@
     ],
     "youtube": [
       {
+        "title": "UNDER THE HOOD",
+        "url": "https://www.youtube.com/watch?v=6SumXgk3sCs",
+        "date_utc": "2026-09-20T13:03:22+00:00",
+        "summary": "Graham Hood reflects on his upcoming New Zealand tour and the Sydney COVID Royal Commission event before turning to his central theme: society's shift from disagreement to outright conflict. Drawing on a backstage conversation with the late Charlie Kirk, unease over Australia's political and biosecurity climate and his own past struggles, he makes the case for assertive, compassionate conversation over aggression as the way through deepening social division. Catch up with Hoody on his NZ Roady Discover more from Hoody at Club Grubbery or find him on Facebook and X"
+      },
+      {
+        "title": "ACT Party candidate Paul Henry on what he thinks needs to be done about the supermarket issue.",
+        "url": "https://www.youtube.com/shorts/yBty9-FTpLk",
+        "date_utc": "2026-09-20T08:22:01+00:00",
+        "summary": "“I think there are a lot of political parties that have bought in with a level of outrage which may actually not be based in reality”. Tane Webster spoke to ACT Party candidate Paul Henry at his event in New Plymouth last Friday."
+      },
+      {
+        "title": "This is the state forcing people to believe in ideology, a nonsense ideology...",
+        "url": "https://www.youtube.com/shorts/Goj1OkbcxnE",
+        "date_utc": "2026-09-20T08:01:08+00:00",
+        "summary": "🇦🇺 🌐 https://RCR.Media | \"This is the state forcing people to believe in ideology, a nonsense ideology, and punishing you if you don't believe in it.\" - Sall Grover, Giggle App Founder 🇦🇺 Grover believes public pressure will eventually force the law to change. Do you think this issue is heading toward a political reckoning? 🎥 Watch here: https://rcr.media/episodes/sall-grover-giggle-app-founder-facing-the-future-after-loss-in-australias-top-court #RCRMedia"
+      },
+      {
+        "title": "You refuse to comply to unlock your phone and hand it over in New South Wales...",
+        "url": "https://www.youtube.com/shorts/5QfYZEpdy_k",
+        "date_utc": "2026-09-20T07:01:29+00:00",
+        "summary": "🌐 https://RCR.Media | \"You refuse to comply to unlock your phone and hand it over in New South Wales, it carries a penalty for up to seven years in jail.\" - Steven Sykes Seven years in jail for refusing to unlock your phone under proposed powers. Is that proportionate policing, or a massive intrusion into personal privacy? 🎥 Watch here: https://rcr.media/episodes/tech-tuesday-with-steven-sykes-de-googling-your-phone-before-they-close-the-gate #RCRMedia #TechTuesday"
+      },
+      {
+        "title": "They've approved mRNA for COVID. Then they approved it for RSV. They just approved it for flu...",
+        "url": "https://www.youtube.com/shorts/1tKaj0NZZ3s",
+        "date_utc": "2026-09-20T06:01:10+00:00",
+        "summary": "\"They've approved mRNA for COVID. Then they approved it for RSV. They just approved it for flu. And now they're trying to approve it for cancer.\" - Dr Nicolas Hulscher, Epidemiologist & McCullough Foundation Administrator As mRNA technology moves into more and more areas of medicine, should the public be demanding much greater transparency around long-term safety? 🎥 Watch here: https://rcr.media/episodes/dr-nicolas-hulscher-epidemiologist-mccullough-foundation-administrator-vaccine-dna-found-inside-a-rare-turbocancer-tumor #RCRMedia"
+      },
+      {
+        "title": "ACT Party candidate Paul Henry on the what motivated him to stand as a political candidate.",
+        "url": "https://www.youtube.com/shorts/1BTO-iVSsDE",
+        "date_utc": "2026-09-20T04:00:02+00:00",
+        "summary": "“I care about this country a great deal and I care about the state of the country that my grandchildren are being brought up in”. Tane Webster spoke to ACT Party candidate Paul Henry at his event in New Plymouth last Friday."
+      },
+      {
+        "title": "And what will we eat? 80% of our plants are pollinated by insects and not just bees.",
+        "url": "https://www.youtube.com/shorts/Fm0Q3YbHMTQ",
+        "date_utc": "2026-09-20T00:02:34+00:00",
+        "summary": "🌐 https://RCR.Media | \"And what will we eat? 80% of our plants are pollinated by insects and not just bees.\" - Claire Bleakley, GE Free NZ President If we start interfering genetically with insect populations, are we risking unintended consequences for the pollinators our food system depends on? 🎥 Watch here: https://rcr.media/episodes/claire-bleakley-elvira-dommisse-ge-free-nz-president-former-ge-researcher-102-experimental-pesticides-approved-with-no-public-notice #RCRMedia"
+      },
+      {
+        "title": "ACT Party candidate Paul Henry on the ‘overhang’ strategy",
+        "url": "https://www.youtube.com/shorts/9rEK0yUicRA",
+        "date_utc": "2026-09-19T21:53:41+00:00",
+        "summary": "“I don’t know that it was intended ever to be used the way Te Pati Maori are using it, but it is a legitimate strategy”. Tane Webster spoke to ACT Party candidate Paul Henry at his event in New Plymouth last Friday."
+      },
+      {
+        "title": "One of the motivators of going into Parliament is to make sure that never ever happens again.",
+        "url": "https://www.youtube.com/shorts/wQ_pWyHsQJE",
+        "date_utc": "2026-09-19T20:01:23+00:00",
+        "summary": "🌐 https://RCR.Media | \"One of the motivators of going into Parliament is to make sure that never ever happens again.\" - Craig Stobo, NZ First Candidate For Stobo, the events of 2022 became a reason to enter politics. What safeguards should exist to stop governments from again putting people's livelihoods on the line over personal medical decisions? 🎥 Watch here: https://rcr.media/episodes/craig-stobo-nz-first-candidate-from-investment-banking-to-the-beehive #RCRMedia"
+      },
+      {
+        "title": "What that means is that a party vote for National is, in a sense, wasted.",
+        "url": "https://www.youtube.com/shorts/Ntek4qYe4JM",
+        "date_utc": "2026-09-19T19:01:39+00:00",
+        "summary": "🌐 https://RCR.Media | \"What that means is that a party vote for National is, in a sense, wasted.\" - Don Brash, Former Reserve Bank Governor Brash argues National could win more electorates than its party vote entitles it to, leaving extra party votes adding no more National MPs. Does that change how you think about the two votes under MMP? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinar-politics-has-mmp-come-of-age-strategic-voting-polls-and-more #RCRMedia #WednesdayWebinar"
+      },
+      {
         "title": "They were told right from the start there was no difference in the quality of food that was...",
         "url": "https://www.youtube.com/shorts/26-qozZtVEc",
         "date_utc": "2026-09-19T06:01:21+00:00",
@@ -154,66 +214,6 @@
         "url": "https://www.youtube.com/watch?v=pUwmHcq4VcM",
         "date_utc": "2026-09-18T13:03:57+00:00",
         "summary": "Paul Brennan is joined by investigative journalist James Corbett, founder of The Corbett Report, to revisit the unresolved questions surrounding the September 11th attacks in 2001, now 25 years on. Moving beyond the physics of that day, Corbett traces the financial links behind the alleged hijackers, the CIA's ties to Al-Qaeda and the neoconservative planning that followed. Discover more from James at the Corbett Report For election news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "ROB MACCULLOCH",
-        "url": "https://www.youtube.com/watch?v=XJyFALqRwIY",
-        "date_utc": "2026-09-18T13:02:28+00:00",
-        "summary": "Economist Rob MacCulloch joins Paul Brennan to dissect The Opportunities Party's tax reset policy, arguing its 1.75% land tax stacks on top of existing taxes rather than replacing them, amounting to a major wealth redistribution rather than genuine reform. He also questions National's “no new taxes” pledge given looming fiscal pressures, welcomes compulsory KiwiSaver increases as a rare bright spot, and weighs in on NZ First's push for a state-owned bank amid what he calls rampant profiteering by banks and supermarkets. For more on Rob MacCulloch For election news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "DON BRASH & MATT ROBSON",
-        "url": "https://www.youtube.com/watch?v=Ju9ccf5Bvnw",
-        "date_utc": "2026-09-18T13:02:22+00:00",
-        "summary": "Paul Brennan hosts former Reserve Bank governor Don Brash and Auckland barrister and former minister Matt Robson for a wide-ranging political discussion. The pair find surprising common ground on supermarket break-up plans and vague “price gouging” laws, before diverging on Kiwibank's public ownership, tax cuts, and debt reduction. They close with Robson's documentary on the late Jim Anderton and its rocky path to funding. Check out RCR's Wednesday's Webinar: Politics: Has MMP Come of Age, Strategic Voting, Polls and more For election news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "KIT KNIGHTLY",
-        "url": "https://www.youtube.com/watch?v=wm5SMgWRPPA",
-        "date_utc": "2026-09-18T13:01:46+00:00",
-        "summary": "OffGuardian editor Kit Knightly joins Paul Brennan to pick apart the vague, escalating warnings around AI extinction risk, from Jacob Coxon's resignation to the Hugging Face “rogue agent” incident. He argues the real danger is the sweeping regulation likely to follow rather than the technology itself. They also mark the 25th anniversary of 9/11, questioning the physical evidence behind the official narrative and the media's recent rehabilitation of George W. Bush. Discover more from Kit at OffGuardian For news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "KATRINA BIGGS",
-        "url": "https://www.youtube.com/watch?v=Un3WeUBaGXk",
-        "date_utc": "2026-09-18T13:01:34+00:00",
-        "summary": "Maree Buscke speaks with women's rights advocate Katrina Biggs about the year-long battle to raise New Zealand's first official women's suffrage flag on Parliament's forecourt ahead of Suffrage Day. Katrina recounts the bureaucratic pushback, the legal fight that finally won approval, and the muted turnout from some MPs. The conversation also touches on Parliament's record female representation and the ongoing debate over legal definitions of sex. Discover more from Katrina on Substack For news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "These schoolgirls who aren't drinking water during the day...",
-        "url": "https://www.youtube.com/shorts/B7aaoEAus00",
-        "date_utc": "2026-09-18T08:02:12+00:00",
-        "summary": "🇦🇺 🌐 https://RCR.Media | \"These schoolgirls who aren't drinking water during the day... because they don't have any girls' bathrooms.\" - Sall Grover, Giggle App Founder 🇦🇺 If girls are avoiding bathrooms or staying home because they feel their privacy has disappeared, is the current approach really protecting everyone equally? 🎥 Watch here: https://rcr.media/episodes/sall-grover-giggle-app-founder-facing-the-future-after-loss-in-australias-top-court #RCRMedia"
-      },
-      {
-        "title": "Making citizenship valuable, making people think...",
-        "url": "https://www.youtube.com/shorts/HE9ZM90VC50",
-        "date_utc": "2026-09-18T07:01:20+00:00",
-        "summary": "🌐 https://RCR.Media | \"Making citizenship valuable, making people think... really think about immigration, really think about the country that they're living in, and their commitment to that country.\" - Dieuwe de Boer Has New Zealand made the distinction between residency and citizenship too small, or should citizenship require a much deeper commitment? 🎥 Watch here: https://rcr.media/episodes/weekly-roundup-election-immigration-policies-take-shape #RCRMedia #TheWeeklyRoundup"
-      },
-      {
-        "title": "It was pretty disgusting, really. It was pretty hard to watch",
-        "url": "https://www.youtube.com/shorts/xhag7_kHpgk",
-        "date_utc": "2026-09-18T03:01:20+00:00",
-        "summary": "🌐 https://RCR.Media | \"It was pretty disgusting, really. It was pretty hard to watch.\" - Rachel Stewart Footage showed New York Mayor Zohran Mamdani laughing with AOC while the names of 9/11 victims were being read. Whatever they were talking about, was that the wrong moment for laughter? Rachel Stewart and Maree Buscke discuss on this episode of Both Barrels. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-twenty-five-years-on-from-the-day-the-world-changed #RCRMedia #BothBarrels"
-      },
-      {
-        "title": "You must at some point question: 'Is this fit for purpose'",
-        "url": "https://www.youtube.com/shorts/4a7j4qKUkHw",
-        "date_utc": "2026-09-17T21:01:59+00:00",
-        "summary": "🇦🇺 🌐 https://RCR.Media | \"You must at some point question: 'Is this fit for purpose?'\" - Paul Conlon, Author and Engineer @PaulGConlon 🇦🇺 A law backed by compulsory questioning, $364,000 fines and up to 12 months in jail. At what point does enforcement become more alarming than the problem it claims to solve? Michael Arbon talks with Paul Conlon about Australia's new digital duty of care legislation. 🎥 Watch here: https://rcr.media/episodes/paul-conlon-author-and-engineer-digital-duty-of-care-explained #RCRMedia"
-      },
-      {
-        "title": "What that means is there's hotlots that kill large numbers of people, and then there's dudlots...",
-        "url": "https://www.youtube.com/shorts/ER-tTcg2-Lk",
-        "date_utc": "2026-09-17T20:01:35+00:00",
-        "summary": "\"What that means is there's hotlots that kill large numbers of people, and then there's dudlots that basically don't kill anybody, or kill a small number of people.\" - Dr Nicolas Hulscher, Epidemiologist & McCullough Foundation Administrator Hulscher argues batch variability could help explain why some people reported severe outcomes while others experienced very little. If different vaccine batches produced dramatically different safety signals, should regulators have been investigating individual lot numbers far more aggressively? 🎥 Watch here: https://rcr.media/episodes/dr-nicolas-hulscher-epidemiologist-mccullough-foundation-administrator-vaccine-dna-found-inside-a-rare-turbocancer-tumor #RCRMedia"
-      },
-      {
-        "title": "WEDNESDAY WEBINAR",
-        "url": "https://www.youtube.com/watch?v=icu5eGYiAy8",
-        "date_utc": "2026-09-17T13:04:55+00:00",
-        "summary": "Former Reserve Bank Governor Don Brash joins Maree Buscke for a wide-ranging webinar on strategic voting under MMP, explaining why National's electorate strength could waste its party vote and urging centre-right voters to split their ballots. They cover ballooning government debt, the case for raising the super age, Treaty of Waitangi politics, GST's regressive edge, and why bold fiscal reform has been politically unpalatable since Ruth Richardson. For election news that matters, get RCR Bites FREE every weekday. For links mentioned in the webinar: RCR CONTENT: Don Brash | Strategic Voting, MMP Overhang & the 2026 Election A Political Agenda with Maree Buscke, Sandra Goudie & Joshua Riley | Are NZ’s Laws Putting Rights & Freedoms at Risk? A Political Agenda with Maree Buscke, Ro Edge and David Lynch | Political Accountability, MMP & the Rise of TOP A Politcal Agenda with Maree Buscke, Rachel Stewart and Rob MacCulloch | Political Messaging vs Meaningful Policy OTHER MEDIA: Birthgap | Documentary on the worldwide birth rate"
       }
     ]
   },
