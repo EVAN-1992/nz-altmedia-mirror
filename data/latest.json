@@ -1,8 +1,26 @@
 {
-  "generated_utc": "2026-09-21T16:57:14Z",
+  "generated_utc": "2026-09-22T15:28:45Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Abolish the Tribunal, Preserve the Treaty",
+        "url": "https://realitycheck.radio/abolish-the-tribunal-preserve-the-treaty/",
+        "date_utc": "2026-09-22T03:51:15Z",
+        "summary": "by Richard Prebble ACT will complete the historical Treaty claims […]"
+      },
+      {
+        "title": "Where they come from matters more than how many",
+        "url": "https://realitycheck.radio/where-they-come-from-matters-more-than-how-many/",
+        "date_utc": "2026-09-21T03:48:23Z",
+        "summary": "by Ray Pistol One Nation’s new immigration policy was unveiled yesterday […]"
+      },
+      {
+        "title": "White Australia’s high court challenge a safe bet",
+        "url": "https://realitycheck.radio/white-australias-high-court-challenge-a-safe-bet/",
+        "date_utc": "2026-09-20T03:43:14Z",
+        "summary": "by M K Grant On the 20th of January 2026, […]"
+      },
       {
         "title": "One Nation serves a hard lesson on elite theory",
         "url": "https://realitycheck.radio/one-nation-serves-a-hard-lesson-on-elite-theory-2/",
@@ -76,55 +94,109 @@
         "summary": "by Rachel Stewart Today is the 25th anniversary of 9/11, […]"
       },
       {
-        "title": "When A Line On A Map Makes Housing Dearer",
-        "url": "https://realitycheck.radio/when-a-line-on-a-map-makes-housing-dearer/",
-        "date_utc": "2026-09-09T23:32:49Z",
-        "summary": "by Benno Blaschke Imagine two paddocks at the edge of […]"
-      },
-      {
-        "title": "The Dangerous Story Of Property Prices",
-        "url": "https://realitycheck.radio/the-dangerous-story-of-property-prices/",
-        "date_utc": "2026-09-09T23:19:18Z",
-        "summary": "by Nathan Smith It’s amazing how many intelligent people insist […]"
-      },
-      {
-        "title": "Tour Report: Politics",
-        "url": "https://realitycheck.radio/tour-report-politics/",
-        "date_utc": "2026-09-08T23:08:52Z",
-        "summary": "by Peter Williams Because of our relationship through rugby and […]"
-      },
-      {
-        "title": "IVOR CUMMINS: Male Lactation Madness: Irish Conference Caves After Public Backlash",
-        "url": "https://realitycheck.radio/episodes/ivor-cummins-male-lactation-madness-irish-conference-caves-after-public-backlash/",
-        "date_utc": "2026-09-18T20:24:37Z",
+        "title": "PAUL HENRY: Paul Henry Unveiled: Grandkids, Winston Peters & NZ’s Political Crossroads",
+        "url": "https://realitycheck.radio/episodes/paul-henry-paul-henry-unveiled-grandkids-winston-peters-nzs-political-crossroads/",
+        "date_utc": "2026-09-22T04:39:22Z",
         "summary": ""
       },
       {
-        "title": "IVOR CUMMINS: Ireland’s Age Checks Online: Protecting Kids or Killing Anonymity?",
-        "url": "https://realitycheck.radio/episodes/ivor-cummins-irelands-age-checks-online-protecting-kids-or-killing-anonymity/",
-        "date_utc": "2026-09-18T20:24:05Z",
+        "title": "ALEX ANTIC: Senator Alex Antic’s First Post-Vote Interview: Why He Chose Independent Media",
+        "url": "https://realitycheck.radio/episodes/alex-antic-senator-alex-antics-first-post-vote-interview-why-he-chose-independent-media/",
+        "date_utc": "2026-09-22T01:57:31Z",
         "summary": ""
       },
       {
-        "title": "ANDREW DOYLE: UK’s Free Speech Crisis: 30 Arrests Daily and the Woke Censorship Warning",
-        "url": "https://realitycheck.radio/episodes/andrew-doyle-uks-free-speech-crisis-30-arrests-daily-and-the-woke-censorship-warning/",
-        "date_utc": "2026-09-18T20:23:43Z",
+        "title": "TAURIQ BARRON: AI Safety Crisis: Is Anyone Actually Minding the Silicon Store?",
+        "url": "https://realitycheck.radio/episodes/tauriq-barron-ai-safety-crisis-is-anyone-actually-minding-the-silicon-store/",
+        "date_utc": "2026-09-22T01:54:03Z",
         "summary": ""
       },
       {
-        "title": "IVOR CUMMINS: Ireland’s Identity Crisis: A Nation’s True Soul Fading by 2040",
-        "url": "https://realitycheck.radio/episodes/ivor-cummins-irelands-identity-crisis-a-nations-true-soul-fading-by-2040/",
-        "date_utc": "2026-09-18T20:23:26Z",
+        "title": "MAREE BUSCKE: On Rainbow Storytime Drag Performer Erika Flash: Setting the Record Straight",
+        "url": "https://realitycheck.radio/episodes/maree-buscke-on-rainbow-storytime-drag-performer-erika-flash-setting-the-record-straight/",
+        "date_utc": "2026-09-22T01:44:35Z",
         "summary": ""
       },
       {
-        "title": "MEDIA MATTERS: Preserving Humanity: Why We Need AI-Free Bubbles to Stay Human",
-        "url": "https://realitycheck.radio/episodes/media-matters-preserving-humanity-why-we-need-ai-free-bubbles-to-stay-human/",
-        "date_utc": "2026-09-18T20:23:11Z",
+        "title": "ALEX ANTIC: Digital Freedom Fight: Is the Left Losing Its Grip on the Narrative?",
+        "url": "https://realitycheck.radio/episodes/alex-antic-digital-freedom-fight-is-the-left-losing-its-grip-on-the-narrative/",
+        "date_utc": "2026-09-22T01:29:00Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "WINSTON PETERS",
+        "url": "https://www.youtube.com/watch?v=Ik4BQPon5wc",
+        "date_utc": "2026-09-22T13:02:36+00:00",
+        "summary": "Paul Brennan speaks with Foreign Minister Winston Peters about New Zealand First's health policy, which links diet and chronic disease to a wider critique of the medical system's reliance on pharmaceuticals. Peters points to vaping and reduced GST on whole foods as evidence for his approach, praises RFK Jr.'s health advocacy, and reflects on New Zealand's nuclear-free legacy and the shifting global security order. Discover more from Winston Peters on X , Facebook and Instagram For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "FIONA ANDERSON",
+        "url": "https://www.youtube.com/watch?v=kdW5T7pp734",
+        "date_utc": "2026-09-22T13:01:55+00:00",
+        "summary": "Paul Brennan speaks with Fiona Anderson, manager of the Piha Campground, about the toll of its extended closure over flood risk. Fiona details her decades of on-the-ground safety measures, the conflicting flood models behind the council's decision and the near-4,000-signature petition backing her. She warns that forcing campers elsewhere will only push them into freedom camping outside residents' homes and questions why a single tragedy elsewhere should dictate Piha's fate. To sign Cindy Baxter's petition | Don’t Close our Beloved Piha Campground For more on Piha Campground Check out some RCR content on Managed Retreat For news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "KEN TURNER",
+        "url": "https://www.youtube.com/watch?v=-HslmkClAEs",
+        "date_utc": "2026-09-22T13:01:48+00:00",
+        "summary": "Paul Brennan talks with Waitākere Ward Councillor Ken Turner about Auckland Council's push to close Piha Campground over flood risk. Ken argues the modelling behind the closure inflates future development scenarios to absurd levels, and questions whether liability concerns are driving the decision more than genuine safety. He warns that closing the campground would simply push freedom campers onto less-managed public land, with a local board decision looming this week. To sign Cindy Baxter’s petition | Don’t Close our Beloved Piha Campground Discover more from Ken at Auckland Council or on Facebook Check out some Managed Retreat content on RCR For news that matters, get RCR Bites FREE every weekday."
+      },
+      {
+        "title": "Why would you bother talking to the mainstream media?",
+        "url": "https://www.youtube.com/shorts/sI14Cyx5uB0",
+        "date_utc": "2026-09-22T08:01:43+00:00",
+        "summary": "🇦🇺 🌐 https://RCR.Media | \"Why would you bother talking to the mainstream media?\" - Senator Alex Antic 🇦🇺 Antic says politicians can now speak directly to people through long-form independent media instead of relying on traditional outlets. Has mainstream media lost its role as the gatekeeper of political debate? Antic speaks with RCR's Michael Arbon 🎥 Watch here: https://rcr.media/episodes/alex-antic-senator-newly-elected-south-australian-liberal-party-president-free-speech-digital-id-and-the-liberal-partys-future #RCRMedia"
+      },
+      {
+        "title": "🌐 https://RCR.Media | I Made A Mistake. I’m Sorry.",
+        "url": "https://www.youtube.com/shorts/sfnLQRr_zw0",
+        "date_utc": "2026-09-22T07:21:25+00:00",
+        "summary": "🌐 https://RCR.Media | I Made A Mistake. I’m Sorry. Maree Buscke responds to a complaint from the Haus of Flash, correcting an inaccurate attribution regarding performer Daniel Lockett and the character Erika Flash. She explains where the misunderstanding arose, what the New Zealand Herald reported, and issues an apology for the incorrect attribution. 📫 Look behind the headlines. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "Do I hire the 21-year-old who's got some experience or do I take the 17-year-old with no experience",
+        "url": "https://www.youtube.com/shorts/KPNBrKMUrcg",
+        "date_utc": "2026-09-22T07:01:14+00:00",
+        "summary": "🌐 https://RCR.Media | \"Do I hire the 21-year-old who's got some experience or do I take the 17-year-old with no experience?\" - Laura McClure, ACT Party List MP McClure says employers often choose experience over giving a teenager their first break. Would a youth training wage actually tip that decision in favour of younger workers? 🎥 Watch here: https://rcr.media/episodes/laura-mcclure-act-party-list-mp-making-it-easier-to-do-business-in-new-zealand #RCRMedia"
+      },
+      {
+        "title": "The second generation, the children of the migrants... they're up at 2 point something... 2.4, 2.5.",
+        "url": "https://www.youtube.com/shorts/v5638Qa4Fms",
+        "date_utc": "2026-09-22T06:02:15+00:00",
+        "summary": "🌐 https://RCR.Media | \"The second generation, the children of the migrants... they're up at 2 point something... 2.4, 2.5.\" - Ivor Cummins, Irish Commentator Cummins says Danish data challenges the assumption that migration-related crime differences simply disappear in the next generation. Should governments publish more detailed crime data by migration background so the public can judge the evidence for themselves? 🎥 Watch here: https://rcr.media/episodes/ivor-cummins-irish-commentator-irelands-vanishing-point #RCRMedia"
+      },
+      {
+        "title": "ACT Party candidate Paul Henry on which politicians he admires.",
+        "url": "https://www.youtube.com/shorts/Z9gqmENguH8",
+        "date_utc": "2026-09-22T05:33:33+00:00",
+        "summary": "“In terms of being a politician, I’ve got to say - albeit reluctantly - I’ve got a bit of admiration for Winston Peters”. Tane Webster spoke to ACT Party candidate Paul Henry at his event in New Plymouth last Friday."
+      },
+      {
+        "title": "Maybe in 10 years time there'll be a great degree of regret for that vote when you do build...",
+        "url": "https://www.youtube.com/shorts/b0LIBjUtz4Q",
+        "date_utc": "2026-09-22T00:02:01+00:00",
+        "summary": "🌐 https://RCR.Media | \"Maybe in 10 years time there'll be a great degree of regret for that vote when you do build up some capital.\" - Simon Angelo Angelo says younger voters may view wealth taxes differently once they own homes, businesses or investments themselves. Do people's views on taxation change once they have something substantial to lose? 🎥 Watch here: https://rcr.media/episodes/money-talks-with-simon-angelo-money-markets-and-what-money-cant-buy #RCRMedia #MoneyTalks"
+      },
+      {
+        "title": "ACT Party candidate Paul Henry on the social media ban.",
+        "url": "https://www.youtube.com/shorts/eNgsjeNfhkA",
+        "date_utc": "2026-09-21T23:14:32+00:00",
+        "summary": "“I’m not a fan of it. I think it’s much more important to educate people on the dangers, but also the opportunities”. Tane Webster spoke to ACT Party candidate Paul Henry at his event in New Plymouth last Friday."
+      },
+      {
+        "title": "Increasingly, I'm just focusing my attention on podcasters and independent media",
+        "url": "https://www.youtube.com/shorts/27CIcW0jFBg",
+        "date_utc": "2026-09-21T21:01:02+00:00",
+        "summary": "🌐 https://RCR.Media | \"Increasingly, I'm just focusing my attention on podcasters and independent media”. - Senator Alex Antic In his first media appearance since being elected President of the South Australian Liberal Party, Antic tells Michael Arbon his attention is shifting away from legacy media. Are politicians increasingly better served by speaking directly through independent platforms? 🎥 Watch here: https://rcr.media/episodes/alex-antic-senator-newly-elected-south-australian-liberal-party-president-free-speech-digital-id-and-the-liberal-partys-future www.rcr.media #RCRMedia"
+      },
+      {
+        "title": "The idea there is similar to Auckland Future Fund or the Norwegian fund...",
+        "url": "https://www.youtube.com/shorts/Mtn1veouXUk",
+        "date_utc": "2026-09-21T19:02:02+00:00",
+        "summary": "🌐 https://RCR.Media | \"The idea there is similar to Auckland Future Fund or the Norwegian fund, is to diversify our risk profile to other sorts of markets and businesses and industries.\" - Craig Stobo, NZ First Candidate Should New Zealand be building long-term wealth overseas instead of relying so heavily on tax revenue and borrowing when the next crisis hits? 🎥 Watch here: https://rcr.media/episodes/craig-stobo-nz-first-candidate-from-investment-banking-to-the-beehive #RCRMedia"
+      },
       {
         "title": "PERRY TROTTER",
         "url": "https://www.youtube.com/watch?v=kIaKd9GhmGc",
@@ -142,83 +214,65 @@
         "url": "https://www.youtube.com/watch?v=MRHps8ARlm0",
         "date_utc": "2026-09-21T13:03:18+00:00",
         "summary": "Paul Brennan speaks with Lynda Wharton of Health Forum NZ about the country's only study into long-term myocarditis and pericarditis outcomes following Pfizer's mRNA vaccine. Lynda details how Health New Zealand held the 2024 findings for years before publishing, then made no changes to the care pathways its own study flagged as broken. The two discuss underdiagnosis, testing gaps and the lasting breakdown in public trust. To see the original report from Te Whatu Ora (Health NZ) | Long-term outcomes of myocarditis and pericarditis following vaccination with Comirnaty (Pfizer/BioNTech COVID-19 vaccine) For more from Lynda Wharton, visit The Health Forum NZ or find them on Facebook and X Check out RCR's Alia Bland and Katie Ashby Koppens | What officials knew about myocarditis for teens"
-      },
-      {
-        "title": "JOHN BALLINGALL",
-        "url": "https://www.youtube.com/watch?v=QCwla3qGHNI",
-        "date_utc": "2026-09-21T13:02:04+00:00",
-        "summary": "Trade economist John Ballingall joins Paul Brennan to break down New Zealand's freshly signed free trade deal with India. He calls it a genuine long-term win, especially for dairy exporters eyeing a market that's *never* imported dairy before. Despite political criticism over immigration concessions, Ballingall is blunt – this deal is as good as Australia's and anyone saying otherwise needs a reality check. Discover more from John Ballingall For news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "ALEX ANTIC",
-        "url": "https://www.youtube.com/watch?v=TqboM2h_vdk",
-        "date_utc": "2026-09-21T13:02:00+00:00",
-        "summary": "Michael Arbon speaks with newly elected South Australian Liberal Party President Senator Alex Antic about his path into politics, rooted in his family's history fleeing communist Yugoslavia. Antic discusses digital ID, online censorship and hate-symbol laws as creeping government overreach justified through appeals to child safety, addresses Labor's inroads with migrant communities and weighs the Liberal Party's uneasy relationship with a rising One Nation. Discover more from Senator Antic or find him on Facebook , YouTube and X Find more from Michael on Facebook and X"
-      },
-      {
-        "title": "ACT Party candidate Paul Henry on which policies from other parties scare him the most.",
-        "url": "https://www.youtube.com/shorts/iQEiu3lDntg",
-        "date_utc": "2026-09-21T08:30:21+00:00",
-        "summary": "“Where do you begin? The fact that Chloe thinks that she should be the Minister of Finance scares me a lot”. Tane Webster spoke to ACT Party candidate Paul Henry at his event in New Plymouth last Friday."
-      },
-      {
-        "title": "What is also alarming, is that the legislation also allows...",
-        "url": "https://www.youtube.com/shorts/wERbORmI_98",
-        "date_utc": "2026-09-21T08:02:12+00:00",
-        "summary": "🇦🇺 🌐 https://RCR.Media | \"What is also alarming, is that the legislation also allows the Communications Minister Anika Wells to, by regulation, decide new forms of harm.\" - Tim Wilms @wilmsfront from The Unshackled 🇦🇺 Once government has the machinery to censor recognised \"harm\", how easy is it for future governments to simply widen the definition? 🎥 Watch here: https://rcr.media/episodes/the-wilms-report-with-tim-wilms-digital-duty-of-care-expands-censorship-powers #RCRMedia #TheWilmsReport"
-      },
-      {
-        "title": "Why should we pay between $6 (billion) and $24 billion to buy European tax credits...",
-        "url": "https://www.youtube.com/shorts/w6TH6uDgLdw",
-        "date_utc": "2026-09-21T07:01:50+00:00",
-        "summary": "🌐 https://RCR.Media | \"Why should we pay between $6 (billion) and $24 billion to buy European tax credits to comply with a methodology of calculating GHGs that doesn't fit our peculiar emissions profile.\" - Craig Stobo, NZ First Candidate Stobo argues New Zealand is being forced into a climate framework designed around very different economies. Should our emissions policy reflect New Zealand's agricultural reality first? 🎥 Watch here: https://rcr.media/episodes/craig-stobo-nz-first-candidate-from-investment-banking-to-the-beehive #RCRMedia"
-      },
-      {
-        "title": "She said: 'I can live with that.'",
-        "url": "https://www.youtube.com/shorts/oyHiLNVpOv8",
-        "date_utc": "2026-09-21T06:01:30+00:00",
-        "summary": "🌐 https://RCR.Media | \"She said: 'I can live with that.'\" - Don Brash, recounting Dame Tariana Turia Brash recalls a compromise over Māori electorates and Treaty settlements during coalition negotiations. Is this exactly how MMP is supposed to work? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinar-politics-has-mmp-come-of-age-strategic-voting-polls-and-more #RCRMedia #WednesdayWebinar"
-      },
-      {
-        "title": "ACT Party candidate Paul Henry on patriotism.",
-        "url": "https://www.youtube.com/shorts/u3J9O2lFhAM",
-        "date_utc": "2026-09-21T05:30:12+00:00",
-        "summary": "“Patriotism means a society that has a common goal, that proudly flies the flag of their country internationally and works towards a better future for everyone”. Tane Webster spoke to ACT Party candidate Paul Henry at his event in New Plymouth last Friday."
-      },
-      {
-        "title": "This is a woman's issue. You should be doing your job and taking this to government and saying...",
-        "url": "https://www.youtube.com/shorts/1wPpKYCTqug",
-        "date_utc": "2026-09-20T21:01:36+00:00",
-        "summary": "🇦🇺 🌐 https://RCR.Media | \"This is a woman's issue. You should be doing your job and taking this to government and saying there's an issue.\" - Sall Grover, Giggle App Founder 🇦🇺 If the Minister for Women won't seriously raise concerns about women's sex-based rights, who exactly is supposed to? 🎥 Watch here: https://rcr.media/episodes/sall-grover-giggle-app-founder-facing-the-future-after-loss-in-australias-top-court #RCRMedia"
-      },
-      {
-        "title": "Once the file's corrupted, because it's been merged with non-human Pfizer DNA...",
-        "url": "https://www.youtube.com/shorts/aFiRg6zwLps",
-        "date_utc": "2026-09-20T19:02:25+00:00",
-        "summary": "\"Once the file's corrupted, because it's been merged with non-human Pfizer DNA, that's going to result in uncontrolled cell growth and all sorts of horrible things.\" - Dr Nicolas Hulscher, Epidemiologist & McCullough Foundation Administrator If vaccine-related plasmid DNA can integrate into the genome and interfere with normal cell function, what could that mean for long-term safety monitoring? 🎥 Watch here: https://rcr.media/episodes/dr-nicolas-hulscher-epidemiologist-mccullough-foundation-administrator-vaccine-dna-found-inside-a-rare-turbocancer-tumor #RCRMedia"
-      },
-      {
-        "title": "UNDER THE HOOD",
-        "url": "https://www.youtube.com/watch?v=6SumXgk3sCs",
-        "date_utc": "2026-09-20T13:03:22+00:00",
-        "summary": "Graham Hood reflects on his upcoming New Zealand tour and the Sydney COVID Royal Commission event before turning to his central theme: society's shift from disagreement to outright conflict. Drawing on a backstage conversation with the late Charlie Kirk, unease over Australia's political and biosecurity climate and his own past struggles, he makes the case for assertive, compassionate conversation over aggression as the way through deepening social division. Catch up with Hoody on his NZ Roady Discover more from Hoody at Club Grubbery or find him on Facebook and X"
-      },
-      {
-        "title": "ACT Party candidate Paul Henry on what he thinks needs to be done about the supermarket issue.",
-        "url": "https://www.youtube.com/shorts/yBty9-FTpLk",
-        "date_utc": "2026-09-20T08:22:01+00:00",
-        "summary": "“I think there are a lot of political parties that have bought in with a level of outrage which may actually not be based in reality”. Tane Webster spoke to ACT Party candidate Paul Henry at his event in New Plymouth last Friday."
-      },
-      {
-        "title": "This is the state forcing people to believe in ideology, a nonsense ideology...",
-        "url": "https://www.youtube.com/shorts/Goj1OkbcxnE",
-        "date_utc": "2026-09-20T08:01:08+00:00",
-        "summary": "🇦🇺 🌐 https://RCR.Media | \"This is the state forcing people to believe in ideology, a nonsense ideology, and punishing you if you don't believe in it.\" - Sall Grover, Giggle App Founder 🇦🇺 Grover believes public pressure will eventually force the law to change. Do you think this issue is heading toward a political reckoning? 🎥 Watch here: https://rcr.media/episodes/sall-grover-giggle-app-founder-facing-the-future-after-loss-in-australias-top-court #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "ML Ridicules Te Pati Maori’s Food Fantasy - 8 Weeks Of Free Groceries.",
+        "url": "https://www.youtube.com/watch?v=lgThm6ILswk",
+        "date_utc": "2026-09-22T05:54:52+00:00",
+        "summary": "Michael Laws ridicules Te Pati Maori’s food fantasy - 8 weeks of free groceries."
+      },
+      {
+        "title": "New Parents’ Group To Lobby Schools Is The Real Problem $h!tty Parents",
+        "url": "https://www.youtube.com/watch?v=5HoJzrb0bPU",
+        "date_utc": "2026-09-22T03:54:02+00:00",
+        "summary": "New Parents’ Group to lobby schools but is the real education problem, $h!tty parents?"
+      },
+      {
+        "title": "ACT Leader Defends The Supermarket Status Quo",
+        "url": "https://www.youtube.com/watch?v=Whv5iI4gObU",
+        "date_utc": "2026-09-22T03:35:42+00:00",
+        "summary": "ACT leader David Seymour defends the supermarket status quo and explains why the suggested reforms are”mad”"
+      },
+      {
+        "title": "NZ First’s Quite Different Health Policy Release",
+        "url": "https://www.youtube.com/watch?v=7Z0g3j-uwSI",
+        "date_utc": "2026-09-22T02:25:01+00:00",
+        "summary": "Winston Peters explains NZ First’s quite different health policy release (and Med School selection changes)"
+      },
+      {
+        "title": "Who Has The Best Supermarket Plan? Monopoly Watch’s Tex Edwards Opines",
+        "url": "https://www.youtube.com/watch?v=6NCThn_gof8",
+        "date_utc": "2026-09-22T01:54:01+00:00",
+        "summary": "Who has the best supermarket plan? Monopoly Watch’s Tex Edwards opines."
+      },
+      {
+        "title": "Penny Marie On Parents Alliance & Concern For Culture Wars In Schools",
+        "url": "https://www.youtube.com/watch?v=yYTcjZhUIFk",
+        "date_utc": "2026-09-22T00:58:45+00:00",
+        "summary": "Penny Marie on Parents Alliance and the concern for culture wars in schools."
+      },
+      {
+        "title": "Eric Crampton On Whether National’s Supermarket Break-Up Would Work",
+        "url": "https://www.youtube.com/watch?v=n3lPmPXul74",
+        "date_utc": "2026-09-22T00:07:30+00:00",
+        "summary": "Eric Crampton on whether National’s supermarket break-up plan would actually work."
+      },
+      {
+        "title": "Bryce McKenzie On Climate Change Rhetoric Ahead Of The 2026 Election",
+        "url": "https://www.youtube.com/watch?v=j-B0jwDEaCA",
+        "date_utc": "2026-09-21T23:42:50+00:00",
+        "summary": "Bryce McKenzie from Groundswell NZ on climate change rhetoric ahead of the 2026 Election."
+      },
+      {
+        "title": "Cameron Bagrie On New Group - Parents Alliance",
+        "url": "https://www.youtube.com/watch?v=YHqTKHtMntE",
+        "date_utc": "2026-09-21T23:28:23+00:00",
+        "summary": "Cameron Bagrie on new group - Parents Alliance."
+      },
       {
         "title": "Sewage Sludge Being Spread Over Central Otago Farmland",
         "url": "https://www.youtube.com/watch?v=3C7EJ1R1FPU",
@@ -254,60 +308,6 @@
         "url": "https://www.youtube.com/watch?v=xzYJBIM3yuk",
         "date_utc": "2026-09-20T23:26:18+00:00",
         "summary": "Eden Park CEO, Nick Sautner on hosting Warriors game."
-      },
-      {
-        "title": "Bryce Edwards On Nicky Hager's Mysterious Upcoming Book Release",
-        "url": "https://www.youtube.com/watch?v=5-amgDFWDOA",
-        "date_utc": "2026-09-20T22:51:23+00:00",
-        "summary": "Bryce Edwards on Nicky Hager's mysterious upcoming book release."
-      },
-      {
-        "title": "Dean Lonergan On The Warriors Vs Newcastle Knights This Weekend",
-        "url": "https://www.youtube.com/watch?v=7xMWy0ZYCJ0",
-        "date_utc": "2026-09-18T01:29:27+00:00",
-        "summary": "Former Kiwi Dean Lonergan on the Warriors facing the Newcastle Knights this weekend."
-      },
-      {
-        "title": "Don’t Let The Left Rewrite NZ History",
-        "url": "https://www.youtube.com/watch?v=qt0DbilTego",
-        "date_utc": "2026-09-18T01:27:14+00:00",
-        "summary": "Don’t let the Left rewrite NZ history - the now-hidden story of the killing and cannibalism of French explorer Marion du Fresne."
-      },
-      {
-        "title": "How Citizen's Arrest Can Open Up A Can Of Legal Worms Very Quickly",
-        "url": "https://www.youtube.com/watch?v=7tsN1Ge8Qls",
-        "date_utc": "2026-09-18T00:54:22+00:00",
-        "summary": "Lawyer Marie Dyhrberg on citizen's arrest and how it can open up a can of legal worms very quickly."
-      },
-      {
-        "title": "National's Supermarket Split & The Greens' Idea Of 'Kiwimart’",
-        "url": "https://www.youtube.com/watch?v=MBdqyhpjELs",
-        "date_utc": "2026-09-18T00:09:44+00:00",
-        "summary": "Chris Wilkinson, Managing Director of First Retail Group on National's supermarket split and the Greens' idea of 'KiwiMart’."
-      },
-      {
-        "title": "Tameem Barakat From Centrist On Their Leading Four Stories This Week",
-        "url": "https://www.youtube.com/watch?v=81PbiKN-1qI",
-        "date_utc": "2026-09-17T23:42:41+00:00",
-        "summary": "Tameem Barakat from Centrist on their leading four stories this week."
-      },
-      {
-        "title": "Who Will Be The Wiener Of The Week?",
-        "url": "https://www.youtube.com/watch?v=3Hs85p4RaEU",
-        "date_utc": "2026-09-17T23:23:47+00:00",
-        "summary": "Who Will Be the Wiener of the Week? Friday Fry Up is brought to you by Beard Brothers, crafted with care the old school way."
-      },
-      {
-        "title": "Free Speech Fridays #174 – Chris Lynch & Laura McClure",
-        "url": "https://www.youtube.com/watch?v=YYm9XFaAeNg",
-        "date_utc": "2026-09-17T23:21:10+00:00",
-        "summary": "Free Speech Fridays with Chris Lynch & Laura McClure is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss Ed Sheeran’s controversial Tour, Accredited Employer Immigration loopholes, Helen Houghton’s win over HarperCollins Publishing and more."
-      },
-      {
-        "title": "Tim Costley On Updates In FENZ Investigation",
-        "url": "https://www.youtube.com/watch?v=5QTxN8Mc08Y",
-        "date_utc": "2026-09-17T23:19:46+00:00",
-        "summary": "Tim Costley on updates in FENZ investigation."
       }
     ],
     "opinions": [
