@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-22T15:28:45Z",
+  "generated_utc": "2026-09-23T15:24:01Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -94,37 +94,91 @@
         "summary": "by Rachel Stewart Today is the 25th anniversary of 9/11, […]"
       },
       {
+        "title": "LARRY BLAIR: Energy Commentator: Diesel at Breaking Point",
+        "url": "https://realitycheck.radio/episodes/larry-blair-energy-commentator-diesel-at-breaking-point/",
+        "date_utc": "2026-09-23T04:06:59Z",
+        "summary": ""
+      },
+      {
         "title": "PAUL HENRY: Paul Henry Unveiled: Grandkids, Winston Peters & NZ’s Political Crossroads",
         "url": "https://realitycheck.radio/episodes/paul-henry-paul-henry-unveiled-grandkids-winston-peters-nzs-political-crossroads/",
-        "date_utc": "2026-09-22T04:39:22Z",
+        "date_utc": "2026-09-23T03:39:22Z",
         "summary": ""
       },
       {
-        "title": "ALEX ANTIC: Senator Alex Antic’s First Post-Vote Interview: Why He Chose Independent Media",
-        "url": "https://realitycheck.radio/episodes/alex-antic-senator-alex-antics-first-post-vote-interview-why-he-chose-independent-media/",
-        "date_utc": "2026-09-22T01:57:31Z",
+        "title": "PAUL HENRY: Patriotism Unveiled: One Law, One Nation, Equal For All",
+        "url": "https://realitycheck.radio/episodes/paul-henry-patriotism-unveiled-one-law-one-nation-equal-for-all/",
+        "date_utc": "2026-09-23T02:54:38Z",
         "summary": ""
       },
       {
-        "title": "TAURIQ BARRON: AI Safety Crisis: Is Anyone Actually Minding the Silicon Store?",
-        "url": "https://realitycheck.radio/episodes/tauriq-barron-ai-safety-crisis-is-anyone-actually-minding-the-silicon-store/",
-        "date_utc": "2026-09-22T01:54:03Z",
+        "title": "PAUL HENRY: Locking Out Labour: One Grandfather’s Mission to Save NZ’s Future",
+        "url": "https://realitycheck.radio/episodes/paul-henry-locking-out-labour-one-grandfathers-mission-to-save-nzs-future/",
+        "date_utc": "2026-09-23T02:54:20Z",
         "summary": ""
       },
       {
-        "title": "MAREE BUSCKE: On Rainbow Storytime Drag Performer Erika Flash: Setting the Record Straight",
-        "url": "https://realitycheck.radio/episodes/maree-buscke-on-rainbow-storytime-drag-performer-erika-flash-setting-the-record-straight/",
-        "date_utc": "2026-09-22T01:44:35Z",
-        "summary": ""
-      },
-      {
-        "title": "ALEX ANTIC: Digital Freedom Fight: Is the Left Losing Its Grip on the Narrative?",
-        "url": "https://realitycheck.radio/episodes/alex-antic-digital-freedom-fight-is-the-left-losing-its-grip-on-the-narrative/",
-        "date_utc": "2026-09-22T01:29:00Z",
+        "title": "PAUL HENRY: NZ Election Tactics: Is Te Pati Maori’s Overhang Strategy a Game-Changer?",
+        "url": "https://realitycheck.radio/episodes/paul-henry-nz-election-tactics-is-te-pati-maoris-overhang-strategy-a-game-changer/",
+        "date_utc": "2026-09-23T02:54:03Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "CAROLINE WHEELER",
+        "url": "https://www.youtube.com/watch?v=pR-nY-5capw",
+        "date_utc": "2026-09-23T13:03:06+00:00",
+        "summary": "Maree Buscke speaks with retired Nelson GP Dr Caroline Wheeler, recently censured by the Health Practitioners Disciplinary Tribunal for prescribing ivermectin during the pandemic. Caroline recounts why she felt compelled to treat desperate patients, the years-long disciplinary process that followed a colleague's complaint and the personal toll of fighting it while caring for her dying mother. She reflects on the broader campaign against dissenting doctors and urges others not to stay silent. For more information and to sign their declaration visit NZDSOS.com For news you can trust, get RCR Bites FREE every weekday."
+      },
+      {
+        "title": "BOTH BARRELS",
+        "url": "https://www.youtube.com/watch?v=YhY_ZsE6LYQ",
+        "date_utc": "2026-09-23T13:02:18+00:00",
+        "summary": "Maree Buscke and Rachel Stewart discuss the fallout from Macklemore's pro-Palestinian protest during Ed Sheeran's tour, which saw Macklemore depart amid backlash from stadium owner Robert Kraft. The pair reflect on cancel culture's staying power, drawing parallels to their own experiences of professional ostracism and muse on luxury beliefs, the erosion of manners, and whether society is heading toward some larger reckoning. Discover more from Rachel on Substack and X For news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "MONEY TALKS",
+        "url": "https://www.youtube.com/watch?v=3eiJBkhmHWY",
+        "date_utc": "2026-09-23T13:02:16+00:00",
+        "summary": "Paul Brennan talks with Farzin Irani of Sovereignty Capital about the Reserve Bank's expected interest rate hikes, which Farzin ties to currency defence rather than genuine economic strength. He walks through rising diesel costs, the widening gap between rich and poor and the geopolitical pressures building around Russia, Ukraine and Europe's economy, before turning to the scale of global sovereign debt and the risks lurking in bond markets. DISCLAIMER: The views and information shared on this show are for educational and informational purposes only. They do not constitute personalised financial, investment, tax, or legal advice. Listeners should seek guidance from a licensed financial professional who can provide advice based on their individual situation. For more information visit Farzin's new website Sovereignty.capital – with free resources to help people prepare for the future. Discover more from Farzin on Linktr.ee"
+      },
+      {
+        "title": "LARRY BLAIR",
+        "url": "https://www.youtube.com/watch?v=HuJJWvhERxo",
+        "date_utc": "2026-09-23T13:02:08+00:00",
+        "summary": "Paul Brennan speaks with energy policy commentator Larry Blair about the strained global fuel supply chain, as Houthi attacks near the Bab-el-Mandeb Strait and damage to Saudi Arabia's East-West pipeline squeeze diesel exports to Europe. Larry explains why New Zealand's supply looks stable for now but remains vulnerable to price shocks, and discusses soaring shipping costs, potential US export restrictions, and the risks of further Middle East escalation. For the latest energy news get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "SAAD BAHJAT ABOU-CHAKRA",
+        "url": "https://www.youtube.com/watch?v=Z6DW7kC4qQU",
+        "date_utc": "2026-09-23T13:01:43+00:00",
+        "summary": "Paul Brennan speaks with researcher and educator Saad Abou-Chakra about his open letter urging parliamentary candidates to clarify their foreign policy positions. Saad argues that selective media coverage skews public understanding of global crises, weighing New Zealand's nuclear-free stance and its role in Five Eyes against the risks of deeper military entanglement. He calls for greater scrutiny of candidates' worldliness and independent thinking ahead of the election. Discover more from Saad Abou-Chakra on Facebook and Instagram For news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "It makes a lot of sense then that they wouldn't just want porous borders...",
+        "url": "https://www.youtube.com/shorts/dMoiujltEVM",
+        "date_utc": "2026-09-23T08:01:28+00:00",
+        "summary": "🇦🇺 🌐 https://RCR.Media | \"It makes a lot of sense then that they wouldn't just want porous borders, and they wouldn't want a massive influx of people from everywhere.\" - Senator Alex Antic 🇦🇺 Senator Alex Antic recalls migrants cheering tougher border messaging because, in his view, they had followed the legal pathway themselves. Does that challenge assumptions about how migrant communities view immigration policy? Michael Arbon speaks with newly elected South Australian Liberal Party President Senator Alex Antic. 🎥 Watch here: https://rcr.media/episodes/alex-antic-senator-newly-elected-south-australian-liberal-party-president-free-speech-digital-id-and-the-liberal-partys-future #RCRMedia"
+      },
+      {
+        "title": "By around 2040-something, we'll be outnumbered, right?",
+        "url": "https://www.youtube.com/shorts/HxJ2V_pQpkw",
+        "date_utc": "2026-09-23T07:01:17+00:00",
+        "summary": "🌐 https://RCR.Media | \"By around 2040-something, we'll be outnumbered, right?\" - Ivor Cummins, Irish Commentator How much demographic change can a country absorb before its national identity begins to change in a fundamental way? 🎥 Watch here: https://rcr.media/episodes/ivor-cummins-irish-commentator-irelands-vanishing-point #RCRMedia"
+      },
+      {
+        "title": "If you get a group of 150 people together... you'll know within 10 seconds who your leaders are.",
+        "url": "https://www.youtube.com/shorts/eMs49xrQ8ZA",
+        "date_utc": "2026-09-23T06:01:48+00:00",
+        "summary": "🌐 https://RCR.Media | \"If you get a group of 150 people together... you'll know within 10 seconds who your leaders are.\" - Marty Gibson Gibson argues small communities naturally discover who can lead, organise and act, calling it the opposite of a technocratic system \"untouchable by democracy.\" Could rebuilding human-scale communities be one of the strongest defences against increasingly centralised digital and political control? Maree Buscke and Marty Gibson debate the media storm around AI existential risk, sparked by a young ex-Anthropic employee's public warnings and contrasting political reactions from Trump and Christopher Luxon. 🎥 Watch here: https://rcr.media/episodes/media-matters-is-ai-panic-the-new-digital-pandemic #RCRMedia #MediaMatters"
+      },
+      {
+        "title": "What's going wrong? Is it the food? Is it the diet? Is it what we've been feeding people",
+        "url": "https://www.youtube.com/shorts/SvcPivE-DIg",
+        "date_utc": "2026-09-22T20:01:35+00:00",
+        "summary": "🌐 https://RCR.Media | \"What's going wrong? Is it the food? Is it the diet? Is it what we've been feeding people?\" - Winston Peters, Foreign Minister and NZ First Party Leader Peters says these are the questions New Zealand should be asking about chronic disease. Have we spent too long treating the symptoms while ignoring what may be driving the problem? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-and-foreign-minister-a-new-policy-approach-to-health #RCRMedia"
+      },
       {
         "title": "WINSTON PETERS",
         "url": "https://www.youtube.com/watch?v=Ik4BQPon5wc",
@@ -160,65 +214,53 @@
         "url": "https://www.youtube.com/shorts/KPNBrKMUrcg",
         "date_utc": "2026-09-22T07:01:14+00:00",
         "summary": "🌐 https://RCR.Media | \"Do I hire the 21-year-old who's got some experience or do I take the 17-year-old with no experience?\" - Laura McClure, ACT Party List MP McClure says employers often choose experience over giving a teenager their first break. Would a youth training wage actually tip that decision in favour of younger workers? 🎥 Watch here: https://rcr.media/episodes/laura-mcclure-act-party-list-mp-making-it-easier-to-do-business-in-new-zealand #RCRMedia"
-      },
-      {
-        "title": "The second generation, the children of the migrants... they're up at 2 point something... 2.4, 2.5.",
-        "url": "https://www.youtube.com/shorts/v5638Qa4Fms",
-        "date_utc": "2026-09-22T06:02:15+00:00",
-        "summary": "🌐 https://RCR.Media | \"The second generation, the children of the migrants... they're up at 2 point something... 2.4, 2.5.\" - Ivor Cummins, Irish Commentator Cummins says Danish data challenges the assumption that migration-related crime differences simply disappear in the next generation. Should governments publish more detailed crime data by migration background so the public can judge the evidence for themselves? 🎥 Watch here: https://rcr.media/episodes/ivor-cummins-irish-commentator-irelands-vanishing-point #RCRMedia"
-      },
-      {
-        "title": "ACT Party candidate Paul Henry on which politicians he admires.",
-        "url": "https://www.youtube.com/shorts/Z9gqmENguH8",
-        "date_utc": "2026-09-22T05:33:33+00:00",
-        "summary": "“In terms of being a politician, I’ve got to say - albeit reluctantly - I’ve got a bit of admiration for Winston Peters”. Tane Webster spoke to ACT Party candidate Paul Henry at his event in New Plymouth last Friday."
-      },
-      {
-        "title": "Maybe in 10 years time there'll be a great degree of regret for that vote when you do build...",
-        "url": "https://www.youtube.com/shorts/b0LIBjUtz4Q",
-        "date_utc": "2026-09-22T00:02:01+00:00",
-        "summary": "🌐 https://RCR.Media | \"Maybe in 10 years time there'll be a great degree of regret for that vote when you do build up some capital.\" - Simon Angelo Angelo says younger voters may view wealth taxes differently once they own homes, businesses or investments themselves. Do people's views on taxation change once they have something substantial to lose? 🎥 Watch here: https://rcr.media/episodes/money-talks-with-simon-angelo-money-markets-and-what-money-cant-buy #RCRMedia #MoneyTalks"
-      },
-      {
-        "title": "ACT Party candidate Paul Henry on the social media ban.",
-        "url": "https://www.youtube.com/shorts/eNgsjeNfhkA",
-        "date_utc": "2026-09-21T23:14:32+00:00",
-        "summary": "“I’m not a fan of it. I think it’s much more important to educate people on the dangers, but also the opportunities”. Tane Webster spoke to ACT Party candidate Paul Henry at his event in New Plymouth last Friday."
-      },
-      {
-        "title": "Increasingly, I'm just focusing my attention on podcasters and independent media",
-        "url": "https://www.youtube.com/shorts/27CIcW0jFBg",
-        "date_utc": "2026-09-21T21:01:02+00:00",
-        "summary": "🌐 https://RCR.Media | \"Increasingly, I'm just focusing my attention on podcasters and independent media”. - Senator Alex Antic In his first media appearance since being elected President of the South Australian Liberal Party, Antic tells Michael Arbon his attention is shifting away from legacy media. Are politicians increasingly better served by speaking directly through independent platforms? 🎥 Watch here: https://rcr.media/episodes/alex-antic-senator-newly-elected-south-australian-liberal-party-president-free-speech-digital-id-and-the-liberal-partys-future www.rcr.media #RCRMedia"
-      },
-      {
-        "title": "The idea there is similar to Auckland Future Fund or the Norwegian fund...",
-        "url": "https://www.youtube.com/shorts/Mtn1veouXUk",
-        "date_utc": "2026-09-21T19:02:02+00:00",
-        "summary": "🌐 https://RCR.Media | \"The idea there is similar to Auckland Future Fund or the Norwegian fund, is to diversify our risk profile to other sorts of markets and businesses and industries.\" - Craig Stobo, NZ First Candidate Should New Zealand be building long-term wealth overseas instead of relying so heavily on tax revenue and borrowing when the next crisis hits? 🎥 Watch here: https://rcr.media/episodes/craig-stobo-nz-first-candidate-from-investment-banking-to-the-beehive #RCRMedia"
-      },
-      {
-        "title": "PERRY TROTTER",
-        "url": "https://www.youtube.com/watch?v=kIaKd9GhmGc",
-        "date_utc": "2026-09-21T13:05:25+00:00",
-        "summary": "Rodney Hide talks with Perry Trotter about the Holocaust Museum exhibition he and his wife Sheree built in Auckland, open to the public for just four days after a health setback shortened its run. They discuss the power of survivor testimony, the adaptable nature of antisemitism through history, media bias in coverage of Israel and why Perry believes today's climate uncomfortably echoes the 1930s. The exhibition is open to the public between 22 and 26 September. For more information visit the Holocaust Foundation"
-      },
-      {
-        "title": "APOSTATE ARI",
-        "url": "https://www.youtube.com/watch?v=_4mfIwTibtM",
-        "date_utc": "2026-09-21T13:04:19+00:00",
-        "summary": "Maree Buscke speaks with detransitioner and commentator Ari, known online as Apostate Ari, about his path out of transition and into public advocacy. Ari traces his story from childhood trauma and a diagnosis he now rejects, through public backlash after breaking from trans orthodoxy, to finding refuge within the Christian community. The conversation ranges across gender ideology's history, women's sports, parental rights, and the cultural reaction to Sydney Sweeney. Discover more from Apostate Ari on: Facebook Instagram X YouTube XX-XY Athletics Substack"
-      },
-      {
-        "title": "LYNDA WHARTON",
-        "url": "https://www.youtube.com/watch?v=MRHps8ARlm0",
-        "date_utc": "2026-09-21T13:03:18+00:00",
-        "summary": "Paul Brennan speaks with Lynda Wharton of Health Forum NZ about the country's only study into long-term myocarditis and pericarditis outcomes following Pfizer's mRNA vaccine. Lynda details how Health New Zealand held the 2024 findings for years before publishing, then made no changes to the care pathways its own study flagged as broken. The two discuss underdiagnosis, testing gaps and the lasting breakdown in public trust. To see the original report from Te Whatu Ora (Health NZ) | Long-term outcomes of myocarditis and pericarditis following vaccination with Comirnaty (Pfizer/BioNTech COVID-19 vaccine) For more from Lynda Wharton, visit The Health Forum NZ or find them on Facebook and X Check out RCR's Alia Bland and Katie Ashby Koppens | What officials knew about myocarditis for teens"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Dana Kirkpatrick: Election Campaign, Gabrielle, Roads & Local Council",
+        "url": "https://www.youtube.com/watch?v=4vaH9Q3kal0",
+        "date_utc": "2026-09-23T03:28:17+00:00",
+        "summary": "East Coast MP, Dana Kirkpatrick on the Election campaign, Cyclone Gabrielle, Hawkes Bay roading and Council amalgamation."
+      },
+      {
+        "title": "Destination Wairarapa’s Barbara Hyde On Upcoming Events In The Region",
+        "url": "https://www.youtube.com/watch?v=keOH1pXqvw4",
+        "date_utc": "2026-09-23T03:15:55+00:00",
+        "summary": "Barbara Hyde from Destination Wairarapa talking about upcoming events in the region; the A&P Show, art trails, garden tours and more!"
+      },
+      {
+        "title": "Nicky Hager, Free Speech Union Tour Sth Island & Removing Govt Bloat",
+        "url": "https://www.youtube.com/watch?v=rt0DmtWZD60",
+        "date_utc": "2026-09-23T03:07:10+00:00",
+        "summary": "Farmer Mark Warren on Nicky Hager’s book, the South Island Free Speech Union tour and removing government bloat."
+      },
+      {
+        "title": "Gerry Brownlee Reflects On His Role As The Speaker Of The House",
+        "url": "https://www.youtube.com/watch?v=RZMcjfosaFU",
+        "date_utc": "2026-09-23T00:02:24+00:00",
+        "summary": "Gerry Brownlee reflects on his role as the Speaker of the House."
+      },
+      {
+        "title": "Jordan Williams Replies To Nicky Hager’s Political Hit Job",
+        "url": "https://www.youtube.com/watch?v=2QJ454qMVbI",
+        "date_utc": "2026-09-22T23:47:58+00:00",
+        "summary": "Jordan Williams replies to Nicky Hager’s political hit job."
+      },
+      {
+        "title": "Bryce Edwards On Nicky Hager’s Latest Political Book Launch",
+        "url": "https://www.youtube.com/watch?v=F1FwrEJzuwM",
+        "date_utc": "2026-09-22T23:12:48+00:00",
+        "summary": "Bryce Edwards on Nicky Hager’s latest political book launch."
+      },
+      {
+        "title": "David Farrar Addresses Lies About Him In New Nicky Hager Book",
+        "url": "https://www.youtube.com/watch?v=LUXgs9aXxBk",
+        "date_utc": "2026-09-22T22:55:28+00:00",
+        "summary": "David Farrar addresses lies about him in new Nicky Hager book."
+      },
       {
         "title": "ML Ridicules Te Pati Maori’s Food Fantasy - 8 Weeks Of Free Groceries.",
         "url": "https://www.youtube.com/watch?v=lgThm6ILswk",
@@ -266,48 +308,6 @@
         "url": "https://www.youtube.com/watch?v=j-B0jwDEaCA",
         "date_utc": "2026-09-21T23:42:50+00:00",
         "summary": "Bryce McKenzie from Groundswell NZ on climate change rhetoric ahead of the 2026 Election."
-      },
-      {
-        "title": "Cameron Bagrie On New Group - Parents Alliance",
-        "url": "https://www.youtube.com/watch?v=YHqTKHtMntE",
-        "date_utc": "2026-09-21T23:28:23+00:00",
-        "summary": "Cameron Bagrie on new group - Parents Alliance."
-      },
-      {
-        "title": "Sewage Sludge Being Spread Over Central Otago Farmland",
-        "url": "https://www.youtube.com/watch?v=3C7EJ1R1FPU",
-        "date_utc": "2026-09-21T06:41:14+00:00",
-        "summary": "Sewage sludge being spread over Central Otago farmland - Fed Farmers chair Anna Gillespie is not happy."
-      },
-      {
-        "title": "Professor Dame Elizabeth Rata’s New History Of Education",
-        "url": "https://www.youtube.com/watch?v=bJp7V3d7CIA",
-        "date_utc": "2026-09-21T06:25:08+00:00",
-        "summary": "Professor Dame Elizabeth Rata’s new history of education - letting the truth out."
-      },
-      {
-        "title": "Cr Maurice Williamson On The Influence Of The Maori Stat Board",
-        "url": "https://www.youtube.com/watch?v=oJrTkPByoKo",
-        "date_utc": "2026-09-21T05:03:21+00:00",
-        "summary": "Cr Maurice Williamson on the influence of the Maori Stat Board (and why the fast track is all wrong for housing)"
-      },
-      {
-        "title": "Why Auckland Mayor Is Wrong About The Maori Statutory Board .",
-        "url": "https://www.youtube.com/watch?v=yJi5Zi_FEkQ",
-        "date_utc": "2026-09-21T04:33:52+00:00",
-        "summary": "Why Auckland Mayor Wayne Brown is wrong about the Maori Statutory Board ."
-      },
-      {
-        "title": "Ian Wishart: Climate Change Discourse On Nepal Glacier Melt",
-        "url": "https://www.youtube.com/watch?v=IxgcTqRKnsw",
-        "date_utc": "2026-09-21T00:29:27+00:00",
-        "summary": "Ian Wishart: Climate change discourse on the Nepal glacier melt."
-      },
-      {
-        "title": "Nick Sautner On Hosting Warriors Game At Eden Park",
-        "url": "https://www.youtube.com/watch?v=xzYJBIM3yuk",
-        "date_utc": "2026-09-20T23:26:18+00:00",
-        "summary": "Eden Park CEO, Nick Sautner on hosting Warriors game."
       }
     ],
     "opinions": [
