@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-23T15:24:01Z",
+  "generated_utc": "2026-09-24T15:47:06Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,66 @@
     ],
     "youtube": [
       {
+        "title": "JOBST LANDGREBE",
+        "url": "https://www.youtube.com/watch?v=JY-EP-APffY",
+        "date_utc": "2026-09-24T13:06:24+00:00",
+        "summary": "Paul Brennan speaks with scientist and author Jobst Landgrebe about the Hugging Face incident that sparked fears of runaway AI, which he argues was simply a model repeating known hacking sequences under instruction rather than acting autonomously. Jobst contends AI can never achieve genuine intelligence or consciousness, describes the infrastructure boom around data centres as a historic bubble and identifies warfare and propaganda, not machine autonomy, as AI's real dangers. The conversation also touches on Germany's political mood amid talk of war with Russia. For more from Jobst Landgrebe Listen to his previous RCR interview with Paul Brennan | How hype shapes power in the modern west Look beyond the headlines. Get RCR Bites FREE every weekday."
+      },
+      {
+        "title": "DR GLEN DAVIES",
+        "url": "https://www.youtube.com/watch?v=WX-MccbFU1U",
+        "date_utc": "2026-09-24T13:02:08+00:00",
+        "summary": "Paul Brennan speaks with Dr Glen Davies about NZ First's new health policy, which Glen says draws together over a decade of research into metabolic health and preventative care. He points to real-world results from his own rural practice, where a third of patients reversed type 2 diabetes and pushes back on criticism of the policy's ties to advocacy groups, arguing that consulting experts is exactly what good policy should do. Discover more from Dr Davies at Reversal NZ Watch Maree Buscke's RCR interview with Julia Rucklidge | Micronutrients for Mental Health in Pregnancy – The Evidence For election news that matters, get RCR Bites FREE every weekday."
+      },
+      {
+        "title": "MEDIA MATTERS",
+        "url": "https://www.youtube.com/watch?v=aCfuh5eF8G0",
+        "date_utc": "2026-09-24T13:01:50+00:00",
+        "summary": "Maree Buscke and Marty Gibson review a week of pre-election coverage, from a newspaper editorial urging voters to move past pandemic-era grievances, to NZ First's health policy drawing criticism for its sourcing rather than its substance. They discuss the value of minor parties as vehicles for advocacy, question the media's selective outrage over political lobbying, and touch on Nicky Hager's new book and its fallout. For more information check out: Julia Rucklidge's Facebook post Alia Bee's Facebook post Paul Brennan's RCR interview with Rob MacCulloch | TOP's tax doesn't add up Antony Albanese's Facebook video Paul Brennan's RCR interview with Winston Peters | A new policy approach to health"
+      },
+      {
+        "title": "IAIN MURRAY",
+        "url": "https://www.youtube.com/watch?v=0W1W5BoeqBM",
+        "date_utc": "2026-09-24T13:01:42+00:00",
+        "summary": "Maree Buscke speaks with Hornby High School principal and ACT candidate Iain Murray about curriculum changes, school lunches, and the phone ban he credits with transforming his students' break times. Iain argues education, not restriction, is the better answer to youth social media use, defends ACT's stance against breaking up supermarkets, and weighs in on defence spending and New Zealand's place in a shifting Pacific security landscape. For more from Iain Murray or find him on Facebook For election news that matters, get RCR Bites FREE every weekday."
+      },
+      {
+        "title": "This will enable them to sort of shut down sectors, shut down areas, shut down sites, whatever.",
+        "url": "https://www.youtube.com/shorts/BhutzIljXno",
+        "date_utc": "2026-09-24T07:00:56+00:00",
+        "summary": "🌐 https://RCR.Media | \"This will enable them to sort of shut down sectors, shut down areas, shut down sites, whatever.\" - Kit Knightly, Editor of OffGuardian If authorities were ever given emergency powers to quarantine supposedly AI-infected parts of the internet, what safeguards would stop those powers being used far more broadly? 🎥 Watch here: https://rcr.media/episodes/kit-knightly-editor-offguardian-uk-the-ai-apocalypse-sequel-nobody-wanted #RCRMedia"
+      },
+      {
+        "title": "Every single time it increases, inflation increases.",
+        "url": "https://www.youtube.com/shorts/4Teqc6Uxclo",
+        "date_utc": "2026-09-24T06:01:02+00:00",
+        "summary": "🌐 https://RCR.Media | \"Every single time it increases, inflation increases.\" - Laura McClure, ACT Party List MP McClure argues minimum wage hikes feed directly into higher prices across the economy. Does lifting wages help workers if the cost of everything rises with them? 🎥 Watch here: https://rcr.media/episodes/laura-mcclure-act-party-list-mp-making-it-easier-to-do-business-in-new-zealand #RCRMedia"
+      },
+      {
+        "title": "Ask grandmother. She'll know better than anybody else what's good for you.",
+        "url": "https://www.youtube.com/shorts/gbMYPZE4CSE",
+        "date_utc": "2026-09-24T00:01:47+00:00",
+        "summary": "🌐 https://RCR.Media | \"Ask grandmother. She'll know better than anybody else what's good for you.\" - Winston Peters, Foreign Minister and NZ First Party Leader Peters says politicians overcomplicate something families once understood instinctively - what real food looks like. Should GST come off whole foods to make healthier choices cheaper? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-and-foreign-minister-a-new-policy-approach-to-health #RCRMedia"
+      },
+      {
+        "title": "If you're banning people on the basis of hate, it becomes a question of what you define as hate.",
+        "url": "https://www.youtube.com/shorts/yWM2pU1xSzI",
+        "date_utc": "2026-09-23T21:02:35+00:00",
+        "summary": "🇦🇺 🌐 https://RCR.Media | \"If you're banning people on the basis of hate, it becomes a question of what you define as hate.\" - Senator Alex Antic 🇦🇺 Senator Alex Antic tells Michael Arbon the hardest part of hate legislation is not the obvious cases, but who gets to define the boundary later. How much power should government have to decide what qualifies as \"hate\"? 🎥 Watch here: https://rcr.media/episodes/alex-antic-senator-newly-elected-south-australian-liberal-party-president-free-speech-digital-id-and-the-liberal-partys-future #RCRMedia"
+      },
+      {
+        "title": "Over 62,000 were arrested for speech crimes over a period of five years.",
+        "url": "https://www.youtube.com/shorts/BmBf2Ozor3Q",
+        "date_utc": "2026-09-23T20:01:53+00:00",
+        "summary": "🌐 https://RCR.Media | \"Over 62,000 were arrested for speech crimes over a period of five years.\" - Andrew Doyle, British Writer, Comedian and Broadcaster Doyle cites UK figures as evidence of how deeply speech policing has expanded. Could New Zealand head down the same road if restrictions keep being introduced piece by piece? 🎥 Watch here: https://rcr.media/episodes/andrew-doyle-british-writer-comedian-and-broadcaster-when-no-tyrant-wants-to-be-laughed-at #RCRMedia"
+      },
+      {
+        "title": "Twenty, twenty-five years ago in Ireland, this came up, it would be immediately laughed out of town",
+        "url": "https://www.youtube.com/shorts/kesXsA-gg3Q",
+        "date_utc": "2026-09-23T19:02:34+00:00",
+        "summary": "🌐 https://RCR.Media | \"Twenty, twenty-five years ago in Ireland, this came up, it would be immediately laughed out of town.\" - Ivor Cummins, Irish Commentator Cummins says ideas that would once have been dismissed outright are now being given institutional platforms. What changed in two decades that allowed a conference on male lactation and kink to be presented as part of mainstream professional discussion? 🎥 Watch here: https://rcr.media/episodes/ivor-cummins-irish-commentator-irelands-vanishing-point #RCRMedia"
+      },
+      {
         "title": "CAROLINE WHEELER",
         "url": "https://www.youtube.com/watch?v=pR-nY-5capw",
         "date_utc": "2026-09-23T13:03:06+00:00",
@@ -154,71 +214,53 @@
         "url": "https://www.youtube.com/watch?v=Z6DW7kC4qQU",
         "date_utc": "2026-09-23T13:01:43+00:00",
         "summary": "Paul Brennan speaks with researcher and educator Saad Abou-Chakra about his open letter urging parliamentary candidates to clarify their foreign policy positions. Saad argues that selective media coverage skews public understanding of global crises, weighing New Zealand's nuclear-free stance and its role in Five Eyes against the risks of deeper military entanglement. He calls for greater scrutiny of candidates' worldliness and independent thinking ahead of the election. Discover more from Saad Abou-Chakra on Facebook and Instagram For news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "It makes a lot of sense then that they wouldn't just want porous borders...",
-        "url": "https://www.youtube.com/shorts/dMoiujltEVM",
-        "date_utc": "2026-09-23T08:01:28+00:00",
-        "summary": "🇦🇺 🌐 https://RCR.Media | \"It makes a lot of sense then that they wouldn't just want porous borders, and they wouldn't want a massive influx of people from everywhere.\" - Senator Alex Antic 🇦🇺 Senator Alex Antic recalls migrants cheering tougher border messaging because, in his view, they had followed the legal pathway themselves. Does that challenge assumptions about how migrant communities view immigration policy? Michael Arbon speaks with newly elected South Australian Liberal Party President Senator Alex Antic. 🎥 Watch here: https://rcr.media/episodes/alex-antic-senator-newly-elected-south-australian-liberal-party-president-free-speech-digital-id-and-the-liberal-partys-future #RCRMedia"
-      },
-      {
-        "title": "By around 2040-something, we'll be outnumbered, right?",
-        "url": "https://www.youtube.com/shorts/HxJ2V_pQpkw",
-        "date_utc": "2026-09-23T07:01:17+00:00",
-        "summary": "🌐 https://RCR.Media | \"By around 2040-something, we'll be outnumbered, right?\" - Ivor Cummins, Irish Commentator How much demographic change can a country absorb before its national identity begins to change in a fundamental way? 🎥 Watch here: https://rcr.media/episodes/ivor-cummins-irish-commentator-irelands-vanishing-point #RCRMedia"
-      },
-      {
-        "title": "If you get a group of 150 people together... you'll know within 10 seconds who your leaders are.",
-        "url": "https://www.youtube.com/shorts/eMs49xrQ8ZA",
-        "date_utc": "2026-09-23T06:01:48+00:00",
-        "summary": "🌐 https://RCR.Media | \"If you get a group of 150 people together... you'll know within 10 seconds who your leaders are.\" - Marty Gibson Gibson argues small communities naturally discover who can lead, organise and act, calling it the opposite of a technocratic system \"untouchable by democracy.\" Could rebuilding human-scale communities be one of the strongest defences against increasingly centralised digital and political control? Maree Buscke and Marty Gibson debate the media storm around AI existential risk, sparked by a young ex-Anthropic employee's public warnings and contrasting political reactions from Trump and Christopher Luxon. 🎥 Watch here: https://rcr.media/episodes/media-matters-is-ai-panic-the-new-digital-pandemic #RCRMedia #MediaMatters"
-      },
-      {
-        "title": "What's going wrong? Is it the food? Is it the diet? Is it what we've been feeding people",
-        "url": "https://www.youtube.com/shorts/SvcPivE-DIg",
-        "date_utc": "2026-09-22T20:01:35+00:00",
-        "summary": "🌐 https://RCR.Media | \"What's going wrong? Is it the food? Is it the diet? Is it what we've been feeding people?\" - Winston Peters, Foreign Minister and NZ First Party Leader Peters says these are the questions New Zealand should be asking about chronic disease. Have we spent too long treating the symptoms while ignoring what may be driving the problem? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-and-foreign-minister-a-new-policy-approach-to-health #RCRMedia"
-      },
-      {
-        "title": "WINSTON PETERS",
-        "url": "https://www.youtube.com/watch?v=Ik4BQPon5wc",
-        "date_utc": "2026-09-22T13:02:36+00:00",
-        "summary": "Paul Brennan speaks with Foreign Minister Winston Peters about New Zealand First's health policy, which links diet and chronic disease to a wider critique of the medical system's reliance on pharmaceuticals. Peters points to vaping and reduced GST on whole foods as evidence for his approach, praises RFK Jr.'s health advocacy, and reflects on New Zealand's nuclear-free legacy and the shifting global security order. Discover more from Winston Peters on X , Facebook and Instagram For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "FIONA ANDERSON",
-        "url": "https://www.youtube.com/watch?v=kdW5T7pp734",
-        "date_utc": "2026-09-22T13:01:55+00:00",
-        "summary": "Paul Brennan speaks with Fiona Anderson, manager of the Piha Campground, about the toll of its extended closure over flood risk. Fiona details her decades of on-the-ground safety measures, the conflicting flood models behind the council's decision and the near-4,000-signature petition backing her. She warns that forcing campers elsewhere will only push them into freedom camping outside residents' homes and questions why a single tragedy elsewhere should dictate Piha's fate. To sign Cindy Baxter's petition | Don’t Close our Beloved Piha Campground For more on Piha Campground Check out some RCR content on Managed Retreat For news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "KEN TURNER",
-        "url": "https://www.youtube.com/watch?v=-HslmkClAEs",
-        "date_utc": "2026-09-22T13:01:48+00:00",
-        "summary": "Paul Brennan talks with Waitākere Ward Councillor Ken Turner about Auckland Council's push to close Piha Campground over flood risk. Ken argues the modelling behind the closure inflates future development scenarios to absurd levels, and questions whether liability concerns are driving the decision more than genuine safety. He warns that closing the campground would simply push freedom campers onto less-managed public land, with a local board decision looming this week. To sign Cindy Baxter’s petition | Don’t Close our Beloved Piha Campground Discover more from Ken at Auckland Council or on Facebook Check out some Managed Retreat content on RCR For news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "Why would you bother talking to the mainstream media?",
-        "url": "https://www.youtube.com/shorts/sI14Cyx5uB0",
-        "date_utc": "2026-09-22T08:01:43+00:00",
-        "summary": "🇦🇺 🌐 https://RCR.Media | \"Why would you bother talking to the mainstream media?\" - Senator Alex Antic 🇦🇺 Antic says politicians can now speak directly to people through long-form independent media instead of relying on traditional outlets. Has mainstream media lost its role as the gatekeeper of political debate? Antic speaks with RCR's Michael Arbon 🎥 Watch here: https://rcr.media/episodes/alex-antic-senator-newly-elected-south-australian-liberal-party-president-free-speech-digital-id-and-the-liberal-partys-future #RCRMedia"
-      },
-      {
-        "title": "🌐 https://RCR.Media | I Made A Mistake. I’m Sorry.",
-        "url": "https://www.youtube.com/shorts/sfnLQRr_zw0",
-        "date_utc": "2026-09-22T07:21:25+00:00",
-        "summary": "🌐 https://RCR.Media | I Made A Mistake. I’m Sorry. Maree Buscke responds to a complaint from the Haus of Flash, correcting an inaccurate attribution regarding performer Daniel Lockett and the character Erika Flash. She explains where the misunderstanding arose, what the New Zealand Herald reported, and issues an apology for the incorrect attribution. 📫 Look behind the headlines. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
-      },
-      {
-        "title": "Do I hire the 21-year-old who's got some experience or do I take the 17-year-old with no experience",
-        "url": "https://www.youtube.com/shorts/KPNBrKMUrcg",
-        "date_utc": "2026-09-22T07:01:14+00:00",
-        "summary": "🌐 https://RCR.Media | \"Do I hire the 21-year-old who's got some experience or do I take the 17-year-old with no experience?\" - Laura McClure, ACT Party List MP McClure says employers often choose experience over giving a teenager their first break. Would a youth training wage actually tip that decision in favour of younger workers? 🎥 Watch here: https://rcr.media/episodes/laura-mcclure-act-party-list-mp-making-it-easier-to-do-business-in-new-zealand #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Former Taxpayer Union Board Member Refutes The Hagar Book Claims",
+        "url": "https://www.youtube.com/watch?v=CisZ57HtNNw",
+        "date_utc": "2026-09-24T03:43:01+00:00",
+        "summary": "Broadcaster Peter Williams’s (a former Taxpayer Union board member) refutes the Hagar book claims and questions the author’s credibility."
+      },
+      {
+        "title": "ACT Aren’t Being Consistent Over Judicial Activism Claims",
+        "url": "https://www.youtube.com/watch?v=oxMptH1W_Fg",
+        "date_utc": "2026-09-24T02:53:56+00:00",
+        "summary": "Journalist and former ACT MP Deborah Coddington says Act aren’t being consistent over judicial activism claims"
+      },
+      {
+        "title": "Why Aren’t The MSM Asking Nicky Hagar Where’s Your Proof?",
+        "url": "https://www.youtube.com/watch?v=eCu3yNTz5XE",
+        "date_utc": "2026-09-24T02:36:59+00:00",
+        "summary": "Why aren’t the MSM asking Nicky Hagar the obvious question: where’s your proof?"
+      },
+      {
+        "title": "Brooke van Velden Reflecting On Her Political Career",
+        "url": "https://www.youtube.com/watch?v=qHWSZ_hudHY",
+        "date_utc": "2026-09-24T00:37:35+00:00",
+        "summary": "Brooke van Velden reflecting on her political career."
+      },
+      {
+        "title": "Greg O’Connor On Leaving Politics & Running For WCC",
+        "url": "https://www.youtube.com/watch?v=wHRlAahybVw",
+        "date_utc": "2026-09-24T00:18:17+00:00",
+        "summary": "Greg O’Connor on leaving politics and running for Wellington City Council."
+      },
+      {
+        "title": "Abolishing The BSA & Nicky Hager’s Allegations Against The FSU",
+        "url": "https://www.youtube.com/watch?v=ChJ7Eckp6Lw",
+        "date_utc": "2026-09-23T23:53:38+00:00",
+        "summary": "Jillaine Heather on abolishing the BSA progress and Nicky Hager’s allegations against the Free Speech Union."
+      },
+      {
+        "title": "Sean Calls On Nicky Hager To Put Up Or Shut Up",
+        "url": "https://www.youtube.com/watch?v=bQQSlsMuWMo",
+        "date_utc": "2026-09-23T23:46:11+00:00",
+        "summary": "Sean calls on Nicky Hager to put up or shut up."
+      },
       {
         "title": "Dana Kirkpatrick: Election Campaign, Gabrielle, Roads & Local Council",
         "url": "https://www.youtube.com/watch?v=4vaH9Q3kal0",
@@ -232,10 +274,10 @@
         "summary": "Barbara Hyde from Destination Wairarapa talking about upcoming events in the region; the A&P Show, art trails, garden tours and more!"
       },
       {
-        "title": "Nicky Hager, Free Speech Union Tour Sth Island & Removing Govt Bloat",
+        "title": "Nicky Hager, Taxpayers Union Tour Sth Island & Removing Govt Bloat",
         "url": "https://www.youtube.com/watch?v=rt0DmtWZD60",
         "date_utc": "2026-09-23T03:07:10+00:00",
-        "summary": "Farmer Mark Warren on Nicky Hager’s book, the South Island Free Speech Union tour and removing government bloat."
+        "summary": "Farmer Mark Warren on Nicky Hager’s book, the South Island Taxpayers Union tour and removing government bloat."
       },
       {
         "title": "Gerry Brownlee Reflects On His Role As The Speaker Of The House",
@@ -266,48 +308,6 @@
         "url": "https://www.youtube.com/watch?v=lgThm6ILswk",
         "date_utc": "2026-09-22T05:54:52+00:00",
         "summary": "Michael Laws ridicules Te Pati Maori’s food fantasy - 8 weeks of free groceries."
-      },
-      {
-        "title": "New Parents’ Group To Lobby Schools Is The Real Problem $h!tty Parents",
-        "url": "https://www.youtube.com/watch?v=5HoJzrb0bPU",
-        "date_utc": "2026-09-22T03:54:02+00:00",
-        "summary": "New Parents’ Group to lobby schools but is the real education problem, $h!tty parents?"
-      },
-      {
-        "title": "ACT Leader Defends The Supermarket Status Quo",
-        "url": "https://www.youtube.com/watch?v=Whv5iI4gObU",
-        "date_utc": "2026-09-22T03:35:42+00:00",
-        "summary": "ACT leader David Seymour defends the supermarket status quo and explains why the suggested reforms are”mad”"
-      },
-      {
-        "title": "NZ First’s Quite Different Health Policy Release",
-        "url": "https://www.youtube.com/watch?v=7Z0g3j-uwSI",
-        "date_utc": "2026-09-22T02:25:01+00:00",
-        "summary": "Winston Peters explains NZ First’s quite different health policy release (and Med School selection changes)"
-      },
-      {
-        "title": "Who Has The Best Supermarket Plan? Monopoly Watch’s Tex Edwards Opines",
-        "url": "https://www.youtube.com/watch?v=6NCThn_gof8",
-        "date_utc": "2026-09-22T01:54:01+00:00",
-        "summary": "Who has the best supermarket plan? Monopoly Watch’s Tex Edwards opines."
-      },
-      {
-        "title": "Penny Marie On Parents Alliance & Concern For Culture Wars In Schools",
-        "url": "https://www.youtube.com/watch?v=yYTcjZhUIFk",
-        "date_utc": "2026-09-22T00:58:45+00:00",
-        "summary": "Penny Marie on Parents Alliance and the concern for culture wars in schools."
-      },
-      {
-        "title": "Eric Crampton On Whether National’s Supermarket Break-Up Would Work",
-        "url": "https://www.youtube.com/watch?v=n3lPmPXul74",
-        "date_utc": "2026-09-22T00:07:30+00:00",
-        "summary": "Eric Crampton on whether National’s supermarket break-up plan would actually work."
-      },
-      {
-        "title": "Bryce McKenzie On Climate Change Rhetoric Ahead Of The 2026 Election",
-        "url": "https://www.youtube.com/watch?v=j-B0jwDEaCA",
-        "date_utc": "2026-09-21T23:42:50+00:00",
-        "summary": "Bryce McKenzie from Groundswell NZ on climate change rhetoric ahead of the 2026 Election."
       }
     ],
     "opinions": [
