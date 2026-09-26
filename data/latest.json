@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-09-25T15:46:53Z",
+  "generated_utc": "2026-09-26T14:56:40Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "What do the Finns know that we don’t?",
+        "url": "https://realitycheck.radio/what-do-the-finns-know-that-we-dont/",
+        "date_utc": "2026-09-26T03:26:43Z",
+        "summary": "by Richard Prebble New Zealand does not have the world’s […]"
+      },
       {
         "title": "Strategic Voting to Win",
         "url": "https://realitycheck.radio/strategic-voting-to-win/",
@@ -88,43 +94,91 @@
         "summary": "by Peter Williams And so our great African odyssey is […]"
       },
       {
-        "title": "One Nation serves a hard lesson on elite theory",
-        "url": "https://realitycheck.radio/one-nation-serves-a-hard-lesson-on-elite-theory-2/",
-        "date_utc": "2026-09-19T03:23:21Z",
-        "summary": "by M. K. Grant What does grass-roots popularity offer parliamentarians? […]"
-      },
-      {
-        "title": "DON BRASH & MATT ROBSON: Former NZ Reserve Bank Governor & Auckland Barrister: Fact, Fiction and Political Narrative",
-        "url": "https://realitycheck.radio/episodes/don-brash-matt-robson-former-nz-reserve-bank-governor-auckland-barrister-fact-fiction-and-political-narrative/",
-        "date_utc": "2026-09-25T04:44:18Z",
+        "title": "A POLITICAL AGENDA: Te Pati Maori’s Gender Push: Tradition vs. Identity on the Marae",
+        "url": "https://realitycheck.radio/episodes/a-political-agenda-te-pati-maoris-gender-push-tradition-vs-identity-on-the-marae/",
+        "date_utc": "2026-09-25T22:36:31Z",
         "summary": ""
       },
       {
-        "title": "DAME ELIZABETH RATA: Professor Of Education at Auckland University: Rebuilding New Zealand’s Education History",
-        "url": "https://realitycheck.radio/episodes/elizabeth-rata-professor-of-education-at-auckland-university-rebuilding-new-zealands-education-history/",
-        "date_utc": "2026-09-25T03:48:49Z",
+        "title": "PETER WILLIAMS ON POLITICS: NZ Politics Unveiled: National’s Failures and the Taxpayers Union Bombshell",
+        "url": "https://realitycheck.radio/episodes/peter-williams-on-politics-nz-politics-unveiled-nationals-failures-and-the-taxpayers-union-bombshell/",
+        "date_utc": "2026-09-25T22:35:48Z",
         "summary": ""
       },
       {
-        "title": "JODIE BRUNING: Lead Researcher at PSGR: NZ First’s Health Policy Shake-Up",
-        "url": "https://realitycheck.radio/episodes/jodie-bruning-lead-researcher-at-psgr-nz-firsts-health-policy-shake-up/",
-        "date_utc": "2026-09-25T03:35:19Z",
+        "title": "GLEN DAVIES: Reversing Type 2 Diabetes: One Third Already Winning The Upstream Battle",
+        "url": "https://realitycheck.radio/episodes/glen-davies-reversing-type-2-diabetes-one-third-already-winning-the-upstream-battle/",
+        "date_utc": "2026-09-25T22:35:28Z",
         "summary": ""
       },
       {
-        "title": "A POLITICAL AGENDA: With Ro Edge & Jackson Fowler: Dirty Work and the Battle for the Political Narrative",
-        "url": "https://realitycheck.radio/episodes/a-political-agenda-with-ro-edge-jackson-fowler-dirty-work-and-the-battle-for-the-political-narrative/",
-        "date_utc": "2026-09-25T03:27:51Z",
+        "title": "GLEN DAVIES: Flipping the Food Pyramid: Could NZ Feed Itself on Whole Foods?",
+        "url": "https://realitycheck.radio/episodes/glen-davies-flipping-the-food-pyramid-could-nz-feed-itself-on-whole-foods/",
+        "date_utc": "2026-09-25T22:34:41Z",
         "summary": ""
       },
       {
-        "title": "PETER WILLIAMS ON POLITICS: The Supermarket Debate and Battle for the Next Parliament",
-        "url": "https://realitycheck.radio/episodes/peter-williams-on-politics-the-supermarket-debate-and-battle-for-the-next-parliament/",
-        "date_utc": "2026-09-24T22:13:14Z",
+        "title": "PETER WILLIAMS ON POLITICS: NZ Supermarket Price Crisis: Political Meddling Won’t Fix the Fuel Problem",
+        "url": "https://realitycheck.radio/episodes/peter-williams-on-politics-nz-supermarket-price-crisis-political-meddling-wont-fix-the-fuel-problem/",
+        "date_utc": "2026-09-25T22:34:30Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "Pulling her head in is not in her kete of tricks.",
+        "url": "https://www.youtube.com/shorts/sieljg_jmOo",
+        "date_utc": "2026-09-26T07:30:37+00:00",
+        "summary": "🌐 https://RCR.Media | \"Pulling her head in is not in her kete of tricks.\" - Rachel Stewart That irony isn't lost on Stewart. If the person helping manage party discipline is herself at the centre of a conduct controversy, what does that say about the standards being set? 🎥 Watch here: https://rcr.media/episodes/riding-shotgun-with-rachel-stewart-more-packers-or-more-pughs #RCRMedia #RidingShotgun"
+      },
+      {
+        "title": "What really dramatically changed the smoking outcomes was safer alternatives.",
+        "url": "https://www.youtube.com/shorts/r4m1W-Tk5jY",
+        "date_utc": "2026-09-26T07:01:44+00:00",
+        "summary": "🌐 https://RCR.Media | \"What really dramatically changed the smoking outcomes was safer alternatives.\" - Winston Peters, Foreign Minister and NZ First Party Leader Peters says New Zealand made bigger gains by giving smokers an off-ramp rather than simply banning everything. Is harm reduction more effective than prohibition? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-and-foreign-minister-a-new-policy-approach-to-health #RCRMedia"
+      },
+      {
+        "title": "60% of Kiwis own their own property. They'll all be frightened by the land tax.",
+        "url": "https://www.youtube.com/shorts/NjrIYbDpm38",
+        "date_utc": "2026-09-26T06:02:01+00:00",
+        "summary": "🌐 https://RCR.Media | \"60% of Kiwis own their own property. They'll all be frightened by the land tax.\" - Rob MacCulloch, Economics Professor & Former Reserve Bank Adviser If a land tax unsettles a large share of property owners while appealing to those locked out of the housing market, is TOP deliberately betting on a generational political divide? 🎥 Watch here: https://rcr.media/episodes/rob-macculloch-economics-professor-former-reserve-bank-adviser-tops-tax-reset-doesnt-add-up #RCRMedia"
+      },
+      {
+        "title": "You're actually sh*tting on those people, you selfish little shite.",
+        "url": "https://www.youtube.com/shorts/mlVpYfZIDeM",
+        "date_utc": "2026-09-26T05:45:30+00:00",
+        "summary": "🌐 https://RCR.Media | \"You're actually sh*tting on those people, you selfish little shite.\" - Maree Buscke Maree Buscke doesn't mince words about wealthy performers whose political actions can hit ordinary workers around them. Is activism still virtuous when the people losing income aren't the millionaires on stage? 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-the-cancel-culture-death-spiral #RCRMedia #BothBarrels"
+      },
+      {
+        "title": "We'll see a lot of people who are definitely real be labeled as AI or potentially AI...",
+        "url": "https://www.youtube.com/shorts/IcReSZJqcJw",
+        "date_utc": "2026-09-26T00:01:45+00:00",
+        "summary": "🌐 https://RCR.Media | \"We'll see a lot of people who are definitely real be labeled as AI or potentially AI in order to control traffic and limit messaging.\" - Kit Knightly, Editor of OffGuardian What happens if an automated system can label a real person as AI and quietly restrict how far their message travels? 🎥 Watch here: https://rcr.media/episodes/kit-knightly-editor-offguardian-uk-the-ai-apocalypse-sequel-nobody-wanted #RCRMedia"
+      },
+      {
+        "title": "You can do more than just scream at the clouds.",
+        "url": "https://www.youtube.com/shorts/vrKyE5vMhcU",
+        "date_utc": "2026-09-25T21:03:46+00:00",
+        "summary": "🇦🇺 🌐 https://RCR.Media | \"You can do more than just scream at the clouds.\" - Senator Alex Antic 🇦🇺 Antic tells Michael Arbon political change comes from joining, organising and turning up, not just venting online. Are too many people frustrated with politics but unwilling to get involved? 🎥 Watch here: https://rcr.media/episodes/alex-antic-senator-newly-elected-south-australian-liberal-party-president-free-speech-digital-id-and-the-liberal-partys-future #RCRMedia"
+      },
+      {
+        "title": "That child can now be given transition resources.",
+        "url": "https://www.youtube.com/shorts/y6Jo6qP3ZiA",
+        "date_utc": "2026-09-25T20:01:59+00:00",
+        "summary": "🌐 https://RCR.Media | \"That child can now be given transition resources.\" - Apostate Ari, Detransitioner and Commentator From classroom affirmation to transition-related resources, Ari says the pathway can begin without parents knowing. How did schools get this much power over family decisions? 🎥 Watch here: https://rcr.media/episodes/apostate-ari-the-transphobic-historian-the-cult-of-gender-one-detransitioners-journey-to-faith #RCRMedia"
+      },
+      {
+        "title": "We're going to pass a law and stop crime, make it illegal.",
+        "url": "https://www.youtube.com/shorts/tJKTS2kE91U",
+        "date_utc": "2026-09-25T19:31:16+00:00",
+        "summary": "🌐 https://RCR.Media | \"We're going to pass a law and stop crime, make it illegal.\" - Matt Robson (Auckland barrister and former Minister), recalling Jim Anderton If \"price gouging\" is not clearly defined, is outlawing it really any more meaningful than announcing that crime itself is now illegal? 🎥 Watch here: https://rcr.media/episodes/don-brash-matt-robson-former-nz-reserve-bank-governor-auckland-barrister-shooting-the-political-breeze #RCRMedia"
+      },
+      {
+        "title": "The Kentucky Fried, McDonald's and the other solutions, and the boil up every day might...",
+        "url": "https://www.youtube.com/shorts/cNGAKfwfRH0",
+        "date_utc": "2026-09-25T19:02:18+00:00",
+        "summary": "🌐 https://RCR.Media | \"The Kentucky Fried, McDonald's and the other solutions, and the boil up every day might sound like a good idea, but it's not good for the diet.\" - Winston Peters, Foreign Minister and NZ First Party Leader Peters puts the focus squarely on everyday food choices. Are politicians too afraid to talk honestly about how diet is affecting New Zealand's health? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-and-foreign-minister-a-new-policy-approach-to-health #RCRMedia"
+      },
       {
         "title": "A POLITICAL AGENDA",
         "url": "https://www.youtube.com/watch?v=IjXT0BYDzvo",
@@ -160,60 +214,6 @@
         "url": "https://www.youtube.com/watch?v=hklPZbjOLGI",
         "date_utc": "2026-09-25T13:01:19+00:00",
         "summary": "Rachel Stewart examines the latest parliamentary controversy involving Te Pāti Māori co-leader Debbie Ngarewa-Packer, offensive language in the House, and the standards of behaviour expected from elected representatives. She also looks at Speaker Maureen Pugh’s handling of the incident and asks whether declining respect for Parliament is putting the political system itself under strain. Discover more from Rachel on Substack and X"
-      },
-      {
-        "title": "MICHAEL ARBON",
-        "url": "https://www.youtube.com/shorts/MhAsCEI0WnA",
-        "date_utc": "2026-09-25T13:01:04+00:00",
-        "summary": "Michael Arbon examines Australia’s proposed digital duty of care, questioning whether giving government greater power over online platforms could have unintended consequences. He highlights existing user-choice features on X, concerns raised by the US government over algorithmic suppression of lawful expression, and potential impacts on free speech, journalism and businesses. With the proposal still at exposure-draft stage, Michael considers what could be at stake if it reaches Parliament. Discover more from Michael on Facebook and X"
-      },
-      {
-        "title": "If you see those in the same sentence at the same time, you know you're on a winner.",
-        "url": "https://www.youtube.com/shorts/nHcBN37MzmI",
-        "date_utc": "2026-09-25T08:02:37+00:00",
-        "summary": "🇦🇺 🌐 https://RCR.Media | \"If you see those in the same sentence at the same time, you know you're on a winner.\" - Senator Alex Antic, referring to the words \"children\" and \"harm\" 🇦🇺 Everyone wants children protected, but Antic says that very instinct can make broader controls easier to sell. How often should we look past the emotional language and examine the powers underneath? Michael Arbon and Senator Antic discuss. 🎥 Watch here: https://rcr.media/episodes/alex-antic-senator-newly-elected-south-australian-liberal-party-president-free-speech-digital-id-and-the-liberal-partys-future #RCRMedia"
-      },
-      {
-        "title": "Could Australia’s Digital Duty of Care Threaten Free Speech?",
-        "url": "https://www.youtube.com/shorts/oPdKVh9fraM",
-        "date_utc": "2026-09-25T07:45:52+00:00",
-        "summary": "🌐 https://RCR.Media | Could Australia’s Digital Duty of Care Threaten Free Speech? Michael Arbon questions what happens when government takes greater control over online platforms — and whether “online safety” could come at the cost of free speech. Could protecting users mean restricting them? 📫 Look behind the headlines. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
-      },
-      {
-        "title": "New technologies... depreciate faster than a lot of physical stuff...",
-        "url": "https://www.youtube.com/shorts/xAn_qh4HV9k",
-        "date_utc": "2026-09-25T07:01:49+00:00",
-        "summary": "🌐 https://RCR.Media | \"New technologies... depreciate faster than a lot of physical stuff. And we think that you should be able to get the tax benefits of that.\" - Laura McClure, ACT Party List MP If businesses are being pushed to adopt AI and new digital tools, should the tax system catch up and recognise how quickly that technology loses value? 🎥 Watch here: https://rcr.media/episodes/laura-mcclure-act-party-list-mp-making-it-easier-to-do-business-in-new-zealand #RCRMedia"
-      },
-      {
-        "title": "What about the 9/11 money trail?",
-        "url": "https://www.youtube.com/shorts/kGBH4pLL7nc",
-        "date_utc": "2026-09-25T06:30:57+00:00",
-        "summary": "🌐 https://RCR.Media | \"What about the 9/11 money trail?\" - James Corbett, Investigative Journalist Corbett says the financial activity surrounding 9/11 remains one of the most important avenues to examine. When major questions remain unresolved, should investigators always follow the money? 🎥 Watch here: https://rcr.media/episodes/james-corbett-award-winning-investigative-journalist-founder-of-the-corbett-report-unravelling-the-money-trail-behind-9-11 #RCRMedia"
-      },
-      {
-        "title": "Election 2026: RCR is Opening the Door",
-        "url": "https://www.youtube.com/shorts/FPtRPfI85sA",
-        "date_utc": "2026-09-25T06:15:24+00:00",
-        "summary": "🌐 https://RCR.Media | 🗳️ Election 2026: RCR is Opening the Door With Election 2026 just weeks away, RCR is inviting every party polling at or above 5% to join us each week and put their case directly to voters. 🎙️ NZ First, ACT and National have accepted the invitation. Labour, the Greens, Te Pāti Māori and the Opportunity Party 👋 your invitation is open. Join us on RCR and put your case directly to voters. 🗣️ Chris Hipkins, Chlöe Swarbrick and Marama Davidson, Debbie Ngarewa-Packer and Rawiri Waititi, and Qiulae Wong — we’d love to hear from you. Paul Brennan explains what’s coming as RCR ramps up its election coverage. 📫 Look behind the headlines. Get RCR’s Bites FREE: https://BiteMe.news"
-      },
-      {
-        "title": "We provided the food, the free lunch ourselves.",
-        "url": "https://www.youtube.com/shorts/_IIdos2WkSs",
-        "date_utc": "2026-09-25T06:02:08+00:00",
-        "summary": "🌐 https://RCR.Media | \"We provided the food, the free lunch ourselves.\" - Winston Peters, Foreign Minister and NZ First Party Leader Peters remembers school lunches being organised locally, with the community providing the food and students helping make it work. Have we replaced community responsibility with an expensive centralised system? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-and-foreign-minister-a-new-policy-approach-to-health #RCRMedia"
-      },
-      {
-        "title": "For a centre-right party to propose breaking up a New Zealand-owned supermarket chain is just...",
-        "url": "https://www.youtube.com/shorts/YKysA4REZ3A",
-        "date_utc": "2026-09-25T00:02:10+00:00",
-        "summary": "🌐 https://RCR.Media | \"For a centre-right party to propose breaking up a New Zealand-owned supermarket chain is just totally out of sync with their normal values.\" - Don Brash, Former Reserve Bank Governor Brash says National's supermarket break-up proposal cuts against its own economic instincts. Is forcing a break-up really the answer to high grocery prices? 🎥 Watch here: https://rcr.media/episodes/don-brash-matt-robson-former-nz-reserve-bank-governor-auckland-barrister-shooting-the-political-breeze #RCRMedia"
-      },
-      {
-        "title": "Do you think you should be able to kill somebody who has a different opinion?",
-        "url": "https://www.youtube.com/shorts/4yPbzDCHQVM",
-        "date_utc": "2026-09-24T21:01:36+00:00",
-        "summary": "🌐 https://RCR.Media | \"Do you think you should be able to kill somebody who has a different opinion?\" - Graham 'Hoody' Hood 🇦🇺 Hoody says he was stunned by how many people answered yes. How did political disagreement reach a point where violence can even be entertained as an acceptable response? 🎥 Watch here: https://rcr.media/episodes/under-the-hood-with-graham-hoody-hood-whatever-happened-to-conversation #RCRMedia #UnderTheHood"
       }
     ]
   },
