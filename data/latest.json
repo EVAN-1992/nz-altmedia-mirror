@@ -1,8 +1,20 @@
 {
-  "generated_utc": "2026-09-26T14:56:40Z",
+  "generated_utc": "2026-09-27T15:36:30Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Parliamentary Licence With a Halo",
+        "url": "https://realitycheck.radio/parliamentary-licence-with-a-halo/",
+        "date_utc": "2026-09-27T03:45:10Z",
+        "summary": "by Rodney Hide Debbie Ngarewa-Packer used the c-word in the […]"
+      },
+      {
+        "title": "Is breaking up Foodstuffs consistent with centre-right values?",
+        "url": "https://realitycheck.radio/is-breaking-up-foodstuffs-consistent-with-centre-right-values/",
+        "date_utc": "2026-09-27T03:31:28Z",
+        "summary": "by Richard Prebble A National Party apologist writing in the […]"
+      },
       {
         "title": "What do the Finns know that we don’t?",
         "url": "https://realitycheck.radio/what-do-the-finns-know-that-we-dont/",
@@ -82,16 +94,10 @@
         "summary": "by Peter Williams Any organisation where Cameron Bagrie is the […]"
       },
       {
-        "title": "White Australia’s high court challenge a safe bet",
-        "url": "https://realitycheck.radio/white-australias-high-court-challenge-a-safe-bet/",
-        "date_utc": "2026-09-20T03:43:14Z",
-        "summary": "by M K Grant On the 20th of January 2026, […]"
-      },
-      {
-        "title": "An Odyssey Ends",
-        "url": "https://realitycheck.radio/an-odyssey-ends/",
-        "date_utc": "2026-09-20T03:14:48Z",
-        "summary": "by Peter Williams And so our great African odyssey is […]"
+        "title": "UNDER THE HOOD: With Graham ‘Hoody’ Hood: Stress Management – When Stress Takes its Toll",
+        "url": "https://realitycheck.radio/episodes/under-the-hood-with-graham-hoody-hood-stress-management-when-stress-takes-its-toll/",
+        "date_utc": "2026-09-26T17:43:49Z",
+        "summary": ""
       },
       {
         "title": "A POLITICAL AGENDA: Te Pati Maori’s Gender Push: Tradition vs. Identity on the Marae",
@@ -116,15 +122,51 @@
         "url": "https://realitycheck.radio/episodes/glen-davies-flipping-the-food-pyramid-could-nz-feed-itself-on-whole-foods/",
         "date_utc": "2026-09-25T22:34:41Z",
         "summary": ""
-      },
-      {
-        "title": "PETER WILLIAMS ON POLITICS: NZ Supermarket Price Crisis: Political Meddling Won’t Fix the Fuel Problem",
-        "url": "https://realitycheck.radio/episodes/peter-williams-on-politics-nz-supermarket-price-crisis-political-meddling-wont-fix-the-fuel-problem/",
-        "date_utc": "2026-09-25T22:34:30Z",
-        "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "UNDER THE HOOD",
+        "url": "https://www.youtube.com/watch?v=-ma7MF541l4",
+        "date_utc": "2026-09-27T13:00:59+00:00",
+        "summary": "Graham “Hoody” Hood reflects on recent health scares that revealed serious heart blockages in both himself and his wife Michelle, prompting them to reassess the stress and pace of their lives. He explores the pressures of modern life, the wisdom of the Serenity Prayer, and how accepting hardship, building character and focusing on what we can change can help us navigate stressful times. With Hoody and Michelle about to embark on their month-long Hoodie-on-a-Roady tour of New Zealand , he also looks ahead to the journey and the themes of faith, courage, truth and community that will shape their time on the road. Fore more Discover more from Hoody at Club Grubbery or find him on Facebook and X"
+      },
+      {
+        "title": "Where does it end?",
+        "url": "https://www.youtube.com/shorts/XNn02NUPxPc",
+        "date_utc": "2026-09-27T06:01:12+00:00",
+        "summary": "🌐 https://RCR.Media | \"Where does it end?\" - Fiona Anderson, Piha Campground Manager Anderson warns that closing Piha over natural hazard risk could set a precedent for campgrounds across New Zealand. If people can no longer choose to accept ordinary outdoor risk for themselves, what happens to affordable access to the outdoors? 🎥 Watch here: https://rcr.media/episodes/fiona-anderson-piha-campground-manager-the-fight-to-reopen-piha-campground #RCRMedia"
+      },
+      {
+        "title": "When incomes rise rapidly... people want to buy stuff",
+        "url": "https://www.youtube.com/shorts/g17DYCqdjMo",
+        "date_utc": "2026-09-27T05:01:41+00:00",
+        "summary": "🌐 https://RCR.Media | \"When incomes rise rapidly... people want to buy stuff.\" - John Ballingall, Trade Economist Ballingall says rising incomes in India mean consumers will increasingly move beyond staple foods toward higher-protein products New Zealand is good at producing. Is this where the real long-term value of the FTA sits? 🎥 Watch here: https://rcr.media/episodes/john-ballingall-trade-economist-india-fta-a-long-term-play-for-nz #RCRMedia"
+      },
+      {
+        "title": "I've seen testosterone vials disguised as perfume vials for girls",
+        "url": "https://www.youtube.com/shorts/RNRvLdAXYhE",
+        "date_utc": "2026-09-26T23:03:02+00:00",
+        "summary": "🌐 https://RCR.Media | \"I've seen testosterone vials disguised as perfume vials for girls.\" - Apostate Ari, Detransitioner and Commentator Ari says hormone products can be concealed in packaging designed to look harmless. How much harder does that make it for parents to know what their children are actually receiving? 🎥 Watch here: https://rcr.media/episodes/apostate-ari-the-transphobic-historian-the-cult-of-gender-one-detransitioners-journey-to-faith #RCRMedia"
+      },
+      {
+        "title": "Maybe having the courage of your convictions would simply end with a smack on the kisser...",
+        "url": "https://www.youtube.com/shorts/UdzsYEM7F5E",
+        "date_utc": "2026-09-26T19:30:42+00:00",
+        "summary": "🌐 https://RCR.Media | \"Maybe having the courage of your convictions would simply end with a smack on the kisser. And that prospect alone has always served as a great moderating factor in human interactions.\" - Rachel Stewart Whether it's fired off on social media, printed in a newspaper column, or thrown across Parliament, Stewart reckons people might choose their words a little more carefully if they actually had to say them face-to-face. Would public debate improve overnight if everyone had to ask themselves one question first: \"Is this worth a smack on the kisser?\" 🎥 Watch here: https://rcr.media/episodes/riding-shotgun-with-rachel-stewart-more-packers-or-more-pughs #RCRMedia #RidingShotgun"
+      },
+      {
+        "title": "It's a vast redistribution of wealth from people who own land.",
+        "url": "https://www.youtube.com/shorts/yCF3H36id1U",
+        "date_utc": "2026-09-26T19:02:48+00:00",
+        "summary": "🌐 https://RCR.Media | \"It's a vast redistribution of wealth from people who own land.\" - Rob MacCulloch, Economics Professor & Former Reserve Bank Adviser MacCulloch argues TOP's tax plan shifts large amounts of wealth from landowners to fund a universal basic income. Is that a fair rebalance, or too big a transfer of private wealth? 🎥 Watch here: https://rcr.media/episodes/rob-macculloch-economics-professor-former-reserve-bank-adviser-tops-tax-reset-doesnt-add-up #RCRMedia"
+      },
+      {
+        "title": "Over half of people were still experiencing adverse events that were impacting their life 90...",
+        "url": "https://www.youtube.com/shorts/iirJYHBpSQI",
+        "date_utc": "2026-09-26T18:02:09+00:00",
+        "summary": "🌐 https://RCR.Media | \"Over half of people were still experiencing adverse events that were impacting their life 90 days later.\" - Lynda Wharton, The Health Forum NZ Wharton says the study's own follow-up data doesn't sit comfortably with the repeated description of these cases as \"mild and self-limiting\". If symptoms are still affecting daily life three months later, is that really mild? 🎥 Watch here: https://rcr.media/episodes/lynda-wharton-health-forum-nz-founder-moh-mrna-heart-injury-data-ignored-for-years #RCRMedia"
+      },
       {
         "title": "Pulling her head in is not in her kete of tricks.",
         "url": "https://www.youtube.com/shorts/sieljg_jmOo",
@@ -172,48 +214,6 @@
         "url": "https://www.youtube.com/shorts/tJKTS2kE91U",
         "date_utc": "2026-09-25T19:31:16+00:00",
         "summary": "🌐 https://RCR.Media | \"We're going to pass a law and stop crime, make it illegal.\" - Matt Robson (Auckland barrister and former Minister), recalling Jim Anderton If \"price gouging\" is not clearly defined, is outlawing it really any more meaningful than announcing that crime itself is now illegal? 🎥 Watch here: https://rcr.media/episodes/don-brash-matt-robson-former-nz-reserve-bank-governor-auckland-barrister-shooting-the-political-breeze #RCRMedia"
-      },
-      {
-        "title": "The Kentucky Fried, McDonald's and the other solutions, and the boil up every day might...",
-        "url": "https://www.youtube.com/shorts/cNGAKfwfRH0",
-        "date_utc": "2026-09-25T19:02:18+00:00",
-        "summary": "🌐 https://RCR.Media | \"The Kentucky Fried, McDonald's and the other solutions, and the boil up every day might sound like a good idea, but it's not good for the diet.\" - Winston Peters, Foreign Minister and NZ First Party Leader Peters puts the focus squarely on everyday food choices. Are politicians too afraid to talk honestly about how diet is affecting New Zealand's health? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-and-foreign-minister-a-new-policy-approach-to-health #RCRMedia"
-      },
-      {
-        "title": "A POLITICAL AGENDA",
-        "url": "https://www.youtube.com/watch?v=IjXT0BYDzvo",
-        "date_utc": "2026-09-25T13:04:42+00:00",
-        "summary": "Maree Buscke is joined by Ro Edge and Jackson Fowler for a pre-election roundtable covering Nicky Hager’s latest book, National’s crime campaign, the changing role of social media, Parliament’s declining standards and proposed local government reforms. They also discuss the growing interest in strategic voting under MMP and what it could mean as voters head to the ballot box. For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "DON BRASH & MATT ROBSON",
-        "url": "https://www.youtube.com/watch?v=2L3InDvog9Y",
-        "date_utc": "2026-09-25T13:03:32+00:00",
-        "summary": "Paul Brennan is joined by Don Brash and Matthew Robson for a wide-ranging discussion on Nicky Hager’s latest book and the importance of allowing competing interpretations to be heard. They debate claims made about the Taxpayers’ Union, Winston Peters’ approach to foreign policy, New Zealand’s relationship with major powers and whether recent planning and tax reforms will deliver the changes promised. Check out last week's episode of Don Brash & Matt Robson | Shooting the Political Breeze For election news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "JODIE BRUNING",
-        "url": "https://www.youtube.com/watch?v=t806M_6-gf8",
-        "date_utc": "2026-09-25T13:03:13+00:00",
-        "summary": "Paul Brennan speaks with Jodie Bruning of Physicians and Scientists for Global Responsibility about the research underpinning NZ First's new health policy, which she helped draft. Jodie explains the science linking ultra-processed carbohydrates to widespread metabolic decline, defends the policy against accusations of lobby-group influence and outlines proposals to remove GST from whole foods, tax sugary drinks and revive a nutritious school lunch programme modelled on France's. Discover more at PSGR For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "DAME ELIZABETH RATA",
-        "url": "https://www.youtube.com/watch?v=OHP05KxCZRc",
-        "date_utc": "2026-09-25T13:02:29+00:00",
-        "summary": "Simon O'Connor speaks with Dame Elizabeth Rata about her 40-part YouTube series documenting the history of New Zealand's education system, built from primary sources on Maori and Pakeha efforts to establish shared national institutions. Elizabeth argues against presentism and postmodern relativism, explains what a knowledge-rich curriculum actually means, and traces the decline she sees in education since the 1970s toward indigenisation and the rejection of universal knowledge. Dame Elizabeth's lecture series: History of New Zealand Education | New episodes every Friday at 10.30am For more on this visit Elizabeth Rata’s website, or find her on YouTube"
-      },
-      {
-        "title": "PETER WILLIAMS ON POLITICS",
-        "url": "https://www.youtube.com/watch?v=5FaWoggwPwY",
-        "date_utc": "2026-09-25T13:02:05+00:00",
-        "summary": "Peter Williams returns from overseas to find New Zealand politics largely unchanged, dismissing Nicky Hager's new book as media noise that won't shift the election. He argues supermarket break-up proposals from across the political spectrum are economically illiterate, pointing instead to fuel taxes as a driver of grocery prices, and makes the case for right-leaning voters to back ACT or New Zealand First to strengthen a future coalition, floating NZ First's Craig Stobo as his pick for Finance Minister. For election news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "RIDING SHOTGUN",
-        "url": "https://www.youtube.com/watch?v=hklPZbjOLGI",
-        "date_utc": "2026-09-25T13:01:19+00:00",
-        "summary": "Rachel Stewart examines the latest parliamentary controversy involving Te Pāti Māori co-leader Debbie Ngarewa-Packer, offensive language in the House, and the standards of behaviour expected from elected representatives. She also looks at Speaker Maureen Pugh’s handling of the incident and asks whether declining respect for Parliament is putting the political system itself under strain. Discover more from Rachel on Substack and X"
       }
     ]
   },
