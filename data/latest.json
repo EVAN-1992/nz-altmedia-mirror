@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-28T18:33:47Z",
+  "generated_utc": "2026-09-29T16:51:25Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,66 @@
     ],
     "youtube": [
       {
+        "title": "TECH TUESDAY",
+        "url": "https://www.youtube.com/watch?v=MqfT1fLDmqs",
+        "date_utc": "2026-09-29T13:03:06+00:00",
+        "summary": "Paul Brennan and Steven Sykes work through a backlog of listener questions on Tech Tuesday, covering EMF exposure from Starlink dishes, the trade-offs between budget de-Googled phones and Google Pixels running GrapheneOS and how to keep banking apps isolated on a de-Googled device. Steven also recounts a chaotic trailer hire gone wrong thanks to a QR-code booking system, before they turn to concerns about data collection in Chinese-made EVs and the rise of drone-delivered battlefield robots in Ukraine. Cut through the hype. Get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "THE WILMS REPORT",
+        "url": "https://www.youtube.com/watch?v=k26zAfrHh60",
+        "date_utc": "2026-09-29T13:03:06+00:00",
+        "summary": "Paul Brennan is joined by Tim Wilms for a wide-ranging look at the past fortnight in Australia — kicking off with the AFL Grand Final before turning to Albanese’s global AI push, falling poll numbers, rising fuel prices, migration and Australia’s ageing population. They also discuss the OpenAI Medicare data incident, the media’s focus on One Nation and the passing of Australian rock legend Angry Anderson. NOTE: A 2022 review ( https://pmc.ncbi.nlm.nih.gov/articles/PMC10087409/ ) found 10 of 12 peer-reviewed studies reported statistically significant increases in domestic violence, while Australian research and police data ( https://www.abc.net.au/news/2024-09-27/domestic-violence-spike-major-sport-events-afl-nrl-rugby-footy/104399938 ) found similar increases — including almost 40% higher victimisation on State of Origin nights and a 20% rise in Victoria Police call-outs around the AFL Grand Final. Discover more from Tim at The Unshackled"
+      },
+      {
+        "title": "DRS SARAH AND RANDALL FARRANT",
+        "url": "https://www.youtube.com/watch?v=kBNYlr51BRI",
+        "date_utc": "2026-09-29T13:01:55+00:00",
+        "summary": "Rodney Hide is joined by Drs Sarah and Randall Farrant to explore the “anatomy of a cold” and challenge the way we think and talk about illness. They examine the idea of a cold as a “health expression”, the influence of language and beliefs and the events and experiences that may precede physical symptoms, encouraging a different perspective on health and wellbeing. For more information: Check out the Vital Wellbeing website , the Vital Wellbeing blog and Vital Wellbeing shop Follow Vital Wellbeing on Facebook , Instagram and Rumble"
+      },
+      {
+        "title": "WINSTON PETERS",
+        "url": "https://www.youtube.com/watch?v=uBnC3v2FQUk",
+        "date_utc": "2026-09-29T13:01:22+00:00",
+        "summary": "Paul Brennan continues his weekly pre-election chat with NZ First leader and Foreign Minister Winston Peters, covering plans to abolish the Waitangi Tribunal, a proposed tax rate cut for small businesses, organic farming policy, John Key's overhang comments and shifting poll numbers. Winston also responds to a Tauranga meeting attendee's account of vaccine injury, calling for a fuller inquiry. Discover more from Winston Peters on X , Facebook and Instagram For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "Winston Peters says NZ's organic export potential depends on protecting its clean-food reputation.",
+        "url": "https://www.youtube.com/shorts/uky7Ju71Quc",
+        "date_utc": "2026-09-29T09:31:55+00:00",
+        "summary": "🌐 https://RCR.Media | \"You can only do that if you've got a clean record.\" - Winston Peters, Foreign Minister and New Zealand First Party Leader Peters says New Zealand's organic export potential depends on protecting its clean-food reputation. How much is that reputation actually worth in premium overseas markets? 🎥 Watch here: https://rcr.media/.../winston-peters-nz-first-leader..."
+      },
+      {
+        "title": "We mustn't surrender to stress. We mustn't let stress be used as a weapon to make us surrender.",
+        "url": "https://www.youtube.com/shorts/viaID64w0x8",
+        "date_utc": "2026-09-29T07:01:02+00:00",
+        "summary": "🇦🇺 🌐 https://RCR.Media | \"We mustn't surrender to stress. We mustn't let stress be used as a weapon to make us surrender.\" - Graham 'Hoody' Hood 🇦🇺 Hoody says constant fear about grids, banks, food, water and the next crisis can wear people down until they simply give up. How much of modern life is now built around keeping people permanently stressed? 🎥 Watch here: https://rcr.media/episodes/under-the-hood-with-graham-hoody-hood-stress-management-when-stress-takes-its-toll #RCRMedia #UnderTheHood"
+      },
+      {
+        "title": "The second area where it's very dangerous is mass supervision and propaganda.",
+        "url": "https://www.youtube.com/shorts/IFpvuMI0jeA",
+        "date_utc": "2026-09-29T06:02:39+00:00",
+        "summary": "🌐 https://RCR.Media | \"The second area where it's very dangerous is mass supervision and propaganda.\" - Jobst Landgrebe, Entrepreneur & Author Landgrebe warns the real danger may be AI used to watch populations and shape what they believe. Are governments talking loudly about hypothetical AI risks while ignoring the uses that could give them far more power? 🎥 Watch here: https://rcr.media/episodes/jobst-landgrebe-scientist-entrepreneur-why-the-ai-danger-story-is-mostly-marketing #RCRMedia"
+      },
+      {
+        "title": "Winston Peters argues the Treaty claims process was never meant to continue indefinitely.",
+        "url": "https://www.youtube.com/shorts/nZuAwZKUU68",
+        "date_utc": "2026-09-29T05:38:57+00:00",
+        "summary": "\"Complete it, and then get on with being one country, one flag, one nation.\" - Winston Peters, Foreign Minister and NZ First Party Leader Peters argues the Treaty claims process was never meant to continue indefinitely and says NZ First would impose a clear endpoint. Is it time for the current Tribunal model to come to an end? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-abolishing-the-waitangi-tribunal-the-overhang-strategy"
+      },
+      {
+        "title": "If we fall in trouble, it's not going to be automatic that we are going to get help.",
+        "url": "https://www.youtube.com/shorts/lV5iuab5rao",
+        "date_utc": "2026-09-29T05:02:04+00:00",
+        "summary": "🌐 https://RCR.Media | \"If we fall in trouble, it's not going to be automatic that we are going to get help.\" - Saad Bahjat Abou-Chakra, Researcher & Educator Abou-Chakra says New Zealand cannot simply assume larger allies will come to its aid if doing so is not in their own interests. Are we too comfortable relying on alliances we may never have to test? 🎥 Watch here: https://rcr.media/episodes/saad-bahjat-abou-chakra-researcher-educator-a-call-for-foreign-policy-positions-before-kiwis-vote #RCRMedia"
+      },
+      {
+        "title": "If you pureed up every person killed in that senseless conflict...",
+        "url": "https://www.youtube.com/shorts/UfIs7KAfIUQ",
+        "date_utc": "2026-09-28T23:03:54+00:00",
+        "summary": "🌐 https://RCR.Media | \"If you pureed up every person killed in that senseless conflict... they'd go from where I am now in Tauranga to where you are now in Wellington, side-by-side touching.\" - Marty Gibson Gibson uses a confronting image to make his point about the human cost of the Ukraine war. Has the scale of the death become too abstract for politicians and the public? Maree Buscke and Marty Gibson are back with Media Matters. 🎥 Watch here: https://rcr.media/episodes/media-matters-whose-side-is-the-media-on #RCRMedia #MediaMatters"
+      },
+      {
         "title": "We think education is a far better way of moving forward with our young people",
         "url": "https://www.youtube.com/shorts/CWbHBl_Emz8",
         "date_utc": "2026-09-28T18:31:14+00:00",
@@ -154,71 +214,53 @@
         "url": "https://www.youtube.com/watch?v=7sBSjCA_BRc",
         "date_utc": "2026-09-28T13:01:32+00:00",
         "summary": "Host Maree Buscke talks with Professor Julia Rucklidge (University of Canterbury psychologist and co-author of The Better Brain) about NZ First's newly announced “Make New Zealand Healthy” policy. Julia describes feeling validated by the policy, noting it echoes ideas she and colleagues (Glenn Davis, Tim Muir, Grant Schofield) have advocated for years around shifting from a reactive “sick-care” system to preventative health. For more from Julia, check out her University of Canterbury webpage or find her on Facebook and X Catch Julia's previous interview with Maree on 21st August | Micronutrients for mental health in pregnancy – the evidence For news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "If you're not at school, you're simply not learning.",
-        "url": "https://www.youtube.com/shorts/r3dZ0pPqpRA",
-        "date_utc": "2026-09-28T05:30:48+00:00",
-        "summary": "🌐 https://RCR.Media | \"If you're not at school, you're simply not learning.\" - Iain Murray, ACT Candidate and Hornby High School Principal Murray says New Zealand's attendance problem has been one of the biggest barriers to lifting achievement. Should getting children physically back into classrooms be the first priority before anything else? 🎥 Watch here: https://rcr.media/episodes/iain-murray-act-candidate-a-principals-case-for-acts-education-reforms #RCRMedia"
-      },
-      {
-        "title": "I was attacked, I was hazed, I was chased around the block all day.",
-        "url": "https://www.youtube.com/shorts/yvcDw62LbBM",
-        "date_utc": "2026-09-28T05:01:38+00:00",
-        "summary": "🌐 https://RCR.Media | \"I was attacked, I was hazed, I was chased around the block all day.\" - Apostate Ari, Detransitioner and Commentator Ari says a chaotic day of protest and confrontation ultimately led to one of the most important spiritual moments of his life. Have you ever had a moment where everything suddenly made sense? 🎥 Watch here: https://rcr.media/episodes/apostate-ari-the-transphobic-historian-the-cult-of-gender-one-detransitioners-journey-to-faith #RCRMedia"
-      },
-      {
-        "title": "They're just scrambling at every opportunity to try and keep things flowing and keep things moving.",
-        "url": "https://www.youtube.com/shorts/V8zch2Za_Ws",
-        "date_utc": "2026-09-28T02:02:15+00:00",
-        "summary": "🌐 https://RCR.Media | \"They're just scrambling at every opportunity to try and keep things flowing and keep things moving.\" - Larry Blair, Energy Commentator Blair says producers are being forced to reroute, shuttle and transfer oil just to keep supply moving. How fragile does the global fuel system become when this much improvisation is needed? 🎥 Watch here: https://rcr.media/episodes/larry-blair-energy-commentator-diesel-at-breaking-point #RCRMedia"
-      },
-      {
-        "title": "There'd be a crash cart ready in case anything happened",
-        "url": "https://www.youtube.com/shorts/_vd8ath-_zQ",
-        "date_utc": "2026-09-27T23:01:38+00:00",
-        "summary": "🌐 https://RCR.Media | \"There'd be a crash cart ready in case anything happened.\" - Dr Caroline Wheeler, Retired Doctor Wheeler says a woman who had already suffered an anaphylactic reaction was told to get her second injection in hospital with emergency equipment standing by. Does that sound like informed medical caution, or pressure to comply? 🎥 Watch here: https://rcr.media/episodes/caroline-wheeler-retired-doctor-censured-but-unrepentant-a-four-year-fight-over-ivermectin #RCRMedia"
-      },
-      {
-        "title": "Some countries are going to start defaulting on their debt.",
-        "url": "https://www.youtube.com/shorts/z-d77K3gCgM",
-        "date_utc": "2026-09-27T18:31:06+00:00",
-        "summary": "🌐 https://RCR.Media | \"Some countries are going to start defaulting on their debt.\" - Farzin Irani, Sovereignty Capital Irani warns one sovereign default could quickly turn into a global question of \"who's next?\" How exposed are ordinary savers when governments and banks are sitting on mountains of debt? 🎥 Watch here: https://rcr.media/episodes/money-talks-with-farzin-irani-a-debt-machine-that-never-pays-itself-off #RCRMedia #MoneyTalks"
-      },
-      {
-        "title": "UNDER THE HOOD",
-        "url": "https://www.youtube.com/watch?v=-ma7MF541l4",
-        "date_utc": "2026-09-27T13:00:59+00:00",
-        "summary": "Graham “Hoody” Hood reflects on recent health scares that revealed serious heart blockages in both himself and his wife Michelle, prompting them to reassess the stress and pace of their lives. He explores the pressures of modern life, the wisdom of the Serenity Prayer, and how accepting hardship, building character and focusing on what we can change can help us navigate stressful times. With Hoody and Michelle about to embark on their month-long Hoodie-on-a-Roady tour of New Zealand , he also looks ahead to the journey and the themes of faith, courage, truth and community that will shape their time on the road. Fore more Discover more from Hoody at Club Grubbery or find him on Facebook and X"
-      },
-      {
-        "title": "Where does it end?",
-        "url": "https://www.youtube.com/shorts/XNn02NUPxPc",
-        "date_utc": "2026-09-27T06:01:12+00:00",
-        "summary": "🌐 https://RCR.Media | \"Where does it end?\" - Fiona Anderson, Piha Campground Manager Anderson warns that closing Piha over natural hazard risk could set a precedent for campgrounds across New Zealand. If people can no longer choose to accept ordinary outdoor risk for themselves, what happens to affordable access to the outdoors? 🎥 Watch here: https://rcr.media/episodes/fiona-anderson-piha-campground-manager-the-fight-to-reopen-piha-campground #RCRMedia"
-      },
-      {
-        "title": "When incomes rise rapidly... people want to buy stuff",
-        "url": "https://www.youtube.com/shorts/g17DYCqdjMo",
-        "date_utc": "2026-09-27T05:01:41+00:00",
-        "summary": "🌐 https://RCR.Media | \"When incomes rise rapidly... people want to buy stuff.\" - John Ballingall, Trade Economist Ballingall says rising incomes in India mean consumers will increasingly move beyond staple foods toward higher-protein products New Zealand is good at producing. Is this where the real long-term value of the FTA sits? 🎥 Watch here: https://rcr.media/episodes/john-ballingall-trade-economist-india-fta-a-long-term-play-for-nz #RCRMedia"
-      },
-      {
-        "title": "I've seen testosterone vials disguised as perfume vials for girls",
-        "url": "https://www.youtube.com/shorts/RNRvLdAXYhE",
-        "date_utc": "2026-09-26T23:03:02+00:00",
-        "summary": "🌐 https://RCR.Media | \"I've seen testosterone vials disguised as perfume vials for girls.\" - Apostate Ari, Detransitioner and Commentator Ari says hormone products can be concealed in packaging designed to look harmless. How much harder does that make it for parents to know what their children are actually receiving? 🎥 Watch here: https://rcr.media/episodes/apostate-ari-the-transphobic-historian-the-cult-of-gender-one-detransitioners-journey-to-faith #RCRMedia"
-      },
-      {
-        "title": "Maybe having the courage of your convictions would simply end with a smack on the kisser...",
-        "url": "https://www.youtube.com/shorts/UdzsYEM7F5E",
-        "date_utc": "2026-09-26T19:30:42+00:00",
-        "summary": "🌐 https://RCR.Media | \"Maybe having the courage of your convictions would simply end with a smack on the kisser. And that prospect alone has always served as a great moderating factor in human interactions.\" - Rachel Stewart Whether it's fired off on social media, printed in a newspaper column, or thrown across Parliament, Stewart reckons people might choose their words a little more carefully if they actually had to say them face-to-face. Would public debate improve overnight if everyone had to ask themselves one question first: \"Is this worth a smack on the kisser?\" 🎥 Watch here: https://rcr.media/episodes/riding-shotgun-with-rachel-stewart-more-packers-or-more-pughs #RCRMedia #RidingShotgun"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "3 Months Out From Christmas - How's The Retail Sector Shaping Up?",
+        "url": "https://www.youtube.com/watch?v=vCWmOEfJScU",
+        "date_utc": "2026-09-29T02:14:18+00:00",
+        "summary": "Carolyn Young, CEO of Retail NZ - 3 months out from Christmas, how's the retail sector shaping up?"
+      },
+      {
+        "title": "The Women’s Rights Party Has Announced Its List For Election 2026",
+        "url": "https://www.youtube.com/watch?v=5bTFIR2uAMQ",
+        "date_utc": "2026-09-29T02:12:54+00:00",
+        "summary": "Jill Ovens, Women's Rights Party Secretary - The Women’s Rights Party has announced its List for Election 2026."
+      },
+      {
+        "title": "Consumer NZ's Biggest-Ever Petition Has Been Delivered To Parliament",
+        "url": "https://www.youtube.com/watch?v=12_jOVH-lMA",
+        "date_utc": "2026-09-29T01:58:49+00:00",
+        "summary": "Jon Duffy, CEO of Consumer NZ - Consumer NZ's biggest-ever petition has been delivered to Parliament."
+      },
+      {
+        "title": "Graham Linehan On Ed Sheeran Controversy & Reaction In Ireland",
+        "url": "https://www.youtube.com/watch?v=6qrOcmqB4Ag",
+        "date_utc": "2026-09-28T23:52:52+00:00",
+        "summary": "Graham Linehan on Ed Sheeran controversy and reaction in Ireland (full interview)"
+      },
+      {
+        "title": "Cameron Bagrie On Aotearoa/New Zealand Curriculum Forum",
+        "url": "https://www.youtube.com/watch?v=WcIsibXlG8k",
+        "date_utc": "2026-09-28T23:27:55+00:00",
+        "summary": "Cameron Bagrie on Aotearoa/New Zealand Curriculum Forum."
+      },
+      {
+        "title": "Winston Peters Says NZ First Will Actively Encourage Vote Splitting",
+        "url": "https://www.youtube.com/watch?v=RYhl1SazRmU",
+        "date_utc": "2026-09-28T22:40:10+00:00",
+        "summary": "Winston Peters says NZ First will actively encourage vote splitting for 2026 Election."
+      },
+      {
+        "title": "Sean Plunket Reacts To The Green Party Surge In The Latest Polls",
+        "url": "https://www.youtube.com/watch?v=WMfuTk0ACeQ",
+        "date_utc": "2026-09-28T22:18:21+00:00",
+        "summary": "Sean Plunket reacts to the Green Party surge in the latest polls."
+      },
       {
         "title": "Labour Rules Out Interest Deductibility Changes For Landlords",
         "url": "https://www.youtube.com/watch?v=OfeCYhiNpJs",
@@ -266,48 +308,6 @@
         "url": "https://www.youtube.com/watch?v=zP87FcwiHRQ",
         "date_utc": "2026-09-25T04:13:50+00:00",
         "summary": "Forget supermarkets, look at the banks! Koura KiwiSaver founder Rupert Carlyon says we’re targeting the wrong sector."
-      },
-      {
-        "title": "Oamaru And Dunedin - Lonely Planet Must-Visits.",
-        "url": "https://www.youtube.com/watch?v=vJybEdD6JFQ",
-        "date_utc": "2026-09-25T02:56:30+00:00",
-        "summary": "Oamaru and Dunedin - Lonely Planet must-visits. Alan Dick suggests the locals might not be thrilled."
-      },
-      {
-        "title": "LGNZ President On The Sudden Pause To Local Reorganisation",
-        "url": "https://www.youtube.com/watch?v=Du21sSBvSvs",
-        "date_utc": "2026-09-25T01:52:28+00:00",
-        "summary": "LGNZ president Rehette Stoltz on the sudden pause to local reorganisation"
-      },
-      {
-        "title": "Memo To MSM: “Where The Hell Are Ya?”",
-        "url": "https://www.youtube.com/watch?v=JAaSiqvc5cc",
-        "date_utc": "2026-09-25T01:38:07+00:00",
-        "summary": "Memo To MSM: “Where The Hell Are Ya?”"
-      },
-      {
-        "title": "Sean’s Picks For The Friday Fry Up This Week",
-        "url": "https://www.youtube.com/watch?v=TfNPflkgqWI",
-        "date_utc": "2026-09-25T00:55:51+00:00",
-        "summary": "Sean’s Picks for the Friday Fry Up this week."
-      },
-      {
-        "title": "Free Speech Fridays #175 – Bob McCoskrie & Maurice Williamson",
-        "url": "https://www.youtube.com/watch?v=F1NOa6G_VQ8",
-        "date_utc": "2026-09-25T00:13:31+00:00",
-        "summary": "Free Speech Fridays with Bob McCoskrie & Maurice Williamson is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss Parliament ending, Maureen Pugh and Brooke Van Velden leaving Politics, Nicky Hager’s new book, and more."
-      },
-      {
-        "title": "Maureen Pugh Looks Back On Her Time In Parliament",
-        "url": "https://www.youtube.com/watch?v=AWDUWqxPodk",
-        "date_utc": "2026-09-24T23:47:53+00:00",
-        "summary": "Maureen Pugh looks back on her time in Parliament."
-      },
-      {
-        "title": "Chris Trotter On The End Of Parliament And Election Season Ramping Up",
-        "url": "https://www.youtube.com/watch?v=PZTiOkXKvWk",
-        "date_utc": "2026-09-24T23:38:24+00:00",
-        "summary": "Chris Trotter on the end of Parliament and Election season ramping up."
       }
     ],
     "opinions": [
