@@ -1,8 +1,26 @@
 {
-  "generated_utc": "2026-10-01T17:20:08Z",
+  "generated_utc": "2026-10-02T16:35:12Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "From Opportunity to Opportunistic",
+        "url": "https://realitycheck.radio/from-opportunity-to-opportunistic/",
+        "date_utc": "2026-10-02T08:36:17Z",
+        "summary": "by Richard Prebble Power corrupts, but the possibility of power […]"
+      },
+      {
+        "title": "The Political Giants are Looking Increasingly Ordinary",
+        "url": "https://realitycheck.radio/the-political-giants-are-looking-increasingly-ordinary/",
+        "date_utc": "2026-10-02T05:46:43Z",
+        "summary": "by Peter Williams The Political Giants are Looking Increasingly Ordinary […]"
+      },
+      {
+        "title": "Riding Shotgun – ep 63: When a Terrorist Plot Isn’t a Terrorist Plot",
+        "url": "https://realitycheck.radio/riding-shotgun-ep-63-when-a-terrorist-plot-isnt-a-terrorist-plot/",
+        "date_utc": "2026-10-01T21:14:12Z",
+        "summary": "by Rachel Stewart Honestly, I’m not even going to try […]"
+      },
       {
         "title": "Apparently Fingernails Are Colonialist",
         "url": "https://realitycheck.radio/apparently-fingernails-are-colonialist/",
@@ -76,55 +94,97 @@
         "summary": "by Rodney Hide Debbie Ngarewa-Packer used the c-word in the […]"
       },
       {
-        "title": "Is breaking up Foodstuffs consistent with centre-right values?",
-        "url": "https://realitycheck.radio/is-breaking-up-foodstuffs-consistent-with-centre-right-values/",
-        "date_utc": "2026-09-27T03:31:28Z",
-        "summary": "by Richard Prebble A National Party apologist writing in the […]"
-      },
-      {
-        "title": "What do the Finns know that we don’t?",
-        "url": "https://realitycheck.radio/what-do-the-finns-know-that-we-dont/",
-        "date_utc": "2026-09-26T03:26:43Z",
-        "summary": "by Richard Prebble New Zealand does not have the world’s […]"
-      },
-      {
-        "title": "Strategic Voting to Win",
-        "url": "https://realitycheck.radio/strategic-voting-to-win/",
-        "date_utc": "2026-09-25T03:33:25Z",
-        "summary": "by Dr Muriel Newman In the lead-up to the 1984 […]"
-      },
-      {
-        "title": "RIDING SHOTGUN: With Rachel Stewart: When a Terrorist Plot Is Not a Terrorist Plot",
-        "url": "https://realitycheck.radio/episodes/riding-shotgun-with-rachel-stewart-when-a-terrorist-plot-is-not-a-terrorist-plot/",
-        "date_utc": "2026-10-01T03:29:16Z",
+        "title": "PETER WILLIAMS ON POLITICS: The Political Giants are Looking Increasingly Ordinary",
+        "url": "https://realitycheck.radio/episodes/peter-williams-on-politics-the-political-giants-are-looking-increasingly-ordinary/",
+        "date_utc": "2026-10-02T04:02:43Z",
         "summary": ""
       },
       {
-        "title": "CHANTELLE BAKER: Independent Journalist: The Overhang Strategy Explained",
-        "url": "https://realitycheck.radio/episodes/chantelle-baker-independent-journalist-the-overhang-strategy-explained/",
-        "date_utc": "2026-10-01T00:12:05Z",
+        "title": "DON BRASH & MATT ROBSON: Former NZ Reserve Bank Governor & Auckland Barrister: A Clash of Political Convictions",
+        "url": "https://realitycheck.radio/episodes/don-brash-matt-robson-former-nz-reserve-bank-governor-auckland-barrister-a-clash-of-political-convictions/",
+        "date_utc": "2026-10-02T03:07:44Z",
         "summary": ""
       },
       {
-        "title": "MEDIA MATTERS: Coalition of Catastrophe – Polling Chaos Five Weeks Out",
-        "url": "https://realitycheck.radio/episodes/media-matters-coalition-of-catastrophe-polling-chaos-five-weeks-out/",
-        "date_utc": "2026-09-30T22:08:08Z",
+        "title": "YOUNG PATRIOTS: Dieuwe de Boer with Nathan Smith & Jack Ryan: Strategic Voting and the Fight for a Political Vision",
+        "url": "https://realitycheck.radio/episodes/young-patriots-dieuwe-de-boer-with-nathan-smith-jack-ryan-strategic-voting-and-the-fight-for-a-political-vision/",
+        "date_utc": "2026-10-02T03:05:54Z",
         "summary": ""
       },
       {
-        "title": "WEDNESDAY WEBINARS: Council Watch: Election Impact on Local Councils",
-        "url": "https://realitycheck.radio/episodes/wednesday-webinars-council-watch-election-impact-on-local-councils/",
-        "date_utc": "2026-09-30T21:53:56Z",
+        "title": "THE FOURTH ESTATE: Maree Buscke with Peter Williams & David Harvey: MMP & the Strategic Vote",
+        "url": "https://realitycheck.radio/episodes/the-fourth-estate-maree-buscke-with-peter-williams-david-harvey-mmp-the-strategic-vote/",
+        "date_utc": "2026-10-02T03:01:15Z",
         "summary": ""
       },
       {
-        "title": "MAREE BUSCKE: Last Ditch Bar’s Debt Dive: Masks Off, Drinks On",
-        "url": "https://realitycheck.radio/episodes/maree-buscke-last-ditch-bars-debt-dive-masks-off-drinks-on/",
-        "date_utc": "2026-09-30T20:48:45Z",
+        "title": "NATHAN SURENDRAN: Engineer & Wise Response Society Chair: Sleepwalking Into a Fuel Crisis",
+        "url": "https://realitycheck.radio/episodes/nathan-surendran-engineer-wise-response-society-chair-sleepwalking-into-a-fuel-crisis/",
+        "date_utc": "2026-10-01T23:31:11Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "NATHAN SURENDRAN",
+        "url": "https://www.youtube.com/watch?v=pXoa-EThkYs",
+        "date_utc": "2026-10-02T13:05:27+00:00",
+        "summary": "Paul Brennan checks back in with engineer and Wise Response Society chair Nathan Surendran, who warned earlier this year that New Zealand was sleepwalking into a fuel crisis. Nathan discusses shrinking global refining capacity, the flow-on effects of rationing by price, his challenge to Invercargill's spatial plan over its growth assumptions, the risks of leaning on AI for governance decisions and why tradable energy quotas should be back on the table this election. For more from Nathan find him on Substack , X and Instagram Check out Wise Response Society | What can I do in response to the Fuel Supply Crisis in Aotearoa New Zealand? When the Trucks Stop For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "THE FOURTH ESTATE",
+        "url": "https://www.youtube.com/watch?v=bNu5aHxzKbE",
+        "date_utc": "2026-10-02T13:02:49+00:00",
+        "summary": "Maree Buscke is joined by David Harvey and Peter Williams for a wide-ranging look at the election campaign, including strategic voting under MMP, political donations, the Kingmakers debate, youth enrolment and Nicky Hager’s latest book. They also discuss Jason Winstanley’s appointment as RNZ chief executive, the direction of National and Labour and how media coverage is shaping the campaign. For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "YOUNG PATRIOTS",
+        "url": "https://www.youtube.com/watch?v=wUxvgC41WZM",
+        "date_utc": "2026-10-02T13:02:35+00:00",
+        "summary": "Dieuwe de Boer launches Young Patriots with Nathan and Jack, exploring young people’s engagement with politics, Jack’s experiences travelling through Europe, and the debate over strategic voting ahead of New Zealand’s election. They discuss vote splitting, coalition strategy, the job market facing young graduates, housing affordability, mass immigration and the role of special interest groups within political parties. For more information: Check out Vote Coalition Tracker RNZ | Job climate remains bleak for new graduate Find Nathan Smith on Substack Find Jack Ryan on YouTube , Instagram , X , TikTok , Rumble For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "PETER WILLIAMS ON POLITICS",
+        "url": "https://www.youtube.com/watch?v=z7IZ_0g_-j4",
+        "date_utc": "2026-10-02T13:02:31+00:00",
+        "summary": "Peter Williams surveys a chaotic week in the election campaign, from the awkwardly timed launches of Labour and National, to both parties landing on 28% in the latest poll while the Greens surge to 16%. For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "DON BRASH & MATT ROBSON",
+        "url": "https://www.youtube.com/watch?v=Y5eGzDyf_aU",
+        "date_utc": "2026-10-02T13:02:25+00:00",
+        "summary": "Paul Brennan is joined by Matthew Robson and Don Brash to shoot the political breeze, in a wide-ranging discussion covering strategic voting, the future of New Zealand Super, the Waitangi Tribunal and Treaty settlements. Sharp differences emerge between Robson and Brash on the Tribunal and retirement policy, while both challenge aspects of current defence spending and debate the reliability of polling. For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "We had people saying things like: 'Oh, you know, we support sustainable agriculture'...",
+        "url": "https://www.youtube.com/shorts/-8LghOtDT80",
+        "date_utc": "2026-10-02T06:01:05+00:00",
+        "summary": "🌐 https://RCR.Media | \"We had people saying things like: 'Oh, you know, we support sustainable agriculture.' Well, that's a very big stretch on a rubber band.\" - Brendan Hoare, Organics Aotearoa NZ Hoare says vague language can cover almost anything, which is why Organics Aotearoa pushed parties for clear commitments. When politicians say they support \"sustainability\", should voters be asking exactly what that means? 🎥 Watch here: https://rcr.media/episodes/brendan-hoare-organics-aotearoa-nz-which-parties-care-about-supporting-organics #RCRMedia"
+      },
+      {
+        "title": "“I’m worried about the prospects of my children.” - Taine Randell, NZ First Candidate PROMO",
+        "url": "https://www.youtube.com/shorts/ysO01rw-QJw",
+        "date_utc": "2026-10-02T05:30:25+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 From All Black To Political Candidate “I’m worried about the prospects of my children.” - Taine Randell Maree Buscke talks to former All Black Taine Randell about why he decided to throw his hat in the ring for New Zealand First. 💥 Full interview coming soon on RCR💥 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "Wouldn't it be considered a good thing that you have consulted experts in the field before...",
+        "url": "https://www.youtube.com/shorts/jq20qBHaPPg",
+        "date_utc": "2026-10-02T05:01:28+00:00",
+        "summary": "🌐 https://RCR.Media | \"Wouldn't it be considered a good thing that you have consulted experts in the field before coming up with a transformative policy.\" - Dr Glen Davies, NZ Health Advocate Davies says consulting health experts should be seen as responsible policymaking, not something suspicious. Has political debate reached the point where expert input itself is treated as a scandal? 🎥 Watch here: https://rcr.media/episodes/dr-glen-davies-nz-health-advocate-health-policy-finally-catching-up #RCRMedia"
+      },
+      {
+        "title": "The fact that this is finally being put forward by a political party gives me hope",
+        "url": "https://www.youtube.com/shorts/iVX8aHGQLEM",
+        "date_utc": "2026-10-01T18:31:22+00:00",
+        "summary": "🌐 https://RCR.Media | \"The fact that this is finally being put forward by a political party gives me hope.\" - Julia Rucklidge, Clinical Psychologist Rucklidge says putting prevention into a major health policy could finally bring the funding, regulation and political leverage needed to shift the system. Could this mark a genuine move from treating illness to preventing it? 🎥 Watch here: https://rcr.media/episodes/julia-rucklidge-clinical-psychologist-leading-researchers-take-on-nz-firsts-health-policy #RCRMedia"
+      },
+      {
+        "title": "This is a smorgasbord of changing the way we think about protecting health for the whole of...",
+        "url": "https://www.youtube.com/shorts/9v65IioSTqU",
+        "date_utc": "2026-10-01T18:04:48+00:00",
+        "summary": "🌐 https://RCR.Media | \"This is a smorgasbord of changing the way we think about protecting health for the whole of New Zealand.\" - Jodie Bruning, Lead Researcher at PSGR @PSGRNZ Bruning says the goal is bigger than one party or one policy - it's a wholesale rethink of prevention, food and metabolic health. Is New Zealand ready to shift from treating sickness to protecting health? 🎥 Watch here: https://rcr.media/episodes/jodie-bruning-lead-researcher-at-psgr-nz-firsts-health-policy-shake-up #RCRMedia"
+      },
       {
         "title": "WEDNESDAY WEBINARS",
         "url": "https://www.youtube.com/watch?v=fRR2SRbYArE",
@@ -154,71 +214,59 @@
         "url": "https://www.youtube.com/shorts/OMsuyWl6GBA",
         "date_utc": "2026-10-01T07:01:00+00:00",
         "summary": "🇦🇺 🌐 https://RCR.Media | \"We've driven a stake in the ground, and we're more than happy to fight for it.\" - Ben Duxson, Sixth Generation Sheep Farmer @FarmersFightback 🇦🇺 Duxson tells Michael Arbon resistance to VNI West is hardening, not fading, as more farmers join the fight. Are governments underestimating how far rural communities are prepared to go to defend their land? 🎥 Watch here: https://rcr.media/episodes/ben-duxson-sixth-generation-sheep-farmer-farmers-keep-gates-closed-against-transmission-line #RCRMedia"
-      },
-      {
-        "title": "The ACT and New Zealand First party votes will both be well into double figures...",
-        "url": "https://www.youtube.com/shorts/MVsflrrtx9I",
-        "date_utc": "2026-10-01T06:02:37+00:00",
-        "summary": "🌐 https://RCR.Media | \"The ACT and New Zealand First party votes will both be well into double figures, meaning more cabinet positions for those parties and therefore more influence in policy direction.\" - Peter Williams Williams says the strategy isn't just about getting a coalition over the line, but changing who holds the power inside it. Could the party vote end up deciding far more than simply which side forms government? 🎥 Watch here: https://rcr.media/episodes/peter-williams-on-politics-the-supermarket-debate-and-battle-for-the-next-parliament #RCRMedia"
-      },
-      {
-        "title": "RCR Wednesday Webinars - Council Watch",
-        "url": "https://www.youtube.com/watch?v=lDqiMBM1WWk",
-        "date_utc": "2026-10-01T05:27:07+00:00",
-        "summary": "Join Maree Buscke & Kathryn Ennis-Carter for a timely discussion exploring the growing intersection between local government and the national political landscape. What could the next election mean for New Zealand’s local councils — and what should voters be watching? 🔹 Amalgamation: What does the government’s stalling mean for council costs and planning ahead of the 2026 elections? 🔹 Last-minute legislation: What changes could be pushed through before the election? 🔹 Local to national: Which councillors could be looking to make the leap to Parliament? With local government increasingly connected to the wider political agenda, this is a conversation about who is making the decisions, where power is moving, and what voters should be watching."
-      },
-      {
-        "title": "In the first six to seven years, you can reverse your diabetes...",
-        "url": "https://www.youtube.com/shorts/buLcU32oqB4",
-        "date_utc": "2026-10-01T05:15:58+00:00",
-        "summary": "🌐 https://RCR.Media | \"In the first six to seven years, you can reverse your diabetes. You can reverse your prediabetes status.\" - Jodie Bruning, Lead Researcher at PSGR @PSGRNZ Bruning says early type 2 diabetes does not have to be a one-way street. If reversal is possible for some patients, why isn't that message front and centre from day one? 🎥 Watch here: https://rcr.media/episodes/jodie-bruning-lead-researcher-at-psgr-nz-firsts-health-policy-shake-up #RCRMedia"
-      },
-      {
-        "title": "Instead of that six to eleven servings of grains being the major part of the diet...",
-        "url": "https://www.youtube.com/shorts/4a-J4CknSg8",
-        "date_utc": "2026-09-30T23:04:12+00:00",
-        "summary": "🌐 https://RCR.Media | \"Instead of that six to eleven servings of grains being the major part of the diet, it's making that a very small part, and we're emphasising whole foods.\" - Dr Glen Davies, NZ Health Advocate Davies says the dietary model is shifting away from grains and toward whole foods. Is it time New Zealand completely rethought the food advice it has given generations of families? 🎥 Watch here: https://rcr.media/episodes/dr-glen-davies-nz-health-advocate-health-policy-finally-catching-up #RCRMedia"
-      },
-      {
-        "title": "To call that some cultural knowledge is just wrong",
-        "url": "https://www.youtube.com/shorts/Agwm--u31wc",
-        "date_utc": "2026-09-30T19:04:17+00:00",
-        "summary": "🌐 https://RCR.Media | \"To call that some cultural knowledge is just wrong.\" - Dame Elizabeth Rata, Professor of Education at Auckland University @dameelizabethrata Rata argues science, mathematics and other disciplines belong to everyone, not to one culture. Has education blurred the line between universal knowledge and cultural belief? 🎥 Watch here: https://rcr.media/episodes/elizabeth-rata-professor-of-education-at-auckland-university-rebuilding-new-zealands-education-history #RCRMedia"
-      },
-      {
-        "title": "I think the media embarrassed themselves by going live.",
-        "url": "https://www.youtube.com/shorts/sCzwLW2XaRM",
-        "date_utc": "2026-09-30T18:04:05+00:00",
-        "summary": "🌐 https://RCR.Media | \"I think the media embarrassed themselves by going live.\" - Ro Edge TVNZ and Three went live to Nicky Hager's book launch before the claims had been properly tested, Edge says. Was that journalism, or free promotion for a political intervention? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-ro-edge-jackson-fowler-dirty-work-and-the-battle-for-the-political-narrative #RCRMedia #APoliticalAgenda"
-      },
-      {
-        "title": "We cannot go on [with] those damaged people without any redress",
-        "url": "https://www.youtube.com/shorts/VCmkTdyxqs4",
-        "date_utc": "2026-09-30T17:45:41+00:00",
-        "summary": "🌐 https://RCR.Media | \"We cannot go on [with] those damaged people without any redress.\" - Winston Peters, Foreign Minister and NZ First Party Leader Peters says people who say they were harmed after COVID vaccination should not be left without recognition or support. If a medical intervention causes serious injury, what level of compensation and accountability should follow? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-abolishing-the-waitangi-tribunal-the-overhang-strategy #RCRMedia"
-      },
-      {
-        "title": "FREDDIE PONTON",
-        "url": "https://www.youtube.com/watch?v=j81bGO9AjhY",
-        "date_utc": "2026-09-30T13:04:15+00:00",
-        "summary": "Paul Brennan and Freddie Ponton examine escalating tensions around Iran, the Strait of Hormuz and the wider Middle East, including Saudi Arabia’s vulnerability, the strategic importance of water infrastructure and growing Western military involvement. They also discuss Britain’s support for Ukraine, the use of battlefield technology and concerns over government control of online narratives and political debate. Discover more from 21st Century Wire or find them on X Follow Freddie on X For news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "MONEY TALKS",
-        "url": "https://www.youtube.com/watch?v=bYd5qfBIR8k",
-        "date_utc": "2026-09-30T13:04:11+00:00",
-        "summary": "Paul Brennan and Joel Robinson of Radical Investment explore why rising US bond yields matter, explaining the inverse relationship between interest rates and bond prices and the growing risks around long-duration debt. They examine warning signs emerging in AI-related debt markets, the disconnect between bonds and shares, and lessons from previous market cycles, while Joel discusses ways investors can reduce exposure to potential volatility and remain focused on long-term strategy. DISCLAIMER: The views and information shared on this show are for educational and informational purposes only. They do not constitute personalised financial, investment, tax, or legal advice. Listeners should seek guidance from a licensed financial professional who can provide advice based on their individual situation. Discover more from Joel at Radical Investment For finance news that counts, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "VICTOR BILLOT",
-        "url": "https://www.youtube.com/watch?v=qATZWesrsoo",
-        "date_utc": "2026-09-30T13:03:58+00:00",
-        "summary": "Maree Buscke talks with Victor Billot, president of the Alliance Party, back on the ballot after re-registering in 2024, about the party's pitch to the working class ahead of the 2026 election. He outlines plans to tax wealth rather than income, a KiwiWorks jobs programme aimed at restoring full employment and public ownership of the electricity system. For more on the Alliance Party or find them on Facebook , Instagram and YouTube For election news that matters, get RCR Bites FREE every weekday"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Mary Blair On The Latest Happenings In The Wine Industry In NZ",
+        "url": "https://www.youtube.com/watch?v=awoJ9hC72q0",
+        "date_utc": "2026-10-02T02:15:57+00:00",
+        "summary": "Wine Expert, Mary Blair on the latest happenings in the wine industry in NZ."
+      },
+      {
+        "title": "International Airfares Increase & More Support For Regional Air",
+        "url": "https://www.youtube.com/watch?v=hPGSYJm6kaw",
+        "date_utc": "2026-10-02T01:21:23+00:00",
+        "summary": "Irene King, Aviation commentator - International airfares increase and more support for regional air back home."
+      },
+      {
+        "title": "Centrist Uncovers New Method Of Internet Safety For Kids",
+        "url": "https://www.youtube.com/watch?v=m-MJYQ12tg8",
+        "date_utc": "2026-10-02T00:30:02+00:00",
+        "summary": "Centrist uncovers new method of internet safety for kids."
+      },
+      {
+        "title": "Grillings Of The Week For The Friday Fry Up",
+        "url": "https://www.youtube.com/watch?v=78VrOnl5Oas",
+        "date_utc": "2026-10-01T23:52:10+00:00",
+        "summary": "Grillings of the week for the Friday Fry Up. Brought to you by Beard Brothers, crafted with care the old school way."
+      },
+      {
+        "title": "Free Speech Fridays #176 – Te Kira Lawrence & Alistair Boyce",
+        "url": "https://www.youtube.com/watch?v=FFxtEZCh0To",
+        "date_utc": "2026-10-01T23:39:33+00:00",
+        "summary": "Free Speech Fridays with Te Kira Lawrence & Alistair Boyce is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss Harry Mowbray’s Split Your Vote campaign, Marty Grenfell’s resignation, Opportunity Party’s Bottom Lines, and more."
+      },
+      {
+        "title": "Dutch Complaint That NZ Has Broken Climate Change Agreements",
+        "url": "https://www.youtube.com/watch?v=3Mlez5EeSIc",
+        "date_utc": "2026-10-01T23:06:11+00:00",
+        "summary": "Todd McClay on Dutch complaint that NZ has broken climate change agreements."
+      },
+      {
+        "title": "The Complicated Legalities Behind 3rd Party Election Campaigning",
+        "url": "https://www.youtube.com/watch?v=upO6g1Gy68A",
+        "date_utc": "2026-10-01T22:49:32+00:00",
+        "summary": "Graeme Edgeler on the complicated legalities behind 3rd party election campaigning."
+      },
+      {
+        "title": "Peter Williams On Phil Gifford, Split Voting & Dog Dosing",
+        "url": "https://www.youtube.com/watch?v=wsL_kFamVNY",
+        "date_utc": "2026-10-01T22:18:44+00:00",
+        "summary": "Peter Williams on Phil Gifford, split voting and dog dosing."
+      },
       {
         "title": "Touchscreens In Cars Are Distracting Drivers More Than Ever",
         "url": "https://www.youtube.com/watch?v=XktKWYo_J4k",
@@ -260,54 +308,6 @@
         "url": "https://www.youtube.com/watch?v=ugbkGtCAJoU",
         "date_utc": "2026-09-30T21:40:29+00:00",
         "summary": "David Seymour ums and ahs over vote splitting."
-      },
-      {
-        "title": "Peter Schwerdtfeger - Massey University Crack Down On His Free Speech",
-        "url": "https://www.youtube.com/watch?v=I4gGteL8ATY",
-        "date_utc": "2026-09-30T21:35:46+00:00",
-        "summary": "Professor Peter Schwerdtfeger talks about Massey University’s crack down on his free speech."
-      },
-      {
-        "title": "Why Is Shrinkflation Such A Thing These Days?",
-        "url": "https://www.youtube.com/watch?v=ul4tDgTvLWU",
-        "date_utc": "2026-09-30T03:54:29+00:00",
-        "summary": "Bodo Lang, Massey University Marketing Professor on why shrinkflation is such a thing these days."
-      },
-      {
-        "title": "Woolworths Closing Their NZ Customer Care Centre Is Unfair",
-        "url": "https://www.youtube.com/watch?v=Hyv5gfvqTmE",
-        "date_utc": "2026-09-30T02:49:41+00:00",
-        "summary": "Rudd Hughes, Workers First Union Deputy Secretary: Woolworths closing their NZ Customer Care Centre is unfair on the workers and customers."
-      },
-      {
-        "title": "Nicholas Wright: An Outsider's View Of The NZ Election Campaigns",
-        "url": "https://www.youtube.com/watch?v=qp58bV50HtM",
-        "date_utc": "2026-09-30T02:37:57+00:00",
-        "summary": "Nicholas Wright, CEO of Sentio Group & Political Strategist: An outsider's view of the NZ election campaigns."
-      },
-      {
-        "title": "Election 2026: Left, Right or Wrong? Financial Planning That Survives the Beehive",
-        "url": "https://www.youtube.com/watch?v=pJE3PFL254M",
-        "date_utc": "2026-09-30T00:07:13+00:00",
-        "summary": "Your Money Matters with Harness Financial Episode 58 - Election 2026: Left, Right or Wrong? Financial Planning That Survives the Beehive Make smart decisions for your financial future with Samuel Rees-Thomas and Dieter Timmerman from Harness Financial. Find out more at - www.harnessfinancial.co.nz"
-      },
-      {
-        "title": "It Seems Nicky Hager Has No Proof For His Smears Against Jordan Williams",
-        "url": "https://www.youtube.com/watch?v=dNso0DfMbv8",
-        "date_utc": "2026-09-29T23:47:02+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Terry Locke On New Curriculum Forum Trying To Shape NZ Schools",
-        "url": "https://www.youtube.com/watch?v=2D1r2km2LaE",
-        "date_utc": "2026-09-29T22:45:38+00:00",
-        "summary": "Terry Locke on New Curriculum Forum trying to shape NZ schools."
-      },
-      {
-        "title": "Sam Uffindell On Marty Grenfell Resignation From Tauranga City Council",
-        "url": "https://www.youtube.com/watch?v=vqQV48NSjgs",
-        "date_utc": "2026-09-29T22:31:43+00:00",
-        "summary": "Sam Uffindell on Marty Grenfell resignation from Tauranga City Council."
       }
     ],
     "opinions": [
