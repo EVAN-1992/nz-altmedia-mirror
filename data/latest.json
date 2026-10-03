@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-10-02T16:35:12Z",
+  "generated_utc": "2026-10-03T15:07:12Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "I Was Forced Out of an NHS Training Course for My Belief in Colour-Blind Meritocracy. It’s Time for the Courts to Intervene",
+        "url": "https://realitycheck.radio/i-was-forced-out-of-an-nhs-training-course-for-my-belief-in-colour-blind-meritocracy-its-time-for-the-courts-to-intervene/",
+        "date_utc": "2026-10-03T08:41:02Z",
+        "summary": "by Amy Gallagher In 2020, I enrolled at the Tavistock […]"
+      },
       {
         "title": "From Opportunity to Opportunistic",
         "url": "https://realitycheck.radio/from-opportunity-to-opportunistic/",
@@ -88,12 +94,6 @@
         "summary": "by Guy Hatchard Preventive lifestyle choices can avert the growing […]"
       },
       {
-        "title": "Parliamentary Licence With a Halo",
-        "url": "https://realitycheck.radio/parliamentary-licence-with-a-halo/",
-        "date_utc": "2026-09-27T03:45:10Z",
-        "summary": "by Rodney Hide Debbie Ngarewa-Packer used the c-word in the […]"
-      },
-      {
         "title": "PETER WILLIAMS ON POLITICS: The Political Giants are Looking Increasingly Ordinary",
         "url": "https://realitycheck.radio/episodes/peter-williams-on-politics-the-political-giants-are-looking-increasingly-ordinary/",
         "date_utc": "2026-10-02T04:02:43Z",
@@ -125,6 +125,36 @@
       }
     ],
     "youtube": [
+      {
+        "title": "🌐 https://RCR.Media | \"Not being so guarded that you're not going to let someone in.\" - Daniel Burg",
+        "url": "https://www.youtube.com/shorts/TOzjcfgVaLw",
+        "date_utc": "2026-10-03T06:00:57+00:00",
+        "summary": "🌐 https://RCR.Media | \"Not being so guarded that you're not going to let someone in.\" - Daniel Burgess, Men’s Mentor & Coach Burgess tells Natalie Cutler-Welsh healing isn't about building stronger walls, but learning how to stay open without abandoning yourself. Have some people become so focused on protecting their peace that they've made genuine intimacy almost impossible? 🎥 Watch here: https://rcr.media/episodes/daniel-burgess-mens-mentor-coach-bridging-the-emotional-gap-between-men-and-women #RCRMedia"
+      },
+      {
+        "title": "“It’s going to take more than 3 years to rebuild our country.” - Billy Brown, NZ First",
+        "url": "https://www.youtube.com/shorts/NQ9EHoow3Tk",
+        "date_utc": "2026-10-03T05:15:22+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 “It’s going to take more than 3 years to rebuild our country.” - Billy Brown, New Zealand First Maree Buscke talks to Billy Brown about the response he’s getting on the campaign trail, and what he believes is needed to rebuild New Zealand. 💥 Full interview coming soon on RCR 💥 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "Any political party can steal our policy. Take it, run with it, go for it",
+        "url": "https://www.youtube.com/shorts/uOK42RMWv9A",
+        "date_utc": "2026-10-03T05:01:04+00:00",
+        "summary": "🌐 https://RCR.Media | \"Any political party can steal our policy. Take it, run with it, go for it.\" - Brendan Hoare, Organics Aotearoa NZ Hoare says he doesn't care who gets the credit if good organic policy is adopted. Should more advocacy groups take the same approach - judge success by what gets implemented, not whose name is on it? 🎥 Watch here: https://rcr.media/episodes/brendan-hoare-organics-aotearoa-nz-which-parties-care-about-supporting-organics #RCRMedia"
+      },
+      {
+        "title": "There are actually a whole bunch of lifestyle things that we could look at first and investigate...",
+        "url": "https://www.youtube.com/shorts/FiJhwV4JS0w",
+        "date_utc": "2026-10-02T23:01:39+00:00",
+        "summary": "🌐 https://RCR.Media | \"There are actually a whole bunch of lifestyle things that we could look at first and investigate if they might be contributing to it.\" - Julia Rucklidge, Clinical Psychologist Rucklidge says attention problems should prompt a wider conversation about sleep, screens, diet and exercise before jumping straight to medication. Should lifestyle factors be investigated routinely when someone seeks an ADHD diagnosis? 🎥 Watch here: https://rcr.media/episodes/julia-rucklidge-clinical-psychologist-leading-researchers-take-on-nz-firsts-health-policy #RCRMedia"
+      },
+      {
+        "title": "If a woman identifies as a man, is she going to be able to have speaking rights?",
+        "url": "https://www.youtube.com/shorts/auPh9iY3nZE",
+        "date_utc": "2026-10-02T19:02:07+00:00",
+        "summary": "🌐 https://RCR.Media | \"If a woman identifies as a man, is she going to be able to have speaking rights?\" - Ro Edge Edge raises a question few politicians appear willing to touch: how would proposed gender identity protections actually work alongside sex-based tikanga on marae? Has anyone thought through the practical consequences? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-ro-edge-jackson-fowler-dirty-work-and-the-battle-for-the-political-narrative #RCRMedia #APoliticalAgenda"
+      },
       {
         "title": "NATHAN SURENDRAN",
         "url": "https://www.youtube.com/watch?v=pXoa-EThkYs",
@@ -184,36 +214,6 @@
         "url": "https://www.youtube.com/shorts/9v65IioSTqU",
         "date_utc": "2026-10-01T18:04:48+00:00",
         "summary": "🌐 https://RCR.Media | \"This is a smorgasbord of changing the way we think about protecting health for the whole of New Zealand.\" - Jodie Bruning, Lead Researcher at PSGR @PSGRNZ Bruning says the goal is bigger than one party or one policy - it's a wholesale rethink of prevention, food and metabolic health. Is New Zealand ready to shift from treating sickness to protecting health? 🎥 Watch here: https://rcr.media/episodes/jodie-bruning-lead-researcher-at-psgr-nz-firsts-health-policy-shake-up #RCRMedia"
-      },
-      {
-        "title": "WEDNESDAY WEBINARS",
-        "url": "https://www.youtube.com/watch?v=fRR2SRbYArE",
-        "date_utc": "2026-10-01T13:03:38+00:00",
-        "summary": "Maree Buscke hosts Kathryn Ennis-Carter and Jaspreet Boparai for a Council Watch webinar on legislation passed just before the general election, including the Local Government Systems Improvement Bill's repeal of the wellbeing clauses and its restrictions on councillor access to information. They trace the decades-long shift from Borough Council-style direct democracy to a corporate governance model, question the timing and motives behind amalgamation, and encourage listeners to consider standing for council seats as MPs move on. For election news that matters, get RCR Bites FREE every weekday. For links shared in the webinar: Don Brash & Matt Robson | Shooting the Political Breeze Greenwashed | Why Council Amalgamation Won’t Fix Local Government Rob Scott | Southland’s Stand Against Central Control Jason Herrick | A Stronger Voice for Southland Both Barrels | The Election Gets Weird… And It’s Only Just Begun Sue Grey | Direct Democracy: Putting Power Back in the Hands of the People Ants Haines | Rotorua Business Owner Still Fighting Covid Fines"
-      },
-      {
-        "title": "MEDIA MATTERS",
-        "url": "https://www.youtube.com/watch?v=MVp4ZmDdZe0",
-        "date_utc": "2026-10-01T13:03:12+00:00",
-        "summary": "Maree Buscke and Marty Gibson dissect a turbulent week of election theatre, from the two major parties' campaign launches to a poll putting the Greens at 16%. They debate what a Green-boosted left bloc might look like, growing unrest within National's ranks, the psychology behind activism and why strategic voting matters before registrations close, alongside listener feedback on vaccine injury and political burnout. For more information: Wednesday Webinars | Council Watch: Election Impact on Local Councils Ani O'Brien Substack | Should the centre right split their vote RCR's Special Focus | Election 2026 Coverage For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "RIDING SHOTGUN",
-        "url": "https://www.youtube.com/watch?v=hRuZevBK48M",
-        "date_utc": "2026-10-01T13:02:24+00:00",
-        "summary": "Rachel Stewart examines the increasingly unclear circumstances surrounding the alleged terrorist incident at RAF Fairford in the UK, questioning the official account and the handling of the investigation. She also highlights a fiery TalkTV interview with presenter Alex Phillips, who challenges the UK’s defence and national security response. Discover more from Rachel on Substack and X"
-      },
-      {
-        "title": "CHANTELLE BAKER",
-        "url": "https://www.youtube.com/watch?v=OfZ1v-il7aA",
-        "date_utc": "2026-10-01T13:02:23+00:00",
-        "summary": "Independent journalist Chantelle Baker joins Paul Brennan to discuss strategic voting under MMP, explaining how splitting electorate and party votes can affect the balance of Parliament. They examine polling, electorate contests and overhangs. They also discuss Baker’s ongoing defamation case against Stuff over Fire and Fury , including the discovery process and jury trial. Discover more from Chantelle on X , Facebook and Instagram For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "We've driven a stake in the ground, and we're more than happy to fight for it",
-        "url": "https://www.youtube.com/shorts/OMsuyWl6GBA",
-        "date_utc": "2026-10-01T07:01:00+00:00",
-        "summary": "🇦🇺 🌐 https://RCR.Media | \"We've driven a stake in the ground, and we're more than happy to fight for it.\" - Ben Duxson, Sixth Generation Sheep Farmer @FarmersFightback 🇦🇺 Duxson tells Michael Arbon resistance to VNI West is hardening, not fading, as more farmers join the fight. Are governments underestimating how far rural communities are prepared to go to defend their land? 🎥 Watch here: https://rcr.media/episodes/ben-duxson-sixth-generation-sheep-farmer-farmers-keep-gates-closed-against-transmission-line #RCRMedia"
       }
     ]
   },
