@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-10-03T15:07:12Z",
+  "generated_utc": "2026-10-04T15:43:54Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "NZ Shows How Not To Run A Census",
+        "url": "https://realitycheck.radio/nz-shows-how-not-to-run-a-census/",
+        "date_utc": "2026-10-04T08:44:05Z",
+        "summary": "by Oliver Hartwich Two thousand years ago, according to St […]"
+      },
       {
         "title": "I Was Forced Out of an NHS Training Course for My Belief in Colour-Blind Meritocracy. It’s Time for the Courts to Intervene",
         "url": "https://realitycheck.radio/i-was-forced-out-of-an-nhs-training-course-for-my-belief-in-colour-blind-meritocracy-its-time-for-the-courts-to-intervene/",
@@ -88,10 +94,10 @@
         "summary": "by Don Brash Just when you think the Waitangi Tribunal […]"
       },
       {
-        "title": "The Health Crisis: Policy changes and increased funding are not enough",
-        "url": "https://realitycheck.radio/the-health-crisis-policy-changes-and-increased-funding-are-not-enough/",
-        "date_utc": "2026-09-27T21:04:54Z",
-        "summary": "by Guy Hatchard Preventive lifestyle choices can avert the growing […]"
+        "title": "UNDER THE HOOD: With Graham “Hoody” Hood: Are We Letting Anger Consume Us?",
+        "url": "https://realitycheck.radio/episodes/under-the-hood-with-graham-hoody-hood-are-we-letting-anger-consume-us/",
+        "date_utc": "2026-10-03T20:43:40Z",
+        "summary": ""
       },
       {
         "title": "PETER WILLIAMS ON POLITICS: The Political Giants are Looking Increasingly Ordinary",
@@ -116,15 +122,57 @@
         "url": "https://realitycheck.radio/episodes/the-fourth-estate-maree-buscke-with-peter-williams-david-harvey-mmp-the-strategic-vote/",
         "date_utc": "2026-10-02T03:01:15Z",
         "summary": ""
-      },
-      {
-        "title": "NATHAN SURENDRAN: Engineer & Wise Response Society Chair: Sleepwalking Into a Fuel Crisis",
-        "url": "https://realitycheck.radio/episodes/nathan-surendran-engineer-wise-response-society-chair-sleepwalking-into-a-fuel-crisis/",
-        "date_utc": "2026-10-01T23:31:11Z",
-        "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "UNDER THE HOOD",
+        "url": "https://www.youtube.com/watch?v=W9h2_65KR_Q",
+        "date_utc": "2026-10-04T13:01:09+00:00",
+        "summary": "Graham Hood reflects on anger, resentment and conflict — and the cost of allowing them to consume us. From an angry co-pilot to today’s social media battles, Hoody asks what we can change, what we can’t, and whether we’ve forgotten how to have a conversation. Hoody and wife Michelle have just embarked on their month-long “ Hoody-on-a-Roady ” tour of New Zealand. Check out his tour schedule , and join in the conversation. Catch up on Hoody's earlier episode Fathers and the Cycle of Manhood Discover more from Hoody at Club Grubbery or find him on Facebook and X For stories you wont find on the 6pm news, get RCR Bites FREE every week day."
+      },
+      {
+        "title": "Our advocacy is going to have to pivot, depending on what comes to Parliament",
+        "url": "https://www.youtube.com/shorts/9f6fx3vPje8",
+        "date_utc": "2026-10-04T05:30:34+00:00",
+        "summary": "🌐 https://RCR.Media | \"Our advocacy is going to have to pivot, depending on what comes to Parliament.\" - Jill Ovens, Women’s Rights Party Co-Leader Ovens says her party's priorities would change depending on whether the left or right forms government, from sex-based rights to health, housing and carers. Should smaller parties be judged by how well they hold both sides accountable? 🎥 Watch here: https://rcr.media/episodes/jill-ovens-womens-rights-party-co-leader-seeking-visibility-for-sex-based-rights-at-the-ballot-box #RCRMedia"
+      },
+      {
+        "title": "I think the way that Parliament has been run this term and the last term has been an absolute...",
+        "url": "https://www.youtube.com/shorts/WmSXlXgIYdY",
+        "date_utc": "2026-10-04T05:01:04+00:00",
+        "summary": "🌐 https://RCR.Media | \"I think the way that Parliament has been run this term and the last term has been an absolute disgrace.\" - Jackson Fowler Fowler says standards inside Parliament have slipped badly, from behaviour in the chamber to how MPs present themselves. Should the country's highest political institution demand a higher standard from the people elected to sit in it? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-ro-edge-jackson-fowler-dirty-work-and-the-battle-for-the-political-narrative #RCRMedia #APoliticalAgenda"
+      },
+      {
+        "title": "They're not a passive participant; they're an active participant in their health and their life...",
+        "url": "https://www.youtube.com/shorts/MDyAKyORbLE",
+        "date_utc": "2026-10-03T23:01:25+00:00",
+        "summary": "🌐 https://RCR.Media | \"They're not a passive participant; they're an active participant in their health and their life circumstances.\" - Drs Sarah and Randall Farrant, Co-Founders of Vital Wellbeing The Farrants argue that looking at sleep, nutrition, stress and lifestyle can shift people from simply reacting to illness toward asking what they can change. Are we encouraged enough to examine the conditions surrounding our health? 🎥 Watch here: https://rcr.media/episodes/drs-sarah-and-randall-farrant-co-founders-of-vital-wellbeing-the-anatomy-of-a-cold-what-your-body-is-really-doing #RCRMedia"
+      },
+      {
+        "title": "PROMO “For him, success means going overseas.” - Taine Randell - NZ First Candidate for Tukituki",
+        "url": "https://www.youtube.com/shorts/q4aXi2YFt6Q",
+        "date_utc": "2026-10-03T19:15:25+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 “For him, success means going overseas.” - Taine Randell, NZ First Candidate for Tukituki Maree Buscke talks to Taine Randell about his son’s future, the challenges facing young New Zealanders and why he’s entering politics. 💥 Full interview coming soon on RCR 💥 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "It was for staying open during the lockdowns to cut people's hair",
+        "url": "https://www.youtube.com/shorts/UsZbiVQb4zI",
+        "date_utc": "2026-10-03T19:01:32+00:00",
+        "summary": "🌐 https://RCR.Media | \"It was for staying open during the lockdowns to cut people's hair.\" - Ants Haines, Rotorua Barber No fraud. No violence. No elaborate criminal enterprise. Haines says his $48,000 fight stems from keeping his barber shop open during lockdown. Did enforcement lose all sense of proportion? 🎥 Watch here: https://rcr.media/episodes/ants-haines-rotorua-barber-rotorua-business-owner-still-fighting-covid-fines #RCRMedia"
+      },
+      {
+        "title": "PROMO “Duck shooting is blood sport, right.” - Danette Wereta, Animal Justice Party",
+        "url": "https://www.youtube.com/shorts/iP880K8gy50",
+        "date_utc": "2026-10-03T18:30:36+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 “Duck shooting is blood sport, right.” - Danette Wereta, Animal Justice Party Aotearoa New Zealand Paul Brennan talks to Danette Wereta about duck shooting, tradition and the Animal Justice Party’s opposition to recreational hunting. 💥 Full interview coming soon on RCR 💥 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "How about if nutrition was a core topic in medical school?",
+        "url": "https://www.youtube.com/shorts/_7uweZN-jsw",
+        "date_utc": "2026-10-03T18:01:52+00:00",
+        "summary": "🌐 https://RCR.Media | \"How about if nutrition was a core topic in medical school?\" - Dr Glen Davies, NZ Health Advocate Davies wants future doctors trained in metabolic health, prevention and nutrition, not just drugs and disease. Would that change the way medicine is practised? 🎥 Watch here: https://rcr.media/episodes/dr-glen-davies-nz-health-advocate-health-policy-finally-catching-up #RCRMedia"
+      },
       {
         "title": "🌐 https://RCR.Media | \"Not being so guarded that you're not going to let someone in.\" - Daniel Burg",
         "url": "https://www.youtube.com/shorts/TOzjcfgVaLw",
@@ -166,54 +214,6 @@
         "url": "https://www.youtube.com/watch?v=bNu5aHxzKbE",
         "date_utc": "2026-10-02T13:02:49+00:00",
         "summary": "Maree Buscke is joined by David Harvey and Peter Williams for a wide-ranging look at the election campaign, including strategic voting under MMP, political donations, the Kingmakers debate, youth enrolment and Nicky Hager’s latest book. They also discuss Jason Winstanley’s appointment as RNZ chief executive, the direction of National and Labour and how media coverage is shaping the campaign. For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "YOUNG PATRIOTS",
-        "url": "https://www.youtube.com/watch?v=wUxvgC41WZM",
-        "date_utc": "2026-10-02T13:02:35+00:00",
-        "summary": "Dieuwe de Boer launches Young Patriots with Nathan and Jack, exploring young people’s engagement with politics, Jack’s experiences travelling through Europe, and the debate over strategic voting ahead of New Zealand’s election. They discuss vote splitting, coalition strategy, the job market facing young graduates, housing affordability, mass immigration and the role of special interest groups within political parties. For more information: Check out Vote Coalition Tracker RNZ | Job climate remains bleak for new graduate Find Nathan Smith on Substack Find Jack Ryan on YouTube , Instagram , X , TikTok , Rumble For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "PETER WILLIAMS ON POLITICS",
-        "url": "https://www.youtube.com/watch?v=z7IZ_0g_-j4",
-        "date_utc": "2026-10-02T13:02:31+00:00",
-        "summary": "Peter Williams surveys a chaotic week in the election campaign, from the awkwardly timed launches of Labour and National, to both parties landing on 28% in the latest poll while the Greens surge to 16%. For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "DON BRASH & MATT ROBSON",
-        "url": "https://www.youtube.com/watch?v=Y5eGzDyf_aU",
-        "date_utc": "2026-10-02T13:02:25+00:00",
-        "summary": "Paul Brennan is joined by Matthew Robson and Don Brash to shoot the political breeze, in a wide-ranging discussion covering strategic voting, the future of New Zealand Super, the Waitangi Tribunal and Treaty settlements. Sharp differences emerge between Robson and Brash on the Tribunal and retirement policy, while both challenge aspects of current defence spending and debate the reliability of polling. For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "We had people saying things like: 'Oh, you know, we support sustainable agriculture'...",
-        "url": "https://www.youtube.com/shorts/-8LghOtDT80",
-        "date_utc": "2026-10-02T06:01:05+00:00",
-        "summary": "🌐 https://RCR.Media | \"We had people saying things like: 'Oh, you know, we support sustainable agriculture.' Well, that's a very big stretch on a rubber band.\" - Brendan Hoare, Organics Aotearoa NZ Hoare says vague language can cover almost anything, which is why Organics Aotearoa pushed parties for clear commitments. When politicians say they support \"sustainability\", should voters be asking exactly what that means? 🎥 Watch here: https://rcr.media/episodes/brendan-hoare-organics-aotearoa-nz-which-parties-care-about-supporting-organics #RCRMedia"
-      },
-      {
-        "title": "“I’m worried about the prospects of my children.” - Taine Randell, NZ First Candidate PROMO",
-        "url": "https://www.youtube.com/shorts/ysO01rw-QJw",
-        "date_utc": "2026-10-02T05:30:25+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 From All Black To Political Candidate “I’m worried about the prospects of my children.” - Taine Randell Maree Buscke talks to former All Black Taine Randell about why he decided to throw his hat in the ring for New Zealand First. 💥 Full interview coming soon on RCR💥 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
-      },
-      {
-        "title": "Wouldn't it be considered a good thing that you have consulted experts in the field before...",
-        "url": "https://www.youtube.com/shorts/jq20qBHaPPg",
-        "date_utc": "2026-10-02T05:01:28+00:00",
-        "summary": "🌐 https://RCR.Media | \"Wouldn't it be considered a good thing that you have consulted experts in the field before coming up with a transformative policy.\" - Dr Glen Davies, NZ Health Advocate Davies says consulting health experts should be seen as responsible policymaking, not something suspicious. Has political debate reached the point where expert input itself is treated as a scandal? 🎥 Watch here: https://rcr.media/episodes/dr-glen-davies-nz-health-advocate-health-policy-finally-catching-up #RCRMedia"
-      },
-      {
-        "title": "The fact that this is finally being put forward by a political party gives me hope",
-        "url": "https://www.youtube.com/shorts/iVX8aHGQLEM",
-        "date_utc": "2026-10-01T18:31:22+00:00",
-        "summary": "🌐 https://RCR.Media | \"The fact that this is finally being put forward by a political party gives me hope.\" - Julia Rucklidge, Clinical Psychologist Rucklidge says putting prevention into a major health policy could finally bring the funding, regulation and political leverage needed to shift the system. Could this mark a genuine move from treating illness to preventing it? 🎥 Watch here: https://rcr.media/episodes/julia-rucklidge-clinical-psychologist-leading-researchers-take-on-nz-firsts-health-policy #RCRMedia"
-      },
-      {
-        "title": "This is a smorgasbord of changing the way we think about protecting health for the whole of...",
-        "url": "https://www.youtube.com/shorts/9v65IioSTqU",
-        "date_utc": "2026-10-01T18:04:48+00:00",
-        "summary": "🌐 https://RCR.Media | \"This is a smorgasbord of changing the way we think about protecting health for the whole of New Zealand.\" - Jodie Bruning, Lead Researcher at PSGR @PSGRNZ Bruning says the goal is bigger than one party or one policy - it's a wholesale rethink of prevention, food and metabolic health. Is New Zealand ready to shift from treating sickness to protecting health? 🎥 Watch here: https://rcr.media/episodes/jodie-bruning-lead-researcher-at-psgr-nz-firsts-health-policy-shake-up #RCRMedia"
       }
     ]
   },
