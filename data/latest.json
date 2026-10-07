@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-06T17:08:11Z",
+  "generated_utc": "2026-10-07T17:45:28Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -94,37 +94,109 @@
         "summary": "by John Grant One of the most pressing problems facing […]"
       },
       {
-        "title": "DON BRASH & MATT ROBSON: Superannuation at 65: Can Society Afford to Leave Worn-Out Workers Behind?",
-        "url": "https://realitycheck.radio/episodes/don-brash-matt-robson-superannuation-at-65-can-society-afford-to-leave-worn-out-workers-behind/",
-        "date_utc": "2026-10-06T02:46:31Z",
+        "title": "MONEY TALKS: With Louis Boulanger: Fiat Money Loses Its Grip",
+        "url": "https://realitycheck.radio/episodes/money-talks-with-louis-boulanger-fiat-money-loses-its-grip/",
+        "date_utc": "2026-10-07T02:27:02Z",
         "summary": ""
       },
       {
-        "title": "NATHAN SURENDRAN: Fuel Price Surge: Is Refining Capacity the Real Culprit?",
-        "url": "https://realitycheck.radio/episodes/nathan-surendran-fuel-price-surge-is-refining-capacity-the-real-culprit/",
-        "date_utc": "2026-10-06T02:46:15Z",
+        "title": "FREDDIE PONTON: Associate Editor 21st Century Wire: Students Riot Against Austerity in France",
+        "url": "https://realitycheck.radio/episodes/freddie-ponton-associate-editor-21st-century-wire-students-riot-against-austerity-in-france/",
+        "date_utc": "2026-10-06T23:57:07Z",
         "summary": ""
       },
       {
-        "title": "THE FOURTH ESTATE: Three Waters Debate: Defending NZ Farmer Advocacy Against Racism Claims",
-        "url": "https://realitycheck.radio/episodes/the-fourth-estate-three-waters-debate-defending-nz-farmer-advocacy-against-racism-claims/",
-        "date_utc": "2026-10-06T02:45:53Z",
+        "title": "CALLUM SHERIDAN: ACT Party Candidate For Waitakere: Building a Stronger New Zealand",
+        "url": "https://realitycheck.radio/episodes/callum-sheridan-act-party-candidate-for-waitakere-building-a-stronger-new-zealand/",
+        "date_utc": "2026-10-06T23:50:13Z",
         "summary": ""
       },
       {
-        "title": "MEDIA MATTERS: NZ National Party: Time to Clean House and Ditch the Cool Kids?",
-        "url": "https://realitycheck.radio/episodes/media-matters-nz-national-party-time-to-clean-house-and-ditch-the-cool-kids/",
-        "date_utc": "2026-10-06T02:45:08Z",
+        "title": "KELVYN ALP: NZ Loyal Leader: Rewriting the Rules of the Financial System",
+        "url": "https://realitycheck.radio/episodes/kelvyn-alp-nz-loyal-leader-rewriting-the-rules-of-the-financial-system/",
+        "date_utc": "2026-10-06T21:40:41Z",
         "summary": ""
       },
       {
-        "title": "NATHAN SURENDRAN: Tradeable Energy Quotas: The Election Issue NZ Keeps Ignoring",
-        "url": "https://realitycheck.radio/episodes/nathan-surendran-tradeable-energy-quotas-the-election-issue-nz-keeps-ignoring/",
-        "date_utc": "2026-10-06T02:44:08Z",
+        "title": "HELEN HOUGHTON: Conservative Party Leader: Conservatives Path Back to Parliament",
+        "url": "https://realitycheck.radio/episodes/helen-houghton-conservative-party-leader-conservatives-path-back-to-parliament/",
+        "date_utc": "2026-10-06T20:24:48Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "MONEY TALKS",
+        "url": "https://www.youtube.com/watch?v=88yMeQPyKoI",
+        "date_utc": "2026-10-07T13:04:22+00:00",
+        "summary": "Paul Brennan speaks with Louis Boulanger of LB Now about a looming sovereign debt crisis across the G7 and the prospect of financial repression as governments struggle with rising debt-servicing costs. They explore Judy Shelton’s proposal for long-term US Treasury bonds redeemable in gold, the growing role of gold in global reserves, China’s monetary ambitions and whether the world is heading towards a major monetary reset. DISCLAIMER: The views and information shared on this show are for educational and informational purposes only. They do not constitute personalised financial, investment, tax, or legal advice. Listeners should seek guidance from a licensed financial professional who can provide advice based on their individual situation. Discover more from Louis Boulanger For financial news that counts, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "FREDDIE PONTON",
+        "url": "https://www.youtube.com/watch?v=kgt4AckCNJ0",
+        "date_utc": "2026-10-07T13:02:26+00:00",
+        "summary": "Paul Brennan is joined by Freddie Ponton about escalating student protests in France, deteriorating public services and growing anger over government austerity. They also examine the FlyDubai incident and the wider risk of a US-Israel conflict with Iran, as military forces gather in the region and Saudi Arabia, Turkey and Pakistan strengthen their defence cooperation. Discover more from 21st Century Wire or find them on X Follow Freddie on X For global news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "KELVYN ALP",
+        "url": "https://www.youtube.com/watch?v=fc7YufJcMvw",
+        "date_utc": "2026-10-07T13:02:19+00:00",
+        "summary": "Maree Buscke speaks with Kelvyn Alp, leader of NZ Loyal and its candidate for Māngere, about the party’s monetary reform agenda, including its proposed 1% transaction tax and changes to the Reserve Bank. Kelvyn outlines his wider plans for government, health, regulation and political accountability, while discussing NZ Loyal’s election strategy, grassroots organising and ambitions beyond the 2026 election. Discover more on NZ Loyal or find them on Facebook , YouTube , Telegram and X For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "CALLUM SHERIDAN",
+        "url": "https://www.youtube.com/watch?v=Kvv6gAj63LE",
+        "date_utc": "2026-10-07T13:01:40+00:00",
+        "summary": "Simon O’Connor speaks with Callum Sheridan, ACT candidate for Waitākiri, about his background in construction, small business and hunting and why he chose ACT. Callum discusses the cost of living, conservation and access to public land, supermarket competition, economic growth and the importance of personal responsibility before making his pitch for strategic voting in the election. Discover more from Callum Sheridan or find him on Facebook For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "HELEN HOUGHTON",
+        "url": "https://www.youtube.com/watch?v=_lexH7kYJ3M",
+        "date_utc": "2026-10-07T13:01:35+00:00",
+        "summary": "Maree Buscke interviews Helen Houghton, leader of the Conservative Party, about her return to Christchurch East for the 2026 election, the party’s campaign priorities and its role outside Parliament. They discuss advocacy, freedom of speech, family issues, immigration and the challenges facing smaller parties seeking representation under MMP. Helen also reflects on the party’s continued campaigning beyond election cycles. For more on the Conservative Party or find them on Facebook and X For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "Vote Smart 2026: The 'Overhang' & Strategic Voting Explained",
+        "url": "https://www.youtube.com/watch?v=yZ8Mq8QbLg0",
+        "date_utc": "2026-10-07T08:24:25+00:00",
+        "summary": "OVERHANGS. STRATEGIC VOTING. TWO VOTES. ONE LOLLY SCRAMBLE. 🍬 www.VoteSmart2026.co.nz Heard strategic voting mentioned approximately 4,000 times lately but still not entirely sure how it works? Wondering what an overhang is, why Parliament can suddenly sprout extra MPs, or how using your two votes differently could change the final numbers? Excellent. We bought lollies. In just a few minutes, we explain the whole thing using jellybeans, M&Ms, gummy teeth, Froot Loops, blackballs, gummy bears and a suspiciously important collection of chocolate bullets. No political science degree required. Just two votes, some very peculiar maths, and 120 seats that don't necessarily stay 120. Watch The Lolly Scramble, then head to www.VoteSmart2026.co.nz to learn more about how your two votes work. And share this with someone who still thinks an overhang is something requiring Spanx. 😜 Authorised by NZ Media Holdings 2023 Ltd (RCR Media), ContactUs@rcr.media"
+      },
+      {
+        "title": "Something like mass immigration, that's something that people from both communities...",
+        "url": "https://www.youtube.com/shorts/SAIKsFA_ty4",
+        "date_utc": "2026-10-07T06:01:13+00:00",
+        "summary": "🌐 https://RCR.Media | \"Something like mass immigration, that's something that people from both communities have to deal with. It affects both.\" - Jack Ryan Ryan says concerns he heard in Belfast weren't confined to either the Protestant or Catholic community. Are political leaders underestimating how widely immigration concerns now cut across traditional divides? 🎥 Watch here: https://rcr.media/episodes/young-patriots-dieuwe-de-boer-with-nathan-smith-jack-ryan-strategic-voting-and-the-fight-for-a-political-vision #RCRMedia #YoungPatriots"
+      },
+      {
+        "title": "I challenge anyone, if this is kaupapa, show us, tell me a story where this is something...",
+        "url": "https://www.youtube.com/shorts/6HuS8EBweRw",
+        "date_utc": "2026-10-07T05:30:48+00:00",
+        "summary": "🌐 https://RCR.Media | \"I challenge anyone, if this is kaupapa, show us, tell me a story where this is something that's been acceptable over multiple generations into our culture.\" - Billy Brown, NZ First Rotorua Candidate Brown throws down a direct challenge to those presenting modern gender ideology as inherently Māori. If a policy is claimed to be grounded in tikanga, should its supporters be able to show the cultural roots behind it? 🎥 Watch here: https://rcr.media/episodes/billy-brown-nz-first-rotorua-candidate-building-a-more-prosperous-rotorua #RCRMedia"
+      },
+      {
+        "title": "I'm for saying 65. Nonsense to have it raising it at all. I take it back to 60",
+        "url": "https://www.youtube.com/shorts/k-1CocAfqNA",
+        "date_utc": "2026-10-07T05:01:32+00:00",
+        "summary": "🌐 https://RCR.Media | \"I'm for saying 65. Nonsense to have it raising it at all. I take it back to 60.\" - Matt Robson, Auckland Barrister Robson goes further than simply opposing a higher retirement age, arguing New Zealand should move it back to 60. With people living longer but many jobs still wearing people out, where should the retirement line actually sit? 🎥 Watch here: https://rcr.media/episodes/don-brash-matt-robson-former-nz-reserve-bank-governor-auckland-barrister-a-clash-of-political-convictions #RCRMedia"
+      },
+      {
+        "title": "Winston Peters says informed consent is the central issue when looking at Covid vaccination policy.",
+        "url": "https://www.youtube.com/watch?v=7SAfQ1JfZak",
+        "date_utc": "2026-10-07T00:56:51+00:00",
+        "summary": "ELECTION 2026 \"It's when there's no consent, when they weren't advised. That's what was not consent.\" - Winston Peters, Foreign Minister and NZ First Party Leader Peters says informed consent is the central issue when looking back at Covid vaccination policy, particularly for younger people. Did New Zealand get the balance right between public health policy and the right to make an informed medical choice? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-auto-immigration-approvals-australasian-digital-id 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news"
+      },
+      {
+        "title": "I will deny to the death that it was a racist campaign, because it was a racist scheme...",
+        "url": "https://www.youtube.com/shorts/7EHlNLa9Xq4",
+        "date_utc": "2026-10-06T19:01:53+00:00",
+        "summary": "🌐 https://RCR.Media | \"I will deny to the death that it was a racist campaign, because it was a racist scheme in the first place.\" - Peter Williams Williams says Nicky Hager's book reportedly characterises the Three Waters campaign as racist, but he rejects that completely, arguing his opposition was aimed at the structure of the scheme itself. Was criticism of Three Waters too easily labelled racist instead of being debated on its merits? 🎥 Watch here: https://rcr.media/episodes/the-fourth-estate-maree-buscke-with-peter-williams-david-harvey-mmp-the-strategic-vote #RCRMedia #TheFourthEstate"
+      },
+      {
+        "title": "It's very hard to predict when that's going to occur, but you can see the trend, right?",
+        "url": "https://www.youtube.com/shorts/EmQEEKSkstk",
+        "date_utc": "2026-10-06T18:02:37+00:00",
+        "summary": "🌐 https://RCR.Media | \"It's very hard to predict when that's going to occur, but you can see the trend, right?\" - Nathan Surendran, Engineer & Wise Response Society Chair Surendran says nobody can put an exact date on a fuel shortage, but the pressures are increasingly visible. Should governments act on the trend now, or wait until an actual shortage forces their hand? 🎥 Watch here: https://rcr.media/episodes/nathan-surendran-engineer-wise-response-society-chair-sleepwalking-into-a-fuel-crisis #RCRMedia"
+      },
       {
         "title": "TWO BLOKES & A BOT",
         "url": "https://www.youtube.com/watch?v=C5wGNJMhfAY",
@@ -142,172 +214,100 @@
         "url": "https://www.youtube.com/watch?v=SYLF1IOJBUQ",
         "date_utc": "2026-10-06T13:03:30+00:00",
         "summary": "With the election looming, New Zealand Initiative chief economist Eric Crampton joins Paul Brennan to assess an EU complaint over New Zealand’s environmental policies, Labour’s proposed student loan write-offs and National’s plan to break up the major supermarkets. Crampton argues the trade complaint poses little immediate risk, while questioning the economic logic of loan write-offs and warning that supermarket reform should tackle regulatory barriers and property-rights concerns first. For more from Dr Eric Crampton, head to NZ Initiative For election news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "PAUL HOPKINSON",
-        "url": "https://www.youtube.com/watch?v=DHh4lXM7mk8",
-        "date_utc": "2026-10-06T13:01:47+00:00",
-        "summary": "Paul Brennan speaks with Paul Hopkinson, founder and leader of the newly registered Palestine Free from the River to the Sea Party, about the party’s aims and its decision to contest the election. Hopkinson outlines his views on Palestine, New Zealand’s foreign policy, Five Eyes, military alliances and armed resistance, while also discussing his activism, arrests and the party’s broadcasting allocation. He says the party’s primary goal is building a movement rather than winning seats. For more information visit the Palestine Free from the River to the Sea Party For election news that matters, get RCR Bites FREE every weekday."
-      },
-      {
-        "title": "DR DAVID WILSON",
-        "url": "https://www.youtube.com/watch?v=ezW96Mm3xxE",
-        "date_utc": "2026-10-06T13:01:45+00:00",
-        "summary": "Maree Buscke speaks with Dr David Wilson, NZ First List MP for Auckland, about Auckland’s economic challenges, infrastructure and CBD decline, before examining New Zealand First’s small-business policies and plans to reduce tax and borrowing costs. They discuss BNZ ownership, KiwiSaver, digital privacy, AI regulation and data sovereignty, with Wilson outlining his party’s approach to balancing technological opportunity with safeguards for individual autonomy. Discover more from David Wilson or find him on Facebook For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "Winston Peters warns that digital ID systems sold as faster and easier could have wider implications",
-        "url": "https://www.youtube.com/shorts/AxBdClaV_XY",
-        "date_utc": "2026-10-06T09:12:41+00:00",
-        "summary": "\"We're ultra concerned about that, because that's how you know the great freedoms are lost in the end.\" - Winston Peters, Foreign Minister and NZ First Party Leader Peters warns that digital ID systems sold initially as faster and easier could have much wider implications over time. Where should New Zealand draw the line between convenience and personal freedom? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-foreign-minister-auto-immigration-approvals-australasian-digital-id"
-      },
-      {
-        "title": "First implementation, Hormuz second and negotiation third",
-        "url": "https://www.youtube.com/shorts/4kDv7W7dnRA",
-        "date_utc": "2026-10-06T06:01:07+00:00",
-        "summary": "🌐 https://RCR.Media | \"First implementation, Hormuz second and negotiation third.\" - Freddie Ponton, Associate Editor 21st Century Wire Ponton says Iran is demanding a strict sequence before reopening the Strait of Hormuz, while Washington has rejected the terms. Is this sequencing dispute now the biggest obstacle standing between diplomacy and further escalation? 🎥 Watch here: https://rcr.media/episodes/freddie-ponton-associate-editor-21st-century-wire-the-middle-east-moves-closer-to-war #RCRMedia"
-      },
-      {
-        "title": "11% of New Zealand's roading budget comes to the South Island. 11%",
-        "url": "https://www.youtube.com/shorts/jH0EuhL_l5g",
-        "date_utc": "2026-10-06T05:01:14+00:00",
-        "summary": "🌐 https://RCR.Media | \"11% of New Zealand's roading budget comes to the South Island. 11%.\" - Jason Herrick, NZ First Candidate Herrick says the lower South contributes heavily to the economy but gets overlooked because so many electorates are considered safe seats that major parties don't have to fight for. Is the South Island missing out on infrastructure investment because Wellington assumes those votes are already locked in? 🎥 Watch here: https://rcr.media/episodes/jason-herrick-nz-first-candidate-a-stronger-voice-for-southland #RCRMedia"
-      },
-      {
-        "title": "Historically that's only been 20% or 30%. And it's now more like 75%+",
-        "url": "https://www.youtube.com/shorts/dG0mZQ-HVqM",
-        "date_utc": "2026-10-05T23:01:06+00:00",
-        "summary": "🌐 https://RCR.Media | \"Historically that's only been 20% or 30%. And it's now more like 75%+.\" - Nathan Surendran, Engineer & Wise Response Society Chair Surendran says the gap between crude oil and refined diesel prices has blown out dramatically, reflecting pressure in the refining system. If that gap stays elevated, are expensive flights and higher diesel costs only the beginning? 🎥 Watch here: https://rcr.media/episodes/nathan-surendran-engineer-wise-response-society-chair-sleepwalking-into-a-fuel-crisis #RCRMedia"
-      },
-      {
-        "title": "If it's not part of that Coalition Agreement, it's really hard. It's apparently just pretty much...",
-        "url": "https://www.youtube.com/shorts/V_MF1Tw40NQ",
-        "date_utc": "2026-10-05T19:03:24+00:00",
-        "summary": "🌐 https://RCR.Media | \"If it's not part of that Coalition Agreement, it's really hard. It's apparently just pretty much impossible.\" - Julia Rucklidge, Clinical Psychologist Rucklidge says her experience trying to advance preventative health ideas taught her just how much the Coalition Agreement can determine what actually gets done. Should voters pay more attention to what parties demand in coalition negotiations? 🎥 Watch here: https://rcr.media/episodes/julia-rucklidge-clinical-psychologist-leading-researchers-take-on-nz-firsts-health-policy #RCRMedia"
-      },
-      {
-        "title": "DAVID MAYWALD",
-        "url": "https://www.youtube.com/watch?v=a9MI5yDIqE4",
-        "date_utc": "2026-10-05T13:02:07+00:00",
-        "summary": "Michael Arbon speaks with David Maywald, chair of the International Council for Men and Boys, about the widening gaps facing boys and young men in education, health funding and public empathy. David explains the concept of gynocentrism, pointing to disparities in medical research funding and domestic violence services and argues that resilience, mentorship, and faith are essential to helping young men find purpose and belonging. Discover more from David on LinkedIn For more on the International Council for Men and Boys Check out David's books The Relentless War on Masculinity: Does it Ever End? and 100 of the Best Books for Men: Honouring the Authors, Elders, and Thought Leaders Discover more from Michael on Facebook and X"
-      },
-      {
-        "title": "CYNTHIA HANCOX",
-        "url": "https://www.youtube.com/watch?v=K87gRNJZoSk",
-        "date_utc": "2026-10-05T13:02:00+00:00",
-        "summary": "Simon O'Connor and Cynthia Hancox discuss proposed changes to home education, following recent reviews and concerns raised around homeschooling in New Zealand. They explore balancing child safety with family choice, current review processes and the need for practical consultation between home educators and the Ministry of Education. Discover more from Cynthia Hancox or find her on Facebook Or find out more on the National Council of Home Educators of New Zealand"
-      },
-      {
-        "title": "DANETTE WERETA",
-        "url": "https://www.youtube.com/watch?v=OhLMyh3e9B4",
-        "date_utc": "2026-10-05T13:01:50+00:00",
-        "summary": "Danette Werita, co-leader of New Zealand's Animal Justice Party, got candid about her mission to reshape the country's animal agriculture economy into a plant-based future. She tackled tough questions about economic impact, farmer livelihoods, and even diesel shortages threatening animal welfare — making a compelling case that short-sighted thinking is the real economic danger. Discover more from the Animal Justice Party or find them on Facebook , Instagram and YouTube For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "SAL MERCOGLIANO",
-        "url": "https://www.youtube.com/watch?v=N-oJ3up9rUM",
-        "date_utc": "2026-10-05T13:01:46+00:00",
-        "summary": "Paul Brennan talks with maritime historian Dr Sal Mercogliano about the ongoing disruption to global shipping through the Strait of Hormuz, now seven months into the conflict. Sal explains why refined fuel exports remain far below pre-war levels despite crude flows recovering, breaks down the soaring cost of tanker charters and war risk insurance and discusses the covert use of armed escort ships like the St Helena, before warning that full normalisation could take at least a year and urging New Zealand to reconsider a national shipping line. Discover more from Sal on X and his YouTube channel | What's Going On With Shipping? For news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "TAINE RANDALL",
-        "url": "https://www.youtube.com/watch?v=ZxjLR8PhO1U",
-        "date_utc": "2026-10-05T13:01:46+00:00",
-        "summary": "Maree Buscke talks with Taine Randell, NZ First candidate for the Tukituki electorate about his decision to leave a long business and rugby career for politics. He discusses breaking up energy companies, banks and supermarkets, his frustration over Fonterra selling off iconic dairy brands, the toll high energy costs have taken on Hawke's Bay manufacturing, and why he believes New Zealand needs to rediscover its entrepreneurial edge. Discover more from Taine at NZ First or find him on Facebook For election news that matters, get RCR Bites FREE every weekday"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
       {
+        "title": "What's Pushing Petrol Prices To Record Highs Again?",
+        "url": "https://www.youtube.com/watch?v=HmWVraw-ffY",
+        "date_utc": "2026-10-07T04:51:03+00:00",
+        "summary": "Terry Collins, AA Transport Principal Policy Advisor - What's pushing petrol prices to record highs again?"
+      },
+      {
+        "title": "Dr Paul Smith On Labour Promising Right To Repair For Cars",
+        "url": "https://www.youtube.com/watch?v=2FobYmG0EsE",
+        "date_utc": "2026-10-07T04:45:32+00:00",
+        "summary": "Dr Paul Smith, Right to Repair Aotearoa Coalition on Labour promising right to repair for cars."
+      },
+      {
+        "title": "Janet Wilson Picks Apart The Leaders Debate",
+        "url": "https://www.youtube.com/watch?v=mieyGhLBxmA",
+        "date_utc": "2026-10-07T04:44:54+00:00",
+        "summary": "Janet Wilson picks apart the Leaders Debate."
+      },
+      {
+        "title": "NZ First Leader Reveals The NZ First List",
+        "url": "https://www.youtube.com/watch?v=OkXRluqMd78",
+        "date_utc": "2026-10-07T03:28:39+00:00",
+        "summary": "NZ First leader Winston Peters reveals the NZ First list, and why the new recruits are so prominent."
+      },
+      {
+        "title": "Is The David Tamihere Case Another Epic Police Stuff-Up?",
+        "url": "https://www.youtube.com/watch?v=UueyLHga0Ik",
+        "date_utc": "2026-10-07T03:03:51+00:00",
+        "summary": "Is the David Tamihere Case another epic Police stuff-up?"
+      },
+      {
+        "title": "Watch Out Parliament! Cr Benedict Ong Is On His Way.",
+        "url": "https://www.youtube.com/watch?v=0830EWES5gY",
+        "date_utc": "2026-10-07T02:52:03+00:00",
+        "summary": "Watch out Parliament! Cr Benedict Ong is on his way."
+      },
+      {
+        "title": "Don Brash On Whether Some People Are More Equal Than Others",
+        "url": "https://www.youtube.com/watch?v=bxj_rSNskPM",
+        "date_utc": "2026-10-07T02:45:27+00:00",
+        "summary": "Don Brash on whether some people are more equal than others, and Post editor Matthew Hooten"
+      },
+      {
+        "title": "Bob McCoskrie On Topics Of Debate At Leaders’ First Showdown",
+        "url": "https://www.youtube.com/watch?v=QjnlUmq2HII",
+        "date_utc": "2026-10-07T00:59:31+00:00",
+        "summary": "Bob McCoskrie on topics of debate at Leaders’ first showdown."
+      },
+      {
+        "title": "Simeon Brown On Highlights Of The Leaders Debate",
+        "url": "https://www.youtube.com/watch?v=TfUtOmocNBI",
+        "date_utc": "2026-10-07T00:38:39+00:00",
+        "summary": "Simeon Brown on highlights of the Leaders Debate."
+      },
+      {
+        "title": "Rory Birkbeck From Safe Surfer On Keeping Kids Safe Online",
+        "url": "https://www.youtube.com/watch?v=hgHA1cnZGCc",
+        "date_utc": "2026-10-06T23:56:58+00:00",
+        "summary": "Rory Birkbeck from Safe Surfer on keeping kids safe online."
+      },
+      {
+        "title": "Alon Roth-Snir Looks Back 3 Years On From October 7th Attack",
+        "url": "https://www.youtube.com/watch?v=aR8hCdOJ8cg",
+        "date_utc": "2026-10-06T23:04:32+00:00",
+        "summary": "Israel Ambassador, Alon Roth-Snir Looks Back 3 Years on From October 7th Attack."
+      },
+      {
+        "title": "Sean Plunket’s Analysis Of The First Leaders Debate",
+        "url": "https://www.youtube.com/watch?v=ln74uXNaSmg",
+        "date_utc": "2026-10-06T22:43:31+00:00",
+        "summary": "Sean Plunket’s analysis of the first Leaders Debate."
+      },
+      {
+        "title": "MAGZ’s New Motorcycle Rego-Tracker App & Why It's Being Criticised",
+        "url": "https://www.youtube.com/watch?v=lEdaimmER9U",
+        "date_utc": "2026-10-06T21:04:12+00:00",
+        "summary": "Richard Tohu, Motorcycle Advocacy Group NZ on their new motorcycle rego-tracker app and why it's being criticised."
+      },
+      {
+        "title": "Women’s Rights Party Threatened With Legal Action By… Women.",
+        "url": "https://www.youtube.com/watch?v=SDM1AIUlZLA",
+        "date_utc": "2026-10-06T20:26:52+00:00",
+        "summary": "Jill Ovens, Women's Rights Party Secretary - Women’s Rights Party threatened with legal action by the National Council of Women."
+      },
+      {
         "title": "National's Energy Spokesperson - Re National's Nine-Point Energy plan",
         "url": "https://www.youtube.com/watch?v=rxPr761WA8A",
         "date_utc": "2026-10-06T09:09:54+00:00",
         "summary": "Simeon Brown - National's Energy spokesperson - re National's nine-point energy plan to tackle the costs pushing up power bills"
-      },
-      {
-        "title": "Is NZ’s Foreign Policy Too Moral? An Associate Professor Says Yes",
-        "url": "https://www.youtube.com/watch?v=hGA_xQYZzHg",
-        "date_utc": "2026-10-06T02:51:31+00:00",
-        "summary": "Is NZ’s foreign policy too moral? Associate Professor Nicholas Khoo says yes."
-      },
-      {
-        "title": "Chathams Mayor Greg Horler On What His Island Needs Out Of Wellington",
-        "url": "https://www.youtube.com/watch?v=LHr2uLyuO3U",
-        "date_utc": "2026-10-06T02:20:33+00:00",
-        "summary": "Chathams Mayor Greg Horler on what his island needs out of Wellington"
-      },
-      {
-        "title": "Pollster David Farrar On The Latest Polls & Labour’s Costing Stuff-Ups",
-        "url": "https://www.youtube.com/watch?v=i_oCQ52Qv7U",
-        "date_utc": "2026-10-06T02:09:35+00:00",
-        "summary": "Pollster David Farrar on the latest polls & Labour’s costing stuff-ups"
-      },
-      {
-        "title": "NZ Psychologists Apologise For Being White & Having Settler Ancestors",
-        "url": "https://www.youtube.com/watch?v=IluXLE4rk6o",
-        "date_utc": "2026-10-06T01:59:38+00:00",
-        "summary": "Here’s true madness: NZ’s psychologists apologise for being white, western and having settler ancestors"
-      },
-      {
-        "title": "Platform Callers Quiz Maurice Williamson On Strategic Voting",
-        "url": "https://www.youtube.com/watch?v=DphHPNeACYo",
-        "date_utc": "2026-10-06T00:11:27+00:00",
-        "summary": "Platform callers quiz Maurice Williamson on strategic voting."
-      },
-      {
-        "title": "Maurice Williamson On The Importance Of Strategic Voting This Election",
-        "url": "https://www.youtube.com/watch?v=q6-WgMl2DCw",
-        "date_utc": "2026-10-05T23:50:45+00:00",
-        "summary": "Maurice Williamson on the importance of strategic voting this election."
-      },
-      {
-        "title": "Damien Grant On Election Debates, Strategic Voting & Latest Polls",
-        "url": "https://www.youtube.com/watch?v=aWGHCoNpgCA",
-        "date_utc": "2026-10-05T23:31:44+00:00",
-        "summary": "Damien Grant On Election Debates, Strategic Voting & Latest Polls"
-      },
-      {
-        "title": "Sean Plunket Thinks Political Debates Will Be Useless In The Election",
-        "url": "https://www.youtube.com/watch?v=FAzAmx4Nm1Q",
-        "date_utc": "2026-10-05T23:08:44+00:00",
-        "summary": "Sean Plunket thinks political debates will be useless in the election."
-      },
-      {
-        "title": "Elliot Ikilei On Scathing Article Targeting Him Over Old Tweets",
-        "url": "https://www.youtube.com/watch?v=bqXSzrxHUkE",
-        "date_utc": "2026-10-05T18:57:50+00:00",
-        "summary": "NZ First Candidate, Elliot Ikilei on the scathing article targeting him by dragging up his old tweets."
-      },
-      {
-        "title": "Bloke-Heavy Industries Say Legal Sex Definitions Create Operational Risks",
-        "url": "https://www.youtube.com/watch?v=hyLxNIM5ts4",
-        "date_utc": "2026-10-05T10:10:19+00:00",
-        "summary": "Katrina Biggs, Blogger & Women's Rights Advocate - Bloke-heavy industries claim that defining woman and man in legislation creates operational risks and uncertainty."
-      },
-      {
-        "title": "Laura McClure On Labour’s Law To Stop Businesses 'Tricking' Customers",
-        "url": "https://www.youtube.com/watch?v=WDfLBjs0qZ4",
-        "date_utc": "2026-10-05T09:33:37+00:00",
-        "summary": "Laura McClure, ACT's small business spokesperson on Labour promising law to stop businesses 'tricking' customers with hidden costs."
-      },
-      {
-        "title": "Should We Save The Chateau? Ruapehu Mayor On The Latest Developments",
-        "url": "https://www.youtube.com/watch?v=ZNRtGEQRgpo",
-        "date_utc": "2026-10-05T07:26:26+00:00",
-        "summary": "Should we save the Chateau? Ruapehu mayor Weston Kirton on the latest developments, including iwi demolition plans"
-      },
-      {
-        "title": "Cricket Legend Says ‘Paddles’ Is Right - NZ Cricket Has Gone Woke",
-        "url": "https://www.youtube.com/watch?v=3XrSePm1ZzA",
-        "date_utc": "2026-10-05T03:25:42+00:00",
-        "summary": "Cricket legend John Morrison says ‘Paddles’ is right - NZ Cricket has gone woke"
-      },
-      {
-        "title": "The PREFU, Productivity And Labour’s Fiscal Plan",
-        "url": "https://www.youtube.com/watch?v=v0PkWzUxLvg",
-        "date_utc": "2026-10-05T03:19:37+00:00",
-        "summary": "Economist Cameron Bagrie on the PREFU, productivity and Labour’s fiscal plan"
       }
     ],
     "opinions": [
