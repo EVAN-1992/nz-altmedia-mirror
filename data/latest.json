@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-10T16:10:20Z",
+  "generated_utc": "2026-10-11T16:36:37Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,48 @@
     ],
     "youtube": [
       {
+        "title": "Shane Jones on the Paris Agreement",
+        "url": "https://www.youtube.com/shorts/2Hua3JE1sS4",
+        "date_utc": "2026-10-11T07:15:12+00:00",
+        "summary": "“Our contribution to global emissions is less than 1%. We seem to have created an opportunity for people who make all these moral judgements, but they’re insulated from the effects of their own vanities\". Tane Webster spoke with Shane Jones, NZ First candidate for Northland."
+      },
+      {
+        "title": "If split voting could change the make-up of Parliament, why wouldn’t National encourage it?",
+        "url": "https://www.youtube.com/shorts/xZSw05W_yTM",
+        "date_utc": "2026-10-11T06:00:59+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 If split voting could change the make-up of Parliament, why wouldn’t National encourage it? Chantelle explains why that question interests her — and what she thinks strategic voting could mean for electorate MPs, list MPs and the final shape of Parliament. Watch the full interview: https://rcr.media/episodes/chantelle-baker-independent-journalist-the-overhang-strategy-explained Dig into the numbers for yourself: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "Kelvyn Alp says New Zealand Loyal’s economic programme would overhaul the way money and credit...",
+        "url": "https://www.youtube.com/shorts/vSXfZbgf4bw",
+        "date_utc": "2026-10-11T05:30:52+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 Kelvyn Alp says New Zealand Loyal’s economic programme would overhaul the way money and credit work in New Zealand — including a 1% transaction tax and major changes to the role of the Reserve Bank. Maree Buscke puts the practical question back to him: even if the idea has merit, how does one party actually overturn systems this deeply entrenched? Watch the full interview: https://rcr.media/episodes/kelvyn-alp-nz-loyal-leader-rewriting-the-rules-of-the-financial-system Explore how your two votes work: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "🌐 https://RCR.Media | \"Other agencies are often innately biased against the concept of home educati",
+        "url": "https://www.youtube.com/shorts/XSziOQ5WJkk",
+        "date_utc": "2026-10-11T05:00:53+00:00",
+        "summary": "🌐 https://RCR.Media | \"Other agencies are often innately biased against the concept of home education.\" - Cynthia Hancox, Home Education Consultant Hancox fears routine cross-checking with other agencies could put homeschool families under suspicion simply for choosing a different educational path. Is home education being treated as a risk before any evidence of risk exists? Simon O'Connor is joined by home education consultant Cynthia Hancox. 🎥 Watch here: https://rcr.media/episodes/cynthia-hancox-education-advisor-finding-a-sensible-path-for-home-education #RCRMedia"
+      },
+      {
+        "title": "Only 44% of the New Zealand public think that the benefits of AI outweigh the risks...",
+        "url": "https://www.youtube.com/shorts/Igu5iQJlpK4",
+        "date_utc": "2026-10-11T02:01:01+00:00",
+        "summary": "🌐 https://RCR.Media | \"Only 44% of the New Zealand public think that the benefits of AI outweigh the risks. That is the lowest of all 47 countries surveyed.\" - Tauriq Barron, Software Developer New Zealanders are more sceptical about AI than almost anyone surveyed, with fewer than half convinced the benefits outweigh the risks. Is that caution justified, or are we at risk of falling behind because we simply don't trust the technology? 🎥 Watch here: https://rcr.media/episodes/two-blokes-a-bot-when-ai-starts-changing-everything #RCRMedia #TwoBlokesAndABot"
+      },
+      {
+        "title": "If tomorrow Bibi Netanyahu, President Trump, and the ayatollah hug and make up...",
+        "url": "https://www.youtube.com/shorts/LJNidPaOe1Y",
+        "date_utc": "2026-10-10T23:01:39+00:00",
+        "summary": "🌐 https://RCR.Media | \"If tomorrow Bibi Netanyahu, President Trump, and the ayatollah hug and make up, we're still in for a year of literally disruptions.\" - Sal Mercogliano, Maritime Historian & Former Merchant Mariner @wgowshipping Mercogliano says even an immediate political breakthrough would not quickly repair shipping confidence, depleted reserves or the global supply chain. Are people assuming peace would bring prices back down far faster than reality allows? 🎥 Watch here: https://rcr.media/episodes/sal-mercogliano-maritime-historian-former-merchant-mariner-seven-months-into-the-strait-of-hormuz-chokehold #RCRMedia"
+      },
+      {
+        "title": "What does the New Conservatives movement say sets it apart?",
+        "url": "https://www.youtube.com/shorts/wtZ2wjoJxNM",
+        "date_utc": "2026-10-10T18:01:33+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 What does the New Conservatives movement say sets it apart? Helen Houghton talks family, freedom, personal responsibility and why she believes smaller parties can still influence bigger ones by raising issues others might otherwise ignore. Watch the full interview: https://rcr.media/episodes/helen-houghton-conservative-party-leader-conservatives-path-back-to-parliament Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
         "title": "If, on this second most deadly day since the Holocaust, Jews are unsafe and tormented...",
         "url": "https://www.youtube.com/shorts/vb47UDDNATE",
         "date_utc": "2026-10-10T06:00:52+00:00",
@@ -172,48 +214,6 @@
         "url": "https://www.youtube.com/shorts/b7e5bqVUrm8",
         "date_utc": "2026-10-09T20:01:07+00:00",
         "summary": "🌐 https://RCR.Media | ELECTION 2026 Two votes. Two different jobs. Chantelle breaks down split voting, electorate votes, party votes and the MMP “overhang” — including how a Parliament can end up with more than 120 MPs. Watch the full interview: https://rcr.media/episodes/chantelle-baker-independent-journalist-the-overhang-strategy-explained Learn more about how your two votes work: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
-      },
-      {
-        "title": "Shane Jones on turning New Zealand’s resources into wealth",
-        "url": "https://www.youtube.com/shorts/xtyqYEU1cSM",
-        "date_utc": "2026-10-09T19:30:15+00:00",
-        "summary": "“The $100 billion fund that Winston has promoted is based on a fusion of the Temasek Singaporean model and the Norwegian approach. Not run by politicians, containing whatever’s left of the crown assets that have a commercial value. But a number of those assets will need to be absolutely protected, to ensure that whilst we’re not watching they don’t get privatised”. Tane Webster spoke with Shane Jones, NZ First candidate for Northland."
-      },
-      {
-        "title": "Everything that moves on the ocean, is going to be substantially higher than ever before",
-        "url": "https://www.youtube.com/shorts/wozbDurfkxU",
-        "date_utc": "2026-10-09T19:01:58+00:00",
-        "summary": "🌐 https://RCR.Media | \"Everything that moves on the ocean, is going to be substantially higher than ever before.\" - Sal Mercogliano, Maritime Historian & Former Merchant Mariner @wgowshipping Mercogliano warns that higher bunker fuel, tanker rates and shipping shortages can ripple through containers, cars, bulk goods and almost every imported product. Are we underestimating how much the Hormuz crisis could add to the cost of living? 🎥 Watch here: https://rcr.media/episodes/sal-mercogliano-maritime-historian-former-merchant-mariner-seven-months-into-the-strait-of-hormuz-chokehold #RCRMedia"
-      },
-      {
-        "title": "They weren't for Fonterra to sell, okay?",
-        "url": "https://www.youtube.com/shorts/h3su2GrssZw",
-        "date_utc": "2026-10-09T18:02:32+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"They weren't for Fonterra to sell, okay?\" - Taine Randell, NZ First Candidate for Tukituki Randell says brands like Anchor and Mainland are part of New Zealand's dairy legacy and argues Fonterra sold them at exactly the wrong point in the cycle. Should iconic Kiwi brands ever have been sold off in the first place? 🎥 Watch here: https://rcr.media/episodes/taine-randall-nz-first-candidate-for-tukitoki-backing-new-zealands-small-businesses 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
-      },
-      {
-        "title": "A POLITICAL AGENDA",
-        "url": "https://www.youtube.com/watch?v=L4iNa6JV1zc",
-        "date_utc": "2026-10-09T13:05:57+00:00",
-        "summary": "Nathan Smith is joined by former National MP Maurice Williamson and Family First chief executive Bob McCoskrie for this week's political panel. They challenge media coverage of Winston Peters’ comments on conversion practices and abortion, examine strategic voting under MMP, and question the growth of Auckland Council bureaucracy. The discussion also explores government spending, the role of the state and whether political debate is being shaped by selective reporting. Discover more from Bob at Family First or find him on Facebook Find Maurice Williamson on Facebook and X For election news that matters, Get RCR Bites FREE every weekday and find out everything about the overhang and tactical voting at Vote Smart"
-      },
-      {
-        "title": "DON BRASH & MATT ROBSON",
-        "url": "https://www.youtube.com/watch?v=B4dN2zeg42c",
-        "date_utc": "2026-10-09T13:02:32+00:00",
-        "summary": "Paul Brennan discusses the election with former Reserve Bank governor and National Party leader Don Brash and former minister Matt Robson. They argue that productivity growth deserves far more attention, examine how wealth is created and whether billionaires contribute fairly and debate strategic voting under MMP. With the election race tight, they consider the possible balance of power and the challenges facing the next coalition government. For election news that matters, Get RCR Bites FREE every weekday and find out everything about the overhang and tactical voting at Vote Smart"
-      },
-      {
-        "title": "PETER WILLIAMS ON POLITICS",
-        "url": "https://www.youtube.com/watch?v=tgTcrfq3kWA",
-        "date_utc": "2026-10-09T13:02:21+00:00",
-        "summary": "Peter Williams examines the latest election polling and the potential impact of strategic voting, criticising National’s reluctance to encourage electorate votes for ACT and NZ First. He reviews the leaders’ debate performances, questions Labour and Green policies and considers NZ First’s party list. For election news that matters, Get RCR Bites FREE every weekday and find out everything about the overhang and tactical voting at Vote Smart"
-      },
-      {
-        "title": "Shane Jones on how NZ First’s immigration policies will protect heritage Kiwis",
-        "url": "https://www.youtube.com/shorts/-qdsdo6lMIY",
-        "date_utc": "2026-10-09T07:15:29+00:00",
-        "summary": "“We are going back and making a core requirement of driving the direction of our country politically, that you must be a citizen\". Tane Webster spoke with Shane Jones, NZ First candidate for Northland."
       }
     ]
   },
