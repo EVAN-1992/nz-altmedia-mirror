@@ -1,8 +1,26 @@
 {
-  "generated_utc": "2026-10-11T16:36:37Z",
+  "generated_utc": "2026-10-12T20:13:41Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "The Battle Over the Waitangi Tribunal",
+        "url": "https://realitycheck.radio/the-battle-over-the-waitangi-tribunal/",
+        "date_utc": "2026-10-12T06:11:26Z",
+        "summary": "by Dr Muriel Newman When the Treaty of Waitangi settlement […]"
+      },
+      {
+        "title": "The House Price Story Almost Everyone Missed",
+        "url": "https://realitycheck.radio/the-house-price-story-almost-everyone-missed/",
+        "date_utc": "2026-10-11T06:01:52Z",
+        "summary": "by Roger Partridge This month’s big housing story was not […]"
+      },
+      {
+        "title": "Help! Parliament wants to define a woman, and the freezing works may never recover",
+        "url": "https://realitycheck.radio/help-parliament-wants-to-define-a-woman-and-the-freezing-works-may-never-recover/",
+        "date_utc": "2026-10-10T21:18:19Z",
+        "summary": "by Rodney Hide Hat tip to Katrina Biggs. Her Substack, […]"
+      },
       {
         "title": "The question at the heart of this election",
         "url": "https://realitycheck.radio/the-question-at-the-heart-of-this-election/",
@@ -76,149 +94,197 @@
         "summary": "by Richard Prebble Power corrupts, but the possibility of power […]"
       },
       {
-        "title": "The Political Giants are Looking Increasingly Ordinary",
-        "url": "https://realitycheck.radio/the-political-giants-are-looking-increasingly-ordinary/",
-        "date_utc": "2026-10-02T05:46:43Z",
-        "summary": "by Peter Williams The Political Giants are Looking Increasingly Ordinary […]"
-      },
-      {
-        "title": "Riding Shotgun – ep 63: When a Terrorist Plot Isn’t a Terrorist Plot",
-        "url": "https://realitycheck.radio/riding-shotgun-ep-63-when-a-terrorist-plot-isnt-a-terrorist-plot/",
-        "date_utc": "2026-10-01T21:14:12Z",
-        "summary": "by Rachel Stewart Honestly, I’m not even going to try […]"
-      },
-      {
-        "title": "Apparently Fingernails Are Colonialist",
-        "url": "https://realitycheck.radio/apparently-fingernails-are-colonialist/",
-        "date_utc": "2026-10-01T08:34:12Z",
-        "summary": "by Simon O’Connor Ladies (and I suppose some men), be […]"
-      },
-      {
-        "title": "REINER FUELLMICH: Imprisoned German Former Lawyer & Spokesman for the Corona Investigative Committee: Reiner Fuellmich Speaks Out from Behind Bars",
-        "url": "https://realitycheck.radio/episodes/reiner-fuellmich-imprisoned-german-former-lawyer-spokesman-for-the-corona-investigative-committee-reiner-fuellmich-speaks-out-from-behind-bars/",
-        "date_utc": "2026-10-09T05:17:40Z",
+        "title": "PAUL HENRY: ACT Party List Candidate: ACT’s Plan to Overhaul Superannuation and KiwiSaver",
+        "url": "https://realitycheck.radio/episodes/paul-henry-act-party-list-candidate-acts-plan-to-overhaul-superannuation-and-kiwisaver/",
+        "date_utc": "2026-10-12T08:50:44Z",
         "summary": ""
       },
       {
-        "title": "DON BRASH & MATT ROBSON: Former NZ Reserve Bank Governor & Auckland Barrister: Billionaire Morality, Productivity & Strategic Voting",
-        "url": "https://realitycheck.radio/episodes/don-brash-matt-robson-former-nz-reserve-bank-governor-auckland-barrister-billionaire-morality-productivity-strategic-voting/",
-        "date_utc": "2026-10-09T05:01:41Z",
+        "title": "GARY MOLLER: Health Practitioner & Nutrition Consultant: Hair Tissue Flagging Toxic Build-up",
+        "url": "https://realitycheck.radio/episodes/gary-moller-health-practitioner-nutrition-consultant-hair-tissue-flagging-toxic-build-up/",
+        "date_utc": "2026-10-12T04:51:54Z",
         "summary": ""
       },
       {
-        "title": "PETER WILLIAMS ON POLITICS: Strategic Voting Could Reshape the Election",
-        "url": "https://realitycheck.radio/episodes/peter-williams-on-politics-strategic-voting-could-reshape-the-election/",
-        "date_utc": "2026-10-09T04:50:00Z",
+        "title": "GLEN DAVIES & CARYN ZINN: NZ Health Advocate & AUT Nutrition Professor: Putting Metabolic Health at the Heart of Healthcare",
+        "url": "https://realitycheck.radio/episodes/glen-davies-caryn-zinn-nz-health-advocate-aut-nutrition-professor-putting-metabolic-health-at-the-heart-of-healthcare/",
+        "date_utc": "2026-10-12T03:41:22Z",
         "summary": ""
       },
       {
-        "title": "A POLITICAL AGENDA: With Bob McCoskrie & Maurice Williamson: Strategic Voting – Why this Election is Different",
-        "url": "https://realitycheck.radio/episodes/a-political-agenda-with-bob-mccoskrie-maurice-williamson-strategic-voting-why-this-election-is-different/",
-        "date_utc": "2026-10-08T23:33:32Z",
+        "title": "SHANE JONES: NZ Gene Technology Bill: The Vote That Never Was",
+        "url": "https://realitycheck.radio/episodes/shane-jones-nz-gene-technology-bill-the-vote-that-never-was/",
+        "date_utc": "2026-10-11T21:55:44Z",
         "summary": ""
       },
       {
-        "title": "SHANE JONES: NZ Drug Testing Debate: Are Beneficiaries’ Civil Liberties Under Threat?",
-        "url": "https://realitycheck.radio/episodes/shane-jones-nz-drug-testing-debate-are-beneficiaries-civil-liberties-under-threat/",
-        "date_utc": "2026-10-08T23:30:28Z",
+        "title": "SHANE JONES: NZ First’s Immigration Stance: Protecting Kiwis From Displacement In Their Own Land",
+        "url": "https://realitycheck.radio/episodes/shane-jones-nz-firsts-immigration-stance-protecting-kiwis-from-displacement-in-their-own-land/",
+        "date_utc": "2026-10-11T21:55:10Z",
         "summary": ""
       }
     ],
     "youtube": [
       {
-        "title": "Shane Jones on the Paris Agreement",
-        "url": "https://www.youtube.com/shorts/2Hua3JE1sS4",
-        "date_utc": "2026-10-11T07:15:12+00:00",
-        "summary": "“Our contribution to global emissions is less than 1%. We seem to have created an opportunity for people who make all these moral judgements, but they’re insulated from the effects of their own vanities\". Tane Webster spoke with Shane Jones, NZ First candidate for Northland."
+        "title": "Shane Jones on the Labour party's opposition to oil and gas",
+        "url": "https://www.youtube.com/shorts/aTA9F2GfxgQ",
+        "date_utc": "2026-10-12T20:00:33+00:00",
+        "summary": "“Once they get a better grip on what the entirety of the nation is facing, then the likes of Megan Woods and her vanities and her indulgence beliefs will become a party of history\". Tane Webster spoke with Shane Jones, NZ First candidate for Northland."
       },
       {
-        "title": "If split voting could change the make-up of Parliament, why wouldn’t National encourage it?",
-        "url": "https://www.youtube.com/shorts/xZSw05W_yTM",
-        "date_utc": "2026-10-11T06:00:59+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 If split voting could change the make-up of Parliament, why wouldn’t National encourage it? Chantelle explains why that question interests her — and what she thinks strategic voting could mean for electorate MPs, list MPs and the final shape of Parliament. Watch the full interview: https://rcr.media/episodes/chantelle-baker-independent-journalist-the-overhang-strategy-explained Dig into the numbers for yourself: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+        "title": "What happens when a party wants your party vote — but still has to clear the 5% threshold...",
+        "url": "https://www.youtube.com/shorts/AjZ6O4BafNw",
+        "date_utc": "2026-10-12T19:01:35+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 What happens when a party wants your party vote — but still has to clear the 5% threshold or win an electorate? Maree Buscke puts that question directly to Hannah Tamaki, who explains why she still wants people to back the party and why she would prefer to win her electorate outright. Watch the full interview: https://rcr.media/episodes/hannah-tamaki-leader-of-vision-new-zealand-a-different-road-to-parliament Explore how your two votes work: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
       },
       {
-        "title": "Kelvyn Alp says New Zealand Loyal’s economic programme would overhaul the way money and credit...",
-        "url": "https://www.youtube.com/shorts/vSXfZbgf4bw",
-        "date_utc": "2026-10-11T05:30:52+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 Kelvyn Alp says New Zealand Loyal’s economic programme would overhaul the way money and credit work in New Zealand — including a 1% transaction tax and major changes to the role of the Reserve Bank. Maree Buscke puts the practical question back to him: even if the idea has merit, how does one party actually overturn systems this deeply entrenched? Watch the full interview: https://rcr.media/episodes/kelvyn-alp-nz-loyal-leader-rewriting-the-rules-of-the-financial-system Explore how your two votes work: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+        "title": "What we do need, is for the Paris Agreement to follow its own edict...",
+        "url": "https://www.youtube.com/shorts/9gCTGtx71vI",
+        "date_utc": "2026-10-12T18:02:45+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"What we do need, is for the Paris Agreement to follow its own edict, where it says that: 'No action should be taken by a country, that interferes with the production of the food for export'.\" - Owen Jennings Jennings says New Zealand does not necessarily need to leave the Paris Agreement, but should hold it to its own stated protection for food production. If climate measures risk reducing the food New Zealand produces for tens of millions overseas, should our government be challenging those measures much harder? 🎥 Watch here: https://rcr.media/episodes/wednsday-webinars-politics-a-rural-view Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
       },
       {
-        "title": "🌐 https://RCR.Media | \"Other agencies are often innately biased against the concept of home educati",
-        "url": "https://www.youtube.com/shorts/XSziOQ5WJkk",
-        "date_utc": "2026-10-11T05:00:53+00:00",
-        "summary": "🌐 https://RCR.Media | \"Other agencies are often innately biased against the concept of home education.\" - Cynthia Hancox, Home Education Consultant Hancox fears routine cross-checking with other agencies could put homeschool families under suspicion simply for choosing a different educational path. Is home education being treated as a risk before any evidence of risk exists? Simon O'Connor is joined by home education consultant Cynthia Hancox. 🎥 Watch here: https://rcr.media/episodes/cynthia-hancox-education-advisor-finding-a-sensible-path-for-home-education #RCRMedia"
+        "title": "PAUL HENRY",
+        "url": "https://www.youtube.com/watch?v=ESE7GifDl9w",
+        "date_utc": "2026-10-12T13:02:41+00:00",
+        "summary": "Peter Williams speaks with ACT Party list candidate Paul Henry about the party’s fiscal plan, including raising the superannuation age to 67 from 2035, making KiwiSaver investment returns tax-free, and tightening eligibility for disability benefits. They discuss the savings ACT says it can achieve, proposed public service cuts and the challenge of negotiating these policies with potential coalition partners. Discover more on Paul Henry or find him on Facebook and Instagram For election news that matters, Get RCR Bites FREE every weekday and find out everything about the overhang and tactical voting at Vote Smart"
       },
       {
-        "title": "Only 44% of the New Zealand public think that the benefits of AI outweigh the risks...",
-        "url": "https://www.youtube.com/shorts/Igu5iQJlpK4",
-        "date_utc": "2026-10-11T02:01:01+00:00",
-        "summary": "🌐 https://RCR.Media | \"Only 44% of the New Zealand public think that the benefits of AI outweigh the risks. That is the lowest of all 47 countries surveyed.\" - Tauriq Barron, Software Developer New Zealanders are more sceptical about AI than almost anyone surveyed, with fewer than half convinced the benefits outweigh the risks. Is that caution justified, or are we at risk of falling behind because we simply don't trust the technology? 🎥 Watch here: https://rcr.media/episodes/two-blokes-a-bot-when-ai-starts-changing-everything #RCRMedia #TwoBlokesAndABot"
+        "title": "GLEN DAVIES & CARYN ZINN",
+        "url": "https://www.youtube.com/watch?v=YbWkzzPxZqA",
+        "date_utc": "2026-10-12T13:01:45+00:00",
+        "summary": "Paul Brennan is joined by Dr Glen Davies and Caryn Zinn to talk about the upcoming Metabolic Health New Zealand Summit. They discuss why metabolic health could be key to tackling New Zealand’s healthcare crisis and argue for greater focus on prevention and the root causes of chronic disease, alongside better food choices, exercise and multidisciplinary care. For more on The Metabolic Health NZ Summit 2026 | 13–14 November, Auckland Discover more from Metabolic Health NZ"
       },
       {
-        "title": "If tomorrow Bibi Netanyahu, President Trump, and the ayatollah hug and make up...",
-        "url": "https://www.youtube.com/shorts/LJNidPaOe1Y",
-        "date_utc": "2026-10-10T23:01:39+00:00",
-        "summary": "🌐 https://RCR.Media | \"If tomorrow Bibi Netanyahu, President Trump, and the ayatollah hug and make up, we're still in for a year of literally disruptions.\" - Sal Mercogliano, Maritime Historian & Former Merchant Mariner @wgowshipping Mercogliano says even an immediate political breakthrough would not quickly repair shipping confidence, depleted reserves or the global supply chain. Are people assuming peace would bring prices back down far faster than reality allows? 🎥 Watch here: https://rcr.media/episodes/sal-mercogliano-maritime-historian-former-merchant-mariner-seven-months-into-the-strait-of-hormuz-chokehold #RCRMedia"
+        "title": "GARY MOLLER",
+        "url": "https://www.youtube.com/watch?v=bY6rLT86RHk",
+        "date_utc": "2026-10-12T13:01:32+00:00",
+        "summary": "Paul Brennan talks with health practitioner Gary Moller about hidden sources of aluminium exposure, from deodorants and fertiliser to childhood vaccines and how hair tissue mineral analysis can flag toxic build-up. Gary also introduces his apolitical Free Rangers movement, arguing New Zealand's politicians should be judged by whether their policies make the country the best place to live and raise a family. For further information: Check out some of Gary's articles: When Small Bodies Face Big Toxic Challenges: A Question of Dose, Timing, and Vulnerability Minerals: Aluminium's Toxic Effects on Human Health Aluminium – It's Harming People! Visit Gary's website or find him on Facebook and X"
       },
       {
-        "title": "What does the New Conservatives movement say sets it apart?",
-        "url": "https://www.youtube.com/shorts/wtZ2wjoJxNM",
-        "date_utc": "2026-10-10T18:01:33+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 What does the New Conservatives movement say sets it apart? Helen Houghton talks family, freedom, personal responsibility and why she believes smaller parties can still influence bigger ones by raising issues others might otherwise ignore. Watch the full interview: https://rcr.media/episodes/helen-houghton-conservative-party-leader-conservatives-path-back-to-parliament Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+        "title": "ACT Leader David Seymour about bureaucracy, digital currency and strategic voting",
+        "url": "https://www.youtube.com/shorts/lGORTCxwBig",
+        "date_utc": "2026-10-12T08:58:58+00:00",
+        "summary": "RCR's Jack Ryan asked ACT Leader David Seymour about bureaucracy, digital currency and strategic voting at the ACT Party campaign launch in Auckland."
       },
       {
-        "title": "If, on this second most deadly day since the Holocaust, Jews are unsafe and tormented...",
-        "url": "https://www.youtube.com/shorts/vb47UDDNATE",
-        "date_utc": "2026-10-10T06:00:52+00:00",
-        "summary": "🌐 https://RCR.Media | \"If, on this second most deadly day since the Holocaust, Jews are unsafe and tormented just for being Jewish, ask yourself who the racists and bigots really are.\" - Rachel Stewart Stewart says the anniversary of October 7 should sharpen attention on the safety of Jewish communities, not become another occasion for intimidation. Can a protest movement claim to oppose racism while Jewish people feel increasingly targeted? 🎥 Watch here: https://rcr.media/episodes/riding-shotgun-with-rachel-stewart-the-greens-and-jew-hatred #RCRMedia #RidingShotgun"
+        "title": "Paul Goldsmith on NZ First’s $1 billion sub-surface development survey for oil and gas",
+        "url": "https://www.youtube.com/shorts/2eqmeM8nVGM",
+        "date_utc": "2026-10-12T07:15:12+00:00",
+        "summary": "“It’s worth looking at but you’ve got to remember that NZ First were part of the decision to close down oil and gas in New Zealand”. Tane Webster spoke to National MP Paul Goldsmith in New Plymouth"
       },
       {
-        "title": "What’s the pathway to Parliament when a smaller party is still chasing the 5% threshold?",
-        "url": "https://www.youtube.com/shorts/XoUjIAU43O0",
-        "date_utc": "2026-10-10T05:00:54+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 What’s the pathway to Parliament when a smaller party is still chasing the 5% threshold? Maree Buscke puts the numbers to Helen Houghton, who pushes back on strategic voting and argues voters shouldn’t be told to abandon their first choice simply because someone else thinks it isn’t viable. Watch the full interview: https://rcr.media/episodes/helen-houghton-conservative-party-leader-conservatives-path-back-to-parliament Explore how your two votes work: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+        "title": "What does Hannah Tamaki say she is actually standing for?",
+        "url": "https://www.youtube.com/shorts/gsnhWASO2bM",
+        "date_utc": "2026-10-12T06:01:14+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 What does Hannah Tamaki say she is actually standing for? She talks family, culture, community, putting New Zealanders first and protecting what she describes as the Kiwi way of life. Watch the full interview: https://rcr.media/episodes/hannah-tamaki-leader-of-vision-new-zealand-a-different-road-to-parliament Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
       },
       {
-        "title": "Shane Jones on the Gene Technology Bill",
-        "url": "https://www.youtube.com/shorts/ALiqSjx-jCE",
-        "date_utc": "2026-10-10T05:00:25+00:00",
-        "summary": "“Comatose. There is no Gene Technology Bill that we will ever be voting for”. Tane Webster spoke with Shane Jones, NZ First candidate for Northland."
+        "title": "So, in 18 months since that mortgage was just renewed, it's come down 20%",
+        "url": "https://www.youtube.com/shorts/7jNix4Yqdpw",
+        "date_utc": "2026-10-12T05:30:36+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"So, in 18 months since that mortgage was just renewed, it's come down 20%.\" - Callum Sheridan, ACT Party Candidate for Waitakere Sheridan says falling mortgage repayments are a sign the economy may finally be moving in the right direction after a painful few years. Are households starting to feel genuine relief, or is the cost-of-living pressure still too high? 🎥 Watch here: https://rcr.media/episodes/callum-sheridan-act-party-candidate-for-waitakere-building-a-stronger-new-zealand Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
       },
       {
-        "title": "Shane Jones on what NZ First’s policies would mean for cheaper electricity bills",
-        "url": "https://www.youtube.com/shorts/50_rZF_FoCc",
-        "date_utc": "2026-10-10T02:47:19+00:00",
-        "summary": "“That is only going to happen by gutting the gentailers who profit and keep the prices high so they can reward the executive and excessively reward the whole ecosystem they are a part of”. Tane Webster spoke with Shane Jones, NZ First candidate for Northland."
+        "title": "It'd probably behove New Zealand in the future to think about maybe creating...",
+        "url": "https://www.youtube.com/shorts/C3_qsSM8EpE",
+        "date_utc": "2026-10-12T05:01:07+00:00",
+        "summary": "🌐 https://RCR.Media | \"It'd probably behove New Zealand in the future to think about maybe creating a national shipping line.\" - Sal Mercogliano, Maritime Historian & Former Merchant Mariner @wgowshipping Mercogliano says New Zealand should reconsider having its own shipping capability so we're not left completely exposed when global trade is disrupted. Did we give up too much resilience when we lost our national shipping line? 🎥 Watch here: https://rcr.media/episodes/sal-mercogliano-maritime-historian-former-merchant-mariner-seven-months-into-the-strait-of-hormuz-chokehold #RCRMedia"
       },
       {
-        "title": "New Zealand Loyal says exposure is the key to breaking through",
-        "url": "https://www.youtube.com/shorts/dB2QV-VyVbM",
-        "date_utc": "2026-10-10T02:00:37+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 New Zealand Loyal says exposure is the key to breaking through — but what does the path to Parliament actually look like? Maree Buscke puts the numbers to Kelvyn Alp: Mangere, the 5% threshold, and the roughly 150,000 votes needed to get across the line. Watch the full interview: https://rcr.media/episodes/kelvyn-alp-nz-loyal-leader-rewriting-the-rules-of-the-financial-system Explore how your two votes work: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+        "title": "Paul Goldsmith on whether traditional forms of energy are included in National’s electricity policy",
+        "url": "https://www.youtube.com/shorts/E9dEKsJwkSU",
+        "date_utc": "2026-10-12T03:39:20+00:00",
+        "summary": "Paul Goldsmith on whether traditional forms of energy are included in National’s electricity policy ‘Electrify NZ 2.0’. “We’ve been working away on planning around a potential LNG importing regime here. The other part of the plan was to reduce some of the costs through making it easier for people to sell solar-generated electricity on their rooftop”. Tane Webster spoke to National MP Paul Goldsmith in New Plymouth."
       },
       {
-        "title": "NZ First candidate Murray Chong on strategic voting.",
-        "url": "https://www.youtube.com/shorts/rUiDgw9hkVI",
-        "date_utc": "2026-10-10T00:01:02+00:00",
-        "summary": "“I want to turn those votes into party votes for NZ First. I’m saying to people, don’t vote for me as an electorate. I’ve been told there is a strategy that we can do which is different than any other region”. Tane Webster spoke with Murray Chong, NZ First candidate for New Plymouth."
+        "title": "We can't even use that money to print off a flyer.",
+        "url": "https://www.youtube.com/shorts/wHOgkn6jqnQ",
+        "date_utc": "2026-10-11T23:01:29+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 🌐 https://RCR.Media | \"We can't even use that money to print off a flyer.\" - Paul Hopkinson, Founder of Palestine Free From The River To The Sea Party Hopkinson says the broadcasting allocation is so tightly defined that even basic campaign materials fall outside it. Does it make sense in 2026 to lock public election funding so heavily into traditional media? 🎥 Watch here: https://rcr.media/episodes/paul-hopkinson-founder-of-palestine-free-from-the-river-to-the-sea-party-challenging-new-zealands-foreign-policy Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
       },
       {
-        "title": "At a time when 7 of the 12 leaders or deputy leaders of parties in parliament are Māori...",
-        "url": "https://www.youtube.com/shorts/sLbCZdQvtxc",
-        "date_utc": "2026-10-09T23:02:27+00:00",
-        "summary": "🌐 https://RCR.Media | \"At a time when 7 of the 12 leaders or deputy leaders of parties in parliament are Māori, we no longer have a problem that Māori can't be heard.\" - Don Brash, Former NZ Reserve Bank Governor \"It doesn't mean that we've reached that stage of being fair and bringing justice.\" - Matt Robson, Auckland Barrister Brash sees today's Māori political leadership as evidence that representation barriers have been broken down. Robson warns that identity alone does not guarantee better advocacy or better outcomes. How much should representation itself count as evidence of progress? 🎥 Watch here: https://rcr.media/episodes/don-brash-matt-robson-former-nz-reserve-bank-governor-auckland-barrister-a-clash-of-political-convictions #RCRMedia"
+        "title": "It's not a small thing to put a tear gas on a kid",
+        "url": "https://www.youtube.com/shorts/YS16iUK2xK8",
+        "date_utc": "2026-10-11T18:30:56+00:00",
+        "summary": "🌐 https://RCR.Media | \"It's not a small thing to put a tear gas on a kid.\" Freddie Ponton, Global Affairs Associate Editor 21st Century Wire Ponton says rights groups are raising concerns over the use of tear gas and other crowd-control measures against young protesters. Where should the line be drawn when police are dealing with demonstrations involving children? 🎥 Watch here: https://rcr.media/episodes/freddie-ponton-associate-editor-21st-century-wire-students-riot-against-austerity-in-france #RCRMedia"
       },
       {
-        "title": "Two votes. Two different jobs.",
-        "url": "https://www.youtube.com/shorts/b7e5bqVUrm8",
-        "date_utc": "2026-10-09T20:01:07+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 Two votes. Two different jobs. Chantelle breaks down split voting, electorate votes, party votes and the MMP “overhang” — including how a Parliament can end up with more than 120 MPs. Watch the full interview: https://rcr.media/episodes/chantelle-baker-independent-journalist-the-overhang-strategy-explained Learn more about how your two votes work: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+        "title": "You must go and talk to your ex-partner, and get their permission before we can proceed",
+        "url": "https://www.youtube.com/shorts/ReGsk9d30T0",
+        "date_utc": "2026-10-11T18:01:28+00:00",
+        "summary": "🌐 https://RCR.Media | \"You must go and talk to your ex-partner, and get their permission before we can proceed.\" - Cynthia Hancox, Home Education Consultant Hancox says a blanket requirement for both parents' approval could have serious consequences for families where there has been trauma or family violence. Could a policy designed as a safeguard actually create another barrier for vulnerable parents and children? Simon O'Connor is joined by home education consultant Cynthia Hancox. 🎥 Watch here: https://rcr.media/episodes/cynthia-hancox-education-advisor-finding-a-sensible-path-for-home-education #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Are The Conservative Party Wasting Their followers’ Votes?",
+        "url": "https://www.youtube.com/watch?v=MeexMD_YEyg",
+        "date_utc": "2026-10-12T07:59:32+00:00",
+        "summary": "Are the Conservative Party wasting their followers’ votes? Leader Helen Houghton explains."
+      },
+      {
+        "title": "Property Managers Concerned Of Labour's Rent Plans",
+        "url": "https://www.youtube.com/watch?v=3YIQKiS-X1s",
+        "date_utc": "2026-10-12T04:55:12+00:00",
+        "summary": "Sarina Gibbon, Founder & Director of Tenancy Advisory on property managers being concerned of Labour's rent plans."
+      },
+      {
+        "title": "'Boomer Bashing Vote’ - How Ageism Is Alive This Election",
+        "url": "https://www.youtube.com/watch?v=vZT87AHumNo",
+        "date_utc": "2026-10-12T04:47:24+00:00",
+        "summary": "Yvonne van Dongen: 'Boomer Bashing Vote’ - How ageism is alive this election."
+      },
+      {
+        "title": "Markets & Politics With Ashley Church 12/10/26",
+        "url": "https://www.youtube.com/watch?v=Ed44MHBH9HI",
+        "date_utc": "2026-10-12T04:15:20+00:00",
+        "summary": "This week Ashley discusses the Leaders Debate, ACT’s fiscal plans, NZ First scrapping the Accredited Working Visa, Greens spending taxpayer money, National drug testing beneficiaries and more."
+      },
+      {
+        "title": "The David Tamihere Murder/Compensation issue",
+        "url": "https://www.youtube.com/watch?v=gRO75Y6b7qE",
+        "date_utc": "2026-10-12T02:34:05+00:00",
+        "summary": "The David Tamihere murder/compensation issue - researcher and podcaster Ryan Wolf outlines the true background. The David Tamihere murder/compensation issue - researcher and podcaster Ryan Wolf outlines the true background."
+      },
+      {
+        "title": "College Principal On National’s Pledge To Keep All Kids At School",
+        "url": "https://www.youtube.com/watch?v=J88FbYZ24Uw",
+        "date_utc": "2026-10-12T00:52:40+00:00",
+        "summary": "Rangitoto College principal Greg Thornton on National’s pledge to keep all kids at school under they’ve completed Year 11."
+      },
+      {
+        "title": "TVNZ Interviewed Michael Laws",
+        "url": "https://www.youtube.com/watch?v=rIQA-Wswiy8",
+        "date_utc": "2026-10-12T00:41:30+00:00",
+        "summary": "TVNZ interviewed Michael Laws - their questioning line revealed their agenda."
+      },
+      {
+        "title": "Greg Murphy On Bathurst 2026 Race",
+        "url": "https://www.youtube.com/watch?v=G_ptEFxvi4Q",
+        "date_utc": "2026-10-11T23:06:58+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Chris Trotter On Split Voting, Abortion Rights & Election Predictions",
+        "url": "https://www.youtube.com/watch?v=sxDGan-i9S8",
+        "date_utc": "2026-10-11T22:31:48+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Paul Goldsmith On Scrapping The BSA, Justice Duties & Campaigning in Epsom",
+        "url": "https://www.youtube.com/watch?v=OaYeNswOuFA",
+        "date_utc": "2026-10-11T22:19:31+00:00",
+        "summary": ""
+      },
+      {
+        "title": "James Christmas On His Call Out At Winston Peters Over Abortion",
+        "url": "https://www.youtube.com/watch?v=6AxwFT38ENE",
+        "date_utc": "2026-10-11T22:13:35+00:00",
+        "summary": ""
+      },
       {
         "title": "Petition For A Ban On 'Ghost' Interviews That Harvest Data For AI",
         "url": "https://www.youtube.com/watch?v=C8v-2xfxQRk",
@@ -242,72 +308,6 @@
         "url": "https://www.youtube.com/watch?v=pNTZYkm3TKE",
         "date_utc": "2026-10-09T08:15:59+00:00",
         "summary": "Former All Black Frank Bunce on the Bledisloe Cup test and Bok supremacy."
-      },
-      {
-        "title": "Selwyn Foundation’s Denise Cosgrove On Our Ageing Population",
-        "url": "https://www.youtube.com/watch?v=38DE35DHK7U",
-        "date_utc": "2026-10-09T02:01:10+00:00",
-        "summary": "Selwyn Foundation’s Denise Cosgrove on our ageing population and the policy changes required"
-      },
-      {
-        "title": "Former Trade Minister On The Attempted Sabotage Of NZ’s FTAs",
-        "url": "https://www.youtube.com/watch?v=qU6PKZMUXwc",
-        "date_utc": "2026-10-09T01:12:06+00:00",
-        "summary": "Former Trade (& Environment) Minister Tim Groser on the attempted sabotage of NZ’s FTAs by greenies."
-      },
-      {
-        "title": "Isn’t It Time Maori Leaders Were Held To Account For Maori Problems?",
-        "url": "https://www.youtube.com/watch?v=Fkzq2zUT3Ow",
-        "date_utc": "2026-10-09T01:00:35+00:00",
-        "summary": "Isn’t it time Maori leaders were held to account for Maori problems?"
-      },
-      {
-        "title": "John Banks Weighs In On The Vote Splitting Debate",
-        "url": "https://www.youtube.com/watch?v=7H2OeKOrrOc",
-        "date_utc": "2026-10-08T23:20:04+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Who Will Win This Week In The Friday Fry Up?",
-        "url": "https://www.youtube.com/watch?v=kc_gg4DJdFc",
-        "date_utc": "2026-10-08T23:11:59+00:00",
-        "summary": "Who will win this week in the Friday Fry Up? Brought to you by Beard Brothers, crafted with care the old school way."
-      },
-      {
-        "title": "Free Speech Fridays #177 – Mark Champion & Laura McClure",
-        "url": "https://www.youtube.com/watch?v=x3YkZFbGtOo",
-        "date_utc": "2026-10-08T22:49:23+00:00",
-        "summary": "Free Speech Fridays with Mark Champion & Laura McClure is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss vote splitting, National’s plan for drug testing those on Job Seeker Benefit, the Leaders’ Debate, three years since October 7th Attacks and more."
-      },
-      {
-        "title": "Labour’s Plan To Axe Mandatory Reading, Writing & Maths From Curriculum",
-        "url": "https://www.youtube.com/watch?v=-AV5E5giBPU",
-        "date_utc": "2026-10-08T22:03:48+00:00",
-        "summary": "Cameron Bagrie on Labour’s plan to axe mandatory reading, writing and maths from curriculum."
-      },
-      {
-        "title": "Louise Upston On National’s Drug Testing Plans For Beneficiaries",
-        "url": "https://www.youtube.com/watch?v=EO7QGQ1zfHU",
-        "date_utc": "2026-10-08T21:49:36+00:00",
-        "summary": ""
-      },
-      {
-        "title": "ACC Rejections Rise - More Than 7000 Injured Kiwis Denied Support",
-        "url": "https://www.youtube.com/watch?v=gu2MLulBNKY",
-        "date_utc": "2026-10-08T21:05:08+00:00",
-        "summary": "Warren Forster, Lawyer and ACC Researcher - More than 7000 injured Kiwis denied support as ACC rejections rise."
-      },
-      {
-        "title": "A Provider Has Been Selected For The In-Person Citizenship Test",
-        "url": "https://www.youtube.com/watch?v=5sXj-MNNBgo",
-        "date_utc": "2026-10-08T20:24:56+00:00",
-        "summary": "Brooke van Velden, Minister of Internal Affairs - A provider has been selected for the in-person citizenship test."
-      },
-      {
-        "title": "Kiwis Continue To Lose Confidence In Medicines Access",
-        "url": "https://www.youtube.com/watch?v=Rh5LCHcu8mI",
-        "date_utc": "2026-10-08T20:20:38+00:00",
-        "summary": "Graeme Jarvis, CEO of Medicines New Zealand - Kiwis continue to lose confidence in medicines access."
       }
     ],
     "opinions": [
