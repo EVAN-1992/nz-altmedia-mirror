@@ -1,8 +1,20 @@
 {
-  "generated_utc": "2026-10-13T18:06:29Z",
+  "generated_utc": "2026-10-14T15:47:01Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "How leftism is destroying fertility – and what can be done",
+        "url": "https://realitycheck.radio/how-leftism-is-destroying-fertility-and-what-can-be-done/",
+        "date_utc": "2026-10-13T06:21:28Z",
+        "summary": "by John Grant Of the many failings of the current […]"
+      },
+      {
+        "title": "Do White Americans Deserve Freedom of Association?",
+        "url": "https://realitycheck.radio/do-white-americans-deserve-freedom-of-association/",
+        "date_utc": "2026-10-12T21:59:26Z",
+        "summary": "by Blair Luain The entire world is currently obsessed with […]"
+      },
       {
         "title": "The Battle Over the Waitangi Tribunal",
         "url": "https://realitycheck.radio/the-battle-over-the-waitangi-tribunal/",
@@ -82,143 +94,185 @@
         "summary": "by Oliver Hartwich Two thousand years ago, according to St […]"
       },
       {
-        "title": "I Was Forced Out of an NHS Training Course for My Belief in Colour-Blind Meritocracy. It’s Time for the Courts to Intervene",
-        "url": "https://realitycheck.radio/i-was-forced-out-of-an-nhs-training-course-for-my-belief-in-colour-blind-meritocracy-its-time-for-the-courts-to-intervene/",
-        "date_utc": "2026-10-03T08:41:02Z",
-        "summary": "by Amy Gallagher In 2020, I enrolled at the Tavistock […]"
-      },
-      {
-        "title": "From Opportunity to Opportunistic",
-        "url": "https://realitycheck.radio/from-opportunity-to-opportunistic/",
-        "date_utc": "2026-10-02T08:36:17Z",
-        "summary": "by Richard Prebble Power corrupts, but the possibility of power […]"
-      },
-      {
-        "title": "PAUL HENRY: ACT Party List Candidate: ACT’s Plan to Overhaul Superannuation and KiwiSaver",
-        "url": "https://realitycheck.radio/episodes/paul-henry-act-party-list-candidate-acts-plan-to-overhaul-superannuation-and-kiwisaver/",
-        "date_utc": "2026-10-12T08:50:44Z",
+        "title": "ROAD TRIPPIN’ WITH MEAGAN, DEAN & BUSTER: The RCR Road Trip Bringing Kiwis Together",
+        "url": "https://realitycheck.radio/episodes/road-trippin-with-meagan-dean-buster-the-rcr-road-trip-bringing-kiwis-together/",
+        "date_utc": "2026-10-14T06:27:30Z",
         "summary": ""
       },
       {
-        "title": "GARY MOLLER: Health Practitioner & Nutrition Consultant: Hair Tissue Flagging Toxic Build-up",
-        "url": "https://realitycheck.radio/episodes/gary-moller-health-practitioner-nutrition-consultant-hair-tissue-flagging-toxic-build-up/",
-        "date_utc": "2026-10-12T04:51:54Z",
+        "title": "HARRY MOWBRAY: Multi-Business Owner & Organic Farmer: Strategic Voting and the Fight to Preserve Our Organic Future",
+        "url": "https://realitycheck.radio/episodes/harry-mowbray-multi-business-owner-organic-farmer-strategic-voting-and-the-fight-to-preserve-our-organic-future/",
+        "date_utc": "2026-10-14T06:03:45Z",
         "summary": ""
       },
       {
-        "title": "GLEN DAVIES & CARYN ZINN: NZ Health Advocate & AUT Nutrition Professor: Putting Metabolic Health at the Heart of Healthcare",
-        "url": "https://realitycheck.radio/episodes/glen-davies-caryn-zinn-nz-health-advocate-aut-nutrition-professor-putting-metabolic-health-at-the-heart-of-healthcare/",
-        "date_utc": "2026-10-12T03:41:22Z",
+        "title": "STEVE KEEN: Distinguished Research Fellow at UCL: Steve Keen Challenges the Economic Status Quo",
+        "url": "https://realitycheck.radio/episodes/steve-keen-distinguished-research-fellow-at-ucl-steve-keen-challenges-the-economic-status-quo/",
+        "date_utc": "2026-10-14T03:22:21Z",
         "summary": ""
       },
       {
-        "title": "SHANE JONES: NZ Gene Technology Bill: The Vote That Never Was",
-        "url": "https://realitycheck.radio/episodes/shane-jones-nz-gene-technology-bill-the-vote-that-never-was/",
-        "date_utc": "2026-10-11T21:55:44Z",
+        "title": "PAUL HENRY: NZ Coalition Deadlock: Can Strategic Voting Shift the Balance of Power?",
+        "url": "https://realitycheck.radio/episodes/paul-henry-nz-coalition-deadlock-can-strategic-voting-shift-the-balance-of-power/",
+        "date_utc": "2026-10-14T02:59:21Z",
         "summary": ""
       },
       {
-        "title": "SHANE JONES: NZ First’s Immigration Stance: Protecting Kiwis From Displacement In Their Own Land",
-        "url": "https://realitycheck.radio/episodes/shane-jones-nz-firsts-immigration-stance-protecting-kiwis-from-displacement-in-their-own-land/",
-        "date_utc": "2026-10-11T21:55:10Z",
+        "title": "SUE GREY: NZ’s Outdoor & Freedoms Party: Dismantling the Nanny State at the Ballot Box",
+        "url": "https://realitycheck.radio/episodes/sue-grey-nzs-outdoor-freedoms-party-dismantling-the-nanny-state-at-the-ballot-box/",
+        "date_utc": "2026-10-14T02:59:04Z",
         "summary": ""
       }
     ],
     "youtube": [
       {
+        "title": "KATHRYN ENNIS-CARTER",
+        "url": "https://www.youtube.com/watch?v=qWD74UEpHaM",
+        "date_utc": "2026-10-14T13:02:35+00:00",
+        "summary": "Public management adviser Kathryn Ennis-Carter joins Paul Brennan to examine the historical rivalries, religious divisions and geopolitical interests shaping the conflict in the Middle East. She argues that media coverage often overlooks key players and underlying tensions, including the Sunni-Shia divide, while focusing heavily on Donald Trump and Benjamin Netanyahu. Kathryn also discusses propaganda, political misrepresentation and the competing strategic interests of the United States, Europe and Middle Eastern powers. Catch up on this series: Part 1 | The Middle East’s Hidden Power Struggle Part 2 | Tracing the Deep Roots of the Middle East Conflict Think for yourself. Get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "STEVE KEEN",
+        "url": "https://www.youtube.com/watch?v=2adbMazZehk",
+        "date_utc": "2026-10-14T13:02:00+00:00",
+        "summary": "Michael Arbon speaks with Professor Steve Keen, a distinguished research fellow at UCL, about Australia's reliance on imported fuel, the drivers of inflation and the risks of excessive household debt. They examine AI's potential to reshape employment, the decline of Australian manufacturing and the role of finance in housing unaffordability. Steve also challenges mainstream economic assessments of climate change, warning that the consequences of inaction could be catastrophic. Discover more from Steve on his website SteveKeen.com , YouTube and X Find Michael on Facebook and X"
+      },
+      {
+        "title": "HARRY MOWBRAY",
+        "url": "https://www.youtube.com/watch?v=u_8x3ejG8IM",
+        "date_utc": "2026-10-14T13:01:31+00:00",
+        "summary": "Paul Brennan speaks with businessman and organic farmer Harry Mowbray about his vote-splitting strategy to create a parliamentary overhang and strengthen the centre-right under MMP. They debate wasted party votes, coalition politics and electoral reform, before turning to economic growth, personal responsibility and the risks of genetic engineering to organic farming, including cross-pollination and liability for contamination. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
+      },
+      {
+        "title": "ROAD TRIPPIN’ WITH MEAGAN, DEAN & BUSTER",
+        "url": "https://www.youtube.com/watch?v=b7cPBqLTwCk",
+        "date_utc": "2026-10-14T13:01:13+00:00",
+        "summary": "Paul Brennan catches up with RCR road-trippers Dean Harrison and Meagan McNamara as they travel New Zealand in a branded camper, meeting supporters and sharing stories ahead of the 7 November election. They discuss public concerns about the country’s direction, the personal impact of mandates and vaccine injuries and the importance of open conversations, community connections and speaking up. Keep up to date with the RCR tour on Facebook , Instagram and X For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang and tactical voting at Vote Smart"
+      },
+      {
+        "title": "Paul Goldsmith on National’s approach to the supermarket issue.",
+        "url": "https://www.youtube.com/shorts/bdNhOU9IzRU",
+        "date_utc": "2026-10-14T07:15:02+00:00",
+        "summary": "“We’ve spent the last three years looking to reduce barriers to new competition coming into the supermarket space. The RMA reforms, the Fast-track legislation… just makes it easier for people to do things”. Tane Webster spoke to National MP Paul Goldsmith in New Plymouth."
+      },
+      {
+        "title": "Will be more than quarter of a million dollars better off by the time that nurse gets to 65",
+        "url": "https://www.youtube.com/shorts/3LVD3IZ5Z10",
+        "date_utc": "2026-10-14T06:01:20+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"Will be more than quarter of a million dollars better off by the time that nurse gets to 65.\" - Paul Henry, ACT Party List Candidate Henry says a 25-year-old nurse on around $100,000, contributing the minimum to KiwiSaver, could end up more than $250,000 better off under ACT's tax-free investment returns policy. Is that enough to change the way New Zealanders save for retirement? 🎥 Watch here: https://rcr.media/episodes/paul-henry-act-party-list-candidate-acts-plan-to-overhaul-superannuation-and-kiwisaver Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "Winston Peters fires back at Paul Henry",
+        "url": "https://www.youtube.com/shorts/fSg4lzarelQ",
+        "date_utc": "2026-10-14T05:15:07+00:00",
+        "summary": "\"Where's your plan to grow the economy?\" - Winston Peters, NZ First Leader @winstonpeters @nzfirst Peters fires back at Paul Henry, challenging him to explain how New Zealand should lift its economy from $455 billion to $900 billion and close the gap with countries like Australia. Is criticising the numbers enough without a clear growth plan? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-party-leader-peters-sets-out-growth-vision Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news"
+      },
+      {
+        "title": "There'll be a whole line of little bar stools all around the back",
+        "url": "https://www.youtube.com/shorts/ZEuk1Xe2q9E",
+        "date_utc": "2026-10-14T05:01:00+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"There'll be a whole line of little bar stools all around the back.\" - Maurice Williamson, Former National MP Williamson jokes that a large overhang could leave Parliament physically scrambling to fit extra MPs into the chamber. Funny image aside, could strategic electorate voting leave New Zealand with a much bigger Parliament than voters expect? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-bob-mccoskrie-maurice-williamson-strategic-voting-why-this-election-is-different Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "RCR's Jack Ryan spoke to ACT candidate Paul Henry at the ACT Party campaign launch in Auckland",
+        "url": "https://www.youtube.com/watch?v=pHZ1OJNSWmc",
+        "date_utc": "2026-10-14T04:00:15+00:00",
+        "summary": "ACT candidate Paul Henry on what ACT can offer that other parties can’t, the Paris Agreement, the Gene Tech Bill, and why Kiwis should vote for ACT. RCR's Jack Ryan spoke to ACT candidate Paul Henry at the ACT Party campaign launch in Auckland."
+      },
+      {
+        "title": "Paul Goldsmith on AUKUS",
+        "url": "https://www.youtube.com/shorts/8CZfpNwH2XM",
+        "date_utc": "2026-10-14T03:00:03+00:00",
+        "summary": "“Like everybody else in the world, after we’ve seen what’s happened in Ukraine, are reinvesting more in defence. Part of that of course is that we want to make sure we develop our own domestic defence industry”. Tane Webster spoke to National MP Paul Goldsmith in New Plymouth. #RCRMedia"
+      },
+      {
+        "title": "Sue Grey says the only real strategy is to vote for what you actually want",
+        "url": "https://www.youtube.com/shorts/hsa7Mw08v3A",
+        "date_utc": "2026-10-13T23:35:49+00:00",
+        "summary": "Sue Grey says the only real strategy is to vote for what you actually want, and argues some of her candidates have a “really good chance” of winning an electorate. Maree Buscke pushes back with the polling, the numbers and the scale of the task. Watch the full interview: https://rcr.media/episodes/sue-grey-nz-outdoors-freedom-party-leader-direct-democracy-putting-power-back-in-the-hands-of-the-people Explore the numbers for yourself: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news"
+      },
+      {
+        "title": "Paul Goldsmith on what National is doing for the oil and gas industry",
+        "url": "https://www.youtube.com/shorts/q-kRTAMMR1k",
+        "date_utc": "2026-10-13T21:00:00+00:00",
+        "summary": "“We’ve opened up exploration and we’re doing everything we can to encourage the sector to rebuild”. Tane Webster spoke to National MP Paul Goldsmith in New Plymouth."
+      },
+      {
+        "title": "The most important issue in some ways facing the country...",
+        "url": "https://www.youtube.com/shorts/7HE2gHWBMCc",
+        "date_utc": "2026-10-13T19:02:16+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"The most important issue in some ways facing the country, or certainly one of the most important issues, is a lack of productivity growth over not just years but decades.\" - Don Brash, Former Reserve Bank Governor Brash says New Zealand's productivity problem has been building for decades, yet governments keep avoiding the harder reforms needed to fix it. Why isn't this one of the biggest issues of the election campaign? Paul Brennan discusses the election with former Reserve Bank governor and National Party leader Don Brash and former minister Matt Robson. 🎥 Watch here: https://rcr.media/episodes/don-brash-matt-robson-former-nz-reserve-bank-governor-auckland-barrister-billionaire-morality-productivity-strategic-voting Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "Deputy leader of NZ First Shane Jones on a range of issues",
+        "url": "https://www.youtube.com/watch?v=ZEw2pxa8gMc",
+        "date_utc": "2026-10-13T19:00:38+00:00",
+        "summary": "RCR's Tane Webster interviewed Deputy leader of NZ First Shane Jones on a range of issues including immigration, oil exploration, critical minerals, the Paris Agreement, gene technology, organic farming and more."
+      },
+      {
         "title": "This is what they do, what the deep state does when they want people destroyed",
         "url": "https://www.youtube.com/shorts/QbsfRbf2otQ",
         "date_utc": "2026-10-13T18:02:23+00:00",
         "summary": "🌐 https://RCR.Media | \"This is what they do, what the deep state does when they want people destroyed.\" - Reiner Fuellmich Fuellmich says the campaign against him went far beyond a court case and was designed to destroy him and his family financially. How much of this story has the public still not been told? 🎥 Watch here: https://rcr.media/episodes/reiner-fuellmich-imprisoned-german-former-lawyer-spokesman-for-the-corona-investigative-committee-reiner-fuellmich-speaks-out-from-behind-bars #RCRMedia"
-      },
-      {
-        "title": "Peters argues New Zealand should be asking harder questions about diet, lifestyle and prevention",
-        "url": "https://www.youtube.com/shorts/iUpJwkVfCx0",
-        "date_utc": "2026-10-13T17:30:32+00:00",
-        "summary": "\"We've got twice as many chronic illnesses and diseases… twice as many than we used to have.\" - Winston Peters, Foreign Minister and NZ First Party Leader Peters argues New Zealand should be asking harder questions about diet, lifestyle and prevention instead of focusing only on regulating natural health products. Are we paying enough attention to what is driving chronic illness in the first place? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-party-leader-peters-sets-out-growth-vision Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news"
-      },
-      {
-        "title": "GARDENING WITH WALLY",
-        "url": "https://www.youtube.com/watch?v=Gjpz07R15RQ",
-        "date_utc": "2026-10-13T13:03:02+00:00",
-        "summary": "Rodney Hide and gardening expert Wally Richards look back at New Zealand gardens of the 1950s and 60s, contrasting rich, worm-filled soil with modern chemical-based practices. Richards recommends natural fertilisers, mineral-rich rock dust and rainwater to support soil health and better-tasting vegetables. They also discuss food security, changing shopping habits and the importance of growing and preserving food at home amid concerns about future weather extremes and supply disruptions. For more information: Wally’s Gardening and Health Products Wally's Books Garden News NZ To join Wally's Weekly Garden Newsletter, email Wally at wallyjr@gardenews.co.nz RCR Action Tracker | Say No To Gene Tech Want to know what’s really happening with our food? Get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "FIONA ROSE DIAMOND",
-        "url": "https://www.youtube.com/watch?v=3LwxWW4id-g",
-        "date_utc": "2026-10-13T13:02:39+00:00",
-        "summary": "Paul Brennan speaks with UK campaigner and law student Fiona Rose Diamond about a Dutch civil case brought by seven people who say they were harmed by the Pfizer Covid vaccine. With a substantive hearing due on 22 October, they discuss the 17 defendants, expert evidence, the case’s wider claims and why Fiona believes it could have far-reaching implications for accountability. For further information: Visit The Netherlands Case or the Case Overview Watch the short film by Covileaks ​or find CoviLeaks on X Visit CoviLeaks.co.uk | Fiona's original 2020 site, now an archive that includes the Truth Be Told campaign for the vaccine injured and bereaved Find Fiona on Substack | Her post “Setting the Record Straight” is her own account of her arrests and convictions Check out Fiona's campaign against Digital ID site MassNonCompliance.com ​"
-      },
-      {
-        "title": "TECH TUESDAY",
-        "url": "https://www.youtube.com/watch?v=B-SIP8IAYWk",
-        "date_utc": "2026-10-13T13:02:00+00:00",
-        "summary": "Paul Brennan and Steven discuss listener feedback on de-Googled phones, digital identification and privacy, before examining Signal’s move towards phone-number-free registration and concerns over Dropbox’s access to stored files. They explore the Netherlands’ plans for open-source software to strengthen digital sovereignty, the privacy risks of connected vehicles, and why protecting data from unauthorised access is not the same as questioning whether it should be collected at all. For the very latest news get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "THE WILMS REPORT",
-        "url": "https://www.youtube.com/watch?v=IVBTIFLWQG4",
-        "date_utc": "2026-10-13T13:01:47+00:00",
-        "summary": "Paul Brennan and Tim Wilms of The Unshackled discuss Australia’s political landscape, including CPAC, One Nation’s Victorian election campaign and the Coalition’s immigration pledges. They examine the proposed digital duty-of-care legislation and Wilms outlines One Nation’s law-and-order policies ahead of Victoria’s state election. Discover more from Tim at The Unshackled"
-      },
-      {
-        "title": "WINSTON PETERS",
-        "url": "https://www.youtube.com/watch?v=fO2cTUkbE2A",
-        "date_utc": "2026-10-13T13:01:46+00:00",
-        "summary": "Paul Brennan’s weekly interview with Winston Peters covers NZ First’s opposition to tighter regulation of natural health products, Peters’ defence of his abortion comments and plans to replace the accredited employer work visa system. He outlines proposals to lift wages and family support, argues for stronger economic growth, criticises rival parties and discusses overseas voting, foreign policy and his campaign’s momentum ahead of the election. Discover more from Winston Peters on X , Facebook and Instagram For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, tactical voting and wasted votes at Vote Smart"
-      },
-      {
-        "title": "It has begun. 🚶‍➡️🚶‍♀️‍➡️ ✉️ 📬️",
-        "url": "https://www.youtube.com/shorts/vgCoxL_VxB0",
-        "date_utc": "2026-10-13T07:36:36+00:00",
-        "summary": "It has begun. 🚶‍➡️🚶‍♀️‍➡️ ✉️ 📬️ www.votesmart2026.co.nz"
-      },
-      {
-        "title": "RCR's Jack Ryan spoke to ACT candidate Cameron Luxton at the ACT Party campaign launch in Auckland",
-        "url": "https://www.youtube.com/shorts/RNL2SnEDjWs",
-        "date_utc": "2026-10-13T06:30:35+00:00",
-        "summary": "ACT candidate Cameron Luxton on what ACT is offering voters that National isn’t, which policy that failed to get through last time would they make priority for this election, and a message for undecided voters. RCR's Jack Ryan spoke to ACT candidate Cameron Luxton at the ACT Party campaign launch in Auckland."
-      },
-      {
-        "title": "Legalisation of cannabis will open up an industry",
-        "url": "https://www.youtube.com/shorts/Idr_3BS0mzE",
-        "date_utc": "2026-10-13T05:01:08+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"Legalisation of cannabis will open up an industry.\" - Maki Herbert, Co-Leader of the Aotearoa Legalise Cannabis Party Herbert says cannabis should be regulated more like tobacco and alcohol, with adult-use rules and tax collected through a legal market. Would regulation be more effective than continuing prohibition? 🎥 Watch here: https://rcr.media/episodes/maki-herbert-co-leader-of-the-aotearoa-legalise-cannabis-party-cannabis-legalisation-30-years-and-still-fighting-2 Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
-      },
-      {
-        "title": "RCR spoke to Green MP Scott Willis",
-        "url": "https://www.youtube.com/watch?v=Frp3Lr3dKS8",
-        "date_utc": "2026-10-13T04:47:52+00:00",
-        "summary": "RCR spoke to Green MP Scott Willis about an LNG terminal, the Greens energy policy, tax changes, renewables and fossil fuels."
-      },
-      {
-        "title": "Paul Goldsmith on right wing strategic voting",
-        "url": "https://www.youtube.com/shorts/NEcUMZqW3Dw",
-        "date_utc": "2026-10-13T04:30:20+00:00",
-        "summary": "“Party vote is the critical thing, but also for the local candidate. It’s the party vote that determines the makeup of the Government”. Tane Webster spoke to National MP Paul Goldsmith in New Plymouth."
-      },
-      {
-        "title": "RCR's Jack Ryan speaks with Opportunity Party’s Glendene candidate Evan French",
-        "url": "https://www.youtube.com/shorts/adcdxNuRfaI",
-        "date_utc": "2026-10-13T00:37:58+00:00",
-        "summary": "RCR's Jack Ryan asked Opportunity Party’s Glendene candidate Evan French about why he is running for Opportunity, what they have to offer NZ going forward, and what is the biggest issue facing the country at the moment."
-      },
-      {
-        "title": "It's the first time where if it happens... it might make the difference as to which party can...",
-        "url": "https://www.youtube.com/shorts/dsC8IHoT_G4",
-        "date_utc": "2026-10-12T23:02:10+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"It's the first time where if it happens... it might make the difference as to which party can actually form a government.\" - Graeme Edgeler, Constitutional & Electoral Law Expert Edgeler says an overhang is still far from certain, but Election 2026 could be the first time it has genuine consequences for coalition arithmetic. Should voters understand this quirk of MMP before casting their electorate vote? 🎥 Watch here: https://rcr.media/episodes/graeme-edgeler-constitutional-electoral-law-expert-strategic-voting-under-mmp Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
-      },
-      {
-        "title": "Shane Jones on the Labour party's opposition to oil and gas",
-        "url": "https://www.youtube.com/shorts/aTA9F2GfxgQ",
-        "date_utc": "2026-10-12T20:00:33+00:00",
-        "summary": "“Once they get a better grip on what the entirety of the nation is facing, then the likes of Megan Woods and her vanities and her indulgence beliefs will become a party of history\". Tane Webster spoke with Shane Jones, NZ First candidate for Northland."
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "How Many People Are Embracing Solar Technology?",
+        "url": "https://www.youtube.com/watch?v=pS1UYL9GXMQ",
+        "date_utc": "2026-10-14T06:34:48+00:00",
+        "summary": "Locky Mulholland, CEO of Acquasol on how many people are embracing Solar technology."
+      },
+      {
+        "title": "Drug Testing Teachers & How Tough It Is For Kids Being Around Drugs",
+        "url": "https://www.youtube.com/watch?v=7MiNfO6fUNc",
+        "date_utc": "2026-10-14T02:49:21+00:00",
+        "summary": "Mark Bridges, Principal of Solway Primary School on drug testing teachers and how tough it is for kids being around drugs."
+      },
+      {
+        "title": "Are The NZ Loyal Party Beyond The Fringe? Kelvyn Alp Makes Their Case.",
+        "url": "https://www.youtube.com/watch?v=sz5SIjD5Vcw",
+        "date_utc": "2026-10-14T01:17:34+00:00",
+        "summary": "Are the NZ Loyal party beyond the fringe? Leader Kelvyn Alp makes their case."
+      },
+      {
+        "title": "Former Judge On Whether The Live US Execution Should Be Barred In NZ",
+        "url": "https://www.youtube.com/watch?v=gSuwVZMU-Ys",
+        "date_utc": "2026-10-14T01:04:59+00:00",
+        "summary": "Former Judge David Harvey on whether the live US execution should be barred to NZ viewers"
+      },
+      {
+        "title": "What The TVNZ/Verian Poll Really Says",
+        "url": "https://www.youtube.com/watch?v=xsJWI8n77q0",
+        "date_utc": "2026-10-14T00:42:19+00:00",
+        "summary": "What the TVNZ/Verian poll really says"
+      },
+      {
+        "title": "Is Life Insurance The Wrong Cover To Buy First? – YMM",
+        "url": "https://www.youtube.com/watch?v=PyL8GCVWw8E",
+        "date_utc": "2026-10-14T00:18:15+00:00",
+        "summary": "Your Money Matters with Harness Financial Episode 59 - Is Life Insurance the Wrong Cover to Buy First? Make smart decisions for your financial future with Samuel Rees-Thomas and Dieter Timmerman from Harness Financial. Find out more at - www.harnessfinancial.co.nz"
+      },
+      {
+        "title": "John Alcock On Concerns Around Digital ID",
+        "url": "https://www.youtube.com/watch?v=7IF56oaHB5E",
+        "date_utc": "2026-10-13T23:57:46+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Jordan Williams On Taxpayer Union’s Anti-Labour Ad Campaign",
+        "url": "https://www.youtube.com/watch?v=YsVia4_Lp10",
+        "date_utc": "2026-10-13T23:32:54+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Sean Plunket Reacts To Uneventful Minor Party Leaders Debate",
+        "url": "https://www.youtube.com/watch?v=0FyKgJGcaqk",
+        "date_utc": "2026-10-13T23:12:56+00:00",
+        "summary": ""
+      },
       {
         "title": "Water Bills Will Cripple Us All, Says Wellington's Deputy Mayor",
         "url": "https://www.youtube.com/watch?v=yO1e32ypYIQ",
@@ -253,60 +307,6 @@
         "title": "Winston Peters On Scrapping The Accredited Work Visa Scheme",
         "url": "https://www.youtube.com/watch?v=9XZ2A1q8Ch4",
         "date_utc": "2026-10-12T22:10:30+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Juliet Moses On October 7th Commemoration & Counter Protests",
-        "url": "https://www.youtube.com/watch?v=5haTx8xqPU8",
-        "date_utc": "2026-10-12T22:09:50+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Are The Conservative Party Wasting Their followers’ Votes?",
-        "url": "https://www.youtube.com/watch?v=MeexMD_YEyg",
-        "date_utc": "2026-10-12T07:59:32+00:00",
-        "summary": "Are the Conservative Party wasting their followers’ votes? Leader Helen Houghton explains."
-      },
-      {
-        "title": "Property Managers Concerned Of Labour's Rent Plans",
-        "url": "https://www.youtube.com/watch?v=3YIQKiS-X1s",
-        "date_utc": "2026-10-12T04:55:12+00:00",
-        "summary": "Sarina Gibbon, Founder & Director of Tenancy Advisory on property managers being concerned of Labour's rent plans."
-      },
-      {
-        "title": "'Boomer Bashing Vote’ - How Ageism Is Alive This Election",
-        "url": "https://www.youtube.com/watch?v=vZT87AHumNo",
-        "date_utc": "2026-10-12T04:47:24+00:00",
-        "summary": "Yvonne van Dongen: 'Boomer Bashing Vote’ - How ageism is alive this election."
-      },
-      {
-        "title": "Markets & Politics With Ashley Church 12/10/26",
-        "url": "https://www.youtube.com/watch?v=Ed44MHBH9HI",
-        "date_utc": "2026-10-12T04:15:20+00:00",
-        "summary": "This week Ashley discusses the Leaders Debate, ACT’s fiscal plans, NZ First scrapping the Accredited Working Visa, Greens spending taxpayer money, National drug testing beneficiaries and more."
-      },
-      {
-        "title": "The David Tamihere Murder/Compensation issue",
-        "url": "https://www.youtube.com/watch?v=gRO75Y6b7qE",
-        "date_utc": "2026-10-12T02:34:05+00:00",
-        "summary": "The David Tamihere murder/compensation issue - researcher and podcaster Ryan Wolf outlines the true background. The David Tamihere murder/compensation issue - researcher and podcaster Ryan Wolf outlines the true background."
-      },
-      {
-        "title": "College Principal On National’s Pledge To Keep All Kids At School",
-        "url": "https://www.youtube.com/watch?v=J88FbYZ24Uw",
-        "date_utc": "2026-10-12T00:52:40+00:00",
-        "summary": "Rangitoto College principal Greg Thornton on National’s pledge to keep all kids at school under they’ve completed Year 11."
-      },
-      {
-        "title": "TVNZ Interviewed Michael Laws",
-        "url": "https://www.youtube.com/watch?v=rIQA-Wswiy8",
-        "date_utc": "2026-10-12T00:41:30+00:00",
-        "summary": "TVNZ interviewed Michael Laws - their questioning line revealed their agenda."
-      },
-      {
-        "title": "Greg Murphy On Bathurst 2026 Race",
-        "url": "https://www.youtube.com/watch?v=G_ptEFxvi4Q",
-        "date_utc": "2026-10-11T23:06:58+00:00",
         "summary": ""
       }
     ],
