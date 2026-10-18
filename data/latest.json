@@ -1,8 +1,20 @@
 {
-  "generated_utc": "2026-10-17T14:08:31Z",
+  "generated_utc": "2026-10-18T14:28:02Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Cultural Capture",
+        "url": "https://realitycheck.radio/cultural-capture/",
+        "date_utc": "2026-10-18T03:18:07Z",
+        "summary": "by Muriel Newman Earlier this year, at a time of […]"
+      },
+      {
+        "title": "The Pretence of Certainty",
+        "url": "https://realitycheck.radio/the-pretence-of-certainty/",
+        "date_utc": "2026-10-16T20:15:47Z",
+        "summary": "by Guy Hatchard Last week we published an article “The […]"
+      },
       {
         "title": "You don’t even have to like them",
         "url": "https://realitycheck.radio/you-dont-even-have-to-like-them/",
@@ -82,18 +94,6 @@
         "summary": "by Rodney Hide Hat tip to Katrina Biggs. Her Substack, […]"
       },
       {
-        "title": "The question at the heart of this election",
-        "url": "https://realitycheck.radio/the-question-at-the-heart-of-this-election/",
-        "date_utc": "2026-10-10T06:04:17Z",
-        "summary": "by Richard Prebble “Is it morally acceptable for any one […]"
-      },
-      {
-        "title": "My ‘Dirty Work’ Mention",
-        "url": "https://realitycheck.radio/my-dirty-work-mention/",
-        "date_utc": "2026-10-09T22:02:16Z",
-        "summary": "by Peter Williams Although it’s been the most talked-about book […]"
-      },
-      {
         "title": "MAX BROUGH: New Plymouth Mayor: Can Councils Survive the Rates Cap?",
         "url": "https://realitycheck.radio/episodes/max-brough-new-plymouth-mayor-can-councils-survive-the-rates-cap/",
         "date_utc": "2026-10-16T04:50:00Z",
@@ -125,6 +125,12 @@
       }
     ],
     "youtube": [
+      {
+        "title": "But there are seats where candidates last election won by 10 votes, or 19 votes, or 129",
+        "url": "https://www.youtube.com/shorts/hdy_cTE0UJg",
+        "date_utc": "2026-10-18T05:01:09+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"But there are seats where candidates last election won by 10 votes, or 19 votes, or 129.\" - Maurice Williamson, Former National MP Williamson argues Election 2026 could come down to a surprisingly small number of votes in several electorates. His advice to voters: make both votes count. Have you looked at how close your own electorate was last time? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-bob-mccoskrie-maurice-williamson-strategic-voting-why-this-election-is-different Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
       {
         "title": "\"Transgender passion fruit\" sounds like satire, but Henry says the terminology appeared in...",
         "url": "https://www.youtube.com/shorts/U83Xmzu6wZw",
@@ -208,12 +214,6 @@
         "url": "https://www.youtube.com/shorts/sfXEqo5cAB0",
         "date_utc": "2026-10-15T20:01:07+00:00",
         "summary": "🌐 https://RCR.Media | ELECTION 2026 \"It's like it's not First Past the Post, someone should tell him.\" - Rodney Hide Hide says Luxon is campaigning too much as though the election is simply National versus Labour, rather than a contest between possible governing blocs. Has MMP fundamentally changed what voters should be looking at when they choose a party? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-your-vote-your-values-your-strategy Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia #WednesdayWebinar"
-      },
-      {
-        "title": "Yeah, Buster thinks it's important that we speak.",
-        "url": "https://www.youtube.com/shorts/2P1FOkYgOTw",
-        "date_utc": "2026-10-15T19:01:30+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"Yeah, Buster thinks it's important that we speak.\" - Dean Harrison Even Buster has apparently joined the campaign for more open conversation. Behind the humour, RCR road-trippers Dean Harrison and Meagan McNamara say the road trip is about meeting people, speaking up and reconnecting ahead of the election. What conversations do you think New Zealand most needs to have? 🎥 Watch here: https://rcr.media/episodes/road-trippin-with-meagan-dean-buster-the-rcr-road-trip-bringing-kiwis-together Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
       }
     ]
   },
