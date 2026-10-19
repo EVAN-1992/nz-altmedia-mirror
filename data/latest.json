@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-18T14:28:02Z",
+  "generated_utc": "2026-10-19T17:24:42Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,60 @@
     ],
     "youtube": [
       {
+        "title": "ANDREW LOWENTHAL",
+        "url": "https://www.youtube.com/watch?v=K1rXRlFKAj4",
+        "date_utc": "2026-10-19T13:04:32+00:00",
+        "summary": "Michael Arbon speaks with Andrew Lowenthal, journalist and founder of Liber-net, about Australia’s proposed Digital Duty of Care Bill and its implications for free speech and privacy. They examine vague definitions of online harm, potential government surveillance through AI-powered “sock puppet” identities, and the under-16 social media ban. Lowenthal argues the measures risk censorship, undermine parental responsibility and expand government control over online expression. Discover more from Andrew at Brownstone or find him on X Find from Michael on Facebook and X"
+      },
+      {
+        "title": "PATRICK WOOD",
+        "url": "https://www.youtube.com/watch?v=pWRNs0l7atw",
+        "date_utc": "2026-10-19T13:02:54+00:00",
+        "summary": "Paul Brennan speaks with Patrick Wood, independent journalist and founder of Technocracy News, about his new book Crucible of Tokens and the implications of asset tokenisation. Patrick argues that converting homes, shares and other assets into digital tokens could separate people from legal ownership, leaving them dependent on custodians for access. For more information: Check out Technocracy News or find Patrick on Substack His Substack article | Beware of tokenized gold as industry For an excerpt of Crucible of Tokens For more on Patrick's books"
+      },
+      {
+        "title": "DAVID HARVEY",
+        "url": "https://www.youtube.com/watch?v=3AtEKor5UIg",
+        "date_utc": "2026-10-19T13:01:44+00:00",
+        "summary": "Paul Brennan speaks with former District Court judge David Harvey about Labour’s proposed ban on social media for under-16s and a digital duty of care for online platforms. Harvey argues that vague safety requirements could lead to state-backed censorship, expanded broadcasting regulation and restrictions on freedom of expression, while undermining parental rights. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
+      },
+      {
+        "title": "GARRICK CARR & MARK CROOKSTON",
+        "url": "https://www.youtube.com/watch?v=VH3Yn4XbuLY",
+        "date_utc": "2026-10-19T13:01:26+00:00",
+        "summary": "Simon O’Connor speaks with Mark Crookston, Director of Digital at the National Library and Archives New Zealand, and Garrick Parr, Pacific Area Manager of FamilySearch International, about their partnership making historical records easier to discover. They explain how Papers Past’s millions of digitised pages can help people uncover family stories, strengthen their sense of identity and explore New Zealand’s past, with full-text searches making discoveries far easier than searching old microfilm. For more information: National Library | Papers Past Family Search"
+      },
+      {
+        "title": "🌐 https://RCR.Media | ELECTION 2026",
+        "url": "https://www.youtube.com/shorts/oM7E8DZv_pM",
+        "date_utc": "2026-10-19T06:00:40+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"It is as easy as one two three to check whether or not you are entitled to vote from overseas.\" - Katie Ashby-Koppens Around a million New Zealanders are estimated to be living overseas, and Ashby-Koppens says voting from abroad can be remarkably straightforward. Could overseas Kiwis become a much bigger factor in Election 2026 than many expect? 🎥 Watch here: https://rcr.media/episodes/legal-hub-katie-ashby-koppens-overseas-votes-the-who-pandemic-agreement Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "If it's going to be a two-way race between Chlöe and Labour, I'd vote Labour.",
+        "url": "https://www.youtube.com/shorts/128QetZIi9M",
+        "date_utc": "2026-10-19T05:00:33+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"If it's going to be a two-way race between Chlöe and Labour, I'd vote Labour.\" - Rodney Hide Rodney Hide voting Labour? He says he would consider exactly that in Auckland Central if it were the strategic way to defeat Chlöe Swarbrick. Should your electorate vote be about your favourite candidate, or who has the best chance of changing the result? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-your-vote-your-values-your-strategy Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "RCR contributor Lisa Spencer speaks to political commentator Hugo Lennon at BACPAC",
+        "url": "https://www.youtube.com/watch?v=BCzAMTKi25c",
+        "date_utc": "2026-10-19T00:00:13+00:00",
+        "summary": "RCR contributor Lisa Spencer speaks to Australian nationalist activist and political commentator Hugo Lennon about immigration, nationalism and One Nation at the British Australian Community Political Action Conference."
+      },
+      {
+        "title": "RCR contributor Lisa Jane Spencer speaks with Evelyn Rae at BACPAC",
+        "url": "https://www.youtube.com/shorts/whWakvwB1K8",
+        "date_utc": "2026-10-18T23:57:41+00:00",
+        "summary": "RCR contributor Lisa Jane Spencer speaks with Evelyn Rae, Christian conservative political commentator and writer, about anglophobia and the Australian identity."
+      },
+      {
+        "title": "The tax break that could transform NZ - Harry Mowbray",
+        "url": "https://www.youtube.com/shorts/-ibfKHJes2M",
+        "date_utc": "2026-10-18T19:30:26+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"If you want to make this country go, you give 100% depreciation on investment in the first year.\" - Harry Mowbray, Multi-Business Owner & Organic Farmer Mowbray argues faster depreciation would encourage businesses to reinvest, expand and create more jobs instead of tying capital up for years. Would stronger tax incentives for investment do more for growth than simply taxing businesses harder? 🎥 Watch here: https://rcr.media/episodes/harry-mowbray-multi-business-owner-organic-farmer-strategic-voting-and-the-fight-to-preserve-our-organic-future Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
         "title": "But there are seats where candidates last election won by 10 votes, or 19 votes, or 129",
         "url": "https://www.youtube.com/shorts/hdy_cTE0UJg",
         "date_utc": "2026-10-18T05:01:09+00:00",
@@ -160,65 +214,53 @@
         "url": "https://www.youtube.com/watch?v=d2Oqnwo2D0Q",
         "date_utc": "2026-10-16T13:02:23+00:00",
         "summary": "Paul Brennan speaks with psychotherapist and author Dr Stella O’Malley, founder of Genspect, about approaches to gender-related distress among young people. Stella argues for psychological support before medical intervention, raises concerns about social transition and online influence and discusses links she observes between autism and gender identification. She urges parents to maintain their authority, question proposed interventions and prioritise their children’s long-term wellbeing. Don't miss the Genspect NZ Conference 2026 | Saturday 17th October, Wellington For further information: Check out Stella O'Malley's website or Substack Visit the Genspect website"
-      },
-      {
-        "title": "MAX BROUGH",
-        "url": "https://www.youtube.com/watch?v=aHJvKV8icUs",
-        "date_utc": "2026-10-16T13:02:20+00:00",
-        "summary": "Paul Brennan speaks with New Plymouth Mayor Max Brough about the Super Local Conference, proposed rates caps and the future of regional councils. Max argues that local government needs to refocus on core services, reduce overheads and embrace structural reform rather than resist change. For more from Max Brough or find him on Facebook For the latest political news, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "GUY HATCHARD",
-        "url": "https://www.youtube.com/watch?v=Vpum60RW91M",
-        "date_utc": "2026-10-16T13:01:45+00:00",
-        "summary": "Dr Guy Hatchard joins Paul Brennan to discuss rising emergency department presentations in New Zealand, highlighting a reported 33% increase in serious cases since 2021. Hatchard argues that the health system needs to investigate possible causes, including the effects of mRNA vaccines, rather than focusing solely on staffing and resources. They also discuss pharmaceutical influence, preventive health measures, personal responsibility and the need for greater scrutiny and open debate. Discover more from Guy at the Hatchard Report or find him on Facebook For news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "THE BRENNAN BAROMETER",
-        "url": "https://www.youtube.com/watch?v=2jt9dp-IdoA",
-        "date_utc": "2026-10-16T13:01:43+00:00",
-        "summary": "The fight to Save Sam Bailey Paul Brennan calls on RCR supporters to help Dr Sam Bailey raise the remaining funds needed to pay $250,000 in fines and costs imposed through Medical Council disciplinary proceedings. To contribute, visit GiveSendGo For news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "PETER WILLIAMS ON POLITICS",
-        "url": "https://www.youtube.com/watch?v=3G1L6iyRmRo",
-        "date_utc": "2026-10-16T13:00:44+00:00",
-        "summary": "Peter Williams reviews a week of election debates, polling and campaign events, examining the pivotal roles of minor parties in determining the next government. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
-      },
-      {
-        "title": "The private sector is the major creator of money through private banks.",
-        "url": "https://www.youtube.com/shorts/iK0R99W-QKo",
-        "date_utc": "2026-10-16T07:01:22+00:00",
-        "summary": "🇦🇺 🌐 https://RCR.Media | \"The private sector is the major creator of money through private banks.\" - Steve Keen, Distinguished Research Fellow at UCL @ProfSteveKeen 🇦🇺 Keen says mainstream economics focuses too heavily on government money creation while overlooking the role of private bank lending. Are we having the wrong debate about what actually drives inflation? 🎥 Watch here: https://rcr.media/episodes/steve-keen-distinguished-research-fellow-at-ucl-steve-keen-challenges-the-economic-status-quo #RCRMedia"
-      },
-      {
-        "title": "If you're an ACT or a National voter in Epsom or Tamaki, you'd be foolish to be giving your...",
-        "url": "https://www.youtube.com/shorts/yiQ0SpIRDUI",
-        "date_utc": "2026-10-16T05:01:05+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"If you're an ACT or a National voter in Epsom or Tamaki, you'd be foolish to be giving your electorate vote to ACT.\" - Rodney Hide Rodney Hide's message is blunt: under the current polling scenario, he says ACT voters in Epsom should consider giving their electorate vote to National. Has the old Epsom strategy now been turned completely on its head? He explains exactly why, and how both still win. 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-your-vote-your-values-your-strategy Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
-      },
-      {
-        "title": "Well, people are going to learn that lesson just like they learned it in Epsom.",
-        "url": "https://www.youtube.com/shorts/TALg8FbCgfU",
-        "date_utc": "2026-10-16T04:00:47+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"Well, people are going to learn that lesson just like they learned it in Epsom.\" - Rodney Hide Hide says Epsom voters learned to vote strategically and never went back. Could National now face the same problem if its supporters decide their party vote has more impact elsewhere? Is that National's biggest fear? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-your-vote-your-values-your-strategy Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
-      },
-      {
-        "title": "This time, it's not true",
-        "url": "https://www.youtube.com/shorts/9REIHR1Ev3k",
-        "date_utc": "2026-10-15T23:01:57+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"This time, it's not true.\" - Maurice Williamson, Former National MP Williamson says National has spent decades drilling in the message that \"the party vote counts\", but argues this election's dynamics mean that old advice no longer tells the whole story. Has MMP reached a point where voters need to think much more strategically about both ticks? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-bob-mccoskrie-maurice-williamson-strategic-voting-why-this-election-is-different Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
-      },
-      {
-        "title": "It's like it's not First Past the Post, someone should tell him.",
-        "url": "https://www.youtube.com/shorts/sfXEqo5cAB0",
-        "date_utc": "2026-10-15T20:01:07+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"It's like it's not First Past the Post, someone should tell him.\" - Rodney Hide Hide says Luxon is campaigning too much as though the election is simply National versus Labour, rather than a contest between possible governing blocs. Has MMP fundamentally changed what voters should be looking at when they choose a party? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-your-vote-your-values-your-strategy Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia #WednesdayWebinar"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Airways NZ Spent Thousands On Unjustified Rainbow Accreditation",
+        "url": "https://www.youtube.com/watch?v=x2R2PrakW0g",
+        "date_utc": "2026-10-19T05:30:22+00:00",
+        "summary": "Chris Lynch on Airways NZ spending thousands on Rainbow accreditation without justification."
+      },
+      {
+        "title": "Harsher Penalties For Those Who Commit Illegal Dumping",
+        "url": "https://www.youtube.com/watch?v=pDDI136KXGg",
+        "date_utc": "2026-10-19T05:08:06+00:00",
+        "summary": "Andrew Hoggard, CT's Rural Communities Spokesperson - Harsher penalties for those who commit illegal dumping."
+      },
+      {
+        "title": "Outrage Over Certain Political Parties Campaigning At Gang Pads",
+        "url": "https://www.youtube.com/watch?v=5_zJYuPSLXU",
+        "date_utc": "2026-10-19T05:01:07+00:00",
+        "summary": "Louise Parsons, Sensible Sentencing Trust Spokesperson - Outrage over certain political parties campaigning at gang pads."
+      },
+      {
+        "title": "Psychometric Testing Is The Employer Fashion - HR Expert Explains Why",
+        "url": "https://www.youtube.com/watch?v=ZW9EVkR5bcM",
+        "date_utc": "2026-10-19T00:41:36+00:00",
+        "summary": "Psychometric testing is all the employer fashion - HR expert Kelly Fairhurst explains the reasons why"
+      },
+      {
+        "title": "Bipartisan Efforts To Solve The Aged Care Crisis",
+        "url": "https://www.youtube.com/watch?v=gV32ubzK0jI",
+        "date_utc": "2026-10-18T22:31:39+00:00",
+        "summary": "Former Labour leader David Cunliffe on bipartisan efforts to solve the aged care crisis"
+      },
+      {
+        "title": "Winston Peters On Trains, Public Meeting And The Right To Silence.",
+        "url": "https://www.youtube.com/watch?v=F8uDV8ytk6A",
+        "date_utc": "2026-10-18T22:21:40+00:00",
+        "summary": "The trains are coming back! Winston Peters on trains, public meeting and the right to silence."
+      },
+      {
+        "title": "Michael Laws Explains: Why A Party Vote For National, Is A Wasted Vote",
+        "url": "https://www.youtube.com/watch?v=3dM-7XXuyiQ",
+        "date_utc": "2026-10-18T22:06:18+00:00",
+        "summary": "Michael Laws explains: Why a party vote for National, is a wasted vote"
+      },
       {
         "title": "He’s back! Bigger and badder than ever - Taxpayers union's Jordan Williams",
         "url": "https://www.youtube.com/watch?v=BQrrKuozdGQ",
@@ -266,48 +308,6 @@
         "url": "https://www.youtube.com/watch?v=A_cX9LsAy-4",
         "date_utc": "2026-10-16T00:08:00+00:00",
         "summary": "Hugh Devereux-Mack, Spokesman for COLFO - The Firearms Safety Authority secretly lobbied for another firearms buyback and a gun limit."
-      },
-      {
-        "title": "Endless Nominations For The Friday Fry Up",
-        "url": "https://www.youtube.com/watch?v=3iFmLyIsNug",
-        "date_utc": "2026-10-15T23:39:32+00:00",
-        "summary": "Brought to you by Beard Brothers, crafted with care the old school way."
-      },
-      {
-        "title": "Free Speech Fridays #178 – Taine Randell & James Meager",
-        "url": "https://www.youtube.com/watch?v=qw7UZYualS8",
-        "date_utc": "2026-10-15T23:27:46+00:00",
-        "summary": "Free Speech Fridays with Taine Randell & James Meager is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss Election debates, Green Party and TPM Gang Visit, Man attacked by tiger in the UK, and more."
-      },
-      {
-        "title": "Nigel Woodley On Anti-Semitic Rally In Christchurch",
-        "url": "https://www.youtube.com/watch?v=4Nk5ZKeq7OI",
-        "date_utc": "2026-10-15T23:00:51+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Mark Mitchell On Greens & TPM Visit To The Mongrel Mob",
-        "url": "https://www.youtube.com/watch?v=LUTUER6xvg0",
-        "date_utc": "2026-10-15T22:42:07+00:00",
-        "summary": "Mark Mitchell on Greens and Te Pāti Māori visit to the Mongrel Mob"
-      },
-      {
-        "title": "Sean Plunket Reacts To The Anti-National Agenda At The Silver Scroll Awards",
-        "url": "https://www.youtube.com/watch?v=r6-4MLqUifg",
-        "date_utc": "2026-10-15T22:04:58+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Labour's Airline Policy Is Mostly Actually Already In Place",
-        "url": "https://www.youtube.com/watch?v=1b99i5BaW-k",
-        "date_utc": "2026-10-15T20:30:05+00:00",
-        "summary": "Jon Duffy, CEO of Consumer NZ - Labour's airline policy is mostly actually already in place."
-      },
-      {
-        "title": "High Court To Challenge Police & Customs' Strip-Search Policies",
-        "url": "https://www.youtube.com/watch?v=7Saibf500L0",
-        "date_utc": "2026-10-15T20:29:03+00:00",
-        "summary": "Suzanne Levy, Speak Up For Women Spokesperson - The High Court to challenge Police and Customs' strip-search policies."
       }
     ],
     "opinions": [
