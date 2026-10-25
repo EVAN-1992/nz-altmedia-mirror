@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-24T14:24:38Z",
+  "generated_utc": "2026-10-25T14:54:56Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,24 @@
     ],
     "youtube": [
       {
+        "title": "They basically want to kind of dictate to you what you can and cannot see online.",
+        "url": "https://www.youtube.com/shorts/kD4s-UUqhmk",
+        "date_utc": "2026-10-25T07:01:35+00:00",
+        "summary": "🇦🇺 🌐 https://RCR.Media | \"They basically want to kind of dictate to you what you can and cannot see online.\" - Andrew Lowenthal, Journalist and Founder of Liber-net 🇦🇺 If government forces social feeds toward only content from accounts users already follow, the damage may not stop at free speech. It could shut small and medium businesses out from reaching new customers organically. Has anyone properly counted the economic cost of \"My Feed My Way\"? 🎥 Watch here: https://rcr.media/episodes/andrew-lowenthal-journalist-and-founder-of-liber-net-australias-digital-duty-of-care-bill-a-threat-to-free-speech #RCRMedia"
+      },
+      {
+        "title": "A lot of New Zealanders watch overseas, and they don't want that to happen to our country.",
+        "url": "https://www.youtube.com/shorts/FZWAK-07-j8",
+        "date_utc": "2026-10-25T04:01:10+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"A lot of New Zealanders watch overseas, and they don't want that to happen to our country.\" - Winston Peters, NZ First Party Leader Peters says unrest in parts of Europe is making New Zealanders question what happens when immigration grows without enough emphasis on integration. Are we learning from what is happening overseas before similar tensions emerge here? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-digital-duty-of-care-could-restrict-access-to-information Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "Here come these two political parties, hugging them and saying that their behaviour is...",
+        "url": "https://www.youtube.com/shorts/G8sF_S8jS-s",
+        "date_utc": "2026-10-24T18:02:17+00:00",
+        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"Here come these two political parties, hugging them and saying that their behaviour is legitimate and it's everybody else's fault? Just a great shame.\" - Winston Peters, NZ First Party Leader Peters says there is a huge difference between trying to reform gang members and appearing to excuse their behaviour. Will this become one of the defining issues voters remember when they enter the polling booth? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-digital-duty-of-care-could-restrict-access-to-information Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
         "title": "YOUNG PATRIOTS",
         "url": "https://www.youtube.com/watch?v=4yOjyFsXSLI",
         "date_utc": "2026-10-24T13:02:32+00:00",
@@ -196,24 +214,6 @@
         "url": "https://www.youtube.com/watch?v=Qm1HrKZzNCU",
         "date_utc": "2026-10-23T03:18:39+00:00",
         "summary": "Join Claire Deeks and Alia Bland for RCR’s Lolly Scramble webinar. A relaxed, informative look at MMP, strategic voting, overhangs and “wasted” votes. They also explore the videos, tools and resources at www.votesmart2026.co.nz, plus how you can get involved in RCR’s flyer campaign and letterbox drop to help more New Zealanders make informed voting choices."
-      },
-      {
-        "title": "RCR contributor Lisa Spencer speaks to Australian political commentator Hugo Lennon",
-        "url": "https://www.youtube.com/shorts/kn7Fbfj3Hac",
-        "date_utc": "2026-10-22T21:00:36+00:00",
-        "summary": "RCR contributor Lisa Spencer speaks to Australian nationalist activist and political commentator Hugo Lennon about how he became involved in nationalism at the British Australian Community Political Action Conference."
-      },
-      {
-        "title": "JAN RIVERS",
-        "url": "https://www.youtube.com/watch?v=SQIb7Qxx0b8",
-        "date_utc": "2026-10-22T13:13:03+00:00",
-        "summary": "Jan Rivers, spokeswoman for Genspect New Zealand and Public Good, discusses the High Court’s ruling on the government’s puberty blocker restrictions. She argues that the case focused on consultation and legal process rather than a full assessment of the medical evidence and says opposing perspectives were given insufficient weight. With prescriptions continuing and an appeal being sought, Jan says that the debate over children’s welfare and future policy is far from over. For more from Jan visit Public Good & Genspect or find Jan on X and Substack"
-      },
-      {
-        "title": "LAURA MCCLURE",
-        "url": "https://www.youtube.com/watch?v=jftSJSRdVrk",
-        "date_utc": "2026-10-22T13:04:20+00:00",
-        "summary": "ACT list MP Laura McClure discusses a proposed policy to integrate trade qualifications into high school, allowing students to earn industry credits while keeping university pathways open. For more on Laura McClure or find her on Facebook and Instagram For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
       }
     ]
   },
