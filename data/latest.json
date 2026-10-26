@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-10-25T14:54:56Z",
+  "generated_utc": "2026-10-26T17:15:26Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Cracks are appearing in the managerialist utopia",
+        "url": "https://realitycheck.radio/cracks-are-appearing-in-the-managerialist-utopia/",
+        "date_utc": "2026-10-24T22:39:46Z",
+        "summary": "by Mitch Sutton In order to make political change, it […]"
+      },
       {
         "title": "It seems like a bad deal",
         "url": "https://realitycheck.radio/it-seems-like-a-bad-deal/",
@@ -88,43 +94,67 @@
         "summary": "by Richard Prebble Commentators cannot understand the Greens and Te […]"
       },
       {
-        "title": "The Pretence of Certainty",
-        "url": "https://realitycheck.radio/the-pretence-of-certainty/",
-        "date_utc": "2026-10-16T20:15:47Z",
-        "summary": "by Guy Hatchard Last week we published an article “The […]"
-      },
-      {
-        "title": "YOUNG PATRIOTS: With Marcus Follin: The Great Replacement and European Politics",
-        "url": "https://realitycheck.radio/episodes/young-patriots-with-marcus-follin-the-great-replacement-and-european-politics/",
-        "date_utc": "2026-10-23T21:02:27Z",
+        "title": "HUGO LENNON: One Nation’s Identity Crisis: Should Immigration Be Its Defining Battle?",
+        "url": "https://realitycheck.radio/episodes/hugo-lennon-one-nations-identity-crisis-should-immigration-be-its-defining-battle/",
+        "date_utc": "2026-10-25T23:49:55Z",
         "summary": ""
       },
       {
-        "title": "ERIKA HARVEY & KIRSTEN MURFITT: Lobby for Good Spokesperson & Tauranga Lawyer: Auditor General’s Review of Marine Precinct Sale",
-        "url": "https://realitycheck.radio/episodes/erika-harvey-kirsten-murfitt-lobby-for-good-spokesperson-tauranga-lawyer-auditor-generals-review-of-marine-precinct-sale/",
-        "date_utc": "2026-10-23T04:49:07Z",
+        "title": "ALFRED NGARO: Covid’s Social Scar: Has Society’s Fractured Trust Ever Really Healed?",
+        "url": "https://realitycheck.radio/episodes/alfred-ngaro-covids-social-scar-has-societys-fractured-trust-ever-really-healed/",
+        "date_utc": "2026-10-25T23:44:08Z",
         "summary": ""
       },
       {
-        "title": "A POLITICAL AGENDA: With Chantelle Baker & Joel Rowlands: The Opportunity Party’s New Image Under Scrutiny",
-        "url": "https://realitycheck.radio/episodes/a-political-agenda-with-chantelle-baker-joel-rowlands-the-opportunity-partys-new-image-under-scrutiny/",
-        "date_utc": "2026-10-23T01:25:05Z",
+        "title": "PATRICK WOOD: Life Audit Uncensored: Is It a Key or a Deed You’re Holding?",
+        "url": "https://realitycheck.radio/episodes/patrick-wood-life-audit-uncensored-is-it-a-key-or-a-deed-youre-holding/",
+        "date_utc": "2026-10-25T23:43:44Z",
         "summary": ""
       },
       {
-        "title": "PETER WILLIAMS ON POLITICS: TOP’s Rise Raises Election Questions",
-        "url": "https://realitycheck.radio/episodes/peter-williams-on-politics-tops-rise-raises-election-questions/",
-        "date_utc": "2026-10-23T00:08:20Z",
+        "title": "SIMON ANGELO: NZ Tax Cut to 20%: The Game Changer Outpacing Australia and Singapore",
+        "url": "https://realitycheck.radio/episodes/simon-angelo-nz-tax-cut-to-20-the-game-changer-outpacing-australia-and-singapore/",
+        "date_utc": "2026-10-25T23:43:23Z",
         "summary": ""
       },
       {
-        "title": "DON BRASH & MATT ROBSON: Former Reserve Bank Governor & Auckland Barrister: Fiscal Reality, Online Censorship & NZ’s Independence",
-        "url": "https://realitycheck.radio/episodes/don-brash-matt-robson-former-reserve-bank-governor-auckland-barrister-fiscal-reality-online-censorship-nzs-independence/",
-        "date_utc": "2026-10-22T21:41:40Z",
+        "title": "WEEKLY ROUNDUP: Homogeneity vs Diversity: Does Social Trust Depend On Sameness?",
+        "url": "https://realitycheck.radio/episodes/weekly-roundup-homogeneity-vs-diversity-does-social-trust-depend-on-sameness/",
+        "date_utc": "2026-10-25T23:43:05Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "NORMAN LEWIS",
+        "url": "https://www.youtube.com/watch?v=iFEjJXtQRmU",
+        "date_utc": "2026-10-26T13:02:02+00:00",
+        "summary": "Paul Brennan speaks with Dr Norman Lewis, Senior Research Fellow at the Freedom and Sovereignty Initiative Europe, about the EU’s Democracy Shield and Digital Services Act. Norman argues that expanding restrictions on online speech, election-related monitoring and pre-bunking initiatives risk undermining democratic accountability and suppressing dissent. He warns that growing efforts to control public debate could erode free speech, but believes ordinary people’s resistance offers grounds for optimism. Discover more from Norman on Substack and X"
+      },
+      {
+        "title": "MICHAEL ARBON OPINION",
+        "url": "https://www.youtube.com/shorts/eBDUALWoQF8",
+        "date_utc": "2026-10-26T13:00:59+00:00",
+        "summary": "Michael Arbon argues that Australia’s luxury car tax has outlived its original purpose since domestic car manufacturing ended in 2017. Discover more from Michael on Facebook and X"
+      },
+      {
+        "title": "\"Young people generally go Green and then they grow up and become sensible.\" - David Harvey, Retired",
+        "url": "https://www.youtube.com/shorts/40Sm5Pj3Uoo",
+        "date_utc": "2026-10-26T07:00:58+00:00",
+        "summary": "\"Young people generally go Green and then they grow up and become sensible.\" - David Harvey, Retired Judge Harvey doesn't hold back while discussing proposals for votes at 16 alongside restrictions on social media access. Is there a political contradiction in saying teenagers can make an informed choice at the ballot box but not online? 🎥 Watch here: https://rcr.media/episodes/david-harvey-retired-judge-labours-digital-duty-of-care-is-a-censorship-model Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "\"How are we going to make sure that we can build safeguards into the future.\" - Alfred Ngaro, NZ Fir",
+        "url": "https://www.youtube.com/shorts/p9zJiw3DXzE",
+        "date_utc": "2026-10-26T06:00:36+00:00",
+        "summary": "\"How are we going to make sure that we can build safeguards into the future.\" - Alfred Ngaro, NZ First Candidate and Former Cabinet Minister Ngaro says the COVID debate should not only be about looking backwards, but about making sure future governments cannot repeat decisions that damaged trust and divided families. What safeguards should New Zealand put in place before the next national emergency? 🎥 Watch here: https://rcr.media/episodes/alfred-ngaro-nz-first-candidate-and-former-cabinet-minister-trust-cost-of-living-and-housing-top-voters-concerns Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
+      {
+        "title": "\"I think the real game changer is reducing the company tax from 28% to 20%.\" - Simon Angelo",
+        "url": "https://www.youtube.com/shorts/m6evLFBBs4s",
+        "date_utc": "2026-10-26T06:00:28+00:00",
+        "summary": "\"I think the real game changer is reducing the company tax from 28% to 20%.\" - Simon Angelo Angelo says NZ First's company tax policy could suddenly make New Zealand more competitive with Australia and Singapore, and far more attractive for businesses looking to invest and grow. Could an 8-point company tax cut be one of the biggest economic policies of the election? 🎥 Watch here: https://rcr.media/episodes/money-talks-with-simon-angelo-investors-eye-election-policy Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
+      },
       {
         "title": "They basically want to kind of dictate to you what you can and cannot see online.",
         "url": "https://www.youtube.com/shorts/kD4s-UUqhmk",
@@ -184,36 +214,6 @@
         "url": "https://www.youtube.com/watch?v=UqDOHYXN2Yk",
         "date_utc": "2026-10-23T13:02:56+00:00",
         "summary": "Paul Brennan is joined by Erika Harvey of Lobby for Good and Tauranga lawyer Kirsten Murfitt to discuss the Auditor-General’s findings about the sale of the city’s Marine Precinct for just under $14 million. They challenge the findings, question the deal’s value for ratepayers and describe their efforts to scrutinise council property transactions. Find more from Kirsten at KM Law or follow Kirsten Murfitt on Facebook For more on Erika, visist Erika Harvey website , Lobby For Good or find Lobby for Good on X"
-      },
-      {
-        "title": "DON BRASH & MATT ROBSON",
-        "url": "https://www.youtube.com/watch?v=yYdO5tvq14k",
-        "date_utc": "2026-10-23T13:02:07+00:00",
-        "summary": "Don Brash and Matthew Robson rejoin Paul Brennan to debate New Zealand’s rising debt, the cost of an ageing population and competing approaches to economic growth. They question closer military alignment with the United States, warn against expanding online censorship powers and discuss the need for early intervention to prevent crime. Despite their political differences, both argue for greater scrutiny of government policy and more informed public debate. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
-      },
-      {
-        "title": "PETER WILLIAMS ON POLITICS",
-        "url": "https://www.youtube.com/watch?v=8_hGz-gA9N4",
-        "date_utc": "2026-10-23T13:01:14+00:00",
-        "summary": "Peter Williams analyses the latest election polls, Māori electorate contests and the potential for the Opportunity Party to become a kingmaker, warning that its economic policies could undermine New Zealand’s growth. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
-      },
-      {
-        "title": "On the basis of so many other comments I've heard others make, I can't believe this is happening.",
-        "url": "https://www.youtube.com/shorts/-0S11vb9imI",
-        "date_utc": "2026-10-23T06:00:26+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"On the basis of so many other comments I've heard others make, I can't believe this is happening.\" - Winston Peters @winstonpeters - NZ First Party Leader @nzfirst Peters says plenty of others have made inflammatory public comments without police turning up at their homes. So why Tamaki? Is this about the words, or who is saying them? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-digital-duty-of-care-could-restrict-access-to-information Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia"
-      },
-      {
-        "title": "Nobody talks to these people. They treat them as persona non grata.",
-        "url": "https://www.youtube.com/shorts/UkKRg-hNEho",
-        "date_utc": "2026-10-23T05:00:59+00:00",
-        "summary": "🌐 https://RCR.Media | ELECTION 2026 \"Nobody talks to these people. They treat them as persona non grata.\" - Yvonne van Dongen From Brian Tamaki rallies to the Parliament protest, Ani O'Brien @aniobrien and Yvonne van Dongen argue the same pattern keeps repeating: some groups are treated as legitimate voices, while others are written off before they're even heard. Is the media reporting political movements, or deciding which ones deserve credibility? 🎥 Watch here: https://rcr.media/episodes/the-fourth-estate-nathan-smith-with-ani-obrien-and-yvonne-van-dongen-political-spin-and-the-power-of-endorsement Learn more about your vote and MMP: www.VoteSmart2026.co.nz 📫 Stay across Election 2026. Get RCR’s Bites FREE: https://BiteMe.news #RCRMedia #TheFourthEstate"
-      },
-      {
-        "title": "RCR Wednesday Webinars - Vote Smart 2026 Lolly Scramble",
-        "url": "https://www.youtube.com/watch?v=Qm1HrKZzNCU",
-        "date_utc": "2026-10-23T03:18:39+00:00",
-        "summary": "Join Claire Deeks and Alia Bland for RCR’s Lolly Scramble webinar. A relaxed, informative look at MMP, strategic voting, overhangs and “wasted” votes. They also explore the videos, tools and resources at www.votesmart2026.co.nz, plus how you can get involved in RCR’s flyer campaign and letterbox drop to help more New Zealanders make informed voting choices."
       }
     ]
   },
