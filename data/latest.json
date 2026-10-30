@@ -1,8 +1,20 @@
 {
-  "generated_utc": "2026-10-29T17:22:41Z",
+  "generated_utc": "2026-10-30T16:58:50Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "The importance of being a smart voter",
+        "url": "https://realitycheck.radio/the-importance-of-being-a-smart-voter/",
+        "date_utc": "2026-10-29T23:05:36Z",
+        "summary": "by Richard Prebble An Epsom National supporter asked whether he […]"
+      },
+      {
+        "title": "National’s overhang problem is finally out in the open",
+        "url": "https://realitycheck.radio/nationals-overhang-problem-is-finally-out-in-the-open/",
+        "date_utc": "2026-10-29T22:28:14Z",
+        "summary": "by Peter Williams The overhang finally came into mainstream media […]"
+      },
       {
         "title": "Natural Health Products Consultation – Feedback Guide",
         "url": "https://realitycheck.radio/natural-health-products-consultation-feedback-guide/",
@@ -13,7 +25,13 @@
         "title": "Have Your Say: Government Proposes New Regulation of Natural Health Products",
         "url": "https://realitycheck.radio/have-your-say-government-proposes-new-regulation-of-natural-health-products/",
         "date_utc": "2026-10-29T04:00:42Z",
-        "summary": "Submissions close Monday, 2 November 2026 at 11:59 pm Katie […]"
+        "summary": ""
+      },
+      {
+        "title": "Two votes, use them",
+        "url": "https://realitycheck.radio/662947-2/",
+        "date_utc": "2026-10-29T03:00:49Z",
+        "summary": "by Rodney Hide National Party pollster David Farrar had this […]"
       },
       {
         "title": "You Don’t Need To Defend Frivolous Speech",
@@ -76,149 +94,191 @@
         "summary": "by Keri Molloy New Zealand shows little for some $30 […]"
       },
       {
-        "title": "Before Labour gets a ‘duty of care’ for your kid’s feed, check its record on their heart",
-        "url": "https://realitycheck.radio/before-labour-gets-a-duty-of-care-for-your-kids-feed-check-its-record-on-their-heart/",
-        "date_utc": "2026-10-23T20:21:59Z",
-        "summary": "by Joshua Riley DPH advised ending vaccine passes for under-18s. […]"
-      },
-      {
-        "title": "Opportunity needs a reality check",
-        "url": "https://realitycheck.radio/opportunity-needs-a-reality-check/",
-        "date_utc": "2026-10-23T01:05:11Z",
-        "summary": "by Peter Williams We can all start voting on Monday, […]"
-      },
-      {
-        "title": "MAURICE WILLIAMSON: Former National Party MP & Cabinet Minister: The Overhang Equation – How Split Voting Could Return the Coalition by Two Seats",
-        "url": "https://realitycheck.radio/episodes/maurice-williamson-former-national-party-mp-cabinet-minister-the-overhang-equation-how-split-voting-could-return-the-coalition-by-two-seats/",
-        "date_utc": "2026-10-29T06:58:02Z",
+        "title": "THE BRENNAN BAROMETER: Split Your Vote to Keep the Left Out",
+        "url": "https://realitycheck.radio/episodes/the-brennan-barometer-split-your-vote-to-keep-the-left-out/",
+        "date_utc": "2026-10-30T05:26:14Z",
         "summary": ""
       },
       {
-        "title": "SUZANNE LEVY: Speak Up For Women NZ Spokeswoman: High Court Challenge to Police and Customs Strip-Search Policies",
-        "url": "https://realitycheck.radio/episodes/suzanne-levy-speak-up-for-women-nz-spokeswoman-high-court-challenge-to-police-and-customs-strip-search-policies/",
-        "date_utc": "2026-10-29T01:53:56Z",
+        "title": "THE FOURTH ESTATE: Maree Buscke with Dane Giraud & Peter Williams: Election Overhang Threatens to Reshape Parliament",
+        "url": "https://realitycheck.radio/episodes/the-fourth-estate-maree-buscke-with-dane-giraud-peter-williams-election-overhang-threatens-to-reshape-parliament/",
+        "date_utc": "2026-10-30T05:25:25Z",
         "summary": ""
       },
       {
-        "title": "WINSTON PETERS: NZ’s DEI Disaster: Is the Manawhanui Sinking a Wake-Up Call?",
-        "url": "https://realitycheck.radio/episodes/winston-peters-nzs-dei-disaster-is-the-manawhanui-sinking-a-wake-up-call/",
-        "date_utc": "2026-10-29T01:35:40Z",
+        "title": "DON BRASH & MATT ROBSON: Former Reserve Bank Governor & Auckland Barrister: Political Opposites Find Common Ground",
+        "url": "https://realitycheck.radio/episodes/don-brash-matt-robson-former-reserve-bank-governor-auckland-barrister-political-opposites-find-common-ground/",
+        "date_utc": "2026-10-30T01:14:20Z",
         "summary": ""
       },
       {
-        "title": "A POLITICAL AGENDA: Chantelle Baker & Joel Rowlands: Left Coalition Rising While the Right Implodes on Ego",
-        "url": "https://realitycheck.radio/episodes/a-political-agenda-chantelle-baker-joel-rowlands-left-coalition-rising-while-the-right-implodes-on-ego/",
-        "date_utc": "2026-10-29T01:35:26Z",
+        "title": "ALEX PRICE: ACT Candidate For Mount Albert: Cost of Living Blamed for Falling Birth Rate​",
+        "url": "https://realitycheck.radio/episodes/alex-price-act-candidate-for-mount-albert-cost-of-living-blamed-for-falling-birth-rate/",
+        "date_utc": "2026-10-30T00:30:30Z",
         "summary": ""
       },
       {
-        "title": "A POLITICAL AGENDA: Bob McCoskrie & Maurice Williamson: National Won Zero Electorates Without Tactical Voting",
-        "url": "https://realitycheck.radio/episodes/a-political-agenda-bob-mccoskrie-maurice-williamson-national-won-zero-electorates-without-tactical-voting/",
-        "date_utc": "2026-10-29T01:34:55Z",
-        "summary": ""
-      },
-      {
-        "title": "DON BRASH & MATT ROBSON: NZ Gang Crisis: Why Are We Waiting Until It’s Too Late?",
-        "url": "https://realitycheck.radio/episodes/don-brash-matt-robson-nz-gang-crisis-why-are-we-waiting-until-its-too-late/",
-        "date_utc": "2026-10-29T01:34:04Z",
+        "title": "PETER WILLIAMS ON POLITICS: National’s Overhang Problem is Finally Out in the Open",
+        "url": "https://realitycheck.radio/episodes/peter-williams-on-politics-nationals-overhang-problem-is-finally-out-in-the-open/",
+        "date_utc": "2026-10-29T23:00:26Z",
         "summary": ""
       }
     ],
     "youtube": [
       {
-        "title": "WEDNESDAY WEBINARS",
-        "url": "https://www.youtube.com/watch?v=UetzVZWsW0M",
-        "date_utc": "2026-10-29T13:03:51+00:00",
-        "summary": "Alia Bland’s open letter about Jacinda Ardern’s new academic role (which passed 1.2 million views) sets a positive tone as host Maree Buscke also welcomes Rodney Hide and Kathryn Ennis-Carter. The panel unpacks overhang seats, so-called wasted votes and strategic voting through lolly-themed videos, before Alia demonstrates the new Vote Check electorate tool and Kathryn weighs in on local government. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart . You can also see if your electorate is a close contest at Votecheck For more information: Check out Alia’s open letter on X and Facebook More RCR Election 2026 interviews For previous RCR webinars Jaspreet Boparai's opinion on TOP"
+        "title": "THE FOURTH ESTATE",
+        "url": "https://www.youtube.com/watch?v=kox45LfmrsQ",
+        "date_utc": "2026-10-30T13:05:44+00:00",
+        "summary": "Maree Buscke is joined by Peter Williams and Dane Giraud to discuss the case of Dr David Smiley, whose dealings with the Medical Council led to a lengthy disciplinary process and his departure for Canada. They question the powers of professional regulators and the limited media coverage, before turning to RNZ’s reporting of The Opportunity Party, the Greens’ engagement with gangs, strategic voting, the projected parliamentary overhang and what election coverage should focus on. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
       },
       {
-        "title": "SUZANNE LEVY",
-        "url": "https://www.youtube.com/watch?v=AGqJ1KhRKuQ",
-        "date_utc": "2026-10-29T13:03:27+00:00",
-        "summary": "Maree Buscke is joined by with Speak Up for Women spokeswoman Suzanne Levy to discuss their High Court challenge to police and customs strip-search policies, which use gender identity rather than sex. Suzanne explains why attempts to resolve the issue with authorities failed, discusses the legal implications for women’s privacy and protections and examines how the election and proposed definitions legislation could shape the future of sex-based rights in New Zealand. Discover more from Suzanne at Speak up for Women or find them on Facebook and X"
+        "title": "THE BRENNAN BAROMETER",
+        "url": "https://www.youtube.com/watch?v=94obhhiYxmQ",
+        "date_utc": "2026-10-30T13:04:00+00:00",
+        "summary": "Paul Brennan dropped by to give his end-of-week political barometer, and he wasn’t holding back. The message was crystal clear — tactical voting isn’t just smart, it’s the *only* weapon voters have right now to stop a Left bloc collision. Want to know how? Check out VoteSmart before it’s too late."
       },
       {
-        "title": "MAURICE WILLIAMSON",
-        "url": "https://www.youtube.com/watch?v=JJWu7ZPYNw0",
-        "date_utc": "2026-10-29T13:03:12+00:00",
-        "summary": "Paul Brennan speaks with former National MP and cabinet minister Maurice Williamson about the latest election polls and how MMP’s overhang rules could affect the result. Williamson argues that National could win more electorates than its party vote entitles it to, leaving it without list MPs. He defends strategic vote-splitting as legitimate under the current system and proposes changing MMP from a “minus” to a “plus” model so both votes count. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
+        "title": "DON BRASH & MATT ROBSON",
+        "url": "https://www.youtube.com/watch?v=GkUItCuv9ac",
+        "date_utc": "2026-10-30T13:03:50+00:00",
+        "summary": "Paul Brennan is rejoined by Don Brash and Matthew Robson to discuss claims linking diversity policies to the Navy ship Manawanui sinking, rising defence spending and New Zealand’s military alignment with the United States. They debate whether closer ties with BRICS could diversify trade, the implications of overseas elections and whether strategic vote-splitting could reshape the election result. For further information check out the PADCA Public Access drive For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
       },
       {
-        "title": "MEDIA MATTERS",
-        "url": "https://www.youtube.com/watch?v=9njsHytntsY",
-        "date_utc": "2026-10-29T13:01:57+00:00",
-        "summary": "Maree Buscke and Marty Gibson discuss Jacinda Ardern’s University of Sydney appointment, the erosion of working-class politics, rising fuel costs and the need for greater energy security. They examine the election’s two-bloc contest, the potential impact of the MMP overhang strategy and the importance of strengthening NZ First and ACT within the coalition. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart Alia's Open Letter to the University of Sydney on X RNZ | Literally illiterate – Luxon lashes Labour's economic record"
+        "title": "ALEX PRICE",
+        "url": "https://www.youtube.com/watch?v=VMpcJdHyiwg",
+        "date_utc": "2026-10-30T13:03:32+00:00",
+        "summary": "Maree Buscke interviews Alex Price, ACT candidate for Mount Albert and CEO of Fertility Associates, about healthcare inefficiencies, public-private cooperation and declining birth rates. Alex argues that better use of private providers could reduce waiting times, while housing and childcare costs contribute to smaller families. For more from Alex Price or find him on Facebook For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
       },
       {
-        "title": "RIDING SHOTGUN",
-        "url": "https://www.youtube.com/watch?v=WB6X5cIUdsI",
-        "date_utc": "2026-10-29T13:01:54+00:00",
-        "summary": "Rachel Stewart takes aim at Jacinda Ardern’s appointment as a professor of practice at the University of Sydney and controversial changes to Australian sex discrimination law. She criticises gender identity policies and male lactation, questioning the implications for women’s rights, infant safety and the legal recognition of biological sex. Discover more from Rachel on Substack and X"
+        "title": "FRANK SALTER",
+        "url": "https://www.youtube.com/watch?v=zDQsS48Yx60",
+        "date_utc": "2026-10-30T13:02:14+00:00",
+        "summary": "Frank Salter tackled the thorny topic of Anglophobia head-on, diving deep into academic theories of race, ethnicity, and nationalism. Together with Tim Wilms, they unpack whether multiculturalism truly delivers on its universal promise — or whether it’s been selectively applied, leaving some groups conveniently overlooked in the process."
       },
       {
-        "title": "DAVID FARRAR",
-        "url": "https://www.youtube.com/watch?v=zkNOnXBZgdg",
-        "date_utc": "2026-10-29T13:01:18+00:00",
-        "summary": "Paul Brennan speaks with Curia Market Research founder David Farrar about New Zealand’s knife-edge election and the risks of tactical voting. David warns that deliberately engineered overhangs could undermine proportional representation, weaken National by costing it experienced MPs and fuel political polarisation. He discusses possible electoral reforms, Germany’s approach and four scenarios for government formation, including the potential influence of The Opportunity Party. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart For more from David Farr visit KiwiBlog and Curia"
+        "title": "PETER WILLIAMS ON POLITICS",
+        "url": "https://www.youtube.com/watch?v=xZcQXYbgPQA",
+        "date_utc": "2026-10-30T13:02:09+00:00",
+        "summary": "Peter Williams examines how electorate-seat wins could increase the size of the next Parliament beyond its usual 120 members, with National potentially facing an overhang and Te Pāti Māori already projected to gain additional seats. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
       },
       {
-        "title": "\"I feel like I'm at an AA meeting for National Party members. G'day, my name is Alf.\" - Alfred Ngaro",
-        "url": "https://www.youtube.com/shorts/XqDiTOasSZI",
-        "date_utc": "2026-10-29T05:01:04+00:00",
-        "summary": "\"I feel like I'm at an AA meeting for National Party members. G'day, my name is Alf.\" - Alfred Ngaro, NZ First Candidate and Former Cabinet Minister Step one: admit you used to vote National. Step two: explain where the values went. Step three: apparently turn up at an NZ First meeting. Is there now a political recovery programme for disillusioned National voters? 🎥 Watch here: https://rcr.media/episodes/alfred-ngaro-nz-first-candidate-and-former-cabinet-minister-trust-cost-of-living-and-housing-top-voters-concerns Learn more about your vote and MMP: www.VoteSmart2026.co.nz #RCRMedia"
+        "title": "HUGO LENNON",
+        "url": "https://www.youtube.com/watch?v=weDvryM6pBk",
+        "date_utc": "2026-10-30T13:01:57+00:00",
+        "summary": "A fired-up nationalist took the mic to talk about his mission to defend Australian culture — starting on TikTok and expanding nationwide. He got candid about whether infiltrating mainstream political parties is the real play, or if building something entirely new is the smarter move. Bold ideas, zero filter."
       },
       {
-        "title": "\"Do you want the big giant douche or do you want the turd sandwich?\" - Marty Gibson",
-        "url": "https://www.youtube.com/shorts/uqn8UYW67Cg",
-        "date_utc": "2026-10-29T04:45:27+00:00",
-        "summary": "\"Do you want the big giant douche or do you want the turd sandwich?\" - Marty Gibson Not exactly the line either campaign will be putting on a billboard. Gibson and Buscke argue that when the two major parties increasingly occupy the same ground, MMP's smaller parties become the handbrake, steering wheel and occasionally the emergency exit. Are voters finally realising their second vote can matter more than ever? Maree Buscke and Marty Gibson are back with Media Matters. 🎥 Watch here: https://rcr.media/episodes/media-matters-are-the-major-parties-really-offering-a-choice #RCRMedia #MediaMatters"
+        "title": "HUGO LENNON",
+        "url": "https://www.youtube.com/shorts/IPVuA3SufPU",
+        "date_utc": "2026-10-30T13:01:54+00:00",
+        "summary": "RCR contributor Lisa Spencer speaks to Australian nationalist activist and political commentator Hugo Lennon about immigration at the British Australian Community Political Action Conference. #RCRMedia"
       },
       {
-        "title": "\"I think the National Party's two-tick strategy is just brain dead and could possibly lose the elect",
-        "url": "https://www.youtube.com/shorts/TOCj7OjGr0A",
-        "date_utc": "2026-10-29T03:46:08+00:00",
-        "summary": "\"I think the National Party's two-tick strategy is just brain dead and could possibly lose the election for the centre-right.\" - Michael Laws, NZ First Candidate, Otago Councillor & Broadcaster Laws says the maths of MMP and a possible Te Pāti Māori overhang make National's insistence on two ticks blue a potentially costly gamble. Could National's own strategy end up handing power to the centre-left? 🎥 Watch here: https://rcr.media/episodes/michael-laws-nz-first-candidate-otago-councillor-broadcaster-rogernomics-the-beginning-of-the-end #RCRMedia"
+        "title": "DAVID SEYMOUR",
+        "url": "https://www.youtube.com/shorts/J6v_NIt3Pbg",
+        "date_utc": "2026-10-30T13:01:32+00:00",
+        "summary": "Talking to RCR’s Jack Ryan, David Seymour says New Zealand’s bureaucracy needs a broad change in mindset, not agency-by-agency cuts, while saying ACT has no settled position on a Reserve Bank digital currency, declining to speculate on why National opposes strategic voting, and arguing that a vote for ACT keeps Labour out and Labour’s ideas away from National. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
       },
       {
-        "title": "RCR Wednesday Webinars - Politics: Vote Smart 2026",
-        "url": "https://www.youtube.com/watch?v=-p8rxm8vifs",
-        "date_utc": "2026-10-29T00:36:32+00:00",
-        "summary": "Maree Buscke is joined by Rodney Hide, Alia Bland and Katherine Ennis-Carter for a wide-ranging political discussion that begins with Alia's viral open letter following Ardern's appointment to an academic role focused on empathy and social cohesion. From there, the panel turns to the election itself, discussing the prospect of a Labour-led government, the latest polling, MMP, overhang seats, strategic voting and the electorate contests that could influence the makeup of the next Parliament. A lively discussion about the political past, the choices facing voters today, and what's at stake on 7 November."
+        "title": "PAUL GOLDSMITH",
+        "url": "https://www.youtube.com/watch?v=0AS5X65A1Fc",
+        "date_utc": "2026-10-30T13:01:31+00:00",
+        "summary": "RCR’s Tane Webster interviewed National’s Paul Goldsmith on a range of issues including oil exploration, supermarkets, strategic voting, AUKUS and more. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart #RCRMedia"
       },
       {
-        "title": "\"Is it a key or is it a deed?\" - Patrick Wood, Researcher, Author & Founder of Technocracy News",
-        "url": "https://www.youtube.com/shorts/nIe5WpIwgAo",
-        "date_utc": "2026-10-28T23:02:56+00:00",
-        "summary": "\"Is it a key or is it a deed?\" - Patrick Wood, Researcher, Author & Founder of Technocracy News Wood says people need to take stock of what they truly own versus what they merely have access to. If your access can be revoked, is it really ownership at all? 🎥 Watch here: https://rcr.media/episodes/patrick-wood-researcher-author-founder-of-technocracy-news-will-you-still-own-your-home-in-a-tokenised-economy #RCRMedia"
+        "title": "SHANE JONES",
+        "url": "https://www.youtube.com/watch?v=e64xt-d_hsw",
+        "date_utc": "2026-10-30T13:01:22+00:00",
+        "summary": "RCR’s Tane Webster interviewed Deputy leader of NZ First Shane Jones on a range of issues including immigration, oil exploration, critical minerals, the Paris Agreement, gene technology, organic farming and more. For election news that matters, Get RCR Bites FREE every weekday and find out everything about the overhang and tactical voting at Vote Smart #RCRMedia"
       },
       {
-        "title": "\"They only get to the start line in about 100,000 from now.\" - Maurice Williamson, Former National M",
-        "url": "https://www.youtube.com/shorts/G2rT4CVORwE",
-        "date_utc": "2026-10-28T19:02:31+00:00",
-        "summary": "\"They only get to the start line in about 100,000 from now.\" - Maurice Williamson, Former National MP Williamson says National's electorate strength means it may need around another 100,000 party votes before gaining even one additional MP from them. If that's correct, does \"two ticks blue\" still make mathematical sense? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-bob-mccoskrie-maurice-williamson-strategic-voting-why-this-election-is-different #RCRMedia"
+        "title": "SCOTT WILLIS",
+        "url": "https://www.youtube.com/watch?v=PQwNpx1xM3s",
+        "date_utc": "2026-10-30T13:01:17+00:00",
+        "summary": "Green energy spokesperson Scott Willis tells RCR’s Jack Ryan the party would cancel the proposed LNG terminal and create a state-owned KiwiPower, arguing New Zealand’s hydro and geothermal resources mean it doesn’t need fossil-fuel backup, and he rejects claims that its tax changes would drive wealthy people out of the country. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
       },
       {
-        "title": "KARLEEN GRIBBLE",
-        "url": "https://www.youtube.com/watch?v=t9WFq6SwnRo",
-        "date_utc": "2026-10-28T13:03:36+00:00",
-        "summary": "Professor Karleen Gribble, an academic and researcher at Western Sydney University, speaks with Michael Arbon about the recording of sex in Australian health data and the risks of inaccurate records. They discuss the shift towards gender-neutral language in healthcare, its implications for medical safety and research and how replacing terms such as “women” and “mothers” may affect public health communication and support for mothers. Discover more from Karleen Gribble Discover more from Michael on Facebook and X"
+        "title": "EVAN FRENCH",
+        "url": "https://www.youtube.com/shorts/Umfd5t8zLoo",
+        "date_utc": "2026-10-30T13:01:10+00:00",
+        "summary": "Talking with RCR’s Jack Ryan, Evan French, a 22-year-old Opportunity Party candidate for Glendene, says he is standing as a circuit breaker on left-right swings, calling for a high-tech, high-innovation economy that gives young people a reason to stay in New Zealand rather than head to Australia. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
       },
       {
-        "title": "WINSTON PETERS",
-        "url": "https://www.youtube.com/watch?v=lz6EJOhow7w",
-        "date_utc": "2026-10-28T13:02:23+00:00",
-        "summary": "Maree Buscke talks with NZ First leader Winston Peters on the party’s election campaign, covering the Covid-19 vaccine rollout, puberty blockers, fuel security and domestic oil exploration. Winston defends merit-based recruitment over diversity, equity and inclusion policies, highlights his party’s economic expertise and calls for growth above 3%. He dismisses current polling as unreliable, predicting NZ First will surprise its critics on election night. Discover more from Winston Peters on X , Facebook and Instagram For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
+        "title": "CAMERON LUXTON",
+        "url": "https://www.youtube.com/shorts/Orzwyq8XWzg",
+        "date_utc": "2026-10-30T13:01:03+00:00",
+        "summary": "Jack Ryan talks to ACT Party’s Cameron Luxton who says the party offers freedom, fewer rules and individual responsibility, declines to name a bottom-line policy and urges party votes for ACT to push its priorities. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
       },
       {
-        "title": "BOTH BARRELS",
-        "url": "https://www.youtube.com/watch?v=IBVVLXTJLJ4",
-        "date_utc": "2026-10-28T13:02:06+00:00",
-        "summary": "Maree Buscke and Rachel Stewart discuss election turnout, voter enrolment and misunderstandings about MMP, arguing for strategic voting to strengthen the current coalition. They examine the potential gains for ACT and New Zealand First, Labour’s handling of gang controversies and concerns about The Opportunities Party’s policies and censorship. They also share campaign observations, including a debt-monster costume shadowing Chris Hipkins.​ For further information: Check out Trevor Mallard's comments on X around advance voting For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart Discover more from Rachel on Substack and X"
+        "title": "CHRIS HIPKINS",
+        "url": "https://www.youtube.com/shorts/08AJE0F2a3k",
+        "date_utc": "2026-10-30T13:00:49+00:00",
+        "summary": "Tane Webster talks to Chris Hipkins who rejects the centre-right overhang strategy as an attempt to manipulate the electoral system and says the most strategic vote is simply for the party you want in government. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "The Woman Challenging Rural Women NZ On The Definition Of Gender",
+        "url": "https://www.youtube.com/watch?v=NFUDzFawDgk",
+        "date_utc": "2026-10-30T02:22:13+00:00",
+        "summary": "Emmy Maxwell - The woman challenging Rural Women New Zealand on the definition of gender."
+      },
+      {
+        "title": "Ron Mark On The Wokeness Within NZ's Defence Force",
+        "url": "https://www.youtube.com/watch?v=odep__aZvME",
+        "date_utc": "2026-10-30T02:14:24+00:00",
+        "summary": "Ron Mark, Former Defence Minister on the wokeness within NZ's Defence Force."
+      },
+      {
+        "title": "One Platform Host Gets Nominated In The Friday Fry Up",
+        "url": "https://www.youtube.com/watch?v=wg1sGoPXiWs",
+        "date_utc": "2026-10-30T00:14:55+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Free Speech Fridays #180 – Paul Henry & Don Brash",
+        "url": "https://www.youtube.com/watch?v=3B8R6bzX54Q",
+        "date_utc": "2026-10-30T00:03:28+00:00",
+        "summary": "Free Speech Fridays with Paul Henry & Don Brash is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss John Key’s Anti-Split Vote Campaign, Trevor Mallard claims Voter Suppression, Vero Insurance Data on Climate Changes claims, and more."
+      },
+      {
+        "title": "Govt App Logging Your Data, National’s MMP Claims & Political CVs",
+        "url": "https://www.youtube.com/watch?v=O968N-YuRaM",
+        "date_utc": "2026-10-29T23:52:48+00:00",
+        "summary": "Tameem Barakat on Government App Logging Your Data, National’s MMP Claims, and Political CVs."
+      },
+      {
+        "title": "Richard Prebble On Election Predictions, Who Will Make It & Who Won’t?",
+        "url": "https://www.youtube.com/watch?v=_YOXbqT-A7g",
+        "date_utc": "2026-10-29T22:54:02+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Commemorating Winning The Right For Women To Stand For Parliament",
+        "url": "https://www.youtube.com/watch?v=yehAp3tTbf8",
+        "date_utc": "2026-10-29T20:54:41+00:00",
+        "summary": "Jill Ovens, Women's Rights Party Secretary - Commemorating winning the right for women to stand for parliament."
+      },
+      {
+        "title": "Geoff Neal On Top 10 Voter Issues & Performance By Government",
+        "url": "https://www.youtube.com/watch?v=cvxhRjdcGMc",
+        "date_utc": "2026-10-29T20:28:27+00:00",
+        "summary": "Geoff Neal, Co-founder of Kiwi Performance Indicators discusses the Top 10 voter issues and performance by Government."
+      },
+      {
+        "title": "Breastfeeding Protections Extend To Biological Men In Australia",
+        "url": "https://www.youtube.com/watch?v=JdLfUTY-Ohw",
+        "date_utc": "2026-10-29T19:58:33+00:00",
+        "summary": "Sall Grover, Australian Women's Rights advocate on breastfeeding protections extend to biological men in Australia."
+      },
+      {
+        "title": "Retirement Village Residents Are Not Happy - Their President Explains",
+        "url": "https://www.youtube.com/watch?v=fSi8Qd3KCmc",
+        "date_utc": "2026-10-29T17:17:14+00:00",
+        "summary": "Retirement village residents are not happy - their president Brian Peat explains why"
+      },
       {
         "title": "The Incredible Story Of A GP Being Driven Out Of His Profession",
         "url": "https://www.youtube.com/watch?v=tjJVnx7mk48",
@@ -248,66 +308,6 @@
         "url": "https://www.youtube.com/watch?v=kPXWQTBkCJ0",
         "date_utc": "2026-10-28T22:02:17+00:00",
         "summary": ""
-      },
-      {
-        "title": "Harry Mowbray Says He is Funding Social Media Influencers To Promote Tactical Voting",
-        "url": "https://www.youtube.com/watch?v=lBFneGZbqis",
-        "date_utc": "2026-10-28T21:59:13+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Farmers With No Cellphone Coverage Since The 3G Network Shutdown",
-        "url": "https://www.youtube.com/watch?v=1k6n-7Sxx00",
-        "date_utc": "2026-10-28T02:42:00+00:00",
-        "summary": "Paul Brislen, Telecommunications Forum chief executive - Farmers with no cellphone coverage since the 3G network shutdown."
-      },
-      {
-        "title": "The NZ-Bred Potato That's Going To Revolutionise French Fries!",
-        "url": "https://www.youtube.com/watch?v=WOxzHQjXfF8",
-        "date_utc": "2026-10-28T02:23:04+00:00",
-        "summary": "Samantha Baldwin, Science Group Leader for Annual Crops at the Bioeconomy Science Institute on the NZ-bred potato that's going to revolutionise French fries!"
-      },
-      {
-        "title": "Latest Airline News With Irene King 28/10/26",
-        "url": "https://www.youtube.com/watch?v=yw1aDv1Xh2U",
-        "date_utc": "2026-10-28T01:54:41+00:00",
-        "summary": "Air NZ forecast a pre-tax loss of $338 million, Labour has announced a new policy to force airlines to show real prices up front, Jetstar’s new service from Christchurch to Perth and has restarted direct to Sydney and the opening of Western Sydney International Airport."
-      },
-      {
-        "title": "Chris Lynch Has Had Enough Of RNZ Bias",
-        "url": "https://www.youtube.com/watch?v=8RZsnSiiAnQ",
-        "date_utc": "2026-10-27T23:27:40+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Is Your KiwiSaver A Loser? – Your Money Matters",
-        "url": "https://www.youtube.com/watch?v=u62E6OLaD7c",
-        "date_utc": "2026-10-27T23:14:04+00:00",
-        "summary": "Your Money Matters with Harness Financial Episode 60 - Is Your KiwiSaver A Loser? Make smart decisions for your financial future with Samuel Rees-Thomas and Dieter Timmerman from Harness Financial. Find out more at - www.harnessfinancial.co.nz"
-      },
-      {
-        "title": "Louise Parsons On Fight With Chloe Swarbrick Over Auckland Billboards",
-        "url": "https://www.youtube.com/watch?v=UNEwdF7FWkg",
-        "date_utc": "2026-10-27T22:23:42+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Simon Court On NZ First’s Policy To Remove Emissions Trading Scheme",
-        "url": "https://www.youtube.com/watch?v=34TndHM0UOA",
-        "date_utc": "2026-10-27T22:13:53+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Calls For More Fines To Stop Those Who Use Their Phones While Driving",
-        "url": "https://www.youtube.com/watch?v=di0Ssc2b7SY",
-        "date_utc": "2026-10-27T05:33:35+00:00",
-        "summary": "Dylan Thomsen, AA Road Safety Spokesman - Calls for more fines to deter drivers from using their phones behind the wheel."
-      },
-      {
-        "title": "Retail Crime Charges On The Rise & Move-On Orders Are Now In Force",
-        "url": "https://www.youtube.com/watch?v=s0h886cKNEY",
-        "date_utc": "2026-10-27T05:11:48+00:00",
-        "summary": "Carolyn Young, CEO of Retail NZ - Retail crime charges on the rise and Move-on orders now in force."
       }
     ],
     "opinions": [
