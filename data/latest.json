@@ -1,8 +1,20 @@
 {
-  "generated_utc": "2026-11-03T18:21:29Z",
+  "generated_utc": "2026-11-04T18:33:38Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Plea to Those Planning to Vote for a ‘Coalition of the Left’",
+        "url": "https://realitycheck.radio/plea-to-those-planning-to-vote-for-a-coalition-of-the-left/",
+        "date_utc": "2026-11-04T01:14:59Z",
+        "summary": "by Kathryn Ennis-Carter Today I am thinking about my dear […]"
+      },
+      {
+        "title": "AgriZero Financial Transparency: Optional by Design",
+        "url": "https://realitycheck.radio/agrizero-financial-transparency-optional-by-design/",
+        "date_utc": "2026-11-03T21:15:09Z",
+        "summary": "by Joshua Riley The Crown owns half of AgriZeroNZ and […]"
+      },
       {
         "title": "Stay the course with maths reforms",
         "url": "https://realitycheck.radio/stay-the-course-with-maths-reforms/",
@@ -82,143 +94,179 @@
         "summary": "by Nathan Smith Come on, guys. We have to get […]"
       },
       {
-        "title": "Cannot be correct",
-        "url": "https://realitycheck.radio/cannot-be-correct/",
-        "date_utc": "2026-10-28T05:03:35Z",
-        "summary": "by Richard Prebble The Labour Party has issued no law-and-order […]"
-      },
-      {
-        "title": "I left New Zealand over an email",
-        "url": "https://realitycheck.radio/i-left-new-zealand-over-an-email/",
-        "date_utc": "2026-10-28T02:09:23Z",
-        "summary": "by Dr David Smylie It was a private, four-sentence reply […]"
-      },
-      {
-        "title": "THE WILMS REPORT: With Tim Wilms: Victorian Election Spending & Fallout from Teen COVID Vaccinations",
-        "url": "https://realitycheck.radio/episodes/the-wilms-report-with-tim-wilms-victorian-election-spending-and-fallout-from-teen-covid-vaccinations/",
-        "date_utc": "2026-11-03T06:10:14Z",
+        "title": "JASPREET BOPARAI & DON NICOLSON’s OPINION: Rural Voices – Why Your Party Vote Matters",
+        "url": "https://realitycheck.radio/episodes/jaspreet-boparai-don-nicolsons-opinion-rural-voices-why-your-party-vote-matters/",
+        "date_utc": "2026-11-04T06:04:49Z",
         "summary": ""
       },
       {
-        "title": "WEBINAR: Politics: Election – By The Numbers",
-        "url": "https://realitycheck.radio/episodes/webinar-politics-election-by-the-numbers/",
-        "date_utc": "2026-11-03T02:19:22Z",
+        "title": "PETER WILLIAMS ON POLITICS: The Final Election Countdown and Hung Parliament Scenario",
+        "url": "https://realitycheck.radio/episodes/peter-williams-on-politics-the-final-election-countdown-and-hung-parliament-scenario/",
+        "date_utc": "2026-11-04T05:58:57Z",
         "summary": ""
       },
       {
-        "title": "HUGO LENNON: From TikTok to Nationalism: One Australian’s Fight for Cultural Identity",
-        "url": "https://realitycheck.radio/episodes/hugo-lennon-from-tiktok-to-nationalism-one-australians-fight-for-cultural-identity/",
-        "date_utc": "2026-11-03T01:06:43Z",
+        "title": "THE FOURTH ESTATE: With Chantelle Baker & Alia Bland: Overhang & the Media’s Great Left Lean",
+        "url": "https://realitycheck.radio/episodes/the-fourth-estate-with-chantelle-baker-alia-bland-overhang-the-medias-great-left-lean/",
+        "date_utc": "2026-11-04T03:25:35Z",
         "summary": ""
       },
       {
-        "title": "HARRY RICHARDSON: Multiculturalism vs Free Speech: Can Both Really Coexist?",
-        "url": "https://realitycheck.radio/episodes/harry-richardson-multiculturalism-vs-free-speech-can-both-really-coexist/",
-        "date_utc": "2026-11-03T01:03:29Z",
+        "title": "MONEY TALKS: With Louis Boulanger: The Warning Signs Behind the AI Investment Boom",
+        "url": "https://realitycheck.radio/episodes/money-talks-with-louis-boulanger-the-warning-signs-behind-the-ai-investment-boom/",
+        "date_utc": "2026-11-03T23:42:13Z",
         "summary": ""
       },
       {
-        "title": "HUGO LENNON: Political Infiltration or Splinter Revolution: Australia’s Restore Movement Unveiled",
-        "url": "https://realitycheck.radio/episodes/hugo-lennon-political-infiltration-or-splinter-revolution-australias-restore-movement-unveiled/",
-        "date_utc": "2026-11-03T01:00:23Z",
+        "title": "BOTH BARRELS: With Maree Buscke & Rachel Stewart: The Battle for Key Electorates Under MMP",
+        "url": "https://realitycheck.radio/episodes/both-barrels-with-maree-buscke-rachel-stewart-the-battle-for-key-electorates-under-mmp/",
+        "date_utc": "2026-11-03T22:22:45Z",
         "summary": ""
       }
     ],
     "youtube": [
       {
-        "title": "\"And then they talk about a nursing shortage. I mean, the hypocrisy knows no bounds.\" - Winston Pete",
-        "url": "https://www.youtube.com/shorts/M0TU1zaLitw",
-        "date_utc": "2026-11-03T18:02:15+00:00",
-        "summary": "\"And then they talk about a nursing shortage. I mean, the hypocrisy knows no bounds.\" - Winston Peters - NZ First Party Leader Winston Peters tears into Labour's Chris Hipkins and Ayesha Verrall, accusing them of demanding more nurses and doctors after COVID-era vaccine mandates cost healthcare workers their jobs. Can politicians who backed those mandates now complain about healthcare staffing shortages without addressing their own decisions? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-2026-the-most-consequential-election-of-his-political-career #RCRMedia"
+        "title": "\"Of course, they're going to view criminals the same way, organised crime the same way. Because they",
+        "url": "https://www.youtube.com/shorts/xZGFGB9fqpM",
+        "date_utc": "2026-11-04T18:31:27+00:00",
+        "summary": "\"Of course, they're going to view criminals the same way, organised crime the same way. Because they're against the system.\" - Dane Giraud, Filmmaker & Political Commentator Dane Giraud argues that the Greens' anti-establishment politics have influenced their approach to gangs and organised crime. Is there a danger of romanticising criminal organisations simply because they're viewed as outsiders challenging the system? 🎥 Watch here: https://rcr.media/episodes/the-fourth-estate-maree-buscke-with-dane-giraud-peter-williams-election-overhang-threatens-to-reshape-parliament #RCRMedia #TheFourthEstate"
       },
       {
-        "title": "WEBINAR",
-        "url": "https://www.youtube.com/watch?v=xB0SjfQu5uU",
-        "date_utc": "2026-11-03T13:04:32+00:00",
-        "summary": "Maree Buscke is joined by former National MP Maurice Williamson, as he breaks down the numbers behind the 2026 election and explores how the political landscape could shape up. They discuss National’s electoral position, the implications of its declining party vote, and why strategic voting could strengthen the centre-right bloc. They also explore electorate contests, overhang seats and the potential consequences of different voting strategies. For election news that matters, get RCR Bites FREE every weekday To find out everything about the overhang, wasted vote and tactical voting at Vote Smart Is your electorate a close call? Check out the electoral tool Votecheck For more on Election 2026 check out this other RCR content: Peter Williams on Politics | TOP’s Rise Raises Election Questions Paul Brennan & Maurice Williamson | The Overhang Equation – How Split Voting Could Return the Coalition by Two Seats Peter Williams on Politics | National’s Overhang Problem Is Finally Out in the Open The Brennan Barometer | Split Your Vote to Keep the Left Out The Fourth Estate | Election Overhang Threatens to Reshape Parliament Both Barrels | The Strategic Vote: Who Will Govern? A Political Age"
+        "title": "\"Why would you have not parachuted Goldsmith into the Kaipara ki Mahurangi electorate when Chris Pen",
+        "url": "https://www.youtube.com/shorts/00EdtyPfyrs",
+        "date_utc": "2026-11-04T18:03:04+00:00",
+        "summary": "\"Why would you have not parachuted Goldsmith into the Kaipara ki Mahurangi electorate when Chris Penk resigned?\" - Maurice Williamson, Former National MP & Cabinet Minister Maurice Williamson questions National's candidate-selection decisions, arguing that the party had an opportunity to protect a senior MP from the consequences of a weaker party vote. Was National too slow to recognise the potential impact of its electorate-seat advantage on its senior list MPs? 🎥 Watch here: https://rcr.media/episodes/webinar-politics-election-by-the-numbers #RCRMedia #Webinar"
       },
       {
-        "title": "THE WILMS REPORT",
-        "url": "https://www.youtube.com/watch?v=P9zx7y9EtEk",
-        "date_utc": "2026-11-03T13:02:42+00:00",
-        "summary": "In this fortnightly catch up with Paul Brennan, Tim Wilms examines the Victorian election campaign, including the debate over One Nation’s place in leaders’ forums, competing spending promises and proposed restrictions on political slogans. He also discusses the Melbourne anti-mass-migration rally, Jacinda Ardern’s new university role, an apology over COVID-19 vaccinations given to teenagers without informed consent, the attack on independent MP Helen Haines and a landmark murder sentencing appeal. Discover more from Tim at The Unshackled"
+        "title": "\"But don't waste the night thinking about it.\" - Winston Peters - NZ First Party Leader",
+        "url": "https://www.youtube.com/shorts/8pmTVBqWPio",
+        "date_utc": "2026-11-04T17:31:40+00:00",
+        "summary": "\"But don't waste the night thinking about it.\" - Winston Peters - NZ First Party Leader After decades in politics, Winston Peters has some straightforward advice for dealing with stress: write down your problems, switch off with music and tackle them with a fresh mind tomorrow. Is worrying about things you can't change tonight stealing the rest you need for tomorrow? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-2026-the-most-consequential-election-of-his-political-career #RCRMedia"
       },
       {
-        "title": "WINSTON PETERS",
-        "url": "https://www.youtube.com/watch?v=5MgaWK4knXw",
-        "date_utc": "2026-11-03T13:01:37+00:00",
-        "summary": "With the election just days away, Winston Peters discusses the controversy over vote-splitting and the implications of MMP mathematics for the centre-right vote. He also challenges the fairness of taxpayer-funded media coverage, raises concerns about election integrity and genetic technology, and outlines his views on healthcare, chronic disease prevention and the economic choices facing New Zealand. Discover more from Winston Peters on X , Facebook and Instagram For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
+        "title": "PETER WILLIAMS ON POLITICS",
+        "url": "https://www.youtube.com/watch?v=OolpaVnzlws",
+        "date_utc": "2026-11-04T13:02:30+00:00",
+        "summary": "In his final pre-election report, Peter Williams examines the surge in advance voting, the closely contested Hutt South and Auckland Central electorates and the campaign controversies surrounding Chloe Swarbrick and Opportunity leader Qiulae Wong. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart Is your electorate a close call? Find out now at Vote Check"
       },
       {
-        "title": "PAUL HENRY",
-        "url": "https://www.youtube.com/watch?v=FYALE122Scg",
-        "date_utc": "2026-11-03T13:01:00+00:00",
-        "summary": "ACT candidate Paul Henry reflects on what motivated his move into politics, arguing that New Zealand has lost its sense of aspiration and needs a stronger economic direction. He discusses government debt, the cost of living, public broadcasting and media diversity, while outlining his priorities for Parliament and his criticism of National’s election campaign. Discover more on Paul Henry or find him on Facebook and Instagram For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
+        "title": "THE FOURTH ESTATE",
+        "url": "https://www.youtube.com/watch?v=Y3Ov12TrZHM",
+        "date_utc": "2026-11-04T13:02:15+00:00",
+        "summary": "Maree Buscke is joined by independent journalist Chantelle Baker and RCR co-founder Alia Bland for an election-week Fourth Estate special. They question the One News poll coverage and the overhang scenarios it showed, accuse legacy media of favouring Labour and the Opportunity Party and debate National’s messaging. Alia defends the Vote Smart 2026 split-vote campaign and answers Simon Wilson’s Substack attack, before a closing chat on satire. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart Is your electorate a close call? Find out now at Vote Check Discover more from Chantelle on X , Facebook and Instagram For Simon Wilson’s Substack"
       },
       {
-        "title": "\"The main takeaway I took was basically TOP is there to sort of get rid of NZ First.\" - Joel Rowland",
-        "url": "https://www.youtube.com/shorts/nHpIJKf7-wY",
-        "date_utc": "2026-11-03T07:01:29+00:00",
-        "summary": "\"The main takeaway I took was basically TOP is there to sort of get rid of NZ First.\" - Joel Rowlands, Former Opportunity Party Candidate Joel recalls meeting TOP founder Gareth Morgan back in 2017 and coming away with a very different understanding of the party's purpose. Was TOP really created to offer voters something new, or was its bigger goal to push Winston Peters and NZ First out of Parliament? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-chantelle-baker-joel-rowlands-the-opportunity-partys-new-image-under-scrutiny #RCRMedia"
+        "title": "MONEY TALKS",
+        "url": "https://www.youtube.com/watch?v=aGvslLzjLyg",
+        "date_utc": "2026-11-04T13:01:57+00:00",
+        "summary": "Paul Brennan speaks with investment analyst Louis Boulanger about warning signs emerging in the US economy, including rising debt, a potential recession and the risks of an AI-driven market bubble. They discuss concerns about central bank transparency, the concentration of market value in major technology companies, and the growing strain on traditional 60/40 investment portfolios. DISCLAIMER: The views and information shared on this show are for educational and informational purposes only. They do not constitute personalised financial, investment, tax, or legal advice. Listeners should seek guidance from a licensed financial professional who can provide advice based on their individual situation. Discover more from Louis at LBnow"
       },
       {
-        "title": "\"This is unbelievable. It's not explainable. It's just inexcusable.\" - Winston Peters - NZ First Par",
-        "url": "https://www.youtube.com/shorts/BVnd63uQ0bw",
-        "date_utc": "2026-11-03T06:01:01+00:00",
-        "summary": "\"This is unbelievable. It's not explainable. It's just inexcusable.\" - Winston Peters - NZ First Party Leader Winston Peters backs Ron Mark's criticism following the sinking of the HMNZS Manawanui, questioning whether DEI policies are being prioritised over competence in our armed forces. When lives and millions of taxpayer dollars are at stake, should merit always come before diversity targets? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-winston-the-polls-are-trash-and-were-out-to-prove-it #RCRMedia"
+        "title": "BOTH BARRELS",
+        "url": "https://www.youtube.com/watch?v=YDVstSE4BtM",
+        "date_utc": "2026-11-04T13:01:43+00:00",
+        "summary": "With election day looming, Maree Buscke and Rachel Stewart examine the contest for several closely fought electorates, where tactical campaigning and vote-splitting could influence which parties gain seats. They challenge the claim that encouraging voters to back particular electorate candidates undermines democracy, discuss shifting attitudes towards NZ First, and question whether traditional campaign strategies and mainstream media reflect the priorities of voters outside the main centres. For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart Is your electorate a close contest? Check here For further information: Webinar | Politics – By The Numbers with Maurice Williamson Tim Murphy, Newsroom | Election 2026 – the most febrile final week since the days of the Exclusive Brethren Verity Johnson, Stuff | I can’t believe I’m gonna say I think you should vote Chris Bishop"
       },
       {
-        "title": "\"That's more laws regulating speech than in the previous 70 years.\" - Dr Norman Lewis",
-        "url": "https://www.youtube.com/shorts/b9bFf6dpwcw",
-        "date_utc": "2026-11-03T05:00:54+00:00",
-        "summary": "\"That's more laws regulating speech than in the previous 70 years. That's just from 2017 to 2020.\" - Dr Norman Lewis, Senior Research Fellow, Freedom and Sovereignty Initiative Europe Dr Lewis claims Western governments introduced an extraordinary wave of speech regulations in just four years, exceeding the previous seven decades. What changed so dramatically that governments suddenly felt the need to regulate what their citizens could say? 🎥 Watch here: https://rcr.media/episodes/norman-lewis-senior-research-fellow-at-the-freedom-and-sovereignty-initiative-europe-europes-democracy-shield-is-an-attack-on-free-speech #RCRMedia"
+        "title": "\"Yes, Sandra\" - Human Rights Commissioner Dr Anna Cody",
+        "url": "https://www.youtube.com/shorts/xDzaUauezog",
+        "date_utc": "2026-11-04T07:30:48+00:00",
+        "summary": "\"Yes, Sandra\" - Human Rights Commissioner Dr Anna Cody An extraordinary exchange in Australia saw Human Rights Commissioner Dr Anna Cody answer YES when asked whether breastfeeding discrimination protections extend to biological males identifying as women who induce lactation. Have Australia's anti-discrimination laws stretched the meaning of breastfeeding beyond recognition? 🎥 Watch here: https://rcr.media/episodes/riding-shotgun-with-rachel-stewart-the-milk-of-human-blindness #RCRMedia #RidingShotgun"
       },
       {
-        "title": "RCR Webinar - Politics: Election 2026 By The Numbers",
-        "url": "https://www.youtube.com/watch?v=pIltWcFAyBU",
-        "date_utc": "2026-11-03T03:52:37+00:00",
-        "summary": "Join RCR host Maree Buscke with special guest former National MP Maurice Williamson, as they explore the numbers behind the election, possible scenarios, where the needle could shift and which electorates could prove crucial."
+        "title": "\"Which means they're asking 13-year-old boys: 'Is there any possibility that you could be pregnant?'",
+        "url": "https://www.youtube.com/shorts/nVWfm0DBlVg",
+        "date_utc": "2026-11-04T07:01:12+00:00",
+        "summary": "\"Which means they're asking 13-year-old boys: 'Is there any possibility that you could be pregnant?'\" - Professor Karleen Gribble, Academic & Researcher, Western Sydney University Professor Gribble highlights the extraordinary consequences of unreliable sex information in Australian medical records, with hospitals resorting to blanket pregnancy screening. Is this sensible medical caution, or a ridiculous workaround for a record-keeping problem that shouldn't exist? 🎥 Watch here: https://rcr.media/episodes/karleen-gribble-academic-researcher-at-western-sydney-university-the-politics-of-sex-and-language-in-healthcare #RCRMedia"
       },
       {
-        "title": "\"All of a sudden, we see a chance now to, from being dependent upon imported oil, to be independent",
-        "url": "https://www.youtube.com/shorts/Nj_XTtyEodc",
-        "date_utc": "2026-11-03T03:45:35+00:00",
-        "summary": "\"All of a sudden, we see a chance now to, from being dependent upon imported oil, to be independent and be an exporter ourselves.\" - Winston Peters - NZ First Party Leader Winston says New Zealand could have an opportunity to transform its energy future through domestic oil exploration. Should New Zealand be developing its own oil resources rather than remaining dependent on overseas suppliers? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-winston-the-polls-are-trash-and-were-out-to-prove-it #RCRMedia"
+        "title": "\"You realise that the spider web of control... And this controls every doctor in New Zealand and aro",
+        "url": "https://www.youtube.com/shorts/KKZHxndnh7c",
+        "date_utc": "2026-11-04T06:01:07+00:00",
+        "summary": "\"You realise that the spider web of control... And this controls every doctor in New Zealand and around the world.\" - Dr Sam Bailey, Medical Doctor, Educator, Author & Researcher Dr Bailey questions the connections between New Zealand's Medical Council, international medical regulatory organisations and the WHO. Who's really influencing the rules governing what New Zealand doctors can say, and how transparent are those relationships? 🎥 Watch here: https://rcr.media/episodes/sam-bailey-medical-doctor-educator-author-researcher-the-price-of-medical-dissent #RCRMedia"
       },
       {
-        "title": "\"It's too hard to disseminate what people are thinking, let alone contacting them in a way that's me",
-        "url": "https://www.youtube.com/shorts/9KMKfsry38Y",
-        "date_utc": "2026-11-02T23:01:16+00:00",
-        "summary": "\"It's too hard to disseminate what people are thinking, let alone contacting them in a way that's measurable.\" - Winston Peters @winstonpeters - NZ First Party Leader @nzfirst Winston argues traditional polling methods are struggling to capture the true mood of the electorate. With NZ First attracting hundreds to public meetings, could a silent voting bloc be preparing to deliver the biggest surprise of election night? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-winston-the-polls-are-trash-and-were-out-to-prove-it #RCRMedia"
+        "title": "\"Because they have been beating the drum on the Opportunity Party 'til the cows come home. Well, if",
+        "url": "https://www.youtube.com/shorts/b85BaQnfpf4",
+        "date_utc": "2026-11-04T05:30:48+00:00",
+        "summary": "\"Because they have been beating the drum on the Opportunity Party 'til the cows come home. Well, if they don't make it, they've failed.\" - Rodney Hide, Former ACT Party Leader 🌐 RCR.media Rodney Hide takes aim at what he sees as the media's relentless promotion of TOP, warning that its failure to enter Parliament would leave some commentators looking very foolish. Has TOP's publicity been mistaken for genuine voter support, and will election night expose the difference? #RCRMedia"
       },
       {
-        "title": "\"Have a look at horses for courses in each electorate.\" - Maurice Williamson, Former National MP",
-        "url": "https://www.youtube.com/shorts/7UFbzoffujI",
-        "date_utc": "2026-11-02T19:30:49+00:00",
-        "summary": "\"Have a look at horses for courses in each electorate.\" - Maurice Williamson, Former National MP Not every electorate is a close contest, but in some, a few votes could make all the difference. Should voters think beyond party loyalty and use their electorate vote strategically? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-bob-mccoskrie-maurice-williamson-strategic-voting-why-this-election-is-different #RCRMedia"
+        "title": "\"Good on you. Well done. It won't count.\" - Maurice Williamson, Former National MP & Cabinet Ministe",
+        "url": "https://www.youtube.com/shorts/cl1_MeTJO5I",
+        "date_utc": "2026-11-04T05:01:15+00:00",
+        "summary": "\"Good on you. Well done. It won't count.\" - Maurice Williamson, Former National MP & Cabinet Minister That's Maurice's response to National supporters determined to give the party both ticks! He argues that when National wins more electorates than its party vote entitles it to, additional votes do not translate into additional MPs. Should voters be questioning political loyalty when the MMP numbers tell a different story? 🎥 Watch here: https://rcr.media/episodes/maurice-williamson-former-national-party-mp-cabinet-minister-the-overhang-equation-how-split-voting-could-return-the-coalition-by-two-seats #RCRMedia"
       },
       {
-        "title": "\"Three people in our caucus who've got economics degrees now...\" - Winston Peters, NZF",
-        "url": "https://www.youtube.com/shorts/wP6zv0Awrn4",
-        "date_utc": "2026-11-02T19:03:00+00:00",
-        "summary": "\"We'll have three people in our caucus who've got economics degrees now. Nobody needs to have an economics degree, but we'll have more than the other parties for a start.\" - Winston Peters, NZ First Party Leader Winston Peters is backing NZ First's economic credentials, pointing to the qualifications and experience of his incoming team. With New Zealand struggling economically, should voters be demanding more financial expertise from the people making decisions in Parliament? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-winston-the-polls-are-trash-and-were-out-to-prove-it #RCRMedia"
+        "title": "\"You wouldn't truck carrots from Southland... carrots and potatoes from Southland to Christchurch, a",
+        "url": "https://www.youtube.com/shorts/hOx8AfasTTk",
+        "date_utc": "2026-11-04T04:45:28+00:00",
+        "summary": "\"You wouldn't truck carrots from Southland... carrots and potatoes from Southland to Christchurch, and then back to Southland supermarkets if it wasn't cheap energy.\" - Nathan Surendran, Engineer & Wise Response Society Chair Imagine growing carrots in Southland, trucking them to Christchurch, then sending them all the way back to Southland supermarkets! Nathan exposes how cheap diesel has allowed our food distribution system to become increasingly dependent on long-distance transport. With fuel prices climbing, is this logistical madness about to become completely unaffordable? 🎥 Watch here: https://rcr.media/episodes/nathan-surendran-engineer-and-wise-response-society-chair-counting-the-debt-not-the-diesel-new-zealands-energy-challenge #RCRMedia"
       },
       {
-        "title": "\"And whilst we should not, as ministers, be condemning decisions made in a court level, when you see",
-        "url": "https://www.youtube.com/shorts/aaAqBniKU80",
-        "date_utc": "2026-11-02T18:03:47+00:00",
-        "summary": "\"And whilst we should not, as ministers, be condemning decisions made in a court level, when you see something as proactively as that involved in jurisprudential engagement in what is a political issue, clearly, then you've got to say something, and I did.\" - Winston Peters - NZ First Party Leader Winston takes aim at the High Court's approach to the puberty blocker case, arguing that crucial evidence was overlooked. How can the public have confidence in a ruling if, as Winston claims, the competing medical evidence wasn't properly considered? 🎥 Watch here: https://rcr.media/episodes/winston-peters-nz-first-leader-winston-the-polls-are-trash-and-were-out-to-prove-it #RCRMedia"
+        "title": "\"And my little big thumbs up, and cheers to the week, is actually going out to the man or woman (I d",
+        "url": "https://www.youtube.com/shorts/DWQ3ci1CTgk",
+        "date_utc": "2026-11-04T03:45:37+00:00",
+        "summary": "\"And my little big thumbs up, and cheers to the week, is actually going out to the man or woman (I don't know who they are) that volunteered to dress up in a green monster suit...\" - Maree Buscke Maree Buscke salutes the anonymous hero in a giant green DEBT MONSTER costume who stole the limelight during Chris Hipkins' Hawke's Bay appearance! Was this a stroke of political comedy genius, and does the mystery monster deserve an award for campaign creativity? Rachel Stewart and Maree Buscke discuss on this episode of Both Barrels. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-the-strategic-vote-to-decide-who-governs #RCRMedia"
       },
       {
-        "title": "SHANE JONES",
-        "url": "https://www.youtube.com/watch?v=NqFcyQLPjYo",
-        "date_utc": "2026-11-02T13:01:57+00:00",
-        "summary": "Paul Brennan speaks with NZ First Deputy Leader Shane Jones about vote-splitting under MMP, criticising National’s opposition to the strategy and arguing that the centre-right should focus on winning voters through policy rather than attacking political personalities. Jones outlines NZ First’s priorities for economic growth, energy affordability, investment, law and order, immigration and national security. Discover more from Shane Jones or find him on Facebook and X For election news that matters, get RCR Bites FREE every weekday and find out everything about the overhang, wasted vote and tactical voting at Vote Smart"
+        "title": "\"It's a massive amount of energy that is not there in the global economy.\" - Nathan Surendran, Engin",
+        "url": "https://www.youtube.com/shorts/iGp4unVqBi0",
+        "date_utc": "2026-11-03T21:01:41+00:00",
+        "summary": "\"It's a massive amount of energy that is not there in the global economy.\" - Nathan Surendran, Engineer & Wise Response Society Chair Nathan estimates that Persian Gulf export restrictions have removed around THREE BILLION barrels of expected oil production from global supply since the conflict began. With countries scrambling to secure what's left, how long can New Zealand continue paying premium prices before the real shortages begin to bite? 🎥 Watch here: https://rcr.media/episodes/nathan-surendran-engineer-and-wise-response-society-chair-counting-the-debt-not-the-diesel-new-zealands-energy-challenge #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "The Latest Taxpayers/Curia poll Released Live On The Platform",
+        "url": "https://www.youtube.com/watch?v=isEpMCZS-lQ",
+        "date_utc": "2026-11-04T09:16:18+00:00",
+        "summary": "The latest Taxpayers/Curia poll released live on The Platform"
+      },
+      {
+        "title": "When Local Government Makes A Mistake",
+        "url": "https://www.youtube.com/watch?v=v6jIm3CrcdM",
+        "date_utc": "2026-11-04T08:30:33+00:00",
+        "summary": "When local government makes a mistake: Fed Farmers chair Anna Gillespie on the latest at Lauder."
+      },
+      {
+        "title": "Is Co-Governance Coming Back? Hobson’s Pledge Don Brash Opines On Why It’s Still An Issue.",
+        "url": "https://www.youtube.com/watch?v=0N1cdBQJDjg",
+        "date_utc": "2026-11-04T08:25:55+00:00",
+        "summary": "Is co-governance coming back? Hobson’s Pledge Don Brash opines on why it’s still an issue."
+      },
+      {
+        "title": "Property Investment With Matt Ball - 04/11/26",
+        "url": "https://www.youtube.com/watch?v=nacAvbvzwjA",
+        "date_utc": "2026-11-04T05:56:45+00:00",
+        "summary": "Matt Ball, Property Investors Federation spokesperson on what's happening in the property investment world right now."
+      },
+      {
+        "title": "Nicholas Wright Gives An Overview Of How The NZ Election Campaigns Have Gone",
+        "url": "https://www.youtube.com/watch?v=NzWFEJQavRU",
+        "date_utc": "2026-11-04T05:45:02+00:00",
+        "summary": "Nicholas Wright, CEO of Sentio Group & political strategist, gives an overview of how the NZ election campaigns have gone."
+      },
+      {
+        "title": "John Banks Checks In With Final Predictions & Reflections On Election Campaigns",
+        "url": "https://www.youtube.com/watch?v=kdPYeelWO_o",
+        "date_utc": "2026-11-03T23:25:41+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Heather Verry On Diabetes Action Month & Managing Your Health",
+        "url": "https://www.youtube.com/watch?v=cEbvrtt70m0",
+        "date_utc": "2026-11-03T23:10:37+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Claire Robinson On MMP Reform & Who Has The Strongest Election Campaign",
+        "url": "https://www.youtube.com/watch?v=dHzkhLwHuMM",
+        "date_utc": "2026-11-03T22:32:47+00:00",
+        "summary": ""
+      },
       {
         "title": "Is The Women’s Rights Party Sexist?",
         "url": "https://www.youtube.com/watch?v=eqbGY7O-rHg",
@@ -260,54 +308,6 @@
         "url": "https://www.youtube.com/watch?v=jneUnfCIOTg",
         "date_utc": "2026-11-02T21:49:02+00:00",
         "summary": "Taine Randell Reflects on His Campaign Journey"
-      },
-      {
-        "title": "Mike Turner Reveals New Polling Research on Secondary Party’s",
-        "url": "https://www.youtube.com/watch?v=6IB-2CODjmM",
-        "date_utc": "2026-11-02T21:39:23+00:00",
-        "summary": "Mike Turner Reveals New Polling Research on Secondary Party’s"
-      },
-      {
-        "title": "Vision NZ Leader Hannah Tamaki Are Why Her Minnow Party Is Still Contesting The Election.",
-        "url": "https://www.youtube.com/watch?v=Y3JHt2Naqw8",
-        "date_utc": "2026-11-02T07:00:40+00:00",
-        "summary": "Vision NZ leader Hannah Tamaki are why her minnow party is still contesting the election."
-      },
-      {
-        "title": "Lisa Allpress On All The Glitz, Glamour & High Stakes Of Melbourne Cup 2026",
-        "url": "https://www.youtube.com/watch?v=EQeRFKUGJ8s",
-        "date_utc": "2026-11-02T04:59:06+00:00",
-        "summary": "Lisa Allpress, Legendary NZ Jockey on all the glitz, glamour and high stakes of Melbourne Cup 2026."
-      },
-      {
-        "title": "Three Strikes Law Here To Stay With Tougher Burglary Charges",
-        "url": "https://www.youtube.com/watch?v=TUzOmXLyk8Y",
-        "date_utc": "2026-11-02T04:44:38+00:00",
-        "summary": "Nicole McKee, Associate Justice Minister - Three Strikes Law is here to stay, and will get tougher burglary charges."
-      },
-      {
-        "title": "Calls For The Next Govt To Investigate An EV Leasing Scheme",
-        "url": "https://www.youtube.com/watch?v=L7UoKWM4YdA",
-        "date_utc": "2026-11-02T04:22:05+00:00",
-        "summary": "Mike Casey, CEO of Rewiring Aotearoa - Calls for the next Government to investigate an EV leasing scheme."
-      },
-      {
-        "title": "Now You Know Why The Public Sector Is An Undermining Mess",
-        "url": "https://www.youtube.com/watch?v=r60XI347FBc",
-        "date_utc": "2026-11-02T03:36:32+00:00",
-        "summary": "Now you know why the public sector is an undermining mess: ‘No Minister’ co-author Dr Benno Blaschke"
-      },
-      {
-        "title": "Pollster David Farrar On Why The Polls Are So Variable",
-        "url": "https://www.youtube.com/watch?v=VNIWBnKF0rs",
-        "date_utc": "2026-11-02T03:25:12+00:00",
-        "summary": "Pollster David Farrar on why the polls are so variable, and their influence upon voting choices"
-      },
-      {
-        "title": "Some Good Advice For John Key And Jacinda Ardern: Butt Out.",
-        "url": "https://www.youtube.com/watch?v=HA8y2qm9bsM",
-        "date_utc": "2026-11-02T02:09:11+00:00",
-        "summary": "Some good advice for John Key and Jacinda Ardern: butt out."
       }
     ],
     "opinions": []
