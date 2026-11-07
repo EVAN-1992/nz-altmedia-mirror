@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-11-06T17:52:57Z",
+  "generated_utc": "2026-11-07T16:47:32Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "A French Lesson For New Zealand",
+        "url": "https://realitycheck.radio/a-french-lesson-for-new-zealand/",
+        "date_utc": "2026-11-06T23:27:10Z",
+        "summary": "by Dr Nathan Peres Violent protests have a long history […]"
+      },
       {
         "title": "The End of MAGA",
         "url": "https://realitycheck.radio/the-end-of-maga/",
@@ -13,7 +19,7 @@
         "title": "Stop the Press! New Zealanders Have Discovered How MMP Works",
         "url": "https://realitycheck.radio/stop-the-press-new-zealanders-have-discovered-how-mmp-works/",
         "date_utc": "2026-11-06T02:01:44Z",
-        "summary": "by Claire Deeks New Zealanders have two votes. Apparently, explaining […]"
+        "summary": ""
       },
       {
         "title": "You Could Have Just Asked… An open letter to New Zealand’s mainstream media",
@@ -88,10 +94,10 @@
         "summary": "by Joshua Riley The Crown owns half of AgriZeroNZ and […]"
       },
       {
-        "title": "Stay the course with maths reforms",
-        "url": "https://realitycheck.radio/stay-the-course-with-maths-reforms/",
-        "date_utc": "2026-11-01T23:16:30Z",
-        "summary": "by Dr Michael Johnston The Reserve Bank adjusts interest rates […]"
+        "title": "UNDER THE HOOD: With Graham ‘Hoody’ Hood: Different Political Views, One Strong Community",
+        "url": "https://realitycheck.radio/episodes/under-the-hood-with-graham-hoody-hood-different-political-views-one-strong-community/",
+        "date_utc": "2026-11-07T09:30:11Z",
+        "summary": ""
       },
       {
         "title": "DON BRASH & MATT ROBSON: NZ Election Strategy: Can the Strategic Vote Deliver a Centre-Right Win?",
@@ -116,15 +122,15 @@
         "url": "https://realitycheck.radio/episodes/a-political-agenda-rodney-hide-simon-oconnor-whos-really-running-top/",
         "date_utc": "2026-11-06T07:49:40Z",
         "summary": ""
-      },
-      {
-        "title": "TREVOR LOUDON: US Political Commentator & Author: US Midterms Shake Up the Political Landscape​",
-        "url": "https://realitycheck.radio/episodes/trevor-loudon-us-political-commentator-author-us-midterms-shake-up-the-political-landscape/",
-        "date_utc": "2026-11-06T04:50:29Z",
-        "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "UNDER THE HOOD",
+        "url": "https://www.youtube.com/watch?v=ZwfhEP3Pxrc",
+        "date_utc": "2026-11-07T13:01:34+00:00",
+        "summary": "Following his recent New Zealand tour, Graham “Hoody” Hood reflects on the political divisions he encountered, the growing tensions around the world and the need for people who value freedom to put their differences aside. With New Zealand’s election now behind us, Hoody delivers a timely message about rejecting hostility, finding common ground and building strong communities. Because we may not agree on everything, but we need to be able to stand together. For further information: Discover more from Hoody at Club Grubbery or find him on Facebook and X Read Alia Bland’s “An Open Letter to the University of Sydney” Watch Winston Peters on “Bullseye – Reading Between the Lies, with Graham Hood & John Larder” For more about the “Hoody-on-a-Roady” tour of New Zealand"
+      },
       {
         "title": "TREVOR LOUDON",
         "url": "https://www.youtube.com/watch?v=-VLz9xzg7SM",
@@ -208,12 +214,6 @@
         "url": "https://www.youtube.com/shorts/y6mgKy5CFSw",
         "date_utc": "2026-11-06T04:45:23+00:00",
         "summary": "\"On the right, you've got a whole bunch, the majority of party votes just going into the rubbish bin.\" - Dr Muriel Newman, Founder, NZ Centre for Political Research THE OVERHANG TRAP! Dr Muriel Newman warns that if National wins more electorate seats than its party vote entitles it to, additional National party votes could fail to deliver any extra MPs. That means votes intended to strengthen National may have no further impact on its seat count. With a potential overhang changing the usual MMP calculations, how many New Zealanders realise their party vote might deliver no additional seats for one party, while potentially making a difference to another in the same bloc? 🎥 Watch here: https://rcr.media/episodes/muriel-newman-nz-centre-for-political-research-founder-who-really-runs-new-zealand #RCRMedia"
-      },
-      {
-        "title": "\"We're spending $34 billion a year for 5 million people, and you still can't get into the ED.\" - Nic",
-        "url": "https://www.youtube.com/shorts/7JfB9ts64xU",
-        "date_utc": "2026-11-06T04:00:26+00:00",
-        "summary": "\"We're spending $34 billion a year for 5 million people, and you still can't get into the ED.\" - Nicole McKee, ACT Deputy Leader Nicole McKee argues that New Zealand's healthcare crisis requires smarter allocation of existing funding, not simply another round of spending increases. Should the Government be judged by how many billions it spends on health, or by whether New Zealanders can actually get treatment when they need it? 🎥 Watch here: https://rcr.media/episodes/nicole-mckee-acts-deputy-leader-going-further-on-law-and-order #RCRMedia"
       }
     ]
   },
