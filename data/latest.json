@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-11-08T16:59:08Z",
+  "generated_utc": "2026-11-09T21:22:59Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "For New Zealand to Thrive, We Must Recognise the Value of Every Human Life",
+        "url": "https://realitycheck.radio/for-new-zealand-to-thrive-we-must-recognise-the-value-of-every-human-life/",
+        "date_utc": "2026-11-07T23:31:38Z",
+        "summary": "by Alwyn Poole When the election is over it would […]"
+      },
       {
         "title": "A French Lesson For New Zealand",
         "url": "https://realitycheck.radio/a-french-lesson-for-new-zealand/",
@@ -88,43 +94,115 @@
         "summary": "by Peter Williams Although we’re bombarded with polls on a […]"
       },
       {
-        "title": "AgriZero Financial Transparency: Optional by Design",
-        "url": "https://realitycheck.radio/agrizero-financial-transparency-optional-by-design/",
-        "date_utc": "2026-11-03T21:15:09Z",
-        "summary": "by Joshua Riley The Crown owns half of AgriZeroNZ and […]"
-      },
-      {
-        "title": "UNDER THE HOOD: With Graham ‘Hoody’ Hood: Different Political Views, One Strong Community",
-        "url": "https://realitycheck.radio/episodes/under-the-hood-with-graham-hoody-hood-different-political-views-one-strong-community/",
-        "date_utc": "2026-11-07T09:30:11Z",
+        "title": "ALIA BLAND & CLAIRE DEEKS: RCR Co-Founders: Explaining RCR’s Election Strategy with Michael Laws",
+        "url": "https://realitycheck.radio/episodes/alia-bland-claire-deeks-rcr-co-founders-explaining-rcrs-election-strategy-with-michael-laws/",
+        "date_utc": "2026-11-09T06:55:16Z",
         "summary": ""
       },
       {
-        "title": "DON BRASH & MATT ROBSON: NZ Election Strategy: Can the Strategic Vote Deliver a Centre-Right Win?",
-        "url": "https://realitycheck.radio/episodes/don-brash-matt-robson-nz-election-strategy-can-the-strategic-vote-deliver-a-centre-right-win/",
-        "date_utc": "2026-11-06T07:52:23Z",
+        "title": "MAURICE WILLIAMSON: Former NZ MP & Statistician: Strategic Voting Delivers a Seismic Shift in the Election",
+        "url": "https://realitycheck.radio/episodes/maurice-williamson-former-nz-mp-statistician-strategic-voting-delivers-a-seismic-shift-in-the-election/",
+        "date_utc": "2026-11-09T05:07:20Z",
         "summary": ""
       },
       {
-        "title": "A POLITICAL AGENDA: Rodney Hide & Simon O’Connor: 31,000 Missing Votes Could Tip the Balance",
-        "url": "https://realitycheck.radio/episodes/a-political-agenda-rodney-hide-simon-oconnor-31000-missing-votes-could-tip-the-balance/",
-        "date_utc": "2026-11-06T07:51:23Z",
+        "title": "DON BRASH & RODNEY HIDE: Former ACT Party Leader & Former Reserve Bank Governor: Election Debrief",
+        "url": "https://realitycheck.radio/episodes/don-brash-rodney-hide-former-act-party-leader-former-reserve-bank-governor-election-debrief/",
+        "date_utc": "2026-11-09T02:47:52Z",
         "summary": ""
       },
       {
-        "title": "DON BRASH & MATT ROBSON: NZ Election Overhang: Is Proportional Representation the Honest Fix?",
-        "url": "https://realitycheck.radio/episodes/don-brash-matt-robson-nz-election-overhang-is-proportional-representation-the-honest-fix/",
-        "date_utc": "2026-11-06T07:50:37Z",
+        "title": "NICOLE MCKEE: ACT Deputy Leader: ‘National Must Learn to Share Power’",
+        "url": "https://realitycheck.radio/episodes/nicole-mckee-act-deputy-leader-election-2026-an-election-debrief/",
+        "date_utc": "2026-11-09T02:03:23Z",
         "summary": ""
       },
       {
-        "title": "A POLITICAL AGENDA: Rodney Hide & Simon O’Connor: Who’s Really Running TOP?",
-        "url": "https://realitycheck.radio/episodes/a-political-agenda-rodney-hide-simon-oconnor-whos-really-running-top/",
-        "date_utc": "2026-11-06T07:49:40Z",
+        "title": "MICHAEL ARBON: Ardern to Teach Empathy to Aussies",
+        "url": "https://realitycheck.radio/episodes/michael-arbon-ardern-to-teach-empathy-to-aussies/",
+        "date_utc": "2026-11-09T01:57:01Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "🇦🇺 Ardern is Heading to Australia to Teach Empathy. Seriously.",
+        "url": "https://www.youtube.com/shorts/iz_gaYBZ7-Q",
+        "date_utc": "2026-11-09T18:02:11+00:00",
+        "summary": "🇦🇺 Ardern is Heading to Australia to Teach Empathy. Seriously. Jacinda Ardern has a new role at the University of Sydney, focusing on empathetic leadership, social cohesion and civic trust. But as Michael Arbon asks, how can you teach trust without first acknowledging the damage left behind? #RCRMedia"
+      },
+      {
+        "title": "DON BRASH & RODNEY HIDE",
+        "url": "https://www.youtube.com/watch?v=qZmpTimRM2c",
+        "date_utc": "2026-11-09T13:03:48+00:00",
+        "summary": "Rodney Hide and Don Brash join Maree Buscke for a post-election discussion examining how vote-splitting has reshaped Parliament and whether special votes will determine the centre-right’s ability to govern alone. They also consider Christopher Luxon’s campaign performance, National’s relationship with ACT and NZ First, the potential influence of the Opportunity Party, and the challenges ahead in coalition negotiations. For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "ALIA BLAND & CLAIRE DEEKS",
+        "url": "https://www.youtube.com/watch?v=WBZrEyNWf_A",
+        "date_utc": "2026-11-09T13:03:20+00:00",
+        "summary": "RCR and VFF co-founders Alia Bland and Claire Deeks explain to Michael Laws on The Platform how they developed and funded the Vote Smart 2026 campaign, designed to prevent a left-wing government while strengthening ACT and NZ First within a centre-right coalition. For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "MAURICE WILLIAMSON",
+        "url": "https://www.youtube.com/watch?v=_El1GrANHwc",
+        "date_utc": "2026-11-09T13:02:55+00:00",
+        "summary": "Maree Buscke is joined by former NZ MP and Statistician Maurice Williamson to examine new analysis suggesting strategic voting and vote-splitting had a far greater impact on the election than previously seen, with more than 300,000 National electorate voters estimated to have chosen a different party for their party vote. They explore the electorate-by-electorate figures, the likely impact of special votes on the final result and the growing acceptance of split voting under MMP. For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "LACHLAN LADE",
+        "url": "https://www.youtube.com/watch?v=d64GXApERsg",
+        "date_utc": "2026-11-09T13:02:10+00:00",
+        "summary": "Chatting with Tim Wilms, Lachlan Laid from the Australia Lobby Group discusses the growing disconnect in Australian society, arguing that shared national values, identity and allegiance to the Australian flag have been eroded. He criticises both major political parties, outlines the Australia Lobby Group’s push for major immigration restrictions and explains its campaign to mobilise Australians and hold politicians accountable for restoring national identity. #RCR"
+      },
+      {
+        "title": "NICOLE MCKEE",
+        "url": "https://www.youtube.com/watch?v=exn7kC6Q49c",
+        "date_utc": "2026-11-09T13:01:51+00:00",
+        "summary": "ACT Deputy Leader Nicole McKee joins Maree Muscke for this post-election interview examining ACT’s record result of 13 MPs and its ambitions for a stronger coalition agreement. Nicole discusses the party’s increased negotiating influence, strategic voting and the debate over MMP, while calling on National to show greater respect for its coalition partners and recognise ACT’s contribution to the government’s achievements. Discover more on Nicole McKee or find her on Facebook For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "GREG BARNS",
+        "url": "https://www.youtube.com/watch?v=gDfkD_wx6rE",
+        "date_utc": "2026-11-09T13:01:49+00:00",
+        "summary": "Barrister and civil liberties advocate Greg Barns SC joins Michael Arbon to discuss the proposed Digital Duty of Care bill and its potential consequences for free speech, privacy and government surveillance. They also explore Australia’s under-16 social media ban, the use of government sock-puppet identities and the upcoming Victorian election, including the state’s debt, crime policies and lack of commitment to civil liberties. Discover more from Greg at Lawyers Alliance or find him on X Find more from Michael on Facebook and X"
+      },
+      {
+        "title": "MICHAEL ARBON",
+        "url": "https://www.youtube.com/shorts/OUFo3Pr1XkY",
+        "date_utc": "2026-11-09T13:01:23+00:00",
+        "summary": "Michael Arbon examines Dame Jacinda Ardern’s new role at the University of Sydney, where she will focus on empathetic leadership, social cohesion and civic trust, despite leaving New Zealand a divided nation. Discover more from Michael on Facebook and X"
+      },
+      {
+        "title": "LISA SPENCER",
+        "url": "https://www.youtube.com/watch?v=RDKN8N5IqIU",
+        "date_utc": "2026-11-09T13:01:08+00:00",
+        "summary": "Comedian and Satirist Lisa Spencer shares her impressions of the Australia marches in Melbourne, describing a noticeably different energy and atmosphere from previous protests. She and Tim Wilms discuss the approaching Victorian election, their opposition to another Labor government and their hopes for political change in the state. #RCR"
+      },
+      {
+        "title": "EDWARD SCHULLER",
+        "url": "https://www.youtube.com/watch?v=zifpd_FeYk8",
+        "date_utc": "2026-11-09T13:00:58+00:00",
+        "summary": "Talking with Tim Wilms, Edward Schuller discusses efforts to challenge the influence of external organisations in school sex education, transgender ideology and what he describes as the growing bureaucratisation of education. Through the Protect Our Kids campaign, he is calling for these organisations to be removed from schools, their government funding cut and greater parental oversight restored. #RCR"
+      },
+      {
+        "title": "MICHAEL PIASTRINO",
+        "url": "https://www.youtube.com/watch?v=Jxn__pbahyw",
+        "date_utc": "2026-11-09T13:00:52+00:00",
+        "summary": "Talking with Tim Wilms One Nation candidate Michael Piastrino explains why he left the Liberal Party, accusing it of lacking backbone and failing to represent voters. He outlines One Nation’s ambitions to win seats across Melbourne’s south-east, promising to put local concerns first, including reversing the renaming of Berwick Springs Lake. #RCR"
+      },
+      {
+        "title": "MARK NICHOLSON",
+        "url": "https://www.youtube.com/watch?v=jMwUMUBp-nY",
+        "date_utc": "2026-11-09T13:00:43+00:00",
+        "summary": "Speaking with Tim Wilms, cartoonist and One Nation candidate Mark Nicholson reflects on the energy behind the party’s growing election campaign and his decision to stand in Melbourne’s Northern Metropolitan Region. He discusses continuing his political cartoons if elected and argues that One Nation is now offering practical solutions, pointing to its 63-page policy platform. #RCR"
+      },
+      {
+        "title": "RCR co-founders Alia Bland and Claire Deeks spoke to Michael Laws",
+        "url": "https://www.youtube.com/watch?v=m3hgffQewAk",
+        "date_utc": "2026-11-09T08:33:45+00:00",
+        "summary": "RCR co-founders Alia Bland and Claire Deeks spoke to Michael Laws this morning about RCR’s Vote Smart 2026 campaign."
+      },
       {
         "title": "UNDER THE HOOD",
         "url": "https://www.youtube.com/watch?v=ZwfhEP3Pxrc",
@@ -136,89 +214,83 @@
         "url": "https://www.youtube.com/watch?v=-VLz9xzg7SM",
         "date_utc": "2026-11-06T13:03:51+00:00",
         "summary": "Talking with Maree Buscke, Trevor Loudon examines the Republican losses in the US midterms, the impact of immigration enforcement, rising fuel costs and divisions over foreign policy under Donald Trump. He argues that the Democratic Socialists of America are gaining influence within the Democratic Party, while predicting greater political polarisation ahead of 2028. For more from Trevor Loudon and or check out his book Godzone Enemies For the latest international news, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "A POLITICAL AGENDA",
-        "url": "https://www.youtube.com/watch?v=LMeccjOnmoY",
-        "date_utc": "2026-11-06T13:03:05+00:00",
-        "summary": "With the election just hours away, former MPs Simon O’Connor and Rodney Hide assess the latest polling, the possibility of a hung Parliament and the impact of strategic voting. They discuss the Opportunity Party’s chances of crossing the 5% threshold, RCR’s Vote Smart campaign, and allegations of media bias, questioning whether voters are getting the information they need before making their choice. For election news that matters, get RCR Bites FREE every weekday Learn everything about the overhang, wasted vote and tactical voting at Vote Smart Is your electorate a close call? Find out now at Vote Check"
-      },
-      {
-        "title": "DON BRASH & MATT ROBSON",
-        "url": "https://www.youtube.com/watch?v=r34gIHKn5oY",
-        "date_utc": "2026-11-06T13:01:51+00:00",
-        "summary": "In their final pre-election discussion, Don Brash and Matt Robson assess the US midterm results, the risks of escalating international conflict and the Greens’ proposed wealth tax. They examine the latest polling, the potential for an MMP overhang to shape the next government, and discuss whether voters should redirect their party votes. For election news that matters, get RCR Bites FREE every weekday Learn everything about the overhang, wasted vote and tactical voting at Vote Smart Is your electorate a close call? Find out now at Vote Check"
-      },
-      {
-        "title": "\"I've yet to meet many people, many ordinary people or normal people, who know who their member of p",
-        "url": "https://www.youtube.com/shorts/QWZmEfrm610",
-        "date_utc": "2026-11-06T06:45:31+00:00",
-        "summary": "\"I've yet to meet many people, many ordinary people or normal people, who know who their member of parliament even is, unless they are high profile.\" - Matt Robson, Auckland Barrister Matt Robson questions whether electorate MPs are still as important as they once were, arguing that many voters don't even know who represents their local area. If people don't know their electorate MP, does that weaken the case for keeping electorate seats, or show that MPs need to do a better job connecting with their communities? 🎥 Watch here: https://rcr.media/episodes/don-brash-matt-robson-former-reserve-bank-governor-auckland-barrister-election-uncertainty-new-zealands-future #RCRMedia"
-      },
-      {
-        "title": "\"We don't want a repeat of it. It's really that simple, Simon.\" - Alia Bland, RCR Co-Founder",
-        "url": "https://www.youtube.com/shorts/shRsrTI-MFg",
-        "date_utc": "2026-11-06T06:45:27+00:00",
-        "summary": "\"We don't want a repeat of it. It's really that simple, Simon.\" - Alia Bland, RCR Co-Founder Alia Bland recounts the devastating personal toll of the COVID years, including families still divided and New Zealanders struggling with the consequences of decisions made under the previous Labour government. Her warning centres on the lasting harm she says people continue to experience and her determination not to see those years repeated. With Labour seeking a return to government, what accountability should its leaders face for the decisions of 2020-2023, and what safeguards would prevent history repeating itself? 🎥 Watch here: https://rcr.media/episodes/the-fourth-estate-with-chantelle-baker-alia-bland-overhang-the-medias-great-left-lean #RCRMedia #TheFourthEstate"
-      },
-      {
-        "title": "\"They're still going to be MPs, and they're still going to be the ones who get to decide with their",
-        "url": "https://www.youtube.com/shorts/8T4yyLib3XI",
-        "date_utc": "2026-11-06T06:30:47+00:00",
-        "summary": "\"They're still going to be MPs, and they're still going to be the ones who get to decide with their caucus colleagues\" - Graeme Edgeler, Constitutional & Electoral Law Expert Could TOP's internal party rules create a political standoff even after its MPs are elected? Edgeler makes an important distinction between a board's influence over party agreements and the actual voting powers of MPs. If TOP's boardroom becomes a battleground, will coalition negotiations need a mediator, a referee or a circus tent? 🎪 🎥 Watch here: https://rcr.media/episodes/graeme-edgeler-constitutional-electoral-law-expert-tops-two-board-member-veto #RCRMedia"
-      },
-      {
-        "title": "\"What we can't see is the electorates that National will win. And that is the thing you're not measu",
-        "url": "https://www.youtube.com/shorts/DSLKOUY3ass",
-        "date_utc": "2026-11-06T06:27:20+00:00",
-        "summary": "\"What we can't see is the electorates that National will win. And that is the thing you're not measuring by those polls.\" - Don Brash, Former Reserve Bank Governor National sits at 26.4% in the cited Freshwater Strategy poll, but Don Brash says that figure alone doesn't reveal the full MMP picture. He believes National could win significantly more electorate seats than its party vote would ordinarily justify. Are voters and commentators overlooking the electorate results when interpreting national party-vote polling? 🎥 Watch here: https://rcr.media/episodes/don-brash-matt-robson-former-reserve-bank-governor-auckland-barrister-election-uncertainty-new-zealands-future #RCRMedia"
-      },
-      {
-        "title": "\"I think any Cabinet should look at it and rigorously assess wealth.\" - Matt Robson, Auckland Barris",
-        "url": "https://www.youtube.com/shorts/mFsalmwIqGg",
-        "date_utc": "2026-11-06T06:15:30+00:00",
-        "summary": "\"I think any Cabinet should look at it and rigorously assess wealth.\" - Matt Robson, Auckland Barrister \"If you apply 2.5% tax (annual tax) to wealth above $10 million, you'll see wealth move out of New Zealand at a rate of knots.\" - Don Brash, Former Reserve Bank Governor Matt Robson wants the government to examine whether high-net-worth individuals contribute enough. Don Brash argues that a wealth tax risks driving capital and successful business owners out of New Zealand. Is the greater economic risk undertaxing accumulated wealth, or creating incentives for investment to leave the country? 🎥 Watch here: https://rcr.media/episodes/don-brash-matt-robson-former-reserve-bank-governor-auckland-barrister-election-uncertainty-new-zealands-future"
-      },
-      {
-        "title": "\"This whole campaign at the moment hinges on what RCR is doing in its campaign.\" - Rodney Hide, Form",
-        "url": "https://www.youtube.com/shorts/9pO52gMxzlU",
-        "date_utc": "2026-11-06T06:04:18+00:00",
-        "summary": "\"This whole campaign at the moment hinges on what RCR is doing in its campaign.\" - Rodney Hide, Former ACT Leader Rodney Hide makes a striking claim about RCR's Vote Smart campaign, arguing that strategic voting and the potential National overhang could be decisive in an extremely close election. Could a grassroots voter education campaign really make the difference when the major parties are separated by such fine margins? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-simon-oconnor-rodney-hide-nzs-future-on-a-knife-edge #RCRMedia #APolticalAgenda"
-      },
-      {
-        "title": "\"So, you don't get 50% of that doctor's time, you get zero.\" - Alex Price, ACT Candidate for Mount A",
-        "url": "https://www.youtube.com/shorts/O0d4z-2qJUU",
-        "date_utc": "2026-11-06T06:00:50+00:00",
-        "summary": "\"So, you don't get 50% of that doctor's time, you get zero.\" - Alex Price, ACT Candidate for Mount Albert & CEO of Fertility Associates Alex Price exposes what he sees as a disastrous own goal in New Zealand's public health system. Hospitals demand that senior doctors increase their public-sector hours, only to see some leave for private practice altogether! If a hospital could have a specialist for two and a half days a week, why risk losing them for all five? 🎥 Watch here: https://rcr.media/episodes/alex-price-act-candidate-for-mount-albert-cost-of-living-blamed-for-falling-birth-rate #RCRMedia"
-      },
-      {
-        "title": "\"There'll be a whole lot of things that they can do that other security guards won't be able to do.\"",
-        "url": "https://www.youtube.com/shorts/jN-elDS04Us",
-        "date_utc": "2026-11-06T05:54:24+00:00",
-        "summary": "\"There'll be a whole lot of things that they can do that other security guards won't be able to do.\" - Nicole McKee, ACT Deputy Leader Nicole McKee outlines ACT's proposal to give specially accredited security guards additional powers to detain suspects until police arrive, alongside stronger trespass enforcement. Would giving properly trained security guards greater powers help tackle shoplifting and repeat offending in New Zealand's shopping centres? 🎥 Watch here: https://rcr.media/episodes/nicole-mckee-acts-deputy-leader-going-further-on-law-and-order #RCRMedia"
-      },
-      {
-        "title": "\"It shouldn't sort of upset your day and make you spit out your cornflakes.\" - Alia Bland, RCR Co-Fo",
-        "url": "https://www.youtube.com/shorts/FVxDfheXRFM",
-        "date_utc": "2026-11-06T05:30:49+00:00",
-        "summary": "\"It shouldn't sort of upset your day and make you spit out your cornflakes.\" - Alia Bland, RCR Co-Founder Alia Bland has a simple message about political satire: people should be free to express opinions, make jokes and criticise politicians without every disagreement becoming a complaint. If political speech only remains protected when nobody gets offended, is it really free speech at all? 🎥 Watch here: https://rcr.media/episodes/the-fourth-estate-with-chantelle-baker-alia-bland-overhang-the-medias-great-left-lean #RCRMedia #TheFourthEstate"
-      },
-      {
-        "title": "\"I mean, the dominance of their coverage of the Opportunity Party knows no bounds.\" - Paul Henry, AC",
-        "url": "https://www.youtube.com/shorts/s8GBfByONeI",
-        "date_utc": "2026-11-06T05:00:38+00:00",
-        "summary": "\"I mean, the dominance of their coverage of the Opportunity Party knows no bounds.\" - Paul Henry, ACT Candidate & Veteran NZ Broadcaster Paul Henry takes aim at RNZ's apparent obsession with TOP, questioning the extraordinary attention being lavished on Qiulae Wong. If TOP fails to cross the 5% threshold, will RNZ need a support group to cope with the disappointment? 🎥 Watch here: https://rcr.media/episodes/paul-henry-act-candidate-and-veteran-nz-broadcaster-government-debt-is-eating-into-new-zealanders-lives #RCRMedia"
-      },
-      {
-        "title": "\"On the right, you've got a whole bunch, the majority of party votes just going into the rubbish bin",
-        "url": "https://www.youtube.com/shorts/y6mgKy5CFSw",
-        "date_utc": "2026-11-06T04:45:23+00:00",
-        "summary": "\"On the right, you've got a whole bunch, the majority of party votes just going into the rubbish bin.\" - Dr Muriel Newman, Founder, NZ Centre for Political Research THE OVERHANG TRAP! Dr Muriel Newman warns that if National wins more electorate seats than its party vote entitles it to, additional National party votes could fail to deliver any extra MPs. That means votes intended to strengthen National may have no further impact on its seat count. With a potential overhang changing the usual MMP calculations, how many New Zealanders realise their party vote might deliver no additional seats for one party, while potentially making a difference to another in the same bloc? 🎥 Watch here: https://rcr.media/episodes/muriel-newman-nz-centre-for-political-research-founder-who-really-runs-new-zealand #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Iain Murray Is Number 11 On ACT’s Party LIst & Heading To Parliament For The First Time",
+        "url": "https://www.youtube.com/watch?v=qve-fZDCh0w",
+        "date_utc": "2026-11-09T04:40:13+00:00",
+        "summary": "Iain Murray, New ACT MP - Number 11 on the ACT party list and heading to Parliament for the first time."
+      },
+      {
+        "title": "Giant Wakeup Call For National & A Breakdown On The Election Results",
+        "url": "https://www.youtube.com/watch?v=9_BXssowagI",
+        "date_utc": "2026-11-09T04:17:14+00:00",
+        "summary": "Ashley Church, political commentator on the giant wakeup call for National, and a breakdown on the election results."
+      },
+      {
+        "title": "\"Boomers\" Have Dfferent Views, Experiences, Humour And Resilience. Why Should They Be Silenced?",
+        "url": "https://www.youtube.com/watch?v=F7-pCQPdVno",
+        "date_utc": "2026-11-09T03:38:55+00:00",
+        "summary": "\"Boomers\" have different views, experiences, humour and resilience. Why should they be silenced?"
+      },
+      {
+        "title": "The Gang Legislation Is working, Says Police Association Pesident",
+        "url": "https://www.youtube.com/watch?v=caiPRvkqDgc",
+        "date_utc": "2026-11-09T03:36:27+00:00",
+        "summary": "The gang legislation is working, says Police Association president Steve Watt."
+      },
+      {
+        "title": "They May Have Changed An Election: Claire Deeks/Alia Bland Explain Their Role",
+        "url": "https://www.youtube.com/watch?v=FarADj-63x4",
+        "date_utc": "2026-11-09T03:27:41+00:00",
+        "summary": "They may have changed an election: Claire Deeks/Alia Bland explain their role in the \"split vote\" campaign."
+      },
+      {
+        "title": "Leading Pollster David Farrar On How Curia Perfectly Predicted The Election Result",
+        "url": "https://www.youtube.com/watch?v=PS0jXjB1OU8",
+        "date_utc": "2026-11-09T02:04:53+00:00",
+        "summary": "Leading pollster David Farrar on how Curia perfectly predicted the election result, and the \"Saturday surge\"."
+      },
+      {
+        "title": "Harry Mowbray On Split Voting Results In The Election",
+        "url": "https://www.youtube.com/watch?v=fybzRO1YRwA",
+        "date_utc": "2026-11-09T00:16:15+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Chris Lynch On Media Coverage Of Election Night 2026",
+        "url": "https://www.youtube.com/watch?v=QgMKoOJRlzw",
+        "date_utc": "2026-11-08T23:51:28+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Chris Trotter Gives His Analysis Of Election Night",
+        "url": "https://www.youtube.com/watch?v=wJfuFzCuwRs",
+        "date_utc": "2026-11-08T23:22:18+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Maurice Williamson On National’s Electorate & Overhang Results On Election Night",
+        "url": "https://www.youtube.com/watch?v=9RnPh0pQTZo",
+        "date_utc": "2026-11-08T23:05:48+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Sean Plunket Reflects On Election Night 2026",
+        "url": "https://www.youtube.com/watch?v=uZBv0EWfAGU",
+        "date_utc": "2026-11-08T22:28:34+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Simeon Brown Gives A Final Message as National’s Campaign Manager",
+        "url": "https://www.youtube.com/watch?v=sP8QPko4i3M",
+        "date_utc": "2026-11-08T21:28:29+00:00",
+        "summary": "Simeon Brown Gives A Final Message as National’s Campaign Manager"
+      },
       {
         "title": "Elliot Ikilei’s Final Thoughts On The World Of Politics Before Election 2026",
         "url": "https://www.youtube.com/watch?v=yn6_MZ5D77Y",
@@ -236,78 +308,6 @@
         "url": "https://www.youtube.com/watch?v=pX4YuqGXKgA",
         "date_utc": "2026-11-06T03:08:38+00:00",
         "summary": "Dr Angus Chambers, Chair of GenPro - GP owners are overwhelmingly unconvinced by Labour's promise of three free GP appointments."
-      },
-      {
-        "title": "Free Speech Fridays #181 - Alistair Boyce & Leo Molloy",
-        "url": "https://www.youtube.com/watch?v=3ozPqu0tYZc",
-        "date_utc": "2026-11-06T01:07:02+00:00",
-        "summary": "Free Speech Fridays with Alistair Boyce & Leo Molloy is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss final Election predictions, Michael Laws smeared by mainstream media, USA Midterm results and more."
-      },
-      {
-        "title": "Jordan Williams On Smear Campaigns",
-        "url": "https://www.youtube.com/watch?v=Zlh3XnCeov8",
-        "date_utc": "2026-11-06T00:11:51+00:00",
-        "summary": "Jordan Williams on Smear Campaigns Leading Up to 2026 Election"
-      },
-      {
-        "title": "David Seymour On Leading ACT's Election Campaign",
-        "url": "https://www.youtube.com/watch?v=kXl2ri6pk-U",
-        "date_utc": "2026-11-05T23:24:12+00:00",
-        "summary": "David Seymour on Leading ACT's Election Campaign"
-      },
-      {
-        "title": "Winston Peters On Public Meetings And Final Days Of Campaigning",
-        "url": "https://www.youtube.com/watch?v=Gd7PTeCTOfA",
-        "date_utc": "2026-11-05T22:11:17+00:00",
-        "summary": "Winston Peters on Public Meetings and Final Days of Campaigning"
-      },
-      {
-        "title": "Letter from Oz: Jaqui Lane On The David Jones Collapse And The Rise Of One Australia.",
-        "url": "https://www.youtube.com/watch?v=pMc8WslnHT0",
-        "date_utc": "2026-11-05T06:32:12+00:00",
-        "summary": "Letter from Oz: Jaqui Lane on the David Jones collapse and the rise of One Australia."
-      },
-      {
-        "title": "Ashley Church With A Final Wrap-Up Of NZ Politics Before Election 2026",
-        "url": "https://www.youtube.com/watch?v=uRULy0uu8h0",
-        "date_utc": "2026-11-05T05:40:14+00:00",
-        "summary": "Markets and political commentator, Ashley Church with a final wrap-up of NZ politics before election 2026."
-      },
-      {
-        "title": "The Import Dumping Of Aluminium Extrusions From China Into NZ",
-        "url": "https://www.youtube.com/watch?v=2aGEcHP0Owc",
-        "date_utc": "2026-11-05T05:06:06+00:00",
-        "summary": "Martin Gummer, Managing Director of Optima on the import dumping of aluminium extrusions from China into New Zealand."
-      },
-      {
-        "title": "The Biased & Unbalanced Coverage Of Quilae Wong In Local & International Media",
-        "url": "https://www.youtube.com/watch?v=9IY9-TJs_Gg",
-        "date_utc": "2026-11-05T04:58:23+00:00",
-        "summary": "Penny Marie, Founder of Let Kids Be Kids on the incredibly biased and unbalanced coverage of Quilae Wong in local and international media."
-      },
-      {
-        "title": "Republican Strategist/Commentator On The US Elections.",
-        "url": "https://www.youtube.com/watch?v=ioXypTAZTDI",
-        "date_utc": "2026-11-05T01:51:06+00:00",
-        "summary": "Republican strategist/commentator Lenny McAllister on the US elections and the Trump factor."
-      },
-      {
-        "title": "There’s An MMP Overhang - How Do You Solve That?",
-        "url": "https://www.youtube.com/watch?v=4Xc2TWNkm5w",
-        "date_utc": "2026-11-05T01:26:25+00:00",
-        "summary": "There’s an MMP overhang - how do you solve that? NZ Initiative’s Dr Oliver Hartwich suggests solutions."
-      },
-      {
-        "title": "Are “Pale, Stale And Male” Folk Effectively Cancelled In New Zealand?",
-        "url": "https://www.youtube.com/watch?v=fPK4BMI_xzY",
-        "date_utc": "2026-11-05T01:21:35+00:00",
-        "summary": "Are “pale, stale and male” folk effectively cancelled in New Zealand?"
-      },
-      {
-        "title": "Maurice Williamson’s Final Tutorial On Tactical Voting",
-        "url": "https://www.youtube.com/watch?v=NcE--GgQ2tw",
-        "date_utc": "2026-11-05T00:59:32+00:00",
-        "summary": ""
       }
     ],
     "opinions": []
