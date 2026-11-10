@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-11-09T21:22:59Z",
+  "generated_utc": "2026-11-10T18:34:31Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "The specials could sink Luxon’s majority. They probably won’t.",
+        "url": "https://realitycheck.radio/the-specials-could-sink-luxons-majority-they-probably-wont/",
+        "date_utc": "2026-11-10T07:38:52Z",
+        "summary": ""
+      },
       {
         "title": "For New Zealand to Thrive, We Must Recognise the Value of Every Human Life",
         "url": "https://realitycheck.radio/for-new-zealand-to-thrive-we-must-recognise-the-value-of-every-human-life/",
@@ -88,10 +94,10 @@
         "summary": "by Richard Prebble The cost of living is the number […]"
       },
       {
-        "title": "Seat by Seat",
-        "url": "https://realitycheck.radio/seat-by-seat/",
-        "date_utc": "2026-11-03T23:09:42Z",
-        "summary": "by Peter Williams Although we’re bombarded with polls on a […]"
+        "title": "ALIA BLAND & CLAIRE DEEKS: Founders Of RCR & Voices For Freedom: Did Billionaires Really Shape the Election?",
+        "url": "https://realitycheck.radio/episodes/alia-bland-claire-deeks-founders-of-rcr-voices-for-freedom-did-billionaires-really-shape-the-election/",
+        "date_utc": "2026-11-10T01:56:29Z",
+        "summary": ""
       },
       {
         "title": "ALIA BLAND & CLAIRE DEEKS: RCR Co-Founders: Explaining RCR’s Election Strategy with Michael Laws",
@@ -116,15 +122,15 @@
         "url": "https://realitycheck.radio/episodes/nicole-mckee-act-deputy-leader-election-2026-an-election-debrief/",
         "date_utc": "2026-11-09T02:03:23Z",
         "summary": ""
-      },
-      {
-        "title": "MICHAEL ARBON: Ardern to Teach Empathy to Aussies",
-        "url": "https://realitycheck.radio/episodes/michael-arbon-ardern-to-teach-empathy-to-aussies/",
-        "date_utc": "2026-11-09T01:57:01Z",
-        "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "ALIA BLAND & CLAIRE DEEKS",
+        "url": "https://www.youtube.com/watch?v=a2QaM1WxDrY",
+        "date_utc": "2026-11-10T13:02:01+00:00",
+        "summary": "Joining Paul Brennan, Claire Deeks and Alia Bland reflect on the Vote Smart 2026 campaign, explaining how RCR and Voices for Freedom conceived, organised and delivered a major grassroots-led strategic voting campaign – rather than the billionaire-driven operation portrayed in parts of the mainstream media. They discuss the campaign’s planning, electoral rules, media backlash and the controversy surrounding the overhang strategy. Check out the Vote Smart campaign For election news that matters, get RCR Bites FREE every weekday"
+      },
       {
         "title": "🇦🇺 Ardern is Heading to Australia to Teach Empathy. Seriously.",
         "url": "https://www.youtube.com/shorts/iz_gaYBZ7-Q",
@@ -208,17 +214,77 @@
         "url": "https://www.youtube.com/watch?v=ZwfhEP3Pxrc",
         "date_utc": "2026-11-07T13:01:34+00:00",
         "summary": "Following his recent New Zealand tour, Graham “Hoody” Hood reflects on the political divisions he encountered, the growing tensions around the world and the need for people who value freedom to put their differences aside. With New Zealand’s election now behind us, Hoody delivers a timely message about rejecting hostility, finding common ground and building strong communities. Because we may not agree on everything, but we need to be able to stand together. For further information: Discover more from Hoody at Club Grubbery or find him on Facebook and X Read Alia Bland’s “An Open Letter to the University of Sydney” Watch Winston Peters on “Bullseye – Reading Between the Lies, with Graham Hood & John Larder” For more about the “Hoody-on-a-Roady” tour of New Zealand"
-      },
-      {
-        "title": "TREVOR LOUDON",
-        "url": "https://www.youtube.com/watch?v=-VLz9xzg7SM",
-        "date_utc": "2026-11-06T13:03:51+00:00",
-        "summary": "Talking with Maree Buscke, Trevor Loudon examines the Republican losses in the US midterms, the impact of immigration enforcement, rising fuel costs and divisions over foreign policy under Donald Trump. He argues that the Democratic Socialists of America are gaining influence within the Democratic Party, while predicting greater political polarisation ahead of 2028. For more from Trevor Loudon and or check out his book Godzone Enemies For the latest international news, get RCR Bites FREE every weekday"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Auckland Is In A Funk - How To Get Out Of It",
+        "url": "https://www.youtube.com/watch?v=hGfXdsNHWHY",
+        "date_utc": "2026-11-10T06:49:02+00:00",
+        "summary": "Auckland is in a funk - how to get out of it with Alan McDonald, Manufacturers' Assn."
+      },
+      {
+        "title": "The Hot Mess That Is Local Government Reform",
+        "url": "https://www.youtube.com/watch?v=0mx2UAgLTWU",
+        "date_utc": "2026-11-10T05:22:13+00:00",
+        "summary": "The hot mess that is local government reform with Hon Neil Kirton"
+      },
+      {
+        "title": "Prolonged Coalition Negotiations Create “Profound Policy Uncertainty That Stunts Economic Growth”",
+        "url": "https://www.youtube.com/watch?v=fK88Xv_irmA",
+        "date_utc": "2026-11-10T04:32:54+00:00",
+        "summary": "Professor Robert MacCulloch, Economics at University of Auckland - Prolonged coalition negotiations create “profound policy uncertainty that stunts economic growth”."
+      },
+      {
+        "title": "Debate Over A Proposed McDonald's Next To A Napier Medical Centre",
+        "url": "https://www.youtube.com/watch?v=KG8lEFxmJaY",
+        "date_utc": "2026-11-10T04:16:18+00:00",
+        "summary": "Boyd Swinburn, Health Coalition Aotearoa co-chair on the debate over a proposed McDonald’s next to a medical centre in Napier."
+      },
+      {
+        "title": "The Greatest Threat To NZ Democracy Is The Unaccountable Public Sector",
+        "url": "https://www.youtube.com/watch?v=4Oon3bh7Dj8",
+        "date_utc": "2026-11-10T04:06:21+00:00",
+        "summary": "the greatest threat to NZ democracy is the unaccountable public sector"
+      },
+      {
+        "title": "Voting Day Figures Tell Their Own Story - Take A Look.",
+        "url": "https://www.youtube.com/watch?v=KTyOrszeRtc",
+        "date_utc": "2026-11-10T02:54:29+00:00",
+        "summary": "Voting day figures tell their own story - take a look."
+      },
+      {
+        "title": "John McLean Speculates On RNZ’s Left Bias",
+        "url": "https://www.youtube.com/watch?v=VoSi30APh5I",
+        "date_utc": "2026-11-10T00:50:30+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Opportunity Founder Gareth Morgan Says They Must Stay Out Of Coalition",
+        "url": "https://www.youtube.com/watch?v=jx164xMuM9U",
+        "date_utc": "2026-11-10T00:08:16+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Taxpayers’ Union’s Jordan Williams Stunned By RNZ Record Financial Loss",
+        "url": "https://www.youtube.com/watch?v=SCxD6FdBSAU",
+        "date_utc": "2026-11-09T23:40:06+00:00",
+        "summary": ""
+      },
+      {
+        "title": "RNZ Chair Brent Impey Promises Full Investigation Into RNZ Financial Loss",
+        "url": "https://www.youtube.com/watch?v=4dTRqnQw9T8",
+        "date_utc": "2026-11-09T23:28:07+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Bryce Edwards’ Selective Outrage Over Vote Splitting",
+        "url": "https://www.youtube.com/watch?v=QUzzEaj3EF4",
+        "date_utc": "2026-11-09T22:58:48+00:00",
+        "summary": ""
+      },
       {
         "title": "Iain Murray Is Number 11 On ACT’s Party LIst & Heading To Parliament For The First Time",
         "url": "https://www.youtube.com/watch?v=qve-fZDCh0w",
@@ -242,72 +308,6 @@
         "url": "https://www.youtube.com/watch?v=caiPRvkqDgc",
         "date_utc": "2026-11-09T03:36:27+00:00",
         "summary": "The gang legislation is working, says Police Association president Steve Watt."
-      },
-      {
-        "title": "They May Have Changed An Election: Claire Deeks/Alia Bland Explain Their Role",
-        "url": "https://www.youtube.com/watch?v=FarADj-63x4",
-        "date_utc": "2026-11-09T03:27:41+00:00",
-        "summary": "They may have changed an election: Claire Deeks/Alia Bland explain their role in the \"split vote\" campaign."
-      },
-      {
-        "title": "Leading Pollster David Farrar On How Curia Perfectly Predicted The Election Result",
-        "url": "https://www.youtube.com/watch?v=PS0jXjB1OU8",
-        "date_utc": "2026-11-09T02:04:53+00:00",
-        "summary": "Leading pollster David Farrar on how Curia perfectly predicted the election result, and the \"Saturday surge\"."
-      },
-      {
-        "title": "Harry Mowbray On Split Voting Results In The Election",
-        "url": "https://www.youtube.com/watch?v=fybzRO1YRwA",
-        "date_utc": "2026-11-09T00:16:15+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Chris Lynch On Media Coverage Of Election Night 2026",
-        "url": "https://www.youtube.com/watch?v=QgMKoOJRlzw",
-        "date_utc": "2026-11-08T23:51:28+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Chris Trotter Gives His Analysis Of Election Night",
-        "url": "https://www.youtube.com/watch?v=wJfuFzCuwRs",
-        "date_utc": "2026-11-08T23:22:18+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Maurice Williamson On National’s Electorate & Overhang Results On Election Night",
-        "url": "https://www.youtube.com/watch?v=9RnPh0pQTZo",
-        "date_utc": "2026-11-08T23:05:48+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Sean Plunket Reflects On Election Night 2026",
-        "url": "https://www.youtube.com/watch?v=uZBv0EWfAGU",
-        "date_utc": "2026-11-08T22:28:34+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Simeon Brown Gives A Final Message as National’s Campaign Manager",
-        "url": "https://www.youtube.com/watch?v=sP8QPko4i3M",
-        "date_utc": "2026-11-08T21:28:29+00:00",
-        "summary": "Simeon Brown Gives A Final Message as National’s Campaign Manager"
-      },
-      {
-        "title": "Elliot Ikilei’s Final Thoughts On The World Of Politics Before Election 2026",
-        "url": "https://www.youtube.com/watch?v=yn6_MZ5D77Y",
-        "date_utc": "2026-11-06T04:16:43+00:00",
-        "summary": "NZ First candidate, Elliot Ikilei’s final thoughts on the world of politics before Election 2026."
-      },
-      {
-        "title": "Christine Rankin's Final Thoughts On The Lead Up To Election 2026",
-        "url": "https://www.youtube.com/watch?v=BS11YE7R45k",
-        "date_utc": "2026-11-06T03:52:24+00:00",
-        "summary": ""
-      },
-      {
-        "title": "GP Owners Unconvinced By Labour's Promise Of Three Free GP Appointments",
-        "url": "https://www.youtube.com/watch?v=pX4YuqGXKgA",
-        "date_utc": "2026-11-06T03:08:38+00:00",
-        "summary": "Dr Angus Chambers, Chair of GenPro - GP owners are overwhelmingly unconvinced by Labour's promise of three free GP appointments."
       }
     ],
     "opinions": []
