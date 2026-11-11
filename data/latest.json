@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-10T18:34:31Z",
+  "generated_utc": "2026-11-11T18:33:39Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,30 @@
     ],
     "youtube": [
       {
+        "title": "MONEY TALKS",
+        "url": "https://www.youtube.com/watch?v=x6wy_6iTo4I",
+        "date_utc": "2026-11-11T13:02:59+00:00",
+        "summary": "Farzin Irani of Sovereignty Capital warns that changing global economic conditions could have serious implications for New Zealanders, from falling property values and rising mortgage costs to the risks of using KiwiSaver to enter the housing market. He also examines the potential consequences of bank failures, digital banking and government-issued digital credentials, arguing that financial independence and genuine international diversification are increasingly important. Farzin’s event Capital Intelligence is an opportunity for people to learn more about the financial and global developments discussed to be held on 28 November 2026. Early-bird tickets are available until 14 November 2026 Sign up for Farzin’s Weekly Newsletter Or visit Farzin’s website – Sovereignty.capital – with free resources to help people prepare for the future. DISCLAIMER: The views and information shared on this show are for educational and informational purposes only. They do not constitute personalised financial, investment, tax, or legal advice. Listeners should seek guidance from a licensed financial professional who can provide advice based on their individual situation."
+      },
+      {
+        "title": "FREDDIE PONTON",
+        "url": "https://www.youtube.com/watch?v=yCM6jGzg_Ls",
+        "date_utc": "2026-11-11T13:02:37+00:00",
+        "summary": "Talking with Paul Brennan Freddie Ponton examines the potential impact of the US midterm results and Israel’s election on the conflicts involving Iran and the wider Middle East, questioning whether political pressure will curb further military action. He also assesses the difficult negotiations over Ukraine’s future, tensions between European leaders and Russia, and the prospect of a significant shift in French foreign policy towards Israel and Palestinian rights. Discover more from 21st Century Wire or find them on X Follow Freddie on X For international news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "BOTH BARRELS",
+        "url": "https://www.youtube.com/watch?v=Q3LndGSpPAU",
+        "date_utc": "2026-11-11T13:02:16+00:00",
+        "summary": "Maree Buscke and Rachel Stewart dissect the election result, arguing that strategic vote-splitting helped secure a centre-right path to government while mainstream media have been reluctant to acknowledge RCR’s role. They question the media’s treatment of the competing campaigns, examine TOP’s prospects in Parliament and the coalition negotiations ahead, and consider what the result reveals about National’s leadership and the future direction of the right. For further information: Vote Smart 2026 Riding Shotgun | The Hypocrisy of Democracy Ani O’Briens article | Law News The Daily Blog article | The Billionaire Class Rigged & Stole Our Election"
+      },
+      {
+        "title": "SIMON O’CONNOR",
+        "url": "https://www.youtube.com/watch?v=H5_zDq1w1X0",
+        "date_utc": "2026-11-11T13:01:30+00:00",
+        "summary": "Simon O’Connor argues that National and NZ First have the clearest route to forming the next government, despite the election’s close result. With National weakened and ACT and NZ First strengthened, he expects the smaller coalition partners to demand greater influence over policy, Cabinet positions and parliamentary committees, potentially shifting the government further to the right. For election news that matters, get RCR Bites FREE every weekday and to find out everything about RCR campaign check out Vote Smart"
+      },
+      {
         "title": "ALIA BLAND & CLAIRE DEEKS",
         "url": "https://www.youtube.com/watch?v=a2QaM1WxDrY",
         "date_utc": "2026-11-10T13:02:01+00:00",
@@ -190,35 +214,83 @@
         "url": "https://www.youtube.com/watch?v=zifpd_FeYk8",
         "date_utc": "2026-11-09T13:00:58+00:00",
         "summary": "Talking with Tim Wilms, Edward Schuller discusses efforts to challenge the influence of external organisations in school sex education, transgender ideology and what he describes as the growing bureaucratisation of education. Through the Protect Our Kids campaign, he is calling for these organisations to be removed from schools, their government funding cut and greater parental oversight restored. #RCR"
-      },
-      {
-        "title": "MICHAEL PIASTRINO",
-        "url": "https://www.youtube.com/watch?v=Jxn__pbahyw",
-        "date_utc": "2026-11-09T13:00:52+00:00",
-        "summary": "Talking with Tim Wilms One Nation candidate Michael Piastrino explains why he left the Liberal Party, accusing it of lacking backbone and failing to represent voters. He outlines One Nation’s ambitions to win seats across Melbourne’s south-east, promising to put local concerns first, including reversing the renaming of Berwick Springs Lake. #RCR"
-      },
-      {
-        "title": "MARK NICHOLSON",
-        "url": "https://www.youtube.com/watch?v=jMwUMUBp-nY",
-        "date_utc": "2026-11-09T13:00:43+00:00",
-        "summary": "Speaking with Tim Wilms, cartoonist and One Nation candidate Mark Nicholson reflects on the energy behind the party’s growing election campaign and his decision to stand in Melbourne’s Northern Metropolitan Region. He discusses continuing his political cartoons if elected and argues that One Nation is now offering practical solutions, pointing to its 63-page policy platform. #RCR"
-      },
-      {
-        "title": "RCR co-founders Alia Bland and Claire Deeks spoke to Michael Laws",
-        "url": "https://www.youtube.com/watch?v=m3hgffQewAk",
-        "date_utc": "2026-11-09T08:33:45+00:00",
-        "summary": "RCR co-founders Alia Bland and Claire Deeks spoke to Michael Laws this morning about RCR’s Vote Smart 2026 campaign."
-      },
-      {
-        "title": "UNDER THE HOOD",
-        "url": "https://www.youtube.com/watch?v=ZwfhEP3Pxrc",
-        "date_utc": "2026-11-07T13:01:34+00:00",
-        "summary": "Following his recent New Zealand tour, Graham “Hoody” Hood reflects on the political divisions he encountered, the growing tensions around the world and the need for people who value freedom to put their differences aside. With New Zealand’s election now behind us, Hoody delivers a timely message about rejecting hostility, finding common ground and building strong communities. Because we may not agree on everything, but we need to be able to stand together. For further information: Discover more from Hoody at Club Grubbery or find him on Facebook and X Read Alia Bland’s “An Open Letter to the University of Sydney” Watch Winston Peters on “Bullseye – Reading Between the Lies, with Graham Hood & John Larder” For more about the “Hoody-on-a-Roady” tour of New Zealand"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Formula 1 Tragic Hugh Barlow On Whether Liam Lawson Will Be Sacked, Or Not.",
+        "url": "https://www.youtube.com/watch?v=9lARWqhvOg4",
+        "date_utc": "2026-11-11T15:57:35+00:00",
+        "summary": "Formula 1 tragic Hugh Barlow on whether Liam Lawson will be sacked, or not."
+      },
+      {
+        "title": "\"They Hated Us Over Treaty Issues\" Misreads What This Election Was Really About.",
+        "url": "https://www.youtube.com/watch?v=ScYd_pw8PfY",
+        "date_utc": "2026-11-11T07:35:33+00:00",
+        "summary": "\"They hated us over Treaty issues\" misreads what this election was really about."
+      },
+      {
+        "title": "Former MP Simon O'Connor On The Malign Influence Of The Chinese Communist Party In New Zealand",
+        "url": "https://www.youtube.com/watch?v=GUkKoBkcBwM",
+        "date_utc": "2026-11-11T07:28:36+00:00",
+        "summary": "Former MP Simon O'Connor on the malign influence of the Chinese Communist Party in New Zealand"
+      },
+      {
+        "title": "Will We Go To Prison For Criticising Islam?",
+        "url": "https://www.youtube.com/watch?v=CKKrCTKWXzk",
+        "date_utc": "2026-11-11T04:54:30+00:00",
+        "summary": "Will we go to prison for criticising Islam? Free Speech Union's Jillaine Heather on the Left championing a blasphemy law."
+      },
+      {
+        "title": "Key Retail Promotional Season Underway, But Retail Spending Down In October",
+        "url": "https://www.youtube.com/watch?v=Pfr5taloj_A",
+        "date_utc": "2026-11-11T04:39:46+00:00",
+        "summary": "Carolyn Young, CEO of Retail NZ - Key retail promotional season gets underway, but why was retail spending down in October?"
+      },
+      {
+        "title": "Kapiti Airport Closure, Strikes Could Affect Holiday Travel & Boeing Workforce Cuts",
+        "url": "https://www.youtube.com/watch?v=RYKMtkguMi4",
+        "date_utc": "2026-11-11T04:16:52+00:00",
+        "summary": "Irene King, Aviation commentator on the closing of Kapiti Airport, possible strikes can affect holiday travel at Auckland Airport and Boeing cutting its workforce."
+      },
+      {
+        "title": "Tusha Penny, Assistant Police Commissioner On Her Time As A Police Officer & Keeping Kids Safe",
+        "url": "https://www.youtube.com/watch?v=QfIv3x2eRw8",
+        "date_utc": "2026-11-11T04:13:41+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Cash It, Keep It, or Rethink It? – Your Money Matters",
+        "url": "https://www.youtube.com/watch?v=gq1lguO8FR0",
+        "date_utc": "2026-11-11T03:33:37+00:00",
+        "summary": "Your Money Matters with Harness Financial Episode 61 Cash It, Keep It, or Rethink It? Make smart decisions for your financial future with Samuel Rees-Thomas and Dieter Timmerman from Harness Financial."
+      },
+      {
+        "title": "John Banks Gives A Post Election Result Breakdown",
+        "url": "https://www.youtube.com/watch?v=07J4h3Ae-hw",
+        "date_utc": "2026-11-11T01:21:55+00:00",
+        "summary": "John Banks Gives A Post Election Result Breakdown"
+      },
+      {
+        "title": "Taine Randell On His First Days In Parliament",
+        "url": "https://www.youtube.com/watch?v=kw-Kc_S6fCY",
+        "date_utc": "2026-11-10T23:16:39+00:00",
+        "summary": "Taine Randell on His First Days in Parliament"
+      },
+      {
+        "title": "Sean Bell Updates On Iraq And War In The Middle East",
+        "url": "https://www.youtube.com/watch?v=dfKru5ARa_s",
+        "date_utc": "2026-11-10T23:00:34+00:00",
+        "summary": "Sean Bell Updates on Iraq and War in the Middle East"
+      },
+      {
+        "title": "Is Opportunity More Woke Than The Greens?",
+        "url": "https://www.youtube.com/watch?v=cfdrZYiXQh8",
+        "date_utc": "2026-11-10T21:12:29+00:00",
+        "summary": "Is Opportunity more woke than the Greens? Independent journo Penny Marie makes the case."
+      },
       {
         "title": "Auckland Is In A Funk - How To Get Out Of It",
         "url": "https://www.youtube.com/watch?v=hGfXdsNHWHY",
@@ -236,78 +308,6 @@
         "url": "https://www.youtube.com/watch?v=fK88Xv_irmA",
         "date_utc": "2026-11-10T04:32:54+00:00",
         "summary": "Professor Robert MacCulloch, Economics at University of Auckland - Prolonged coalition negotiations create “profound policy uncertainty that stunts economic growth”."
-      },
-      {
-        "title": "Debate Over A Proposed McDonald's Next To A Napier Medical Centre",
-        "url": "https://www.youtube.com/watch?v=KG8lEFxmJaY",
-        "date_utc": "2026-11-10T04:16:18+00:00",
-        "summary": "Boyd Swinburn, Health Coalition Aotearoa co-chair on the debate over a proposed McDonald’s next to a medical centre in Napier."
-      },
-      {
-        "title": "The Greatest Threat To NZ Democracy Is The Unaccountable Public Sector",
-        "url": "https://www.youtube.com/watch?v=4Oon3bh7Dj8",
-        "date_utc": "2026-11-10T04:06:21+00:00",
-        "summary": "the greatest threat to NZ democracy is the unaccountable public sector"
-      },
-      {
-        "title": "Voting Day Figures Tell Their Own Story - Take A Look.",
-        "url": "https://www.youtube.com/watch?v=KTyOrszeRtc",
-        "date_utc": "2026-11-10T02:54:29+00:00",
-        "summary": "Voting day figures tell their own story - take a look."
-      },
-      {
-        "title": "John McLean Speculates On RNZ’s Left Bias",
-        "url": "https://www.youtube.com/watch?v=VoSi30APh5I",
-        "date_utc": "2026-11-10T00:50:30+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Opportunity Founder Gareth Morgan Says They Must Stay Out Of Coalition",
-        "url": "https://www.youtube.com/watch?v=jx164xMuM9U",
-        "date_utc": "2026-11-10T00:08:16+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Taxpayers’ Union’s Jordan Williams Stunned By RNZ Record Financial Loss",
-        "url": "https://www.youtube.com/watch?v=SCxD6FdBSAU",
-        "date_utc": "2026-11-09T23:40:06+00:00",
-        "summary": ""
-      },
-      {
-        "title": "RNZ Chair Brent Impey Promises Full Investigation Into RNZ Financial Loss",
-        "url": "https://www.youtube.com/watch?v=4dTRqnQw9T8",
-        "date_utc": "2026-11-09T23:28:07+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Bryce Edwards’ Selective Outrage Over Vote Splitting",
-        "url": "https://www.youtube.com/watch?v=QUzzEaj3EF4",
-        "date_utc": "2026-11-09T22:58:48+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Iain Murray Is Number 11 On ACT’s Party LIst & Heading To Parliament For The First Time",
-        "url": "https://www.youtube.com/watch?v=qve-fZDCh0w",
-        "date_utc": "2026-11-09T04:40:13+00:00",
-        "summary": "Iain Murray, New ACT MP - Number 11 on the ACT party list and heading to Parliament for the first time."
-      },
-      {
-        "title": "Giant Wakeup Call For National & A Breakdown On The Election Results",
-        "url": "https://www.youtube.com/watch?v=9_BXssowagI",
-        "date_utc": "2026-11-09T04:17:14+00:00",
-        "summary": "Ashley Church, political commentator on the giant wakeup call for National, and a breakdown on the election results."
-      },
-      {
-        "title": "\"Boomers\" Have Dfferent Views, Experiences, Humour And Resilience. Why Should They Be Silenced?",
-        "url": "https://www.youtube.com/watch?v=F7-pCQPdVno",
-        "date_utc": "2026-11-09T03:38:55+00:00",
-        "summary": "\"Boomers\" have different views, experiences, humour and resilience. Why should they be silenced?"
-      },
-      {
-        "title": "The Gang Legislation Is working, Says Police Association Pesident",
-        "url": "https://www.youtube.com/watch?v=caiPRvkqDgc",
-        "date_utc": "2026-11-09T03:36:27+00:00",
-        "summary": "The gang legislation is working, says Police Association president Steve Watt."
       }
     ],
     "opinions": []
