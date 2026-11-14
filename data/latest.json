@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-13T18:28:04Z",
+  "generated_utc": "2026-11-14T16:56:58Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,60 @@
     ],
     "youtube": [
       {
+        "title": "🇦🇺 \"The problem is, what do you define as harm?\" - Greg Barns, Australian Barrister 🇦🇺",
+        "url": "https://www.youtube.com/shorts/qq4tZwPQKX8",
+        "date_utc": "2026-11-14T07:00:50+00:00",
+        "summary": "🇦🇺 \"The problem is, what do you define as harm?\" - Greg Barns, Australian Barrister 🇦🇺 Greg Barns SC warns that Australia's proposed Digital Duty of Care legislation could create dangerous opportunities for censorship, depending on who gets to decide what constitutes harm. If hurt feelings become grounds for restricting speech, who gets to decide which opinions are too dangerous to hear? 🎥 Watch here: https://rcr.media/episodes/greg-barns-australian-barrister-is-australias-government-building-a-digital-censorship-machine #RCRMedia"
+      },
+      {
+        "title": "You can't actually directly advocate for somebody to vote for a party if you're an organisation...",
+        "url": "https://www.youtube.com/shorts/WJDy33tmz8c",
+        "date_utc": "2026-11-14T06:00:58+00:00",
+        "summary": "\"You can't actually directly advocate for somebody to vote for a party if you're an organisation, and you're spending money to do this, unless you have that political party's permission.\" - Claire Deeks, RCR & Voices for Freedom Co-Founder Claire Deeks reveals the advertising restrictions RCR had to navigate during Vote Smart 2026, explaining why the campaign initially used creative warnings and satire before gaining party approval for more explicit messaging. How did a campaign about two ticks end up navigating enough fine print to wallpaper the Beehive? 🎥 Watch here: https://rcr.media/episodes/alia-bland-claire-deeks-founders-of-rcr-voices-for-freedom-did-billionaires-really-shape-the-election #RCRMedia"
+      },
+      {
+        "title": "If you thought it was hard to convince your neighbours to split their vote, how easy will it be...",
+        "url": "https://www.youtube.com/shorts/Nu12CR0n8WM",
+        "date_utc": "2026-11-14T05:00:55+00:00",
+        "summary": "\"If you thought it was hard to convince your neighbours to split their vote, how easy will it be in the new year?\" - Rodney Hide, Former ACT Party Leader Rodney Hide reflects on RCR's Vote Smart campaign and whether the experience of the 2026 election has made New Zealanders more familiar with strategic vote-splitting. Once voters have seen how split voting works under MMP, does the next election become an entirely different contest? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-the-election-hangover-what-happens-next #RCRMedia #WednesdayWebinar"
+      },
+      {
+        "title": "\"They're going to be saying: 'Wow, we quite like having constituency MPs'.\" - Rodney Hide",
+        "url": "https://www.youtube.com/shorts/nGOA8RXK25w",
+        "date_utc": "2026-11-14T03:45:34+00:00",
+        "summary": "\"They're going to be saying: 'Wow, we quite like having constituency MPs'.\" - Rodney Hide, Former ACT Party Leader Rodney Hide suggests National's overhang could produce an unexpected cultural shift, with MPs elected directly by their communities having greater sway over the party's future. Could the biggest consequence of Vote Smart be not just the election result, but a National Party increasingly shaped by its electorate MPs rather than Wellington headquarters? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-the-election-hangover-what-happens-next #RCRMedia #WednesdayWebinar"
+      },
+      {
+        "title": "It's grotesque, and it's grotesque that the Public Service Commission hasn't already said...",
+        "url": "https://www.youtube.com/shorts/1TvccXtnPy0",
+        "date_utc": "2026-11-13T20:30:56+00:00",
+        "summary": "\"It's grotesque, and it's grotesque that the Public Service Commission hasn't already said: 'This is intolerable, and we must identify you'.\" - Stephen Franks, Lawyer & Partner at Franks Ogilvie Stephen Franks questions the anonymity of public servants reportedly involved in The Opportunity Party's coalition decision-making, warning that political neutrality is a fundamental responsibility of government employees. Can you be a politically neutral public servant by day and potentially influence who governs the country after hours? 🎥 Watch here: https://rcr.media/episodes/stephen-franks-lawyer-partner-at-franks-ogilvie-public-servants-involved-in-top-talks-should-be-identified #RCRMedia"
+      },
+      {
+        "title": "\"They are not the only leaders in the government, and there needs to be a bit of respect for some of",
+        "url": "https://www.youtube.com/shorts/qe-m2Bh1oS4",
+        "date_utc": "2026-11-13T20:01:45+00:00",
+        "summary": "\"They are not the only leaders in the government, and there needs to be a bit of respect for some of the work that we've done if he wants it to continue.\" - Nicole McKee, ACT Deputy Leader Nicole McKee delivers a pointed message to Christopher Luxon following ACT's election result, arguing National must start treating its coalition partners as equals rather than inconvenient extras. Is Luxon running a three-party coalition or still acting like National owns the whole Beehive? 🎥 Watch here: https://rcr.media/episodes/nicole-mckee-act-deputy-leader-election-2026-an-election-debrief #RCRMedia"
+      },
+      {
+        "title": "\"There'll be maybe 10 seats where NZ First and ACT may choose not to stand a candidate.\"",
+        "url": "https://www.youtube.com/shorts/LJjdOvHazdw",
+        "date_utc": "2026-11-13T19:30:41+00:00",
+        "summary": "\"There'll be maybe 10 seats where NZ First and ACT may choose not to stand a candidate.\" - Rodney Hide, Former ACT Party Leader Rodney Hide suggests future cooperation between National, ACT and NZ First could extend beyond Parliament and into individual electorate contests. His scenario involves coalition parties making strategic decisions about where to stand candidates. If three parties can negotiate a government together, what's stopping them negotiating who contests the electorates? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-the-election-hangover-what-happens-next #RCRMedia #WednesdayWebinar"
+      },
+      {
+        "title": "\"Most people around the West and Europe, they think America is this impregnable fortress of conserva",
+        "url": "https://www.youtube.com/shorts/DZJsnRHzPuU",
+        "date_utc": "2026-11-13T19:01:38+00:00",
+        "summary": "\"Most people around the West and Europe, they think America is this impregnable fortress of conservatism and American values. It's not.\" - Trevor Loudon, US Political Commentator & Author Trevor Loudon argues that ideological changes in American politics, universities, institutions and culture are threatening the country's traditional political foundations. Are America's deepest problems coming from its foreign rivals, or from the political and cultural battles being fought inside its own borders? 🎥 Watch here: https://rcr.media/episodes/trevor-loudon-us-political-commentator-author-us-midterms-shake-up-the-political-landscape #RCRMedia"
+      },
+      {
+        "title": "\"Some of us are simply good at what we do. Live with it without turning it into a conspiracy every t",
+        "url": "https://www.youtube.com/shorts/eB6eUoOIkR8",
+        "date_utc": "2026-11-13T18:31:07+00:00",
+        "summary": "\"Some of us are simply good at what we do. Live with it without turning it into a conspiracy every time something goes wrong.\" - Rachel Stewart, Riding Shotgun Host & Former Train Driver Rachel Stewart takes aim at the assumption that women in traditionally male-dominated professions only got there through diversity hiring. She argues that criticism of the HMNZS Manawanui disaster crossed the line from accountability into sexism. When a man makes a catastrophic mistake, we question his decisions. When a woman does, why does her entire sex end up on trial? 🎥 Watch here: https://rcr.media/episodes/riding-shotgun-with-rachel-stewart-this-is-a-hill-i-will-dei-on #RCRMedia #RidingShotgun"
+      },
+      {
         "title": "The crucial thing, in a way, which would've annoyed a lot of the establishment, was his approach...",
         "url": "https://www.youtube.com/shorts/NRQMK7_3p1U",
         "date_utc": "2026-11-13T17:31:06+00:00",
@@ -160,65 +214,17 @@
         "url": "https://www.youtube.com/shorts/TsO3D0RcPvw",
         "date_utc": "2026-11-13T04:45:28+00:00",
         "summary": "\"So, that is a massive sea change in philosophy, in power\" - Bruce Pope, Simon's Mate from the States Bruce Pope breaks down the dramatic shift in America's midterm elections, with Democrats potentially securing a commanding majority in the House of Representatives. With control of powerful congressional committees at stake, how dramatically could this change the direction of Trump's presidency? 🎥 Watch here: https://rcr.media/episodes/bruce-pope-simons-mate-from-the-states-trumps-midterm-meltdown-what-went-wrong #RCRMedia"
-      },
-      {
-        "title": "\"The thing which terrifies me about the Opportunity Party is that one of their candidates was an aut",
-        "url": "https://www.youtube.com/shorts/fG3i0RScNzc",
-        "date_utc": "2026-11-13T03:45:37+00:00",
-        "summary": "\"The thing which terrifies me about the Opportunity Party is that one of their candidates was an author of He Puapua\" - Don Brash, Former Reserve Bank Governor As the discussion raises questions about two unidentified TOP board members and their possible role in coalition decisions, Don Brash identifies the party's He Puapua connection as his principal concern. If TOP could influence the formation of a government, what transparency should voters expect about its decision-makers and constitutional priorities? 🎥 Watch here: https://rcr.media/episodes/don-brash-rodney-hide-former-act-party-leader-former-reserve-bank-governor-election-debrief #RCRMedia"
-      },
-      {
-        "title": "\"Not one electorate did it win the party vote.\" - Maurice Williamson, Former NZ MP & Statistician",
-        "url": "https://www.youtube.com/shorts/mBhWLgtpX3k",
-        "date_utc": "2026-11-12T20:01:41+00:00",
-        "summary": "\"Not one electorate did it win the party vote.\" - Maurice Williamson, Former NZ MP & Statistician Maurice Williamson reveals a remarkable fact about the 2020 election: National failed to top the party vote in a SINGLE electorate, including some of its safest traditional strongholds! Yet National still won electorate seats because voters used their two MMP votes differently. If split voting hadn't happened, just how different would Parliament have looked in 2020? 🎥 Watch here: https://rcr.media/episodes/maurice-williamson-former-nz-mp-statistician-strategic-voting-delivers-a-seismic-shift-in-the-election #RCRMedia"
-      },
-      {
-        "title": "\"They've not been exposed to the debates that we do on TV and radio and so on.\" - Maurice Williamson",
-        "url": "https://www.youtube.com/shorts/RjK8fE-8V0A",
-        "date_utc": "2026-11-12T19:31:12+00:00",
-        "summary": "\"They've not been exposed to the debates that we do on TV and radio and so on.\" - Maurice Williamson, Former NZ MP & Statistician Maurice Williamson argues that overseas voters may approach the election with different political influences and long-held opinions, making their votes less predictable than some might assume. Could Kiwis living abroad hold the balance of power in an election whose debates they've experienced from thousands of kilometres away? 🎥 Watch here: https://rcr.media/episodes/maurice-williamson-former-nz-mp-statistician-strategic-voting-delivers-a-seismic-shift-in-the-election #RCRMedia"
-      },
-      {
-        "title": "\"One of the differences, of course, is on the left, vote splitting was an official party policy, Te",
-        "url": "https://www.youtube.com/shorts/GS6-W1B2j7A",
-        "date_utc": "2026-11-12T19:02:27+00:00",
-        "summary": "\"One of the differences, of course, is on the left, vote splitting was an official party policy, Te Pāti Māori... On the right, no party advocated it. In fact, on the contrary, National Party opposed it strongly.\" - Don Brash, Former Reserve Bank Governor Don Brash questions the apparent double standard surrounding strategic voting, contrasting Te Pāti Māori's official approach with National's opposition to split-vote campaigning. If strategic voting is legitimate under MMP, why should it attract different criticism depending on which political bloc benefits? 🎥 Watch here: https://rcr.media/episodes/don-brash-rodney-hide-former-act-party-leader-former-reserve-bank-governor-election-debrief #RCRMedia"
-      },
-      {
-        "title": "\"It blows your mind, because they've essentially ditched 706,000 votes for the National Party. It di",
-        "url": "https://www.youtube.com/shorts/syWGilW-ieY",
-        "date_utc": "2026-11-12T18:31:18+00:00",
-        "summary": "\"It blows your mind, because they've essentially ditched 706,000 votes for the National Party. It didn't elect a single list MP.\" - Alia Bland \"It was very unlikely, based on the high amount of electoral seats, that National would gain, that it was very likely they would not get anybody off the list\" - Claire Deeks RCR Co-founders Alia Bland and Claire Deeks explain how RCR's Vote Smart research identified National's potential overhang months before the election. Yet National continued pushing its party vote, despite the possibility that its electorate victories would leave no additional seats for list MPs. If RCR identified the problem back in August, why wasn't National explaining the same MMP mathematics to its voters? 🎥 Watch here: https://rcr.media/episodes/alia-bland-claire-deeks-founders-of-rcr-voices-for-freedom-did-billionaires-really-shape-the-election #RCRMedia"
-      },
-      {
-        "title": "WEDNESDAY WEBINARS",
-        "url": "https://www.youtube.com/watch?v=ByVFV5Eo4-A",
-        "date_utc": "2026-11-12T13:10:41+00:00",
-        "summary": "Maree Buscke is joined by RCR Host and former ACT Party leader Rodney Hide, who presents his analysis of the election result using an AI-powered MMP model. Rodney argues that RCR’s grassroots campaign and strategic vote-splitting helped shift the outcome towards a centre-right government, potentially changing the balance of Parliament. They also examine the coalition negotiations, The Opportunity Party’s position and the implications for National’s future direction. For other Election content shared: Vote Smart 2026 – the strategic voting campaign Alia & Claire | Did Billionaires Really Shape the Election? Don Brash & Rodney Hide | Election Debrief Maurice Williamson | Strategic Voting Delivers a Seismic Shift in the Election Nicole McKee | ‘National Must Learn to Share Power’ Claire Deeks, RCR blog | The Overhang Debate: David Farrar’s Objections and Why I Disagree Alia’s Facebook post | Open letter to mainstream media on election speculation RCR Political Interviews – Election 2026 Previous RCR webinars Electoral Commission archive | Split votes statistics for the 2023 election Next webinar: For Foundation Club members, our Backstage Pass “The Pulse of the People” is on this Sund"
-      },
-      {
-        "title": "THE FOURTH ESTATE",
-        "url": "https://www.youtube.com/watch?v=ciooAwQpskA",
-        "date_utc": "2026-11-12T13:10:16+00:00",
-        "summary": "Maree Buscke speaks with former judge David Harvey about the media’s coverage of strategic voting and the election campaign, including questions around impartiality and political influence. They also examine RNZ’s reported $11.8 million budget blowout and proposed Australian online safety laws, raising broader concerns about media accountability and freedom of expression. For election news that matters, get RCR Bites FREE every weekday Check out the RCR election campaign at Vote Smart"
-      },
-      {
-        "title": "REX LOVEGROVE",
-        "url": "https://www.youtube.com/watch?v=9CF3iBx1e1w",
-        "date_utc": "2026-11-12T13:09:03+00:00",
-        "summary": "Rex Lovegrove, mentor, poet, intuit and host of the podcast – Colours of the Heart joins Natalie Cutler-Welsh to explore themes of personal transformation, the balance of masculine and feminine energies and the importance of human connection. For more from Rex, find him on Facebook at Mountaintoplifecoaching and on Access Radio – Colours of the Heart Discover more from Natalie at UpYourBrave"
-      },
-      {
-        "title": "TONY GOSLING",
-        "url": "https://www.youtube.com/watch?v=KGBOs7yoJzY",
-        "date_utc": "2026-11-12T13:08:32+00:00",
-        "summary": "Investigative UK journalist Tony Gosling challenges the media coverage of Russell Brand’s conviction, arguing that the trial has become a case of public scapegoating and raises serious questions about press fairness and judicial process. CONTENT WARNING: This interview includes discussion of sexual assault, which may be distressing for some listeners. Discretion is advised Discover more from Tony at This Week or on Telegram , Rumble , Facebook , X , YouTube and at the 911 Forum or get his book The Traitors Of Arnhem, Martin Martin Bormann & Bilderberg Group Origins"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Rent Is Up & Choice Is Down As The Nation Waits To See Who Gets In Power",
+        "url": "https://www.youtube.com/watch?v=-Yls75wIgcs",
+        "date_utc": "2026-11-13T20:00:09+00:00",
+        "summary": "Vanessa Williams, General Manager of Marketing at realestate .co .nz - Rent is up and choice is down as the nation waits to see who gets in power."
+      },
       {
         "title": "The Worrying Decline Of South Island's Giant Wētā",
         "url": "https://www.youtube.com/watch?v=nBUW_pY-ioY",
@@ -229,7 +235,7 @@
         "title": "Gloria Masters On The Book Teaching Children How To Recognise Sexual Predators",
         "url": "https://www.youtube.com/watch?v=56iEGOO2b4E",
         "date_utc": "2026-11-13T02:19:48+00:00",
-        "summary": "Gloria Masters, Hand Back The Shame Founder on the book teaching children how to recognise sexual predators."
+        "summary": "Gloria Masters, Handing The Shame Back Foundation on the book teaching children how to recognise sexual predators."
       },
       {
         "title": "GP Association's Dr Buzz Burrell On The New Waikato Med School",
@@ -302,12 +308,6 @@
         "url": "https://www.youtube.com/watch?v=4WrTt3MDaIc",
         "date_utc": "2026-11-12T04:19:02+00:00",
         "summary": "Daniel Newman, Manurewa-Papakura Ward Councillor on how Auckland Council’s decision to reduce bin sizes has been met with wicked backlash."
-      },
-      {
-        "title": "Is Fish Farming Dangerous (As Well As Unethical) - SAFE's Emily Hall",
-        "url": "https://www.youtube.com/watch?v=oNEADAvm0eU",
-        "date_utc": "2026-11-12T01:28:03+00:00",
-        "summary": "Is fish farming dangerous (as well as unethical) - SAFE's Emily Hall"
       }
     ],
     "opinions": []
