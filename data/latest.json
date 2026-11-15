@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-14T16:56:58Z",
+  "generated_utc": "2026-11-15T17:38:55Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,66 @@
     ],
     "youtube": [
       {
+        "title": "Tim Wilms chats with Lachlan Lade about the growing disconnect in Australian society.",
+        "url": "https://www.youtube.com/watch?v=u6SckbGLdqk",
+        "date_utc": "2026-11-14T23:01:21+00:00",
+        "summary": "Tim Wilms chats with Lachlan Lade from the Australian Lobby Group about the growing disconnect in Australian society. Lade argues that shared national values, identity and allegiance to the Australian flag have been eroded. He criticises both major political parties, outlines the Australia Lobby Group’s push for major immigration restrictions and explains its campaign to mobilise Australians and hold politicians accountable for restoring national identity."
+      },
+      {
+        "title": "Tim Wilms talks with comedian and influencer Lisa Spencer about the Australia marches in Melbourne",
+        "url": "https://www.youtube.com/watch?v=kHfXk3rSweQ",
+        "date_utc": "2026-11-14T22:58:56+00:00",
+        "summary": "Tim Wilms catches up with comedian, writer and influencer Lisa Spencer to share her impressions of the Australia marches in Melbourne, describing a noticeably different energy and atmosphere from previous protests. They also discusses the approaching Victorian election, their opposition to another Labor government and hopes for political change in the state."
+      },
+      {
+        "title": "Tim Wilms talks with cartoonist and One Nation candidate Mark Nicholson",
+        "url": "https://www.youtube.com/watch?v=OMvwv81OOKA",
+        "date_utc": "2026-11-14T22:55:19+00:00",
+        "summary": "Tim Wilms talks with cartoonist and One Nation candidate Mark Nicholson about the energy behind the party’s growing election campaign, and his decision to stand in Melbourne’s Northern Metropolitan Region. He also discusses continuing his political cartoons if elected and argues that One Nation is now offering practical solutions, pointing to its 63-page policy platform."
+      },
+      {
+        "title": "Tim Wilms speaks with One Nation candidate Michael Piastrino about why he left the Liberal Party",
+        "url": "https://www.youtube.com/watch?v=mQC8jkuVhoE",
+        "date_utc": "2026-11-14T22:52:45+00:00",
+        "summary": "Tim Wilms speaks with One Nation candidate Michael Piastrino about why he left the Liberal Party, accusing it of lacking backbone and failing to represent voters. He outlines One Nation’s ambitions to win seats across Melbourne’s south-east, promising to put local concerns first, including reversing the renaming of Berwick Springs Lake (which was recently named Guru Nanak Lake for the Indian community)."
+      },
+      {
+        "title": "Tim Wilms speaks with founder of Turning Point Australia & Protect Our Kids Edward Schuller",
+        "url": "https://www.youtube.com/watch?v=Hj0lxHA9j2Y",
+        "date_utc": "2026-11-14T22:49:03+00:00",
+        "summary": "Tim Wilms speaks with founder of Turning Point Australia & Protect Our Kids Edward Schuller. They discusses efforts to challenge the influence of external organisations in school sex education, transgender ideology and what he describes as the growing bureaucratisation of education. Through the Protect Our Kids campaign, he is calling for these organisations to be removed from schools, their government funding cut and greater parental oversight restored."
+      },
+      {
+        "title": "TOP have been born out of the womb of Stuff and New Zealand Herald. And Radio NZ, and TVNZ...",
+        "url": "https://www.youtube.com/shorts/pndsDBFut1E",
+        "date_utc": "2026-11-14T20:30:35+00:00",
+        "summary": "\"TOP have been born out of the womb of Stuff and New Zealand Herald. And Radio NZ, and TVNZ, and TV3.\" - Rachel Stewart Rachel Stewart and Maree Buscke discuss the claim that TOP is the mainstream media's precious new political baby, complete with five doting newsrooms. With Stuff, the Herald, RNZ, TVNZ and TV3 all on the birth certifacate, who's changing TOP's nappies when the political poo hits the fan? 💩 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-vote-splitting-success-leaves-media-facing-awkward-questions #RCRMedia #BothBarrels"
+      },
+      {
+        "title": "He would've easily have shifted 100,000 votes. He wouldn't have lost an MP. He would have gained...",
+        "url": "https://www.youtube.com/shorts/YC9Vv1X7WVI",
+        "date_utc": "2026-11-14T20:01:33+00:00",
+        "summary": "\"He would've easily have shifted 100,000 votes. He wouldn't have lost an MP. He would have gained four.\" - Rodney Hide, Former ACT Party Leader Rodney Hide argues that National could have benefited from embracing RCR's Vote Smart campaign rather than opposing it. His hypothetical MMP model shows a larger centre-right bloc without National losing any of its 42 electorate seats. Was National's disagreement with Vote Smart really about electoral mathematics, or about how power would be shared inside the coalition? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-the-election-hangover-what-happens-next #RCRMedia #WednesdayWebinar"
+      },
+      {
+        "title": "It's no longer head office dictating to them. It's no longer the party list deciding what's what...",
+        "url": "https://www.youtube.com/shorts/LRgKecP35UQ",
+        "date_utc": "2026-11-14T19:30:41+00:00",
+        "summary": "\"It's no longer head office dictating to them. It's no longer the party list deciding what's what. It's the constituencies.\" - Rodney Hide, Former ACT Party Leader Rodney Hide believes National's electorate MPs could become the driving force behind a major cultural transformation, strengthening local branches and reducing the influence of party headquarters. What happens when the MPs who answer directly to voters start calling the shots instead of Wellington's political machine? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-the-election-hangover-what-happens-next #RCRMedia #WednesdayWebinar"
+      },
+      {
+        "title": "\"But we, as a political party can be subject to a whole lot of undisclosed direction.\" - Stephen Fra",
+        "url": "https://www.youtube.com/shorts/WTHKxigw9g0",
+        "date_utc": "2026-11-14T18:31:04+00:00",
+        "summary": "\"But we, as a political party can be subject to a whole lot of undisclosed direction.\" - Stephen Franks, Lawyer & Partner at Franks Ogilvie Stephen Franks questions whether TOP's internal governance arrangements measure up to the transparency standards it wants applied to political lobbying. If sunlight is the best disinfectant for political influence, why does Stephen Franks think TOP's own boardroom needs the curtains opened? 🎥 Watch here: https://rcr.media/episodes/stephen-franks-lawyer-partner-at-franks-ogilvie-public-servants-involved-in-top-talks-should-be-identified #RCRMedia"
+      },
+      {
+        "title": "Russell Brand had completely torn that up and thrown it down the toilet. Hence, I think he's...",
+        "url": "https://www.youtube.com/shorts/myrl9O7uPAc",
+        "date_utc": "2026-11-14T18:01:43+00:00",
+        "summary": "\"Russell Brand had completely torn that up and thrown it down the toilet. Hence, I think he's become a target.\" - Tony Gosling, Investigative UK Journalist Tony Gosling argues that Russell Brand's outspoken criticism of powerful media and political interests made him an establishment outsider. When someone stops playing by the establishment's rules, just how far will powerful interests go to protect their influence? 🎥 Watch here: https://rcr.media/episodes/tony-gosling-independent-journalist-russell-brand-a-public-scapegoat #RCRMedia"
+      },
+      {
         "title": "🇦🇺 \"The problem is, what do you define as harm?\" - Greg Barns, Australian Barrister 🇦🇺",
         "url": "https://www.youtube.com/shorts/qq4tZwPQKX8",
         "date_utc": "2026-11-14T07:00:50+00:00",
@@ -154,66 +214,6 @@
         "url": "https://www.youtube.com/shorts/1TvccXtnPy0",
         "date_utc": "2026-11-13T20:30:56+00:00",
         "summary": "\"It's grotesque, and it's grotesque that the Public Service Commission hasn't already said: 'This is intolerable, and we must identify you'.\" - Stephen Franks, Lawyer & Partner at Franks Ogilvie Stephen Franks questions the anonymity of public servants reportedly involved in The Opportunity Party's coalition decision-making, warning that political neutrality is a fundamental responsibility of government employees. Can you be a politically neutral public servant by day and potentially influence who governs the country after hours? 🎥 Watch here: https://rcr.media/episodes/stephen-franks-lawyer-partner-at-franks-ogilvie-public-servants-involved-in-top-talks-should-be-identified #RCRMedia"
-      },
-      {
-        "title": "\"They are not the only leaders in the government, and there needs to be a bit of respect for some of",
-        "url": "https://www.youtube.com/shorts/qe-m2Bh1oS4",
-        "date_utc": "2026-11-13T20:01:45+00:00",
-        "summary": "\"They are not the only leaders in the government, and there needs to be a bit of respect for some of the work that we've done if he wants it to continue.\" - Nicole McKee, ACT Deputy Leader Nicole McKee delivers a pointed message to Christopher Luxon following ACT's election result, arguing National must start treating its coalition partners as equals rather than inconvenient extras. Is Luxon running a three-party coalition or still acting like National owns the whole Beehive? 🎥 Watch here: https://rcr.media/episodes/nicole-mckee-act-deputy-leader-election-2026-an-election-debrief #RCRMedia"
-      },
-      {
-        "title": "\"There'll be maybe 10 seats where NZ First and ACT may choose not to stand a candidate.\"",
-        "url": "https://www.youtube.com/shorts/LJjdOvHazdw",
-        "date_utc": "2026-11-13T19:30:41+00:00",
-        "summary": "\"There'll be maybe 10 seats where NZ First and ACT may choose not to stand a candidate.\" - Rodney Hide, Former ACT Party Leader Rodney Hide suggests future cooperation between National, ACT and NZ First could extend beyond Parliament and into individual electorate contests. His scenario involves coalition parties making strategic decisions about where to stand candidates. If three parties can negotiate a government together, what's stopping them negotiating who contests the electorates? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-the-election-hangover-what-happens-next #RCRMedia #WednesdayWebinar"
-      },
-      {
-        "title": "\"Most people around the West and Europe, they think America is this impregnable fortress of conserva",
-        "url": "https://www.youtube.com/shorts/DZJsnRHzPuU",
-        "date_utc": "2026-11-13T19:01:38+00:00",
-        "summary": "\"Most people around the West and Europe, they think America is this impregnable fortress of conservatism and American values. It's not.\" - Trevor Loudon, US Political Commentator & Author Trevor Loudon argues that ideological changes in American politics, universities, institutions and culture are threatening the country's traditional political foundations. Are America's deepest problems coming from its foreign rivals, or from the political and cultural battles being fought inside its own borders? 🎥 Watch here: https://rcr.media/episodes/trevor-loudon-us-political-commentator-author-us-midterms-shake-up-the-political-landscape #RCRMedia"
-      },
-      {
-        "title": "\"Some of us are simply good at what we do. Live with it without turning it into a conspiracy every t",
-        "url": "https://www.youtube.com/shorts/eB6eUoOIkR8",
-        "date_utc": "2026-11-13T18:31:07+00:00",
-        "summary": "\"Some of us are simply good at what we do. Live with it without turning it into a conspiracy every time something goes wrong.\" - Rachel Stewart, Riding Shotgun Host & Former Train Driver Rachel Stewart takes aim at the assumption that women in traditionally male-dominated professions only got there through diversity hiring. She argues that criticism of the HMNZS Manawanui disaster crossed the line from accountability into sexism. When a man makes a catastrophic mistake, we question his decisions. When a woman does, why does her entire sex end up on trial? 🎥 Watch here: https://rcr.media/episodes/riding-shotgun-with-rachel-stewart-this-is-a-hill-i-will-dei-on #RCRMedia #RidingShotgun"
-      },
-      {
-        "title": "The crucial thing, in a way, which would've annoyed a lot of the establishment, was his approach...",
-        "url": "https://www.youtube.com/shorts/NRQMK7_3p1U",
-        "date_utc": "2026-11-13T17:31:06+00:00",
-        "summary": "\"The crucial thing, in a way, which would've annoyed a lot of the establishment, was his approach to digital ID and the mark of the beast.\" - Tony Gosling, Investigative UK Journalist Tony Gosling questions whether Russell Brand's growing audience, outspoken criticism of the establishment and exploration of biblical prophecy made him a target for powerful interests. As Brand faces prison time, Gosling raises questions about the media's treatment of the controversial commentator. Did Russell Brand become a target because of what he was saying, or is the idea of an establishment conspiracy overlooking the allegations against him? 🎥 Watch here: https://rcr.media/episodes/tony-gosling-independent-journalist-russell-brand-a-public-scapegoat #RCRMedia"
-      },
-      {
-        "title": "RAMESH THAKUR",
-        "url": "https://www.youtube.com/watch?v=ygHnFgH7rFs",
-        "date_utc": "2026-11-13T13:02:33+00:00",
-        "summary": "Professor Ramesh Thakur examines the global backlash against established political parties, arguing that voters are increasingly rejecting elites who ignore their concerns. He discusses the rise of populist movements, the erosion of trust following Covid-era policies, and whether electoral systems such as NZ’s MMP are undermining democratic confidence. He also warns that leaders who fail to address affordability and voter frustration risk paying a heavy political price. For global news that counts, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "PAUL BOSHER",
-        "url": "https://www.youtube.com/watch?v=dYaWOT63ecQ",
-        "date_utc": "2026-11-13T13:01:41+00:00",
-        "summary": "Paul Brennan speaks with dairy farmer and GE Honesty founder Paul Bosher about the future of the proposed Gene Technology Bill following the election. Bosher argues that the reforms could threaten New Zealand’s non-GE and organic export markets, create risks for farmers and undermine the country’s food reputation. He urges incoming MPs to scrutinise the scientific advice, consider the economic consequences and think carefully before allowing the release of GE crops. For further information visit GE Honesty or find them Facebook , X , Instagram and TikTok For everything you need to Say No to Gene Technology"
-      },
-      {
-        "title": "So, despite what the mainstream media would have you believe, it was never Harry Mowbray's Campaign",
-        "url": "https://www.youtube.com/shorts/L3x_OlIoovQ",
-        "date_utc": "2026-11-13T06:01:07+00:00",
-        "summary": "\"So, despite what the mainstream media would have you believe, it was never Harry Mowbray's Campaign. It was our own campaign.\" - Alia Bland, RCR Co-Founder on The Platform with Michael Laws Alia Bland and Claire Deeks dispute the portrayal of Vote Smart as someone else's political project. Their account? The research, fundraising, team-building, flyers, billboards and newspaper advertisements were already underway before their later collaboration with Don Brash and others. If the campaign was already nationwide, why did so much media attention focus on who joined it afterwards? 🎥 Watch here: https://rcr.media/episodes/alia-bland-claire-deeks-rcr-co-founders-explaining-rcrs-election-strategy-with-michael-laws #RCRMedia"
-      },
-      {
-        "title": "Then once he's done the deal, the sort of deal is with him. And so, it gets harder to roll him, in",
-        "url": "https://www.youtube.com/shorts/eFnRuoBLAOg",
-        "date_utc": "2026-11-13T05:01:01+00:00",
-        "summary": "\"Then once he's done the deal, the sort of deal is with him. And so, it gets harder to roll him, in my view.\" - Rodney Hide, Former ACT Party Leader Could Luxon's best defence against a leadership coup be locking in a coalition deal that makes him almost impossible for National to replace without risking the entire government? 🎥 Watch here: https://rcr.media/episodes/don-brash-rodney-hide-former-act-party-leader-former-reserve-bank-governor-election-debrief #RCRMedia"
-      },
-      {
-        "title": "\"So, that is a massive sea change in philosophy, in power\" - Bruce Pope, Simon's Mate from the State",
-        "url": "https://www.youtube.com/shorts/TsO3D0RcPvw",
-        "date_utc": "2026-11-13T04:45:28+00:00",
-        "summary": "\"So, that is a massive sea change in philosophy, in power\" - Bruce Pope, Simon's Mate from the States Bruce Pope breaks down the dramatic shift in America's midterm elections, with Democrats potentially securing a commanding majority in the House of Representatives. With control of powerful congressional committees at stake, how dramatically could this change the direction of Trump's presidency? 🎥 Watch here: https://rcr.media/episodes/bruce-pope-simons-mate-from-the-states-trumps-midterm-meltdown-what-went-wrong #RCRMedia"
       }
     ]
   },
