@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-11-15T17:38:55Z",
+  "generated_utc": "2026-11-16T20:54:19Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Knife-edge Kiwi election shows National forgetting John Key’s lessons",
+        "url": "https://realitycheck.radio/knife-edge-kiwi-election-shows-national-forgetting-john-keys-lessons/",
+        "date_utc": "2026-11-13T22:38:54Z",
+        "summary": "by Roger Partridge Prime Minister Christopher Luxon’s centre-right coalition leads […]"
+      },
       {
         "title": "The Prime Minister’s Task Will Be Tricky",
         "url": "https://realitycheck.radio/the-prime-ministers-task-will-be-tricky/",
@@ -88,43 +94,43 @@
         "summary": "by Alwyn Poole When the election is over it would […]"
       },
       {
-        "title": "Australia First. But wait, “What is an Australian?”",
-        "url": "https://realitycheck.radio/australia-first-but-wait-what-is-an-australian/",
-        "date_utc": "2026-11-07T22:01:19Z",
-        "summary": "by Lisa Jane Spencer If you are aware of the […]"
-      },
-      {
-        "title": "RAMESH THAKUR: Political Scholar & Former UN Official: Trust in Democracy is Crumbling Globally",
-        "url": "https://realitycheck.radio/episodes/ramesh-thakur-political-scholar-former-un-official-trust-in-democracy-is-crumbling-globally/",
-        "date_utc": "2026-11-12T22:52:13Z",
+        "title": "KIRRALIE SMITH: Binary Australia Director: ‘Who Decides?’ Documentary Challenges Australia’s Gender Policies",
+        "url": "https://realitycheck.radio/episodes/kirralie-smith-binary-australia-director-who-decides-documentary-challenges-australias-gender-policies/",
+        "date_utc": "2026-11-15T20:37:18Z",
         "summary": ""
       },
       {
-        "title": "PAUL BOSHER: Dairy Farmer & Founder of GE Honesty: ‘MPs Need Better Advice on Gene Technology’",
-        "url": "https://realitycheck.radio/episodes/paul-bosher-dairy-farmer-founder-of-ge-honesty-mps-need-better-advice-on-gene-technology/",
-        "date_utc": "2026-11-12T22:46:41Z",
+        "title": "TREVOR LOUDON: America’s Thread: Court Packing, China’s Rise, and the Fall of the West",
+        "url": "https://realitycheck.radio/episodes/trevor-loudon-americas-thread-court-packing-chinas-rise-and-the-fall-of-the-west/",
+        "date_utc": "2026-11-13T20:20:55Z",
         "summary": ""
       },
       {
-        "title": "DON BRASH & RODNEY HIDE: NZ’s Epsom Gambit: The Tactical Vote That Reshaped the Right",
-        "url": "https://realitycheck.radio/episodes/don-brash-rodney-hide-nzs-epsom-gambit-the-tactical-vote-that-reshaped-the-right/",
-        "date_utc": "2026-11-12T21:48:52Z",
+        "title": "WEDNESDAY WEBINARS: NZ Politics: Luxon’s 41 MPs Ready to Seize Control — No Head Office Needed",
+        "url": "https://realitycheck.radio/episodes/wednesday-webinars-nz-politics-luxons-41-mps-ready-to-seize-control-no-head-office-needed/",
+        "date_utc": "2026-11-13T20:20:41Z",
         "summary": ""
       },
       {
-        "title": "MAURICE WILLIAMSON: NZ Overseas Votes: Small Samples, Big Impact on Election Swings",
-        "url": "https://realitycheck.radio/episodes/maurice-williamson-nz-overseas-votes-small-samples-big-impact-on-election-swings/",
-        "date_utc": "2026-11-12T21:48:22Z",
+        "title": "STEPHEN FRANKS: NZ Public Service Neutrality: The Corruption Creeping Into the Beehive",
+        "url": "https://realitycheck.radio/episodes/stephen-franks-nz-public-service-neutrality-the-corruption-creeping-into-the-beehive/",
+        "date_utc": "2026-11-13T20:20:21Z",
         "summary": ""
       },
       {
-        "title": "DON BRASH & RODNEY HIDE: NZ Nationals’ Hard Right Turn: Does It Rewrite the Leadership Race?",
-        "url": "https://realitycheck.radio/episodes/don-brash-rodney-hide-nz-nationals-hard-right-turn-does-it-rewrite-the-leadership-race/",
-        "date_utc": "2026-11-12T21:47:57Z",
+        "title": "FARZIN IRANI: NZ First Home Dream: Are Kiwis Raiding Retirement to Buy Property?",
+        "url": "https://realitycheck.radio/episodes/farzin-irani-nz-first-home-dream-are-kiwis-raiding-retirement-to-buy-property/",
+        "date_utc": "2026-11-13T20:20:04Z",
         "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "KIRRALIE SMITH",
+        "url": "https://www.youtube.com/watch?v=TH7GyLwQQ2o",
+        "date_utc": "2026-11-16T13:01:23+00:00",
+        "summary": "Binary Australia director Kirralie Smith discusses the documentary Who Decides?, which examines disputes over sex-based rights in sport, education and healthcare. She argues that parents are losing authority over decisions affecting their children and calls for changes to the Sex Discrimination Act. Kirralie also outlines her ongoing legal battle over vilification findings, a $95,000 damages order and her campaign to restore biological sex protections in Australian law. For more information: Check out the film’s website ‘Who Decides’ or follow the film on Facebook , Instagram , X , TikTok , YouTube For more on Binary Australia"
+      },
       {
         "title": "Tim Wilms chats with Lachlan Lade about the growing disconnect in Australian society.",
         "url": "https://www.youtube.com/watch?v=u6SckbGLdqk",
@@ -208,17 +214,83 @@
         "url": "https://www.youtube.com/shorts/nGOA8RXK25w",
         "date_utc": "2026-11-14T03:45:34+00:00",
         "summary": "\"They're going to be saying: 'Wow, we quite like having constituency MPs'.\" - Rodney Hide, Former ACT Party Leader Rodney Hide suggests National's overhang could produce an unexpected cultural shift, with MPs elected directly by their communities having greater sway over the party's future. Could the biggest consequence of Vote Smart be not just the election result, but a National Party increasingly shaped by its electorate MPs rather than Wellington headquarters? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-the-election-hangover-what-happens-next #RCRMedia #WednesdayWebinar"
-      },
-      {
-        "title": "It's grotesque, and it's grotesque that the Public Service Commission hasn't already said...",
-        "url": "https://www.youtube.com/shorts/1TvccXtnPy0",
-        "date_utc": "2026-11-13T20:30:56+00:00",
-        "summary": "\"It's grotesque, and it's grotesque that the Public Service Commission hasn't already said: 'This is intolerable, and we must identify you'.\" - Stephen Franks, Lawyer & Partner at Franks Ogilvie Stephen Franks questions the anonymity of public servants reportedly involved in The Opportunity Party's coalition decision-making, warning that political neutrality is a fundamental responsibility of government employees. Can you be a politically neutral public servant by day and potentially influence who governs the country after hours? 🎥 Watch here: https://rcr.media/episodes/stephen-franks-lawyer-partner-at-franks-ogilvie-public-servants-involved-in-top-talks-should-be-identified #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Migrant Bus Drivers In Auckland Highlight Concerns About Their Future In NZ",
+        "url": "https://www.youtube.com/watch?v=2dRc62DyvmM",
+        "date_utc": "2026-11-16T04:56:40+00:00",
+        "summary": "Max Santiago, Coordinator of the Union Network of Migrants - Migrant bus drivers in Auckland highlight concerns about their future in New Zealand."
+      },
+      {
+        "title": "Kara Dansky, author and American feminist campaigner touring NZ with her new book 'TERFlandia’.",
+        "url": "https://www.youtube.com/watch?v=wqEGMraUmAI",
+        "date_utc": "2026-11-16T04:34:55+00:00",
+        "summary": "Kara Dansky, author and American feminist campaigner touring NZ with her new book 'TERFlandia’."
+      },
+      {
+        "title": "Why Is Queenstown-Lakes Is Facing A Housing Squeeze?",
+        "url": "https://www.youtube.com/watch?v=V7X7XtyD9DY",
+        "date_utc": "2026-11-16T04:26:53+00:00",
+        "summary": "Julie Scott, Chief Executive of the Queenstown Lakes Community Housing Trust - Why is Queenstown-Lakes is facing a housing squeeze?"
+      },
+      {
+        "title": "You Can Hold On Too Long Waiting For Your House Price To Rise.",
+        "url": "https://www.youtube.com/watch?v=9w0dnpHyt0Q",
+        "date_utc": "2026-11-16T03:59:24+00:00",
+        "summary": "You can hold on too long waiting for your house price to rise. Harcourt's Mark Honeybone opines on the Auckland malaise."
+      },
+      {
+        "title": "Inside That All Blacks Defeat By Wales With Former Ab Captain Taine Randell",
+        "url": "https://www.youtube.com/watch?v=K4i0ulm2pW0",
+        "date_utc": "2026-11-16T03:23:43+00:00",
+        "summary": "Inside that All Blacks defeat by Wales with former AB captain Taine Randell"
+      },
+      {
+        "title": "Rnz And Public Malfeasance Laws With Democracy Project's Dr Bryce Edwards",
+        "url": "https://www.youtube.com/watch?v=y6sRPJetoOM",
+        "date_utc": "2026-11-16T01:24:10+00:00",
+        "summary": "RNZ and public malfeasance laws with Democracy Project's Dr Bryce Edwards"
+      },
+      {
+        "title": "Dame Anne Salmond Wants Nats To Embrace The Politics Of Kindness",
+        "url": "https://www.youtube.com/watch?v=9eBxNRyvpT0",
+        "date_utc": "2026-11-16T01:20:08+00:00",
+        "summary": "Dame Anne Salmond wants Nats to embrace the politics of kindness and all its totalitarian instincts"
+      },
+      {
+        "title": "The Waste Of Time, Effort And Money That Is COP 31.",
+        "url": "https://www.youtube.com/watch?v=m5ZzXfeAFVE",
+        "date_utc": "2026-11-15T23:55:50+00:00",
+        "summary": "NZ's first climate change ambassador Prof Adrian Macey on the waste of time, effort and money that is COP 31."
+      },
+      {
+        "title": "Councillor Andrea Compton On Rates Plan That Will Ruin Wellington CBD",
+        "url": "https://www.youtube.com/watch?v=bG5tz0U950Q",
+        "date_utc": "2026-11-15T23:19:32+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Michelle Boag On Nuances Of Political Lying",
+        "url": "https://www.youtube.com/watch?v=Min-Fhqx_a4",
+        "date_utc": "2026-11-15T23:01:44+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Yvonne van Dongen On Who Is Worse Off In Smear Campaigns, Men Or Women?",
+        "url": "https://www.youtube.com/watch?v=X1z8oyRFeP0",
+        "date_utc": "2026-11-15T22:46:04+00:00",
+        "summary": ""
+      },
+      {
+        "title": "The Slow & Regrettable Death Of RNZ",
+        "url": "https://www.youtube.com/watch?v=ppi61N0AqCU",
+        "date_utc": "2026-11-15T22:38:18+00:00",
+        "summary": ""
+      },
       {
         "title": "Rent Is Up & Choice Is Down As The Nation Waits To See Who Gets In Power",
         "url": "https://www.youtube.com/watch?v=-Yls75wIgcs",
@@ -236,78 +308,6 @@
         "url": "https://www.youtube.com/watch?v=56iEGOO2b4E",
         "date_utc": "2026-11-13T02:19:48+00:00",
         "summary": "Gloria Masters, Handing The Shame Back Foundation on the book teaching children how to recognise sexual predators."
-      },
-      {
-        "title": "GP Association's Dr Buzz Burrell On The New Waikato Med School",
-        "url": "https://www.youtube.com/watch?v=fCCT4_KY2Bw",
-        "date_utc": "2026-11-13T02:18:05+00:00",
-        "summary": "GP Association's Dr Buzz Burrell on the new Waikato med school and whether ethnicity matters in delivering healthcare."
-      },
-      {
-        "title": "NZQA Keep Stuffing Up NCEA Exams.",
-        "url": "https://www.youtube.com/watch?v=maniST3F0KY",
-        "date_utc": "2026-11-13T01:09:45+00:00",
-        "summary": "NZQA keep stuffing up NCEA exams. Papakura HS Simon Craggs on the latest breakdown."
-      },
-      {
-        "title": "Educators Madly Claim Racism Because 'New Zealand' Is Used In The New Curriculum, Not 'Aotearoa'.",
-        "url": "https://www.youtube.com/watch?v=EKTt7z71yac",
-        "date_utc": "2026-11-13T01:00:24+00:00",
-        "summary": "Educators madly claim racism because 'New Zealand' is used in the new curriculum, not 'Aotearoa'."
-      },
-      {
-        "title": "The MSM Will Speculate Over The Final Election Result, But Here Are The Real Issues.",
-        "url": "https://www.youtube.com/watch?v=zErP0dUTyrE",
-        "date_utc": "2026-11-13T00:47:49+00:00",
-        "summary": "The MSM will speculate over the final election result, but here are the real issues."
-      },
-      {
-        "title": "Tameem From Centrist On Criminal Offending, Political Overhang & Kapiti College Headboy/Girl Outcome",
-        "url": "https://www.youtube.com/watch?v=36g3HzXfWfo",
-        "date_utc": "2026-11-12T23:47:15+00:00",
-        "summary": "Tameem Barakat from Centrist on criminal offending, political overhang & Kapiti College headboy/girl unusual outcome."
-      },
-      {
-        "title": "Free Speech Fridays #182 - Yvonne Van Dongen & Mark Champion",
-        "url": "https://www.youtube.com/watch?v=hTsiTR6TpFU",
-        "date_utc": "2026-11-12T22:58:01+00:00",
-        "summary": "Free Speech Fridays with Yvonne Van Dongen & Mark Champion is brought to you by the Free Speech Union. This week Sean Plunket and the panel discuss Russel Brand charges, RNZ financial scandal, the long wait for election results, and more."
-      },
-      {
-        "title": "Jeremy Smith On How Welllington City Council Will Kill Local Businesses",
-        "url": "https://www.youtube.com/watch?v=AeT-qTXdcbo",
-        "date_utc": "2026-11-12T22:19:14+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Graeme Edgeler On Rules Post-Election & Forming A Government",
-        "url": "https://www.youtube.com/watch?v=LGgqDB7qquM",
-        "date_utc": "2026-11-12T22:19:09+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Opportunity Got A Free Media Boost, The Conservatives Got Cancelled.",
-        "url": "https://www.youtube.com/watch?v=L_FG5AW7Jow",
-        "date_utc": "2026-11-12T21:10:34+00:00",
-        "summary": "Opportunity got a free media boost, the Conservatives got cancelled. Leader Helen Houghton explains."
-      },
-      {
-        "title": "Is NZ Post Putting Efficiency Ahead Of Its Responsibility To Deliver Mail?",
-        "url": "https://www.youtube.com/watch?v=JUhnKv7WSXQ",
-        "date_utc": "2026-11-12T20:52:51+00:00",
-        "summary": "John Maynard, Co-National President of the Postal Workers Union - Is NZ Post putting efficiency ahead of its responsibility to deliver mail?"
-      },
-      {
-        "title": "The Closure Of Kapiti Airport & How It's Imperative That It Stays Open",
-        "url": "https://www.youtube.com/watch?v=FDJgsVS7Fgc",
-        "date_utc": "2026-11-12T05:21:31+00:00",
-        "summary": "Tim Costley, MP for Kapiti on the closure of Kapiti Airport and how it's imperative that it stays open."
-      },
-      {
-        "title": "Auckland Council’s Decision To Reduce Bin Sizes Has Been Met With Wicked Backlash",
-        "url": "https://www.youtube.com/watch?v=4WrTt3MDaIc",
-        "date_utc": "2026-11-12T04:19:02+00:00",
-        "summary": "Daniel Newman, Manurewa-Papakura Ward Councillor on how Auckland Council’s decision to reduce bin sizes has been met with wicked backlash."
       }
     ],
     "opinions": []
