@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-16T20:54:19Z",
+  "generated_utc": "2026-11-17T19:44:11Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,48 @@
     ],
     "youtube": [
       {
+        "title": "SARAH MYHILL",
+        "url": "https://www.youtube.com/watch?v=9DKw1pDLPYM",
+        "date_utc": "2026-11-17T13:01:42+00:00",
+        "summary": "Paul Brennan speaks with British physician Dr Sarah Myhill, Medical Ethics Director of the UK Medical Freedom Alliance. Sarah discusses her open letter to Chief Medical Officer Sir Chris Whitty, in which she alleges he failed to uphold medical ethics and informed consent during the Covid response. For more information: Visit Dr Myhill’s website or find her on X and YouTube For her Podcast or to purchase Sarah’s books For more on UK Medical Freedom Alliance"
+      },
+      {
+        "title": "THE WILMS REPORT",
+        "url": "https://www.youtube.com/watch?v=f6tB5G19xNY",
+        "date_utc": "2026-11-17T13:01:23+00:00",
+        "summary": "With Victoria’s state election approaching, Tim Wilms joins Paul Brennan to examine Labor’s plunging poll numbers, One Nation’s surge and the Liberal Coalition’s prospects of winning government. They also discuss controversy surrounding dis-endorsed candidates, allegations of union influence emerging from the Big Build Royal Commission, and questions over government spending, immigration, puberty blockers and corporate decline. Discover more from Tim at The Unshackled For news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "BEN MAI",
+        "url": "https://www.youtube.com/watch?v=yS82rC4TAgA",
+        "date_utc": "2026-11-17T13:00:58+00:00",
+        "summary": "Simon O’Connor speaks with Auckland Church Network’s Ben Mai about the return of the Nativity float to the Auckland Santa Parade, bringing the story of Christ’s birth back to an event that had gone around 15 years without a Christian presence. For further information: Visit the Auckland Church Network website or check out their Art Competition Donate to their Give a Little campaign"
+      },
+      {
+        "title": "\"Frog marched off the premises with a cardboard box.\" - RCR Co-Founder",
+        "url": "https://www.youtube.com/shorts/UTcKjmxsmLQ",
+        "date_utc": "2026-11-17T06:00:33+00:00",
+        "summary": "\"Frog marched off the premises with a cardboard box.\" - RCR Co-Founder Alia Bland explains how the lasting hurt of Kiwis who lost their careers during the COVID years helped drive RCR's Vote Smart 2026 campaign. For those who felt abandoned and unheard, the campaign aimed to give them a political voice and keep Labour and the left bloc out of government. When politicians won't listen to the people they hurt, does the ballot box become the loudest voice of all? 🎥 Watch here: https://rcr.media/episodes/alia-bland-claire-deeks-founders-of-rcr-voices-for-freedom-did-billionaires-really-shape-the-election #RCRMedia"
+      },
+      {
+        "title": "\"The old belief that the base has nowhere else to go. What are they going to do?\" - Professor Ramesh",
+        "url": "https://www.youtube.com/shorts/O3CesWQqePw",
+        "date_utc": "2026-11-17T05:30:36+00:00",
+        "summary": "\"The old belief that the base has nowhere else to go. What are they going to do?\" - Professor Ramesh Thakur, Political Scholar & Former UN Official Professor Ramesh Thakur questions whether traditional political parties have taken their loyal voters for granted, pointing to growing support for smaller parties in New Zealand and populist movements overseas. Have the major parties spent so long assuming their voters would never leave that they've forgotten how to convince them to stay? 🎥 Watch here: https://rcr.media/episodes/ramesh-thakur-political-scholar-former-un-official-trust-in-democracy-is-crumbling-globally #RCRMedia"
+      },
+      {
+        "title": "\"That would seem to suggest that there is very little editorial supervision at all.\"",
+        "url": "https://www.youtube.com/shorts/qFZaKZ_JHDo",
+        "date_utc": "2026-11-17T05:01:03+00:00",
+        "summary": "\"That would seem to suggest that there is very little editorial supervision at all.\" - David Harvey, Former Judge From disputed explanations of National's overhang to spelling mistakes and questionable editing, David Harvey questions the quality control behind mainstream news reporting. If the people explaining elections to the public can't get the details right, who exactly is checking the checkers? 🎥 Watch here: https://rcr.media/episodes/the-fourth-estate-with-david-harvey-media-bias-on-display-with-split-vote-reporting #RCRMedia #TheFourthEstate"
+      },
+      {
+        "title": "Helen Clark went into the Coromandel and pleaded with everyone to vote for Jeanette Fitzsimons...",
+        "url": "https://www.youtube.com/shorts/LZC-RQdOOKM",
+        "date_utc": "2026-11-17T04:45:27+00:00",
+        "summary": "\"Helen Clark went into the Coromandel and pleaded with everyone to vote for Jeanette Fitzsimons with their candidate vote, not their party vote, and they did.\" - Maurice Williamson, Former NZ MP & Statistician Maurice Williamson fires back at critics of strategic voting, pointing to Helen Clark's support for Green candidate Jeanette Fitzsimons in Coromandel in 1999. If split voting was acceptable when it helped Labour and the Greens, why is the same strategy suddenly controversial when the centre-right uses it? 🎥 Watch here: https://rcr.media/episodes/maurice-williamson-former-nz-mp-statistician-strategic-voting-delivers-a-seismic-shift-in-the-election #RCRMedia"
+      },
+      {
         "title": "KIRRALIE SMITH",
         "url": "https://www.youtube.com/watch?v=TH7GyLwQQ2o",
         "date_utc": "2026-11-16T13:01:23+00:00",
@@ -172,53 +214,77 @@
         "url": "https://www.youtube.com/shorts/YC9Vv1X7WVI",
         "date_utc": "2026-11-14T20:01:33+00:00",
         "summary": "\"He would've easily have shifted 100,000 votes. He wouldn't have lost an MP. He would have gained four.\" - Rodney Hide, Former ACT Party Leader Rodney Hide argues that National could have benefited from embracing RCR's Vote Smart campaign rather than opposing it. His hypothetical MMP model shows a larger centre-right bloc without National losing any of its 42 electorate seats. Was National's disagreement with Vote Smart really about electoral mathematics, or about how power would be shared inside the coalition? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-the-election-hangover-what-happens-next #RCRMedia #WednesdayWebinar"
-      },
-      {
-        "title": "It's no longer head office dictating to them. It's no longer the party list deciding what's what...",
-        "url": "https://www.youtube.com/shorts/LRgKecP35UQ",
-        "date_utc": "2026-11-14T19:30:41+00:00",
-        "summary": "\"It's no longer head office dictating to them. It's no longer the party list deciding what's what. It's the constituencies.\" - Rodney Hide, Former ACT Party Leader Rodney Hide believes National's electorate MPs could become the driving force behind a major cultural transformation, strengthening local branches and reducing the influence of party headquarters. What happens when the MPs who answer directly to voters start calling the shots instead of Wellington's political machine? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-the-election-hangover-what-happens-next #RCRMedia #WednesdayWebinar"
-      },
-      {
-        "title": "\"But we, as a political party can be subject to a whole lot of undisclosed direction.\" - Stephen Fra",
-        "url": "https://www.youtube.com/shorts/WTHKxigw9g0",
-        "date_utc": "2026-11-14T18:31:04+00:00",
-        "summary": "\"But we, as a political party can be subject to a whole lot of undisclosed direction.\" - Stephen Franks, Lawyer & Partner at Franks Ogilvie Stephen Franks questions whether TOP's internal governance arrangements measure up to the transparency standards it wants applied to political lobbying. If sunlight is the best disinfectant for political influence, why does Stephen Franks think TOP's own boardroom needs the curtains opened? 🎥 Watch here: https://rcr.media/episodes/stephen-franks-lawyer-partner-at-franks-ogilvie-public-servants-involved-in-top-talks-should-be-identified #RCRMedia"
-      },
-      {
-        "title": "Russell Brand had completely torn that up and thrown it down the toilet. Hence, I think he's...",
-        "url": "https://www.youtube.com/shorts/myrl9O7uPAc",
-        "date_utc": "2026-11-14T18:01:43+00:00",
-        "summary": "\"Russell Brand had completely torn that up and thrown it down the toilet. Hence, I think he's become a target.\" - Tony Gosling, Investigative UK Journalist Tony Gosling argues that Russell Brand's outspoken criticism of powerful media and political interests made him an establishment outsider. When someone stops playing by the establishment's rules, just how far will powerful interests go to protect their influence? 🎥 Watch here: https://rcr.media/episodes/tony-gosling-independent-journalist-russell-brand-a-public-scapegoat #RCRMedia"
-      },
-      {
-        "title": "🇦🇺 \"The problem is, what do you define as harm?\" - Greg Barns, Australian Barrister 🇦🇺",
-        "url": "https://www.youtube.com/shorts/qq4tZwPQKX8",
-        "date_utc": "2026-11-14T07:00:50+00:00",
-        "summary": "🇦🇺 \"The problem is, what do you define as harm?\" - Greg Barns, Australian Barrister 🇦🇺 Greg Barns SC warns that Australia's proposed Digital Duty of Care legislation could create dangerous opportunities for censorship, depending on who gets to decide what constitutes harm. If hurt feelings become grounds for restricting speech, who gets to decide which opinions are too dangerous to hear? 🎥 Watch here: https://rcr.media/episodes/greg-barns-australian-barrister-is-australias-government-building-a-digital-censorship-machine #RCRMedia"
-      },
-      {
-        "title": "You can't actually directly advocate for somebody to vote for a party if you're an organisation...",
-        "url": "https://www.youtube.com/shorts/WJDy33tmz8c",
-        "date_utc": "2026-11-14T06:00:58+00:00",
-        "summary": "\"You can't actually directly advocate for somebody to vote for a party if you're an organisation, and you're spending money to do this, unless you have that political party's permission.\" - Claire Deeks, RCR & Voices for Freedom Co-Founder Claire Deeks reveals the advertising restrictions RCR had to navigate during Vote Smart 2026, explaining why the campaign initially used creative warnings and satire before gaining party approval for more explicit messaging. How did a campaign about two ticks end up navigating enough fine print to wallpaper the Beehive? 🎥 Watch here: https://rcr.media/episodes/alia-bland-claire-deeks-founders-of-rcr-voices-for-freedom-did-billionaires-really-shape-the-election #RCRMedia"
-      },
-      {
-        "title": "If you thought it was hard to convince your neighbours to split their vote, how easy will it be...",
-        "url": "https://www.youtube.com/shorts/Nu12CR0n8WM",
-        "date_utc": "2026-11-14T05:00:55+00:00",
-        "summary": "\"If you thought it was hard to convince your neighbours to split their vote, how easy will it be in the new year?\" - Rodney Hide, Former ACT Party Leader Rodney Hide reflects on RCR's Vote Smart campaign and whether the experience of the 2026 election has made New Zealanders more familiar with strategic vote-splitting. Once voters have seen how split voting works under MMP, does the next election become an entirely different contest? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-the-election-hangover-what-happens-next #RCRMedia #WednesdayWebinar"
-      },
-      {
-        "title": "\"They're going to be saying: 'Wow, we quite like having constituency MPs'.\" - Rodney Hide",
-        "url": "https://www.youtube.com/shorts/nGOA8RXK25w",
-        "date_utc": "2026-11-14T03:45:34+00:00",
-        "summary": "\"They're going to be saying: 'Wow, we quite like having constituency MPs'.\" - Rodney Hide, Former ACT Party Leader Rodney Hide suggests National's overhang could produce an unexpected cultural shift, with MPs elected directly by their communities having greater sway over the party's future. Could the biggest consequence of Vote Smart be not just the election result, but a National Party increasingly shaped by its electorate MPs rather than Wellington headquarters? 🎥 Watch here: https://rcr.media/episodes/wednesday-webinars-politics-the-election-hangover-what-happens-next #RCRMedia #WednesdayWebinar"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Former Trade Minister Tim Groser On Proposed Usa Trade Tariffs On Nz Sheep-Meat (",
+        "url": "https://www.youtube.com/watch?v=fUwgpEW3iK0",
+        "date_utc": "2026-11-17T10:23:21+00:00",
+        "summary": "Former Trade minister Tim Groser on proposed USA trade tariffs on NZ sheep-meat (and supercritical geothermal update)"
+      },
+      {
+        "title": "Are The Elderly Poor In Dire Straits?",
+        "url": "https://www.youtube.com/watch?v=DxqFtJv1pKc",
+        "date_utc": "2026-11-17T07:52:25+00:00",
+        "summary": "Are the elderly poor in dire straits? Greypower president David Marshall weighs in."
+      },
+      {
+        "title": "KiwiSaver Hardship Withdrawals Are Climbing At An Alarming Rate",
+        "url": "https://www.youtube.com/watch?v=tXlljgnDytw",
+        "date_utc": "2026-11-17T04:25:50+00:00",
+        "summary": "Liz Koh, Founder of Enrich Retirement - KiwiSaver hardship withdrawals are climbing at an alarming rate."
+      },
+      {
+        "title": "Charging For Toilets Could Create Serious Problems For People With Bowel Conditions",
+        "url": "https://www.youtube.com/watch?v=6Yhe_KcuSS8",
+        "date_utc": "2026-11-17T04:20:12+00:00",
+        "summary": "Belinda Brown, Crohn’s & Colitis NZ Charitable Trust Chief Executive - Health advocates warn charging for toilets could create serious problems for people with bowel conditions."
+      },
+      {
+        "title": "One-Third Of NZ Workers Fear Losing Their Jobs To AI",
+        "url": "https://www.youtube.com/watch?v=Ij-w4h6tBRA",
+        "date_utc": "2026-11-17T04:00:52+00:00",
+        "summary": "Professor Alex Richter of Human-Centric AI, University of Auckland Business School - One-third of NZ workers fear losing their jobs to AI."
+      },
+      {
+        "title": "Do We Really Need A Staggered Age Of Consent?",
+        "url": "https://www.youtube.com/watch?v=hTXAKgG1_i4",
+        "date_utc": "2026-11-17T01:12:14+00:00",
+        "summary": "Do we really need a staggered age of consent? Victims' advocate Ruth Money explains the problems."
+      },
+      {
+        "title": "Radio New Zealand: Time Is Up, Fullstop, For The Public Broadcaster",
+        "url": "https://www.youtube.com/watch?v=GSmlmVT-LB8",
+        "date_utc": "2026-11-17T01:07:40+00:00",
+        "summary": "Radio New Zealand: time is up, fullstop, for the public broadcaster"
+      },
+      {
+        "title": "Todd McClay On US Tariffs Threats Against NZ Lamb",
+        "url": "https://www.youtube.com/watch?v=UQqnotpppT8",
+        "date_utc": "2026-11-16T23:41:12+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Sean Plunket Questions The Media Exploitation Of Grieving Parents",
+        "url": "https://www.youtube.com/watch?v=guQdnv5z0oY",
+        "date_utc": "2026-11-16T23:04:29+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Chris Lynch On Where RNZ Spending Is Really Going",
+        "url": "https://www.youtube.com/watch?v=UZ69T4amyko",
+        "date_utc": "2026-11-16T22:46:34+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Paul Henry Says RNZ Needs Major Reform By Next Media Minister",
+        "url": "https://www.youtube.com/watch?v=9uCyAiwoJrQ",
+        "date_utc": "2026-11-16T22:31:55+00:00",
+        "summary": ""
+      },
       {
         "title": "Migrant Bus Drivers In Auckland Highlight Concerns About Their Future In NZ",
         "url": "https://www.youtube.com/watch?v=2dRc62DyvmM",
@@ -242,72 +308,6 @@
         "url": "https://www.youtube.com/watch?v=9w0dnpHyt0Q",
         "date_utc": "2026-11-16T03:59:24+00:00",
         "summary": "You can hold on too long waiting for your house price to rise. Harcourt's Mark Honeybone opines on the Auckland malaise."
-      },
-      {
-        "title": "Inside That All Blacks Defeat By Wales With Former Ab Captain Taine Randell",
-        "url": "https://www.youtube.com/watch?v=K4i0ulm2pW0",
-        "date_utc": "2026-11-16T03:23:43+00:00",
-        "summary": "Inside that All Blacks defeat by Wales with former AB captain Taine Randell"
-      },
-      {
-        "title": "Rnz And Public Malfeasance Laws With Democracy Project's Dr Bryce Edwards",
-        "url": "https://www.youtube.com/watch?v=y6sRPJetoOM",
-        "date_utc": "2026-11-16T01:24:10+00:00",
-        "summary": "RNZ and public malfeasance laws with Democracy Project's Dr Bryce Edwards"
-      },
-      {
-        "title": "Dame Anne Salmond Wants Nats To Embrace The Politics Of Kindness",
-        "url": "https://www.youtube.com/watch?v=9eBxNRyvpT0",
-        "date_utc": "2026-11-16T01:20:08+00:00",
-        "summary": "Dame Anne Salmond wants Nats to embrace the politics of kindness and all its totalitarian instincts"
-      },
-      {
-        "title": "The Waste Of Time, Effort And Money That Is COP 31.",
-        "url": "https://www.youtube.com/watch?v=m5ZzXfeAFVE",
-        "date_utc": "2026-11-15T23:55:50+00:00",
-        "summary": "NZ's first climate change ambassador Prof Adrian Macey on the waste of time, effort and money that is COP 31."
-      },
-      {
-        "title": "Councillor Andrea Compton On Rates Plan That Will Ruin Wellington CBD",
-        "url": "https://www.youtube.com/watch?v=bG5tz0U950Q",
-        "date_utc": "2026-11-15T23:19:32+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Michelle Boag On Nuances Of Political Lying",
-        "url": "https://www.youtube.com/watch?v=Min-Fhqx_a4",
-        "date_utc": "2026-11-15T23:01:44+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Yvonne van Dongen On Who Is Worse Off In Smear Campaigns, Men Or Women?",
-        "url": "https://www.youtube.com/watch?v=X1z8oyRFeP0",
-        "date_utc": "2026-11-15T22:46:04+00:00",
-        "summary": ""
-      },
-      {
-        "title": "The Slow & Regrettable Death Of RNZ",
-        "url": "https://www.youtube.com/watch?v=ppi61N0AqCU",
-        "date_utc": "2026-11-15T22:38:18+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Rent Is Up & Choice Is Down As The Nation Waits To See Who Gets In Power",
-        "url": "https://www.youtube.com/watch?v=-Yls75wIgcs",
-        "date_utc": "2026-11-13T20:00:09+00:00",
-        "summary": "Vanessa Williams, General Manager of Marketing at realestate .co .nz - Rent is up and choice is down as the nation waits to see who gets in power."
-      },
-      {
-        "title": "The Worrying Decline Of South Island's Giant Wētā",
-        "url": "https://www.youtube.com/watch?v=nBUW_pY-ioY",
-        "date_utc": "2026-11-13T02:20:53+00:00",
-        "summary": "Danilo Hegg, Wētā Conservation Trust Chair on the worrying decline of South Island's giant wētā."
-      },
-      {
-        "title": "Gloria Masters On The Book Teaching Children How To Recognise Sexual Predators",
-        "url": "https://www.youtube.com/watch?v=56iEGOO2b4E",
-        "date_utc": "2026-11-13T02:19:48+00:00",
-        "summary": "Gloria Masters, Handing The Shame Back Foundation on the book teaching children how to recognise sexual predators."
       }
     ],
     "opinions": []
