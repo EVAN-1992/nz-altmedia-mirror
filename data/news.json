@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-19T16:54:16Z",
+ "generated_utc": "2026-11-19T16:55:35Z",
  "note": "Headline feeds for the daily brief, newest first per feed. Google News rows carry the publishing outlet in `outlet`; their URLs are news.google.com redirects. Summaries are feed excerpts, not article text.",
  "sections": {
   "nz": [
@@ -660,10 +660,10 @@
     "feed": "NZ Herald"
    },
    {
-    "title": "Counties Cup day at Pukekohe: Trainer Lance Noble looks to extend record",
-    "url": "https://www.nzherald.co.nz/sport/racing/counties-cup-day-at-pukekohe-trainer-lance-noble-looks-to-extend-record/5BUAVAXMWNDUVFFJ5KZ7GHBELI/",
+    "title": "Charging rate for drug use/possession hits 12-year high; more than half convicted are Māori",
+    "url": "https://www.nzherald.co.nz/nz/politics/charging-rate-for-drug-usepossession-hits-12-year-high-more-than-half-convicted-are-maori/N2KEOWVMKZGTHCLBJBFJD43T5E/",
     "date_utc": "2026-11-19T16:00:00Z",
-    "summary": "Jaarffi looks over the odds in the Breeders Stakes tomorrow.",
+    "summary": "Māori made up 51.6% of those convicted for drug use, and 57.6% of those imprisoned.",
     "outlet": "NZ Herald",
     "feed": "NZ Herald"
    },
@@ -946,6 +946,166 @@
     "summary": "The post Mini crossword, Thursday 19 November appeared first on Newsroom .",
     "outlet": "Newsroom",
     "feed": "Newsroom"
+   },
+   {
+    "title": "Who is the captain of the coalition, really? - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUm1uWl96MFFYWjBZRDlwRmJRMmN3TkNianJKU3JJZ1Q1Sl9jelY4bWJXS2cycnBfa1hmZUIzTHdSNEdndUtScHdvd3FqMmNoLU5QdWdhTW9ZQmVua3FBQVY4UUtCUUxsTU1PZ1kzcUF3ZE4tNFVJN3BDbTZHQkwtbXdYMlNOSW9RcWVmTUVKMUI?oc=5",
+    "date_utc": "2026-11-18T16:09:27Z",
+    "summary": "Who is the captain of the coalition, really? The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "Linda Clark: Scrapping TVNZ’s political editor role is a mistake - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc0NfWEdKNzJqQVU3eU5Sbk1GbUNleERNamd6aGRQajNCWm1HOWhjd0Y3T3JpcFRMcGJSMGVDZGQxVGNlMXpNb0Fuckl0bkoxYmZUTzJGR3N4YjZxWmFlaGM5cVAxazBmNHdtUVhCSHpLNFZHcFU4YmNtY2JHNGZMQmZmVEdzczUxcVptOWJmTW1hVzROM015RTFUSkZ3WHBnOFZFWVRFanVrb2M?oc=5",
+    "date_utc": "2026-11-17T23:01:44Z",
+    "summary": "Linda Clark: Scrapping TVNZ’s political editor role is a mistake The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "Help Me Hera: Everyone is so annoying - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUnUtZTZnQk94VUZlVHpLdTF4S0NnOW5UNEVsR2RmVDZLUXNnTWlFbWRmdU8weHFkTHVKa0lKVDNVNndza3pNZzk1T1hCcHVkNGhaaGxzRWMyRU1oRm52RGJ1anNNT29qSThWMUpQRDVwMGl0Nnh3XzJKb1EwTExEeEtKWWFrN00?oc=5",
+    "date_utc": "2026-11-18T20:00:44Z",
+    "summary": "Help Me Hera: Everyone is so annoying The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "You first: RNZ staff want the redundancies to start in management - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVk0Y1Q5eUpLWDVqdXlRV21IWlg0MTVzX0liNE4zYWtyYlZ6ZXZ0ZTlMbDZGdHJ6cXZsTTgwUGpNa2NwUXFCZEF3VGw2clczaFpHS1QyMjRzVExIWWhUbmNfOFI0WkI5YkEzeFJ5X0hWU01namlMS2d6aUdTUU9OaGF3enVuYmRvVTNDMVVBQWRhT0lYVmlyeGxzQm1seVUtNi1QVUp3Wkx4SjZweGc?oc=5",
+    "date_utc": "2026-11-17T21:35:25Z",
+    "summary": "You first: RNZ staff want the redundancies to start in management The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "What's up with illegal peptides? - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHlYWFVJM01fVW1teDNoWHBFZElBeU1QWG5CVjYzcWZ6cVVHMlNXa0hYSmRMM25ITXR0akRLbnJKaWttX21wcjN1XzBlR0VKVS1zVnduaGppcGU2OTg4VnhZSTIwWWdWeUNTUGJlUUdQdWNuaUV0UUowRGFYZ1M3bg?oc=5",
+    "date_utc": "2026-11-18T05:38:33Z",
+    "summary": "What's up with illegal peptides? The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "The true story of the time a whole continent quit the Olympics – because NZ was there - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVNFSDdyclE5d1h2S2s4cHBORHlQY195dnBDNTBHbE5VWVhLVGdSYlV5cEtqNFlSVzYxbW9Gc0xzRXZ0S3p1THZqcGlPa2xtTmFRUzB1WUNTS2w3OGxoU0lxR2wzQUpuM3BLaGFnMjRoM0FxTkRCN2RJRS1Pb2NXR1NnUXZrdkM3T3VjUGdlM0R5TDVmaTVrSHFqVEtreDZUdTRBM3JuWDhLVzNMZ3ptbW1WRVZ3SGpOTk0xMFJ5dXo3eTNkbVRn?oc=5",
+    "date_utc": "2026-11-18T03:14:58Z",
+    "summary": "The true story of the time a whole continent quit the Olympics – because NZ was there The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "Ten ways to fix MMP, explained - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GMXNfTXBYTUJteXRVUUVOQW1MQU9MVGlNdV9SZ1dHb3p0OW9NcHcyeW4yWHNjUC1lZFpOOF8wRkJuZEw1dDFjc2hpRWhGMGpGSDRVZkhLV2lfeExPNF9nNHhBd2NZR3BUN2xfcHpIeGhXUmNZYW00ZUFhalVSY0U?oc=5",
+    "date_utc": "2026-11-18T16:09:27Z",
+    "summary": "Ten ways to fix MMP, explained The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "Every way to get from Lambton Quay to The Terrace without breaking a sweat - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSC1vRmdhMjBkUFE2UERUNi1lbFY1UkFEdmVHZTdpclA1dkZaMVJfSWV5VE4yYktxQmFMdGVjTnRFbDNwTFJuNVdDblJqOWlyQ19VLVkwTU5JRzlsY2Z6Zi1abXY0Vk11RWpZTXVKMVNiS1BXQ3c1Qzd4bEVJcU9Ud0FvdTFzX1g3SU4wZUpaWXZYblBfeElYOFhFSDlxbzNmNmNvc0d4MlgtSm01M0Jhd3EwY1V6cmc3dGc?oc=5",
+    "date_utc": "2026-11-18T16:10:58Z",
+    "summary": "Every way to get from Lambton Quay to The Terrace without breaking a sweat The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "Why did a US film crew secretly document NZ’s election? - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjRkb1AtT3hmVHZOaW12MkUxSkd5LVdfcUpMLUhHR18zLVRYbUpfcDY2SWFEbnNYN1RLczU2NnZqOGVBaG9YOGZXSmw0VmVsTmFSSWJaTHBjS2dFZWUwNlAtOEhXNVJBcjNLdzFVanFPcTBUcUs2bTRhNS1lRGdXOUtNQXVZdDF2ay1reEFDT2RqU1I0LUFvNTlTZ3F6U2M?oc=5",
+    "date_utc": "2026-11-19T02:27:47Z",
+    "summary": "Why did a US film crew secretly document NZ’s election? The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "Freak in the sheets: Meet New Zealand’s first-ever national Excel champion - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXB6UGVyX2xRdFpuV2dSYk8xRTAyNnB4dmhoQ2VWWkVPaFVXRkdRamZrdnFyNGJFdm5MRlN1Y1k5c2F0cndEUjh2QUZzalc4SHhtQU5tN0w0YU1STWJ3Zm01WXB1VjJuRmdPODd3YkQtNml6NTFyZWg4dXM3Q3Z5ZDVLWWdyQlc2ZXFFTnVRZEdyTm9LbnRlOWl1LV8?oc=5",
+    "date_utc": "2026-11-19T16:07:30Z",
+    "summary": "Freak in the sheets: Meet New Zealand’s first-ever national Excel champion The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "Idea: Let's not form a government - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZF9KSmxJdjZPWlJBVnZUckQ5Uy1QMEkzYnZFMGl3QXpfNkZ0S1FDU05aV1ltMDE4UVV2RGNWMXJuZzBocnNYVWtQQnVWWFhfcDlHX1ZvbDlKMVFJczkzZ1lKc014b3g1LUdwd2pkdGpNTUFGd0N6NTZzYll1V3NCaUNB?oc=5",
+    "date_utc": "2026-11-19T16:07:30Z",
+    "summary": "Idea: Let's not form a government The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "Wayne Brown's enemies, ranked from least to most powerful - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVXZNQlVhLVJheFQzaWxKeDlCbjJURFJzd21GOU5JcnQtbUZUaXU4LXh1ZV9GX1hWa3hDMGxxT2Y3MHp0UDJIaVduOVdESWd0VVZBcFVnWmxGRlpQa2FrcGg4UUhwcFFGNkxZNy1hUlN1Qjh4UDdBQUxxUTZTV3dKTm5JbUlwVUJnN0tka0FBVDN3Z28xbFhzOFAwbmtJeTlfV3c?oc=5",
+    "date_utc": "2026-11-19T16:07:30Z",
+    "summary": "Wayne Brown's enemies, ranked from least to most powerful The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "Wayne Brown said democracy has had its day, so the US ambassador called him a boomer - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOG5feUFxMGlSUEpqaU9hVjhzU0RVeHBhRUZCZUQ0QkJVaTA3dTB4Rk5YdDN3clZLcmM5T24zZUdpWWV4UnhvVFdHX0t0amF2MWIzcDVSVHB3OUlkY0JNZWxuOUpKVW04a2d3WDdGSTdacGJqMVZXTE5raW9UTVBXMDRMNXVKNjNqNk55Q2NYbWVoMnZEcUNkY2Z2dUl3ZW4wSFBTaDFWNnBXMXVqX05RRUY5ZFlqU0lrVXFMVXoyT0ZhNDFOeHFHb1ZhY3NmVDM2cGs2YVVB?oc=5",
+    "date_utc": "2026-11-18T18:38:16Z",
+    "summary": "Wayne Brown said democracy has had its day, so the US ambassador called him a boomer The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "I’ve been up doing crime since 12.01am – here’s my Grand Theft Auto VI review - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HWXoxdVZkNmh0VG9kVTRXRUk1U2ZnMEhDc0dxeWJ2Q1owZmJQazM4dElra0lQSVZGVjdOT3hYOXQxVV9FSnEtNUhKMGVxVnZvZkxQSVU2RUtKWDlDQmVtRTNvQ2RvdHlDT2dRcWdNOVEwdk1p?oc=5",
+    "date_utc": "2026-11-18T21:30:37Z",
+    "summary": "I’ve been up doing crime since 12.01am – here’s my Grand Theft Auto VI review The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "Yes, 6pm is the best dinnertime - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zZHNfLURpMDN4NVNHRHFibDlKbXNjenVGM3FfeGlSRXJlYUZGUloyT1VBZnFLMFMxODJPZ2p4ZHhPbTAxZXR5a0g4M2tXQTFBZnpvQmt3dVRPZlluOGZqaVVfOXJZRFFzTmVPeFplQjNoWm1rYWc?oc=5",
+    "date_utc": "2026-11-19T01:01:49Z",
+    "summary": "Yes, 6pm is the best dinnertime The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "Far North council fights to keep iwi voting rights under new government law - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmVtZGU2YW43ZkFqS183Q3RHak5WeVJUM3ZtWmtpdEwxandUM2E3SmRJRmVjSXhrNTUzcjlZU1gxSmxUTmtIUU9DZEVILUVRdmNrdm1LTUFBT18tU3FpV3BIYV9fYmZzZkVWVm5Ga19EX28tMlp3em1DN25WVTFyWkVTT1ZIMkJVRTlxSFFzRHZDMWNhVFdNVXBhWVpYMkhTS0ppbg?oc=5",
+    "date_utc": "2026-11-18T00:33:56Z",
+    "summary": "Far North council fights to keep iwi voting rights under new government law The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "The day Africa quit the Olympics – because NZ was there - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlBBYWtwTWl2akZnbmxPU1E2RHNTUmxpVUJTRXlXZjVLWGhnWEdzYV85YmVQMzRYeXdLcUJzazRGWm9JZFBrWWNsRjBLVEhUQk52dEdYX1F0a2QwNEhUbmVvMENxYWtzdURoeDZjai0zZFkybEliSzFpUElQdVRaYkMwMG1Pb196QUZmcjdMZ2p6NlFIZC1pQlFFUTJlajlyM3J5ZXFmV2VpSGtnbHNkLU9vZUs?oc=5",
+    "date_utc": "2026-11-18T03:04:48Z",
+    "summary": "The day Africa quit the Olympics – because NZ was there The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "'I’m often left in tears': Gareth Thomas on the Sam Hunt poem he turned into a song - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdmg3WEVuSWdybjhoNjlPWVdDeTVjY3FSUFZfTUx4NFNsZmtxRXFaeGZOMTJZZXlqbDU2N0xCcFdNdkJFZUJxaGZBczR0UmxjZW1qYndKSjdtOGRIVXEwdDVZWnZJY0s1Nms5VllPRnU3M0xlRlpacE10c0w3TnFUV3BobUUzOVRXb3VaQU5fVXBwVDlMQXprRi1PREp5WW1HYnFjaGJ2N2htbDFoeWc5THZab0tEdllrT0YzbnlSSVA?oc=5",
+    "date_utc": "2026-11-18T00:33:56Z",
+    "summary": "'I’m often left in tears': Gareth Thomas on the Sam Hunt poem he turned into a song The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "What actually happens when you build a house? - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa09BeWQwQjQ4MlZKRHB0NUxUQnFWS2tJSlVyWVJoNFBEb0Y4a0x3REpKdlU4c2laVHo1MlljZ1p4amRlT1NDVEkzUF9sOGFEeE5Tc05wN05oWjlWcWZyWU5oVmlZRnBXc2paV1RhY3RwLW15WlBTN2paSGVqNk9RSnVLWVpSX1RiaENEcEVCRGdaZw?oc=5",
+    "date_utc": "2026-11-17T21:35:25Z",
+    "summary": "What actually happens when you build a house? The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
+   },
+   {
+    "title": "Forty-six experts call for urgent select committee inquiry into MMP - The Spinoff",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLTZtQm5hYm9tc0xoUnhfVmRPTVNyQjdOOW5taW1uOW82cG55cWQ5R3FHYkVpRUlyT05MMlo2UE5WQ0J6ZFhEemJXSGROelZtMENUNDB2NERRQ3lUM3ZqV3pHNWdhZUhSVUdodlp1emI1VFQyYXFHdVJMd2FTUl9PR3ZPblhZREV2QURadzg3VVViVTNpTHI0S0xrUFh6R2VYTnYyaTgwRWltTXgtWnRXcWtR?oc=5",
+    "date_utc": "2026-11-17T18:24:55Z",
+    "summary": "Forty-six experts call for urgent select committee inquiry into MMP The Spinoff",
+    "outlet": "The Spinoff",
+    "feed": "The Spinoff"
    },
    {
     "title": "CFML’s maiden voyage",
@@ -1271,7 +1431,7 @@
     "title": "China can help end Ukraine war, Trump tells Xi before trilateral with Putin - RNZ",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkgyTEdQWEo1UC15VGpQZnpqLXRoa0FSb3VVaEllaTNWR2pNLU5taDl6cV9ES2JoNzVfdExwZnJQZHhYY1BUbEQySkxoTVpTSGZkZDVaWmZGLWUzVURlaWtUS0szbDgtdEEtVi1vaXpYYkFiNGFOQXhCR253SWNJTzVSUnFoYjFzLUN2MXFYa0QxTVctVTRjTnZJMkdWZXdMbHFkTmJVNE41SlZvVVY2Ni1NVlAydw?oc=5",
     "date_utc": "2026-11-19T07:09:03Z",
-    "summary": "China can help end Ukraine war, Trump tells Xi before trilateral with Putin RNZ Russia and China are not America’s friends. Why does Trump think they are? CNN Apec summit: Trump, Xi and Putin make ‘peace declaration’ but talks end without clear breakthrough – as it happened The Guardian ‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies Politico Trump meets with ‘friend’ ",
+    "summary": "China can help end Ukraine war, Trump tells Xi before trilateral with Putin RNZ Russia and China are not America’s friends. Why does Trump think they are? CNN Apec summit live: Trump, Xi and Putin make ‘peace declaration’ but talks end without clear breakthrough The Guardian ‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies Politico Trump meets with ‘friend’ Putin and Ch",
     "outlet": "RNZ",
     "feed": "Google News NZ top stories"
    },
@@ -1340,12 +1500,20 @@
     "feed": "Google News NZ top stories"
    },
    {
-    "title": "GTA 6 crashes look fun. In real life, it could cost you $18K to repair - USA Today",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1pRTWRGaXlXbm5JYy1iRFl3OGNSb2otUXNMMzB6b19KTW9UMDNjQ3VqenY1TWhPQTZjbHJteTg1UkVCTWZxSVJUVEg1SkY3RV9tV2tqMi1KNnE2MnJnX0xBMlpzRDlZYlVndWJDTmdCWXRPVDNvVjltT2xZYWx0cjJpM1g5c1YxYll0b1hyN1ZvdUw5VE1KZEtyYnFLdW1RYmc?oc=5",
-    "date_utc": "2026-11-19T10:06:00Z",
-    "summary": "GTA 6 crashes look fun. In real life, it could cost you $18K to repair USA Today Opinion | Grand Theft Auto Is Depraved. That’s the Point. The New York Times Police issue statement addressing 'Vice City transplants' on GTA 6 release night The National Desk",
-    "outlet": "USA Today",
+    "title": "‘No cheat codes’: GTA VI warnings issued - The Australian",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWhzU2ZsOUdhc3lJaFZuRGZmZXdSMW9oNXA4YzNLYUZvODdfS2VsMVU1VGV2dWtuQk1FUGljVjdsdGF0TGpWZ1VtTEV5RWpSZGE5eXhjTmVSbkFxZWplbnBWQ3RhUDRiOHZZNlc0RlJ6V21Da0Njb1paTWlVSFcyUDFoRWdzd3lyLUt6TmtXb1Nkd0lUbXFfd2MzdF9oeVhFbVU0UEFqYlJpZ2RDNnJvSDkwQmh2dGFQMzV2SWVVQWxqZkpwblplMzdaVWxHUWQxZDE0QVVzWXFMWFJUdWJ0elJMZFl1dGFnWWN0aw?oc=5",
+    "date_utc": "2026-11-19T00:02:00Z",
+    "summary": "‘No cheat codes’: GTA VI warnings issued The Australian Opinion | Grand Theft Auto Is Depraved. That’s the Point. The New York Times Police issue statement addressing 'Vice City transplants' on GTA 6 release night The National Desk",
+    "outlet": "The Australian",
     "feed": "Google News NZ top stories"
+   },
+   {
+    "title": "Govt's pay equity changes breached women's rights, High Court rules - 1News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVl1Q1p1bnFGVkJiektBdXlXdW1XaFlxS2EzZkJDMjFZc2xjUnBsVXd5a0ZqTU1QUWJsQ1RDd0xrc0V0S19MM09jS0FBZEhJTjhoY21XX2l5WkxpNGVBcGFKbXBvRVNydmN4QWkxSkpTQi1FUWQ5cmprUmpja1VjMGRHUFZ1cjVMTGpySUZiY001VGtUQVRWNE05ZjhhblhMYWc?oc=5",
+    "date_utc": "2026-11-19T16:18:25Z",
+    "summary": "Govt's pay equity changes breached women's rights, High Court rules 1News Scrapping pay equity breached women's rights, High Court rules RNZ No decision yet on appeal after pay equity law ruled discriminatory The Post NZ Barry Soper: What else could the High Court have ruled? Newstalk ZB Rushed pay equity change breached human rights, court rules Stuff",
+    "outlet": "1News",
+    "feed": "Google News NZ"
    },
    {
     "title": "'Not the way MMP was supposed to work': Experts urge politicians to act on overhang - RNZ",
@@ -1361,14 +1529,6 @@
     "date_utc": "2026-11-19T05:23:15Z",
     "summary": "GP urges patients to delay routine blood tests as lab strike begins NZ Herald Crisis in New Zealand pathology ongoing, letter warns ODT Lab strikes set to affect services nationwide NZ Doctor Disruptions to medical tests expected as lab workers strike from midnight NZ Herald",
     "outlet": "NZ Herald",
-    "feed": "Google News NZ"
-   },
-   {
-    "title": "Govt's pay equity changes breached women's rights, High Court rules - 1News",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVl1Q1p1bnFGVkJiektBdXlXdW1XaFlxS2EzZkJDMjFZc2xjUnBsVXd5a0ZqTU1QUWJsQ1RDd0xrc0V0S19MM09jS0FBZEhJTjhoY21XX2l5WkxpNGVBcGFKbXBvRVNydmN4QWkxSkpTQi1FUWQ5cmprUmpja1VjMGRHUFZ1cjVMTGpySUZiY001VGtUQVRWNE05ZjhhblhMYWc?oc=5",
-    "date_utc": "2026-11-19T16:18:25Z",
-    "summary": "Govt's pay equity changes breached women's rights, High Court rules 1News Scrapping pay equity breached women's rights, High Court rules RNZ No decision yet on appeal after pay equity law ruled discriminatory The Post NZ Barry Soper: What else could the High Court have ruled? Newstalk ZB Coalition breached women’s rights to save $12.8b on pay equity, court finds Stuff",
-    "outlet": "1News",
     "feed": "Google News NZ"
    },
    {
@@ -1404,11 +1564,11 @@
     "feed": "Google News NZ"
    },
    {
-    "title": "19 sperm whales dead after Far North mass stranding - NZ Herald",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1cyd1RqV0RkdV9Wc2dIVkhHTFRNbl8wLWI5ZVBXYkd6WUtPRTNQRFVpNWYtVGRpcVBBNE9LYWdsLWtPQzN4NEM4a3pwcmlmeTZkOEozajFBek52TDdhMFg2bXJJejEzWW4tQi1XdlZNSHFRNVBFOWxFal9vMnFjcV9FdmRqeXhtWWtVeDRRQ0VGVG9peUZzNGc1YjR6NzNHWVIyMVlOaXpONkI0SXBleGlQUkZ4ZG1CNkJGY2x1dHFhbUJS?oc=5",
-    "date_utc": "2026-11-19T07:49:22Z",
-    "summary": "19 sperm whales dead after Far North mass stranding NZ Herald",
-    "outlet": "NZ Herald",
+    "title": "Two dozen sperm whales stranded at Ninety Mile Beach - RNZ",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUYxRWw2SFZBSnloQkpLNmJVNWpNOUZ0Sno3VGIyc3VqcklROWZZLU84azhJdWxIbldiYkN3aFREelRMeFZKbEtfaHhjVUNNRWxEREs0TXE4Y1ZnbXB1OEc0MVlhWWRSREY4Q1ViSWhfSWFUbnJrR0psa3otbXRnZUJMdUxDWjJXUlRoZzlIVVZpRjJiVU8ta3NjWnN0WWlO?oc=5",
+    "date_utc": "2026-11-19T03:58:34Z",
+    "summary": "Two dozen sperm whales stranded at Ninety Mile Beach RNZ",
+    "outlet": "RNZ",
     "feed": "Google News NZ"
    },
    {
@@ -1476,14 +1636,6 @@
     "feed": "Google News NZ"
    },
    {
-    "title": "NCEA digital exam issues strike again during level one English - 1News",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUtVM1U3M1RHQ09XU3N5bnR0STFuVHo1X2s1dXpVV3JacndTOVJob25USDNtSGVqWV9DS3NkUzdCNTVSQk9TazNsX21YNC1wYWJCMVJibF9hTlphTlM3QnVoWDJoeUtPU29ENi1JbDdJZmFRNTU2UHRxSmVJVXVVdjRIeW9aSldlcjA2RUx3MlJON0R2QUhjT1lB?oc=5",
-    "date_utc": "2026-11-17T03:32:27Z",
-    "summary": "NCEA digital exam issues strike again during level one English 1News Students offered extra NCEA exam after digital failures RNZ Letters: Something to be learned from handwritten approach to exams NZ Herald Teachers’ union warns paper exams may need to return after NCEA digital glitches The Press Stanford demands independent inquiry after another NCEA exam failure Stuff",
-    "outlet": "1News",
-    "feed": "Google News NZ"
-   },
-   {
     "title": "US senators push for stronger military space ties with NZ - RNZ",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWS1UZTZwYm5Ga1lGdHc5WHM4c1NhVTFlOTg3dkxucDBSWmFiR3JFVEVhUmxReWJYUVR4OVdDZDBaMGs0NUVGeVJCckNMWGdjZmdZeU1Fa3NweUVjUVN5MHlZWmhhVG9ubG1uYUhnZVJETjFobkVhQm5iMW1hM0E2N3djNHF0NnJmMXk0UWFlbndZWl9LcVJPTzRudGtIX3hVVjAw?oc=5",
     "date_utc": "2026-11-19T01:44:09Z",
@@ -1505,6 +1657,14 @@
     "date_utc": "2026-11-18T22:33:59Z",
     "summary": "Solicitor-general pauses Crown Law restructure after staff ‘division’ The Post NZ",
     "outlet": "The Post NZ",
+    "feed": "Google News NZ"
+   },
+   {
+    "title": "Boy, 7, left with shotgun pellet in his head after house shot up in gang dispute - Stuff",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTJ4aDdRR19GT1RKbG9xdllhNFZpT2ZXR3U2RE1ESVB6ak5OTE5FVjlzb2kxcjE1NUVEX2ItSXhrWEEtb0pBRWtCcFNVTTNfZy1DcS1qZFFMNGF1TGdxSVRaZVpYd3Bfa0FZSi1TUGdtRkhxRndNTDZ6cmtPemt3ZGdYbGc5SXBGS0g0LVBkOEZtR3VZejYyb2ZQdWZzUUVsU2NJWU13dDRQZw?oc=5",
+    "date_utc": "2026-11-19T06:13:25Z",
+    "summary": "Boy, 7, left with shotgun pellet in his head after house shot up in gang dispute Stuff",
+    "outlet": "Stuff",
     "feed": "Google News NZ"
    }
   ],
@@ -2102,6 +2262,326 @@
     "feed": "NPR World"
    },
    {
+    "title": "The context you need to understand Bancroft's version of Sandpapergate - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZE13R2p6Z2o0OUxQWnVDNk9RckRiWmxxcnR2ZXY2UzF5U2M3OTUycG1iMjBodVREVEQwenF2V2M0Z1hrcG9uX013MDZfYlZvMkhQSWhEcWRpY0p3MVNRdFJRcHBwdUstUXloZWRJZDVzT21fdE4wV2F1Y0o1LUhQX2lhQnRNdmlKUkNxMEhR?oc=5",
+    "date_utc": "2026-11-19T04:53:01Z",
+    "summary": "The context you need to understand Bancroft's version of Sandpapergate ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Cheap Chinese EVs are causing havoc on the Australian used car market - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHM0ZlI5VHBMVThvWl9hRl9FU0c3UHFkVGNnNG83ZEdHZVhGZHNwc2pyZ2tEMXZSakNiYkpYSnVLcFNOR3VGMjNfVkZ6Uk1XTFVGc2RDNmV2dEZOVk40a0RjQU5ZdGFURkFmQkVzWnFsdTN6WkxmalhQMkIwdUZFR3dhZDEwRFJPQWZIdWJENHE3NG84OUhaYTZQVzJGMjJCbGRBbTV3dnFGMW53ckE?oc=5",
+    "date_utc": "2026-11-19T04:27:06Z",
+    "summary": "Cheap Chinese EVs are causing havoc on the Australian used car market ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Sydney Marathon winner banned for three years, stripped of title - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa3owV1JLVG1FN3NQLW91NlktZUdRMkVNR2VXR05kX0RLTExpcEJVR1k5ckUyYUJjZU83bXROWWI1eFVQXzFubTZGUkpYYk5HeVE1eUQ4bHpYOUg0a1ZoWUFrZW5ZOFBEejhlcE5iWFk4Y0tja1lvVVZjR1ZvSWRDSkt4NlNncEw5LVJTUk4wZHJ5b1Z5ak1OUlBOUEpsamxpSEpvc3pHVXl2YVctLUEweg?oc=5",
+    "date_utc": "2026-11-19T07:41:31Z",
+    "summary": "Sydney Marathon winner banned for three years, stripped of title ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Ex-federal minister Sharman Stone dies after long illness - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGVvZ29fRUtER1ZCTHk4WG84cFk2am11QVBhZnJ3Wkc5NDZSQjFTSUlNOE9sbkwwaU8tYlpaRk1adGIwTmQ1elpZTkVqMk1naTJVNExpQXQ5NHYxUlVWYUs2S0s2RkNCVlNvSjdMa3dQNlEzZmhMN3NCSEo0dElWMlREdkRSUkJ3VVc4SERIVGtLeWhfZC1kNlo3X1pwZ0Ywd0FqSzE0b2NLZw?oc=5",
+    "date_utc": "2026-11-19T06:34:02Z",
+    "summary": "Ex-federal minister Sharman Stone dies after long illness ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Customers left in 'disbelief' as caravan company enters voluntary liquidation - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0x6c1A5MjhYZzk5c2VXS2dGYWNwMV9WcnptTzRfdnVqVF9NVW5sblk3RkRQV19mYThGUDg4dE9sWkhobk0tMWdQbXdIMmFrempNZU9aWFBOTHcxSE83czdPZzBXN2hpOEtPTVpLTnNOMGFULUlyYUpSM3lWMVRrZ3JHUE9jY2dFUnhCRmRTV3c3OXRfWDJWWUN6S1NaS3FlZEtYNmxn?oc=5",
+    "date_utc": "2026-11-19T06:22:11Z",
+    "summary": "Customers left in 'disbelief' as caravan company enters voluntary liquidation ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Star 350 times larger than the Sun caught eating its neighbour - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2ZCa2hlVmphb3BON0pmNnMxdFNUcFE5OWRCQ25ydjJnUlRBWU1vNDBMaDZzVnpuY2luTi1waTJJbkV0ZXcyTXUtUmdUVHpqVmU0d0Z3a0VwckxOR1NLNGZrY19UY0ZxWFljUmVJbmRDSkFBbDAyaEF2ajlkVnZUeG5VYXZtVl8xMk53NW9rXzUxM1dMcGRBOGZRRnNETkg2cmlfazFjYnJ4VGx5VXUyNk01c2llQzBRVVoxUw?oc=5",
+    "date_utc": "2026-11-19T02:45:55Z",
+    "summary": "Star 350 times larger than the Sun caught eating its neighbour ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Police reveal fourth Melbourne Cup stolen as two accused appear in court - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYVRjLWkxUzdadEEzTjZtOVluTFQzYS1XYldJdjhTcmMzRlpQclpHV3RLN1lHbS13bjc4VVhld3hQQXphcllmUW5MZFhQMEY5a0hvVDFCbzlqRXlsNkR0ZEhNS3NEVHk1TmJiMjc3WXBVVFpMVUd3b1FLRWU3WDYzWHVGOHpiYTNNNlBINUJxX24zZm8?oc=5",
+    "date_utc": "2026-11-19T07:13:21Z",
+    "summary": "Police reveal fourth Melbourne Cup stolen as two accused appear in court ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Mum urged to have twins in hospital before fatal infection, inquest told - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZWhvZXVrQnhMWGZPX25SLUJmOGVUVTB4QmNmT3VyaWdmd0hhQXplN285WEJpNlpYTzFQdW82VEZxOF9xNUYyeWNNald3bWdwcmhQVjBVYmtoTU5GTVZ6LUpyWFVkS1VvaUpRV3Y0NWJfNllvWUtwMktRXzZVRFJaaktWUjVQSTZVSThocEF0SGszd0h5MXF3RXRsYkpqdGJMZjFNWmd5d3EwUkg1?oc=5",
+    "date_utc": "2026-11-19T06:47:01Z",
+    "summary": "Mum urged to have twins in hospital before fatal infection, inquest told ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "General Pants Co collapses into voluntary administration - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGZjeEhYZTctdWg1TU1yU2hzcTZJWlpmdnFYN3JONVVFTnBHeGlfQmRkazh1UmpmOEtQSTZiSlRWR2xsa1o3WXNqdzVDYUJFLVVPTkgyNUI2N19HWHNzblZlLTN2VTVubHVzWjBNcWM0cEJiRXpQVk8zRU5jM0Y3ZExVSGE0NWc?oc=5",
+    "date_utc": "2026-11-19T02:17:43Z",
+    "summary": "General Pants Co collapses into voluntary administration ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Bancroft says he is 'freed' as Cummins hits nets with captaincy in question - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEpDLWlWLWNMZHNheEJLeXE4NW1XblhickJGbDF1TDhnUXFaM2xqTGhxbFMwbUptWldCcTB6SmNSb0NZbTh3YlBSNVV1a3NwUU10NXhMVmxHd2pRZEtibDIxNHUxbzNoYjZaM2xqS0haUXgtdlh0eFdEOTZBaUtHeFFoZTBvYk1GeS1qRmZzX0luTmtLVnhONUxmeEltQ3d0TmI0VHl5ZnNGR3VCX1hOOQ?oc=5",
+    "date_utc": "2026-11-19T02:17:26Z",
+    "summary": "Bancroft says he is 'freed' as Cummins hits nets with captaincy in question ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Cummins stands firm despite Bancroft's Sandpapergate allegation - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa2RQSTA1Y2VLaEI0d3dwWWVoQnU2VjJjYmFDZC1OVjBqY2NnTTBzZ2RoN3o4QTVweUdLNFlja3dBemtLSG5URVhncHRGdGhHZlFCb1ZsUWZhZVVHcWZTR3lqUmdvb0owU202RG5Sd1ZtLWFmQzNxendLYnZLa2pRWnBkYmF4d05la21lTTQzNWdLQ2xyX0pBclN2M2w?oc=5",
+    "date_utc": "2026-11-18T22:22:32Z",
+    "summary": "Cummins stands firm despite Bancroft's Sandpapergate allegation ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Home owner felt 'physically ill' when she realised she was scammed - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNek9ZYllqU2pNYmhoYUFvMk1MVUZDdnN5aHBxSmxPQmpDNDB0VDNZdVV0OGYzbEtIR2o5cHB4dmdYVl9tbno1TktvdUhVamhFX2RVdllwTm9uSmdlM1pjd1pKTTJTWUx0Y29HczJSSmpGSEJvQjNBWEZwRjZqSEVEWDVjZnNqaVN3TzZrM3pQQkNRQXM5SE1SLS1iSHhGaW5CTnh0Wg?oc=5",
+    "date_utc": "2026-11-18T22:07:08Z",
+    "summary": "Home owner felt 'physically ill' when she realised she was scammed ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Fears housing build costs will soar in response to Chinese timber crackdown - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcHU2cWJFR1lvM1ZmT3ItMy10aW1saGQxRTRabW8xM1ItVHU0QWVCYW5ySnp3b3JjQjBxUVAxOHBuVVIxclNyZ1pocV9ORVFEdDlhdmUxUTlfNlpxR0x6WUR6aGJNdUlDV0dva1hTWC1vSWhNZC1VbmQyeVhRQ2JWN0RCLUxWMlR2SGR4cW5YU0NxT2RSMURZdUdMbWxHS3FZ?oc=5",
+    "date_utc": "2026-11-18T19:01:42Z",
+    "summary": "Fears housing build costs will soar in response to Chinese timber crackdown ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Bancroft has blown up Australian cricket and there is no going back - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHUwRkFHOHQ5M3ltM3Fpd282dmw2Ykd1OUlEeXA0aEthMTBCWGNnWWVvaFc1dmRLZWRfa1RianBpLWJvV08zdzZwb0t5YzVIcF9lWEh4M01VcktRTkZXSGRwOGdRQ0pFb0hqYzZBa0pZaG1rVHV5YUhDTFk3em1qM1M3YTl4Vk0zQjZKSW1uMUZnUTg0eVZpMzhJelNzVXlQTDVsOUU4VQ?oc=5",
+    "date_utc": "2026-11-18T18:00:00Z",
+    "summary": "Bancroft has blown up Australian cricket and there is no going back ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "The ambitions behind Trump, Xi and Putin's unprecedented meeting - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcjFKOUg3Y1c3UDhjSzZGTXliVGdSanZiVWhHRDAwMHY4ekNMdUE4RWpMRWpQb2FOT05jM3M2TlBYLUlGaWUxOENzdXVJYmcyRlFwcWtpaUFhaTlWSDJRNDRmdkNPWHJmWDhMNTJ3SkprYmZROFFiSVJHQ09aUDdaNnNWVDZMUlJYbkZqUmxkdEZsUQ?oc=5",
+    "date_utc": "2026-11-18T18:41:53Z",
+    "summary": "The ambitions behind Trump, Xi and Putin's unprecedented meeting ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Insurance giant Bupa shuts some GP clinics after buying up chains - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHF5Tm9yYUdNNmhWOXVCdUsyMDZVMVJmWExSbHBGTThvdXdjdGJIUHFZSVd4R3VaYVdpR0Rqbkt2cExqd1JmT2c5VzgtdXZtU0tCTkxVRUNqckJvS1Uwcko1RGRubUd5RWZRX2N5dmJIQTNWYUdaMVNpa0lJbnR0OXdaQzdnMWU5bHdOMkdQM3ZCXzRlbF9TQ1ZVeDVFOElXeHVfQWpxaW5fanppU0NVNzZqcw?oc=5",
+    "date_utc": "2026-11-18T19:00:25Z",
+    "summary": "Insurance giant Bupa shuts some GP clinics after buying up chains ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Orange tap water called 'safe to drink' had five times accepted levels of lead - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVNwLWp5VGxUQ0JWS3pqQ0tGS2lZdlM3Q1R1Q241X21ZcnZoTkV6QWJuVkpYS3JoWXZ6QjY1S1oxRDRMQU84Ml83UUg4cm9ZMHgycDl4dmpXLThVdk9OZmM5QVRQek1LRVhPNVNkZ0JCZ3RQQUdqdndDSERORHkxWmlZUjFOamRPY2RscTktdENHWkpCc1lPOGdjMy1vX3BQQ2c4TzdES3RiUQ?oc=5",
+    "date_utc": "2026-11-18T19:02:40Z",
+    "summary": "Orange tap water called 'safe to drink' had five times accepted levels of lead ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Alexander Zverev officially notified of lawsuit by ex-partner in abuse case - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVFnMDE0TElGUTNOR3Y4R01zeXliMXotZ0U4NGhVeWI3R1dseXJaMmFtVTBqSENOT1RzaEdTOGhPWE1XRzc1SzM4NHcySTdQVEI4T0k2YXFXNTFQVXNCelFxX21IT0VqOGlXaDNvbWlNT2NDeEdyWjBOa0xUTWEwYXFlbEJkMFg1bWtuaWhvMGdLUlVuZzBhdTdRdWhTZGcwa3VnYkplT1dFUG1IV1dZ?oc=5",
+    "date_utc": "2026-11-18T21:28:30Z",
+    "summary": "Alexander Zverev officially notified of lawsuit by ex-partner in abuse case ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Trump, Xi and Putin release joint statement after historic talks - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0pPSVVScDRYVG5BV3NodEJRd2Z0M0U5ZXhtOU5Ua2FzaXNmV2RodVNjcDdVdVljSFRKVjVOdUdNRGQ4VTBFSERxOTFIdW5MdEg4MEIzQzM0MG50UzI0MWlUT3dHZXNlZUxsNFBuMjJRTlN1akdlWWotWjlRVXRNOUotSlpXZS1yQ1lpMkxfSjVDX1ZsbTRj?oc=5",
+    "date_utc": "2026-11-19T09:36:33Z",
+    "summary": "Trump, Xi and Putin release joint statement after historic talks ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "'Does it come with a chef?' rental price causes a stir within community - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQkhEVDdmYnBlb2MyTnNxUWNLVVZKMlhIZ2VZb0VFRUkzOXppQkNMb3ZqdGRrYkRJYkVkb2tLLUhYdm5xbUtkVE9iM05hOTYzbHlqcTItVkkzdHVZOUxaZG5hYVJKX25LQ1RncFJocEg4SVBJeEFvMjRLdU0xZHJOdHE2andSTHIwd010LVdYVnBodG51UWhr?oc=5",
+    "date_utc": "2026-11-19T08:00:58Z",
+    "summary": "'Does it come with a chef?' rental price causes a stir within community ABC News & Headlines – Australian Broadcasting Corporation",
+    "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "feed": "ABC (AU)"
+   },
+   {
+    "title": "Cyclone Xavier slowly weakens as it tracks through Cook Islands - 1News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzNXMUkxVDhNWkRXTFk5cUltWGZtN0lvQWcxRDcxLXpvRXVneEk0WFo1bThHNU1BSXJJTWtOQldybW1wbjJ5ZGxnQjRaeF9nZ2lnMzZLSm9lU3M2WjAtZkdDc2gwWm1mbm1YSl9oQ05mMkszdDBhcjZqNW13MzM0WjJjNkhpRzE1YjMxem1iQy14M2RLTTViTTIzU040TVVh?oc=5",
+    "date_utc": "2026-11-19T12:21:06Z",
+    "summary": "Cyclone Xavier slowly weakens as it tracks through Cook Islands 1News",
+    "outlet": "1News",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "A natural hazard': Tonga declares state of emergency as El Niño drought worsens - RNZ",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEhtcUlyU0JzM3FyY3pRdzl5VEh1SUhFa3UxTUJ0Q0JmeDYzZ01sTHNkak9xYWU1bTBLbHJ0a2ZPYzAtazZ1b1BHakZnUzl2bWJST2I4RWluVjlHTjVqRG91U1RQYnB3dS1ITXJJem9tVUI0VTUwVktMVlQwcjljZmQzSkQyLXRsc1R2ZHNhTU02NEJ3aC1NY3lBXzNwbEdIamVaYXlyQXc3WGRFckZVUGhXQWljT2NNUXdUdA?oc=5",
+    "date_utc": "2026-11-19T01:03:43Z",
+    "summary": "A natural hazard': Tonga declares state of emergency as El Niño drought worsens RNZ",
+    "outlet": "RNZ",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Solomon Islands grants put Australia treaty under fresh scrutiny - Pacific Media Network",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3N4WFpsNURiaGMwMG12VDczQWl1M0hxc3JYS3ctSE4yVEVQZ1NNbzJvemlYamx0Ym1nTHVyU0RZV3czNkJMeXVaQ3ZiZC1YcHdPcW4zRnpLeElkWjlienZlUzdOMENPVlpOSHBBTzUybmQ3MHY5UE1RdzFPNHU5Tjh1YS1hOXduTjZrQ1FKakEtemFvekdoZFhmSUo?oc=5",
+    "date_utc": "2026-11-19T00:06:52Z",
+    "summary": "Solomon Islands grants put Australia treaty under fresh scrutiny Pacific Media Network",
+    "outlet": "Pacific Media Network",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "South Pacific nations declare emergencies due to El Niño drought - Oceanographic Magazine",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkxVcG9kZHJCQVpCTTZzMXR6ZS1FaXVVV1ZBZmwwcldGT2dRTHdMQi1IcFdFZk1RNXVkenlCQXlpMU00V0JtUVJMU0JDNGlleUFXaTl5SW9sbDBlUUVQSXpZQm13OHpFSHpMYTgxYTV4aEpUUG9kLWZGRnBuLVF1UnRuWkVObzJ5Z2NRWnRPLUNGQlAwakJnVWpMLWFWQlVqZVdoTEdpT0J5SW1GRlp3SG9kOWRyZw?oc=5",
+    "date_utc": "2026-11-19T13:39:00Z",
+    "summary": "South Pacific nations declare emergencies due to El Niño drought Oceanographic Magazine",
+    "outlet": "Oceanographic Magazine",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Laureate from Samoa awarded UNESCO-Madanjeet Singh Prize for the Promotion of Tolerance and Non-Violence - UNESCO",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcGNNbHVQcVFncXBxQnpSR3Nib09xN1EtUDROOGxYWkV4VUFjVVB0RWdHbUxQZGV6N05aQzlpRkhPQ0VwR1dSZGlIZFdfXzJDZl9BaTVzSnZKSTZDdjNlYVo1dDJaUTEyUHVZY3F2VXRZemtpb2pVb0ZoZHRJY2taU2tFcVBlOTZyYkh2WWlZSlRDQWJ1OExYYmpsd1RHY3lYbWV6LVo4LVNDa2MtWTlHc2I4aHVjcEFvLWhRVFZ4RVo?oc=5",
+    "date_utc": "2026-11-19T11:39:46Z",
+    "summary": "Laureate from Samoa awarded UNESCO-Madanjeet Singh Prize for the Promotion of Tolerance and Non-Violence UNESCO",
+    "outlet": "UNESCO",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "RLWC26 Teams of the tournament announced - NRL.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PWXFUSjdtZHhuSE9LbWtoeEtxbWF4R0l4VGZZS1N6emxFZU1jeVV1SWgwaWlKQVFYX1VQR1NfaTl3amhTNzhZd2VLR0NGNmcwVU1SNjRUb08yWFg3QnptMURSdko1WVJ4WEZSaVNvUmxISVpOV3RHTmxkMjNmQQ?oc=5",
+    "date_utc": "2026-11-19T02:01:45Z",
+    "summary": "RLWC26 Teams of the tournament announced NRL.com",
+    "outlet": "NRL.com",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Netball Samoa Names Fetuolemoana Squad for PacificAus Challenge - Samoa Global News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGJYV1BwdDRFU2dmSkFRaHFUVDlKWi0zNDlEOThtTmswY3AzNGx4OG1rU29kVVRoeXFlTTB4RUt5dDlQNkNfT1N2T0hkVnowcHNfS1dVM1k1YjUweEhWeXJ6WENncDNVQ2xRWlNqWEJIRDBPMW1KRTVWYlYwUndTOVp1cDJpRmV1ZzJMZGdNTVBjYnl6TlJJ?oc=5",
+    "date_utc": "2026-11-19T13:54:05Z",
+    "summary": "Netball Samoa Names Fetuolemoana Squad for PacificAus Challenge Samoa Global News",
+    "outlet": "Samoa Global News",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Pacific island nations declare El Nino drought crisis - France 24",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlAxNnlhenRPc3ZMWmJkRWZCNjNWeHVWMjlFcWJ4NnFUVFB2REdNcVQ1dkxpNEhYMnZPN1J5RTNjRVNUbGRaWWx2NWo4NnM0UUUyVDh5aVM4RHJOOWFYZTI5Y1NlaTZPdWtlRGJId3d5STNnZExxUTc0enNLU0pFQ3pkWHBuU2xnX0Zja3k5Y0U0WUxhV3F3?oc=5",
+    "date_utc": "2026-11-19T01:37:20Z",
+    "summary": "Pacific island nations declare El Nino drought crisis France 24",
+    "outlet": "France 24",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Public Trust files claim to evict Le Vasa Resort - Samoa Observer",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45eEZFc2ljcWNpMHF1ajY1VndKVDdXbFNCVUVfVU5TdmtzQ0lhRy1KdDl2ZWNMY3JTQWNRV2I3b0NFdFFoSUtEcnVUYVJweW9FOXYxLUt0Z3JnY0ozQlJv?oc=5",
+    "date_utc": "2026-11-19T04:04:02Z",
+    "summary": "Public Trust files claim to evict Le Vasa Resort Samoa Observer",
+    "outlet": "Samoa Observer",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Fiji declares state of disaster amid El Nino-driven drought - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1dfbGxkWnZxMTdBR2tnVW9OMDVBcTRtLWw3TUJjRDBzbHpHcjEyamZRdWR1bjdocXhpUDFlMjdTN3pkdVZkOVg2UEF6a3pyNzBkMTFoeDJrMjl0WGszbTE3TnBPRU5PLXBBc216MlItU1JzZ01WRGpJdTlJRHF3cWZxa1FjaGRWRmFKVmpnbFBKRUx4R2l3U054dzFNX1U4eVl0UVo2bXRBRzdlem8taUtybw?oc=5",
+    "date_utc": "2026-11-19T01:07:00Z",
+    "summary": "Fiji declares state of disaster amid El Nino-driven drought Reuters",
+    "outlet": "Reuters",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Cook Islands-heritage heavyweight eyes world title after claiming 13th straight KO - RNZ",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2pKTVdYSmFTQUFWbDVRclBzX3BVeVBWclFTWHpqbS1vNEluVHI1akp2eWtJU3Q0ZlNxQ2h4MW1Dbllqa29rTEJNNy1iSXp3cTdqQjhVb0lsWTdJWTlBamZPVEp2X2MxUEppb2NoRFA4R0p6ZndvVjRwdE9SYjFjSnBpaWxjdVNHYmZfcWsyY05FUFk4ZE8xdlVGejB4eGNIVGZ0dzhxdlZUN2FiYVUwenRvT05meHNwY3YwS05CQW95am8?oc=5",
+    "date_utc": "2026-11-19T01:51:51Z",
+    "summary": "Cook Islands-heritage heavyweight eyes world title after claiming 13th straight KO RNZ",
+    "outlet": "RNZ",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Xavier moves offshore but Northern Cook Islands remain on alert - Pacific Media Network",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMU1hVlVlMm5NVE5UblZMd2Y1Wmk5eWZlZ2ZMX3dMX0JGd19BOUJ6WTRFZmU4UEw0bDRnbnA2VU5laFF3LWlNZ0RRLUhha2tuT0pjMlFYZ1ZSMk9oTHFYMDMyR09EUFVsdmxFU0ZjWE83RlYxaTI2OGtUY3JkWUFySWRMR0FZS1RGbWE2TzUyeUl0Z1dLdnNVYkpMd3BEWDg?oc=5",
+    "date_utc": "2026-11-18T08:40:11Z",
+    "summary": "Xavier moves offshore but Northern Cook Islands remain on alert Pacific Media Network",
+    "outlet": "Pacific Media Network",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "COP31: Vanuatu calls for UN climate summit reform, warns of backsliding - France 24",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnQtVUZla3hqSXo3cWtlSUE2TS1FV3dVaE5BVmNxNDcxc3U2NnhBTkhnSkpWSTN2T3pCQTcwRHN4Z2ZzR1UxV3FIaEk1NkxOUEgwcjJDbG9yS0xacjlDcVBmM2QtcVBJaUpHN21xQlVHUC1hMnRPeUpDSTFGMEJUUFA0bF9PNHhaR1RRYm9CYlJrMmFMMVI1dHFRa2ZjTzIzUHRSeXZ3?oc=5",
+    "date_utc": "2026-11-19T02:00:39Z",
+    "summary": "COP31: Vanuatu calls for UN climate summit reform, warns of backsliding France 24",
+    "outlet": "France 24",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Fiji declares nationwide state of disaster as El Niño drought worsens - 1News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTBUS0hNUk9aU3RJaEp4UmVwUV96d0g3SGNCYUN1NVpJY2ZZOUNxeTlmd2YwMEtuX0RrSXZWcTBLU0JYR1ZnLVJLc0RQNC1tdXJqYVVTUkQ2clR0aXY3MkdqMmJCNGtuanRMM1N0Sm03QkFnclJIVFJCSnNWSjlGc3BlanVZMkF6NWN3YW9QQVBib24zWV8xcnJQbFJZeU1KeUZuM3dKT28?oc=5",
+    "date_utc": "2026-11-18T01:42:10Z",
+    "summary": "Fiji declares nationwide state of disaster as El Niño drought worsens 1News",
+    "outlet": "1News",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Vanuatu dismisses 'global banking collapse' rumours after US tech outages - RNZ",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFFWWnhaVE5wSEZGRmo2aC1zVmxGekkzZktjV2VNcVphS0NnWUx4SVZNNTJYNUNtYXFveXI0czByVGtyUzNCcE9xLUZERHVMZHRPWUZ5c0VHVlFQMnFhTTJhUWdSTnVZMm1YaXdPYmtSTGQ5MmZyZkhnQUNIU1Npbnotd1BmT0hVRzN2bGkxaUJLN1R6LXFOVVVfRHVacEtvbHV0R1FnUlI1aExVNVVlOWNwMFg?oc=5",
+    "date_utc": "2026-11-18T21:54:49Z",
+    "summary": "Vanuatu dismisses 'global banking collapse' rumours after US tech outages RNZ",
+    "outlet": "RNZ",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Xavier downgraded to category 4 as NZ rapid response team arrives in Cook Islands - RNZ",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTnV5WURmRGx3aERNdEJRcWhBU1dsWFpzd2pBRUNLblI1c1lSb0F5bTMycWJRWHF0Sk8wUnNlaWo3dTlfVTFfN1BrRkRmZGtPLXRxLUlTQXdwaXB4bXYxMEN4ekFMblRIdnZjd3R3c0JDa21KY1hFblJDOVhQUWtuQ3pjNTVKZlpNZkx2UmlvNm1nUnRtTDJqRWI4ZUFQWjFad0NURy1ZUjRtdG80LWRCNHZzNzlYM2xBaW1lNS1sVlRDUQ?oc=5",
+    "date_utc": "2026-11-18T20:08:53Z",
+    "summary": "Xavier downgraded to category 4 as NZ rapid response team arrives in Cook Islands RNZ",
+    "outlet": "RNZ",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Cyclone shelters activated as category 5 Xavier threatens Northern Cook Islands - RNZ",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUYxdkk2dk9uOE9VZm5LVFZ4Y0RIWXNOamtlU0EteE5LNDRnWG5BVVZvMW5aRHYwa3d2QUxZZG8wTFdtZ0NFYXJIWTlKUjc5YVdXOF9WM1Fla1owNU4wTTNLcXRGWTRWQnFBRmdmVWRCdGVSbzdaTG94b1VDYlNTU0JVOG4yaUxrc0pEN1FFemxhb2lyNU5oaGJVR2VEd2hwS1RpVlhVdjFUbGJVM1h6UWdXZURTWTN0VU1PSkt4cw?oc=5",
+    "date_utc": "2026-11-18T03:47:55Z",
+    "summary": "Cyclone shelters activated as category 5 Xavier threatens Northern Cook Islands RNZ",
+    "outlet": "RNZ",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Category 5 Cyclone Xavier batters Northern Cook Islands with gusts up to 315km/h - RNZ",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWS1pN1hfdXZrN0ZFYTdTTl9Ra2NLdkYzQ0hSdlBMMVFWaFY1Z09GTG8tNVJjMF83QVN5Q2JmYksxSDNxT080QXZVNTNPS3RETUptcXR0dVJtalZQWW81cVhOUnhsU0xtekZld1RRbWc0dUlSZHRSZGNhZ1AxZ1B6Nm13S3JUQS04a3gtMFRndVRWMWg5Z1dGMmtNNmw2dE9MbTd4U2J2SHFia0tnZGF1a0VTaDlJZUkzaEdxTFlnNjI?oc=5",
+    "date_utc": "2026-11-17T18:24:48Z",
+    "summary": "Category 5 Cyclone Xavier batters Northern Cook Islands with gusts up to 315km/h RNZ",
+    "outlet": "RNZ",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Papua New Guinea prime minister tells Xi it 'wasn't easy' to close Taiwan office - RNZ",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcDI3T01NZmdLODFjNzFWSkYwbzJTeTVNaXcxVWZmOWFFQVBoX0RXdi1QZXpCYXMxbVVqZ2FMWHYwZ3V4MVBnTnU2dzIxWVcwMTFqSENET0pmVVBLZ1p4TVVsekUwbDFNa0pfUmZnMHhXcW5WMTN6c283SF9RUW1tV3M2eTBfbDRBanpHZlluZEpCbDV1aHNwMms0a0dQaWVFY1lVZ3BlZTFLVHBfTkFDNTZkTWJIcnpoOVRFNXVn?oc=5",
+    "date_utc": "2026-11-18T01:19:38Z",
+    "summary": "Papua New Guinea prime minister tells Xi it 'wasn't easy' to close Taiwan office RNZ",
+    "outlet": "RNZ",
+    "feed": "Google News Pacific"
+   },
+   {
+    "title": "Fiji declares state of national disaster over El Niño drought - RNZ",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWDl5dm03dERvWGlPZzl5azMtT2pyQ1p3c21zdmF4UjhIOWpxTXpjUVljcjFJWDBmSFhtbkM5M2xoZFFJU3gyOS0tejRLbzBFcTQ2Q3JYWm9BaUUzak5mbVF0UC1RNlRvUmFsVWxpX2dnQ1ViV2piZWhkNDZvX1RieElTeTZYUFdkT2t0OGFkdzVtY1hiYlRnYnVWOFhkU185N3VPV0RpVQ?oc=5",
+    "date_utc": "2026-11-18T01:44:39Z",
+    "summary": "Fiji declares state of national disaster over El Niño drought RNZ",
+    "outlet": "RNZ",
+    "feed": "Google News Pacific"
+   },
+   {
     "title": "Cyclone Xavier at category 5 as it batters northern Cook Islands - 1News",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHR4Nm9lRUFYcHZwcWFRdF96YVhJNFNhYm5FX1h6bGt3am9qajgzWUZTQUs3eEwzTElPRGdrWEJIYi1abHVaSnlTOUxUbkgzSkYyaFBRVUt6QWNHdk5uQjU2Vnl0LTQ1ZUhOcFF4dkh1SlE4VGRVTFNoMkJicm4teGw2YkU5b0puVk0xVm94LUdmVHlNUzRSbXVpcjlxRlh1SXc?oc=5",
     "date_utc": "2026-11-18T03:00:10Z",
@@ -2158,14 +2638,6 @@
     "feed": "Google News World"
    },
    {
-    "title": "‘Doomsday’ funnel cloud looms over Auckland coast before weather flip - NZ Herald",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcjUxYVAta0pScnRFZjBlbVNvV2dLM25JSFhxTFVGWVFpWlZuMTRfMi1jUzI5R2s3Q212bE1zalg1STBmdG5ZYi15dTVwdnFfWkljREctaHBZUHNhTzRjWmRvcUtOam43MEhJODltVWNsaGVVOWxsaUZfZk9EXy1pVjY3XzJrWkhBT2d0cVMwaU82a3QzY1FoaU9UaFdXVldfUGo5RHZKRWxCZjN4RnZtZ1h1eVVkVEg3WHQ3RnhNRFdyLTBJanc3Z1NiNVA0LVct?oc=5",
-    "date_utc": "2026-11-19T09:14:27Z",
-    "summary": "‘Doomsday’ funnel cloud looms over Auckland coast before weather flip NZ Herald December could be winter's most weirdly warm month due to El Niño Yahoo",
-    "outlet": "NZ Herald",
-    "feed": "Google News World"
-   },
-   {
     "title": "Muslims to outnumber Christians worldwide by 2035, study finds - NZ Herald",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3czSlh6alNXblgyWU9jSDJBNERYeXVnTW1FbWxub0ZrNUNJY241QWZLc0hrVlQ0a1dkZzhBdDludDdXY3Q3QUJidjhFX0hPZWJRUXk3U0V3Yk5CYnhCWmx2aHpQNE9KQzdRcEZvMktiQmtTV2RPaWpVWFhZSVA1SnlnZk96S1VmODhBclRsSXY5S1RaVmZaRU5oWkcxSVRRa3k2dER0elFEYVViaEYyM2FnamJLRFplTV85YUVvaw?oc=5",
     "date_utc": "2026-11-19T04:57:17Z",
@@ -2203,14 +2675,6 @@
     "date_utc": "2026-11-18T16:09:27Z",
     "summary": "Who is the captain of the coalition, really? The Spinoff",
     "outlet": "The Spinoff",
-    "feed": "Google News World"
-   },
-   {
-    "title": "Foreign interference revealed. Israel’s surveillance of Australia and New Zealand - Michael West Media",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0UweDJRYTNGZTdtakJaTkRuOFhXdVNnY3lZWTJLRjNxQzhHMlpGNXZvNm04dVExSk5rUk1Yb2NsWWxKdk9rZnMtRkJTdGtVRUlDTXBFWkJzTXZTLTAwcHhvVGZZNC1GZ21NSmdhMUFOdXBxSVdVd0pnYTlVSG5IWGF5UFlERUhhQU5NSWU4WWM2VE9sdmlhcjEwMzR6eHVMbmgxWnZRUFJLRUU?oc=5",
-    "date_utc": "2026-11-15T22:56:56Z",
-    "summary": "Foreign interference revealed. Israel’s surveillance of Australia and New Zealand Michael West Media",
-    "outlet": "Michael West Media",
     "feed": "Google News World"
    },
    {
@@ -2358,14 +2822,6 @@
     "feed": "Google News Business"
    },
    {
-    "title": "Rosie the robot's cooking food truck chips – without any attitude - NZ Herald",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNLTNNZWpQVjlIQ0NxMGUyUDBFeF9XSE5QREI3RHc1YmotNjk4dWRkSjlJQ09ZZXpHRkV6LTdjNzhsUkpwWkNIZFZxVy14a1hObEhmV1lhR0MySUxEamtNZW1kQUFlSXRpdVNjdksyT2ZzVlRBRDZKcEpINXlSOTRheUI1c2RJdG1tSEpmV0NiWlJneS1PTFMzcTU4eUttY2U1cC1QMTdIa0h0X1dZWWZnd2IyOHRTbWlfcFBaMmRXRldseVM0amQzRzlhMlU2OEg0VHNiSFNXa0dvckRsTW5MZnBFYUsxT053a3VMUHhBRngwemhwaWVj?oc=5",
-    "date_utc": "2026-11-19T04:40:54Z",
-    "summary": "Rosie the robot's cooking food truck chips – without any attitude NZ Herald",
-    "outlet": "NZ Herald",
-    "feed": "Google News Business"
-   },
-   {
     "title": "When will house prices stop falling? - RNZ",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMkFsdHFKRVZkZ3J5c05KZ3d2dGh1cDUtU3ZfRWdlTHdPbE0waWNBNzMyRncwVUJrTTFYY3B4bVZrNGhKZkt3VVF5N3JDR005TzByNVFQXzUxOTBqa3NnM3lIWjZxUmg3dGRJQ1NncXB3eUhUTm52SzVldFVKSWN0aFd3R2dGZw?oc=5",
     "date_utc": "2026-11-18T06:54:58Z",
@@ -2374,164 +2830,12 @@
     "feed": "Google News Business"
    },
    {
-    "title": "The last bird to go extinct in NZ has lessons for saving other species – new study - The Conversation",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejliNEJPVTlZZWRZSVF6M0xvZ1VXQWljeFM4NlZ3ZWQweGpoaWtDMkZqbXhhbmEyQ2lEM0Jqd3FpMlF1NG0tVU5XNDVrSS1CN1VoU3RzT01VZ0xBQllQT3lnR00teUVVOWMtd1RSMklCeUJmZE1vZ1RkTjZjeUJQa3V4NWJraUpwWGVJTFZ3VHZDSWNtQzlUUWtqX21iMGpsd1hjZ0gwc2NNb3RhT0IyYjBENHNGQQ?oc=5",
-    "date_utc": "2026-11-18T18:56:04Z",
-    "summary": "The last bird to go extinct in NZ has lessons for saving other species – new study The Conversation",
-    "outlet": "The Conversation",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "A Summer Full Of Stars At Te Whatu Stardome - Scoop - New Zealand News",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRlp0ZXdobFNMUmFPd0VXV08tQnZhQWQ3eGxJUFA5TDdQYVhwWnBGU2lkLUlERTJHV25BRXBOZFFfcUxab2gyeUJqMGw2ODkzWHhpbzhmV2JWSWt4WXN1aEM3UjFPYXJ5X0lqSmJDTlZjMEh3anA0LWQ0dklDOXBXeXhJbW1ybUZCZFg5UGhTTXJPY0FhdHlUQQ?oc=5",
-    "date_utc": "2026-11-19T00:05:00Z",
-    "summary": "A Summer Full Of Stars At Te Whatu Stardome Scoop - New Zealand News",
-    "outlet": "Scoop - New Zealand News",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "Heart Care From Home Making A Difference For Patients - Scoop - New Zealand News",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNVJWeGhuOHZKSXVwX0E5d3NTWGlXc3k4TVNPUmp0elFwLURIMkNSaHlVS0VJWG10djZPS1c3STdpZ3BISVh2Z2xtWDZzTVBZQlFYMzFITXM1a0ZScGdycFpRQ01idUM3b1FJc3A4NmdIUXYtUUd0M1ZaaGZBRm1STktkVWlUZnM4OFNiUXM0SjVRUXZrd3VES1h0Z2U4aDlVU29DTlhB?oc=5",
-    "date_utc": "2026-11-18T22:47:00Z",
-    "summary": "Heart Care From Home Making A Difference For Patients Scoop - New Zealand News",
-    "outlet": "Scoop - New Zealand News",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "SpaceX Starship latest: Firm achieves historic 'catch' as Starship spacecraft returns to Earth - Sky News",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSTFmZkNQeEtpRW15d2x1Rkh2eTUycEUzMUc4ZVVnWF9pTHZqc1lxcWxoQXY2QzBWWTVYVkQxeTFjSXdPeGJsZWtEbTNuSkpIWTJQZHZTYl92U1RRMEE5eEtQUXhhZGZ2d0ljSTJrLXVOd2J3YWMtSUs4b1FsRkVuS3FBZ1g5UUg5NC1vN196a2lGX0hZdzAtVkJva0o0ZmpJeW11MXdUOXZfbHRRNDBOcmpqWXUyU080aHFIUnZSdEQ?oc=5",
-    "date_utc": "2026-11-14T10:46:40Z",
-    "summary": "SpaceX Starship latest: Firm achieves historic 'catch' as Starship spacecraft returns to Earth Sky News SpaceX catches Starship with giant 'chopstick' arms in fresh leap for reusable rockets RNZ Elon Musk explains the Flight 15 Booster 22 catch abort and FTS triggers (final moment pics and video) Tesla Oracle SpaceX’s Big Day: A Historic Starship Launch, a Tesla Merger Under Scrutiny, and a $74 Bi",
-    "outlet": "Sky News",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "In 1952, a New Zealander had himself dropped on an uninhabited Pacific atoll with two cats. In May 1954, he hurt his back and lay half-paralyzed for four days until a passing yacht found him - Futura, le média qui explore le monde",
-    "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQYUlMbU5JZXFzSXdqeVdHdEo5Y3BGaTVKQm5EOHdGS2hBcVBoNFljdHpsdVFLSGRwTGJYRDd2NVI4WFRxUEJXY0dOUlJCbk45bWd6cWNiVE0xek9DbHFhZTNseDVsZXRnQkJGa0FyRWh2ck1HeC1XNVRQYjdGZzE4enZBdWtReGJpeDZOa3g5akw5clhMeERBQ1FLOFZoakdmMldLaWZkTW5XTU8tR2w3Z19PUHl1WGRtdW5lWXB0MkhsWTZicUtWdVhweWNBZjNYWUVSQ000WC10OU1IaEE2MHNZVlk0T0Q3c251UllVclVnVWFiZ19VeUJDcjNtN1VCQ1N6REo2QnBCV0VadEh5VlNhc1N1YlZmbTcyUFN2bGcyOTE2SDFWMmY5V2l0dlF4dXJkX3ZuNnNPLS1WakhBZlJUaGdyWldadDE0U212blhMMHc?oc=5",
-    "date_utc": "2026-11-19T11:08:57Z",
-    "summary": "In 1952, a New Zealander had himself dropped on an uninhabited Pacific atoll with two cats. In May 1954, he hurt his back and lay half-paralyzed for four days until a passing yacht found him Futura, le média qui explore le monde",
-    "outlet": "Futura, le média qui explore le monde",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "Hostility in online heat wave discussions shows signs of contagion, study suggests - Phys.org",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VUlJaeFFrTVJ5T2lkMXFPQmtXTnhuWnh1N1A1WUlseDVpblFFanktaDJvckprTlh4MTZpYnRpdC1HNnNyaWhEeUdkakZJR09nTktvaTd2bTFMaEdLaUFFYXBuVHF6eHBFUC1HZk9fN3l6bEN3WVhZR29KQkR0QQ?oc=5",
-    "date_utc": "2026-11-19T15:40:18Z",
-    "summary": "Hostility in online heat wave discussions shows signs of contagion, study suggests Phys.org",
-    "outlet": "Phys.org",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "Northern Lights from space! 23 times astronauts saw kaleidoscopic aurora from the Space Station – and immediately grabbed their cameras - BBC Sky at Night Magazine",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbmFjNFVyNXFOZE5DeV81VEVoRFlFckliUE0xZEZGdWNDMnZnUkVydkFkWmlOTVlCUDlJMmxnWWJaYUpBNjRwNk1LNExxcFN0UXA1SG9ZS3VpVnpjRV9mT1Vhd2YtMUZpVWVZUC14UlN0dkFjYXZFd211MEY1MW5GMl9R?oc=5",
-    "date_utc": "2026-11-19T11:55:33Z",
-    "summary": "Northern Lights from space! 23 times astronauts saw kaleidoscopic aurora from the Space Station – and immediately grabbed their cameras BBC Sky at Night Magazine",
-    "outlet": "BBC Sky at Night Magazine",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "The Diamond Paradox: Scientists Describe The Path To The Most Stable Structure - Scoop - New Zealand News",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQWdoRy1OWTNzSHlXSVRDYkVJV2taampTV2xGZWJjZ0cwR2dpOFBnZks2dWtfeWt1dDMyWk9qUnVGRGVzdGl0S3RFMW9aTzl0QmxvWU1LYjU5ckRGbHk2cjdHZWpTN0dnQVlNNVhXX2R3MGFaMmZWRHh5MUNHb2RhLVhxcGxXS0x0b0JqYzR1SUVQWXlqWnFxT3ZQZUVXSWU4VDNQb1BvQ2pseWdpdTdDbXA2M2dubmxadjNseDJqN0tZcldfMkE?oc=5",
-    "date_utc": "2026-11-12T21:23:00Z",
-    "summary": "The Diamond Paradox: Scientists Describe The Path To The Most Stable Structure Scoop - New Zealand News",
-    "outlet": "Scoop - New Zealand News",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "How crystals in volcanic rock could contain eruption clues - RNZ",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOVk4X3BOaHFYUXBEMUJwWFNYa2VBTGJsNjJ4emdmTUF4bW9RbGx5b05WN0plN1g5X2Ywb1REMlBLSTBPaFdsQXFfdmUzN0NudzRQRXZyRjA5aG5qMEF5ZVhyVGZYdnJ5UmhPQzlLeUYwYjdyZ0hVRU04NmNRMmpOSjV3UGdPQ0I4NmJ1ckNaOUFNdUM1MVV5RmRMNzdwZEZJZHptWXEtbDhuWkJTdko4Y1BQNVlOZzZqaFJEV0EtVG1hM2kteWh3?oc=5",
-    "date_utc": "2026-11-16T01:07:31Z",
-    "summary": "How crystals in volcanic rock could contain eruption clues RNZ",
-    "outlet": "RNZ",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "APOD: 2026 November 19 - The Horsehead and Flame Nebulas - NASA Science (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYnhSZjdZV0lCZ21aQU9SM1N4SU14bTh5SzNNZXczWlY3YklqZEh3Nk5wcXhvVnQzWXViY19GcFFfTEJPbUd4bXFNeDBfT0RqVWZnMTNPbGotcnJyYVhtS3FVU1Z4ZkxlVEFwS0hIb195QXkzekd2dFduSGlWNWhHcjlFYXA3dGZSMHI1ajF4OGIwZE5OU2FDVw?oc=5",
-    "date_utc": "2026-11-19T14:51:25Z",
-    "summary": "APOD: 2026 November 19 - The Horsehead and Flame Nebulas NASA Science (.gov) NASA selects a stunning image of the day: the Horsehead Nebula and the Flame Nebula MARCA",
-    "outlet": "NASA Science (.gov)",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "Voyager 1 spacecraft reaches one light-day milestone - NZ Herald",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMklLOVJNV1pDRHZZOEpaRjRHNHdxMlFIcldKdGVEbkFyX3JKZ3BGSlZvTnktOWMwUWZ2OGNlZlY4TWpjd0ZwcXF0TjB1dVI4RzN4c1FienQxc2g3cXhDQmVaOHIydjI3MjV6WWhFbGFKckFWNmZiVkZiaTl2X2cyelJ2RG41YnQ5bHRDYlk0UHFwODdWeUY3NXg5R0VLZ2d6c0hES3A0dlRxRncxYlhFdDdyWQ?oc=5",
-    "date_utc": "2026-11-18T11:09:36Z",
-    "summary": "Voyager 1 spacecraft reaches one light-day milestone NZ Herald NASA's Voyager 1 spacecraft to reach historic light-day milestone today RNZ Voyager 1 is now one light-day from Earth CNN NASA's Voyager 1 launched second, so how did it beat Voyager 2 to a light-day by nearly a decade? Space NASA’s Voyager 1 hits record one light-day distance, 50 years after launch Al Jazeera",
+    "title": "Rosie the robot's cooking food truck chips – without any attitude - NZ Herald",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNLTNNZWpQVjlIQ0NxMGUyUDBFeF9XSE5QREI3RHc1YmotNjk4dWRkSjlJQ09ZZXpHRkV6LTdjNzhsUkpwWkNIZFZxVy14a1hObEhmV1lhR0MySUxEamtNZW1kQUFlSXRpdVNjdksyT2ZzVlRBRDZKcEpINXlSOTRheUI1c2RJdG1tSEpmV0NiWlJneS1PTFMzcTU4eUttY2U1cC1QMTdIa0h0X1dZWWZnd2IyOHRTbWlfcFBaMmRXRldseVM0amQzRzlhMlU2OEg0VHNiSFNXa0dvckRsTW5MZnBFYUsxT053a3VMUHhBRngwemhwaWVj?oc=5",
+    "date_utc": "2026-11-19T04:40:54Z",
+    "summary": "Rosie the robot's cooking food truck chips – without any attitude NZ Herald",
     "outlet": "NZ Herald",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message - The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmpVWW5id1JqY0YxTFJkblV4N1pxdHFjR1kzX1p2cngydzhVU2ltN0xmQms5VFRLeHR4YmlIRVRlbHZkZ0xQZUhLSnB0R1RoNWlFM2VKdlBCek5sV3g5enRERUl5YjRuNnNJLVVndktYQ2ZtaUVXSXhJRExHanVjYlZNSkQzZzR3Y1NVQ0RCdnhWc0Vldkx4TFJPbmxLQi1MZ05pdG9vVmhSY0hOeXNXRUJFenBHU21YTkZRMVFvS3YyZw?oc=5",
-    "date_utc": "2026-11-19T14:01:00Z",
-    "summary": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message The Guardian Physicists send an unblockable message using gravity Phys.org",
-    "outlet": "The Guardian",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "NASA Tests RS-25 Engine for Future Artemis Missions 20 November - Mirage News",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV09NOXdzd1pLOTFiSGhWSTh2YUZTc3g0VU1GemFQWU1mU0xCTFl3SGozUVB1ek1ndGwxdHVMSWNXX2t1UHRSd0R3SmhjOFBISHduUE1mMTNMRno0ejhyaUNacTZvQ3VaVlFpalN2TzhpOWVGRmFfdlBGTG9JZS1vNjJrMVo?oc=5",
-    "date_utc": "2026-11-19T15:12:00Z",
-    "summary": "NASA Tests RS-25 Engine for Future Artemis Missions 20 November Mirage News",
-    "outlet": "Mirage News",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "A team of astronomers observes a complete stellar merger in the Andromeda Galaxy for the first time - UB - Universitat de Barcelona",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GbnpDSnVranhuYjBSRVFmVlBsU1RUUVhiTkR0YmlTaXlvbDZhZ2pZT3pNbVQyOXpqZ1VLZm4wTkkwQl9zWkdjYjJiRnl0Um5WNmJZV3ByaERHenlWel94eWxRTjdrY0RRVVl3b2wwa3F3NXBqeWZGaFNR?oc=5",
-    "date_utc": "2026-11-19T04:07:30Z",
-    "summary": "A team of astronomers observes a complete stellar merger in the Andromeda Galaxy for the first time UB - Universitat de Barcelona Star 350 times larger than the Sun caught eating its neighbour ABC News & Headlines – Australian Broadcasting Corporation An inspiral of a star inside a common envelope with its giant companion Nature",
-    "outlet": "UB - Universitat de Barcelona",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "The histone demethylase KDM6B preserves adipogenic balance by restraining hypermetabolic LYVE1 - Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SckUwSDZLVTdyamhCNkRmNjg2VXZnNW5EVS1BUmpOcTlWSXJUSVRRVXhoYXlVcnZKRkQ4X09FZHFSZXEtNjUxX19lUEtraGdDUjhUSzFVZF9mZnRKUzRR?oc=5",
-    "date_utc": "2026-11-19T16:35:10Z",
-    "summary": "The histone demethylase KDM6B preserves adipogenic balance by restraining hypermetabolic LYVE1 Nature",
-    "outlet": "Nature",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "Writing and reading cell lineages in whole embryos with DNA Typewriter - Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5WVZ2T3I4ck1laHNxYU9uVm5IczFqdVA1NlBINFkyaVp5ckUtcTcyZm1JSG1JejhrOW10WU54RmFubV9mNFpRbU9PbGpET3MxMG5UaUFPalBHanJtczcw?oc=5",
-    "date_utc": "2026-11-19T16:02:57Z",
-    "summary": "Writing and reading cell lineages in whole embryos with DNA Typewriter Nature",
-    "outlet": "Nature",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "DCAF7 downregulation as a potential prognostic biomarker in clear cell renal cell carcinoma: tissue-based and in vitro evidence - Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HRmFaZ1IzS3B3WG9FVnFwUHBCN3JyTEM3X0pnMk5uSG8wb0JWdVd1NzhnRWhiOER4cWQzaXNXU2gxeTRvMF9COVNZZklVWFpPTHpqaDFQUmF1emJVYVFj?oc=5",
-    "date_utc": "2026-11-19T16:02:55Z",
-    "summary": "DCAF7 downregulation as a potential prognostic biomarker in clear cell renal cell carcinoma: tissue-based and in vitro evidence Nature",
-    "outlet": "Nature",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "Symmetry-breaking antibody binding reveals extensive capsid malleability in pandemic human norovirus - Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfMTFqd1RpUTAzeTNTTDNCTTZRUzhRc1hEQUpDTUZOOTJVMEtzcmdNLTNUX0VzU2pURUJJcXlaZ2xUTHJsWG8yTnkzZHBEXzBFM2pIdVFpOEFabnphd05F?oc=5",
-    "date_utc": "2026-11-19T15:34:45Z",
-    "summary": "Symmetry-breaking antibody binding reveals extensive capsid malleability in pandemic human norovirus Nature",
-    "outlet": "Nature",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "A blue desert: Researchers record decrease in phytoplankton in Monterey Bay due to El Niño - Phys.org",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUURzcGFlM08zdlROX0g0a1dQWXh5VzJPMENrQ2d3VzU5Y0dZRTRKbkNkRnFRVEQwSDlsN1R0N29UVDJ0UG1FcmtPb011UTNkVEMzM0xLamR2S3F3U0N5STVSM2N0bjFWdjk3TklLYVhqZnlCdDVidVpnWWVDb1llRw?oc=5",
-    "date_utc": "2026-11-19T14:40:10Z",
-    "summary": "A blue desert: Researchers record decrease in phytoplankton in Monterey Bay due to El Niño Phys.org A blue desert: MBARI researchers record collapse in productivity in Monterey Bay due to El Niño MBARI",
-    "outlet": "Phys.org",
-    "feed": "Google News Science"
-   },
-   {
-    "title": "Disturbance increases soil microbiome functional redundancy but decreases capacity for insurance via winnowed environmental responsiveness - Nature",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yWmRkU2g4UkVuTnoyZENtS2s0NXYyeE1GV01Fc3MxajRydGlUQXlGYkZKY1JqdEdDUlJfZ1JLSGxJaUZ2aE5KZTItWUV3NHRXbUVMVklkT1o1c0VvUlpPU1BGNUM?oc=5",
-    "date_utc": "2026-11-19T14:34:47Z",
-    "summary": "Disturbance increases soil microbiome functional redundancy but decreases capacity for insurance via winnowed environmental responsiveness Nature",
-    "outlet": "Nature",
-    "feed": "Google News Science"
+    "feed": "Google News Business"
    }
   ],
   "ai": [
@@ -3056,14 +3360,6 @@
     "feed": "Google News AI"
    },
    {
-    "title": "Anthropic raises $81bn in record-breaking stock market debut - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
-    "date_utc": "2026-11-19T10:48:04Z",
-    "summary": "Anthropic raises $81bn in record-breaking stock market debut BBC",
-    "outlet": "BBC",
-    "feed": "Google News AI"
-   },
-   {
     "title": "Anthropic Launches Largest IPO of All Time, With at Least One Celebrity Investor Earning Billions - Variety",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3V3ZVFpcENJLTZDak95OEZUMlV4QWZvcks4Z3d6aUR6V1NLNkkyVC12NFQxMW00QmhsV1NGQlNsejFyOWV2Z0hsWlc5eHIxSGJ4NU9UdG1wN0JfUk1tMTNvUmJ4UE9rUTNLSDljQW5pY25ZN3hvR3BTYVpUTmNuVEhVVnd2THJ1YU1wS0xUVXZiVGVyWGVEYmtKTmdPRUpIQjRWYWVaUjVIUFgw?oc=5",
     "date_utc": "2026-11-19T14:56:00Z",
@@ -3077,6 +3373,14 @@
     "date_utc": "2026-11-19T14:31:08Z",
     "summary": "Watch US stock market open as Anthropic debuts Sky News",
     "outlet": "Sky News",
+    "feed": "Google News AI"
+   },
+   {
+    "title": "Anthropic raises $81bn in record-breaking stock market debut - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
+    "date_utc": "2026-11-19T10:48:04Z",
+    "summary": "Anthropic raises $81bn in record-breaking stock market debut BBC",
+    "outlet": "BBC",
     "feed": "Google News AI"
    },
    {
@@ -3136,19 +3440,19 @@
     "feed": "Google News AI"
    },
    {
-    "title": "Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY3BUWGhIRWx3bUhMcXMzVWNCUzNYQ0o3TVVwNE5MOHo2dWhPT1VLQ0lUbHhaYUZHOWFIajJla3o1bTBScU9VSlNuSU9WZjdFWmtmX01WNXN1XzhhUGFVNnlveFgyZWs2cEtpeXFFbW1vLVBNVHhjTW5oQ1JoVkM0X0plY3hrWXhPMk40UGdZV3czbi1mX3B5cmc0b08xV01mTnNqQ3llOERNeEloemZKUXh4V3RtZ2J0ZXNDREdoSWZIX1JacWI1d19WWVdsRzhsa0tkQ09xMTBFUG43MUh3?oc=5",
-    "date_utc": "2026-11-19T15:00:54Z",
-    "summary": "Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day Yahoo Finance",
-    "outlet": "Yahoo Finance",
-    "feed": "Google News AI"
-   },
-   {
     "title": "Anthropic IPO could create thousands of multimillionaire employees - CNBC",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc2lPZDEwREFZVFFuTGdUQTVST3dfVzBMV284THIwQjQwbFVPVVU5cWY2bWttcnZwNU1fSVkzX20tM2lvWENNOFJsS2E5emQzem1OQXVCUTd2am01Uld6ZHpONkxYV0tpbkxDMXNkWVhoTXF1V0NOS1BRVkVXV2JZOGM5YjVGOEwzZlIwNHp2cThQc20yWEF6VzNvWTNfVXlLemxHQktn0gGrAUFVX3lxTFBpM2NWMk9LRVNJRUt1T1BQRmtscllDR3ltT2MtTUdzLW82dG1Zei1sRERxMFpNR1pVODNsbkpyVFZvM2JWcXRrREhySmVBMlNDMzl3VXVfdDhveUtsVEdhLU9EV09jQ1ZNb25yaG9nLU5QSjB5dFItTTUwWHpfY3VwV0VCQmZVTW4yQWRtaE1rUGJlWmF4cVczQWdpZkJEb2NZc1Fnd2FWMldaUQ?oc=5",
     "date_utc": "2026-11-19T12:30:01Z",
     "summary": "Anthropic IPO could create thousands of multimillionaire employees CNBC",
     "outlet": "CNBC",
+    "feed": "Google News AI"
+   },
+   {
+    "title": "Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY3BUWGhIRWx3bUhMcXMzVWNCUzNYQ0o3TVVwNE5MOHo2dWhPT1VLQ0lUbHhaYUZHOWFIajJla3o1bTBScU9VSlNuSU9WZjdFWmtmX01WNXN1XzhhUGFVNnlveFgyZWs2cEtpeXFFbW1vLVBNVHhjTW5oQ1JoVkM0X0plY3hrWXhPMk40UGdZV3czbi1mX3B5cmc0b08xV01mTnNqQ3llOERNeEloemZKUXh4V3RtZ2J0ZXNDREdoSWZIX1JacWI1d19WWVdsRzhsa0tkQ09xMTBFUG43MUh3?oc=5",
+    "date_utc": "2026-11-19T15:00:54Z",
+    "summary": "Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day Yahoo Finance",
+    "outlet": "Yahoo Finance",
     "feed": "Google News AI"
    },
    {
@@ -3168,179 +3472,19 @@
     "feed": "Google News AI"
    },
    {
-    "title": "Anthropic's IPO set for blastoff Thursday in key test for AI boom - CBS News",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10OUpMSF9LOVFSVk9ZbGszRUFCTm9sYjhnUk9IaWZWb1FieW4zUG1saWd5UlJBUHB2TXRvczNqVlExYkd4WEcxRGlwdC1PbHUtaEFfRno2WlE0TnBVTWFtMnBwTmRCc3ZGS19adHRmUTBCZw?oc=5",
-    "date_utc": "2026-11-19T15:33:00Z",
-    "summary": "Anthropic's IPO set for blastoff Thursday in key test for AI boom CBS News",
-    "outlet": "CBS News",
+    "title": "Anthropic set to begin trading any moment. Reports suggest stock could pop 20% or more in biggest IPO ever - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2Q2TUdiaGdLRjlWTmFIamQwRXRpSW9JOHN4R0s4TDZYaHExbXVRc09JRnVLQk9oNllyOTdJMkszVVVXU2ZHMlV6aW4yVDFaR3UtRTl3TGE5c1VJUUc3R2dna3JWbi1jeVM3aE4yN2FIRlNfNjNTSy1HZ1NQQVJCS3NQTEkxT0ppVkx5dU1iUjU?oc=5",
+    "date_utc": "2026-11-19T15:28:00Z",
+    "summary": "Anthropic set to begin trading any moment. Reports suggest stock could pop 20% or more in biggest IPO ever Fortune",
+    "outlet": "Fortune",
     "feed": "Google News AI"
-   },
-   {
-    "title": "Game retailers expect 'halo' effect from GTA VI release - RNZ",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS0k2LVo1NDRHS0hOMF9yTW1rRWRDaHJRRnNTdGgwM0ZNamtQS3ozUVg5N1J0aC04Sm9NOTRaWlNaa0V4NUZ3eURtWHRmNW14d1lWdnE2UHdSRHh6cThRRjVCckJ4RUJfd1FIVEJWUjUwa1dfb21GMV9mY1RRbF9UcVg4aDV5UzZUeXh2RXBxc2RaYVk3N1VQZzRLT3J0QQ?oc=5",
-    "date_utc": "2026-11-18T21:24:17Z",
-    "summary": "Game retailers expect 'halo' effect from GTA VI release RNZ Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story The Guardian 'The best game I've played': Kiwi gamers first in the world to play GTA 6 NZ Herald ‘Grand Theft Auto VI’ is an astonishing American epic The Washington Post Was ‘Grand Theft Auto VI’ worth the 13-year wait? The reviews are in CNN",
-    "outlet": "RNZ",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "GTA 6 crashes look fun. In real life, it could cost you $18K to repair - USA Today",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1pRTWRGaXlXbm5JYy1iRFl3OGNSb2otUXNMMzB6b19KTW9UMDNjQ3VqenY1TWhPQTZjbHJteTg1UkVCTWZxSVJUVEg1SkY3RV9tV2tqMi1KNnE2MnJnX0xBMlpzRDlZYlVndWJDTmdCWXRPVDNvVjltT2xZYWx0cjJpM1g5c1YxYll0b1hyN1ZvdUw5VE1KZEtyYnFLdW1RYmc?oc=5",
-    "date_utc": "2026-11-19T10:06:00Z",
-    "summary": "GTA 6 crashes look fun. In real life, it could cost you $18K to repair USA Today Opinion | Grand Theft Auto Is Depraved. That’s the Point. The New York Times Police issue statement addressing 'Vice City transplants' on GTA 6 release night The National Desk",
-    "outlet": "USA Today",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "More Than 1 in 10 Workers Plan to Take Time Off or Change Their Schedule for GTA VI - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa0s1OGRndlBfSTY5aGdqbGhLZFoxQVF5X2lqblRYdWJvWVdlcW42Z3VCZXdXMDVOSUpwR2p5eGFLMGNtNUtsR0ZJd2VfajBnTFZuaGk1d2FVbEdEYkVFTm8wTnBwOWJxbmh1NWtydndRSHloVEI4TUFmbGFYZmtudThjYXQ4WERxeG9lVHZpX1ZoQjh4Mk9xODZjYWRWV1NNNXpTbXdMVmo2cGlzWENHSWxvaFJsc2ZzdHBac0xqQU5JWDhjLUxrV0djUjNFMkIyMjNSQg?oc=5",
-    "date_utc": "2026-11-17T21:06:52Z",
-    "summary": "More Than 1 in 10 Workers Plan to Take Time Off or Change Their Schedule for GTA VI StreetInsider New Zealand tricks and annual leave - the lengths fans are going to for GTA 6 BBC Visiting Vice City? The Kiwi gamers taking annual leave for Grand Theft Auto VI RNZ GTA VI is here, and these gamers are making their getaways CNN One tech company set to give staff the day off to play GTA VI Newstalk ZB",
-    "outlet": "StreetInsider",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "Exclusive: Kia Shine talks about role in Grand Theft Auto VI - WREG.com",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVUE0TkJFc3JJSmVJYTNwVl9FODhnaWNIeEhVM0tFM3VINEhVTktEVjRKZElhNFQxZXM2bmZRVkFvLVZXX3Z0WnZ3Q08zODM1eTd6SG1CdHFWblFaVTNQWFhhWk5sbzRzVDN6bjBSemRvbDdvazNKSzFtUGdSclhQQmRScDByNlQ4aWMyU3k5R21sQzTSAZgBQVVfeXFMT1ZBUHo0OF9hbzJIX2xXeV9GSFFSbWw2anB5aW43TlQyZ3h1azNfUU9iblFSZVN6OUZTbkU1U2xwRnRWQm5oRFI4X0V2MFlTaWpzbFhCNjhuZy12QW1EdHkxblY0a3d3Z1BSNmI2VG9yYkFuYmpLYWE5eFZ2TGYxV1pEYS1lWjFFZXl3dzN0WUJIczJsNk45T3c?oc=5",
-    "date_utc": "2026-11-17T21:12:15Z",
-    "summary": "Exclusive: Kia Shine talks about role in Grand Theft Auto VI WREG.com 2000s Rapper Reveals Secret GTA VI Role and Says His Son Recognized Him VICE Kia Shine Reveals The Shave And Secrecy Behind His GTA VI Role AllHipHop",
-    "outlet": "WREG.com",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "As 'GTA VI' fever peaks, rival developers are pausing games launches - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnQ3dVJtZ3RJOWhnMzNyQlpJTVlmZ3VTc2VLOUVUcTh0WWRUVzVXbThGUVM4THEyNHdxS3ZkckZwM1B0ZktiQXFFRUhJbjBiN1BLSVBlMEVkR29taVJkdjNGSm9qamxVN2NlaThSZUhwQi1MNEphcDR4VHJ2ZWVlQUw5OVBMU2NrOGwybzhJY0Zmc3VHRy13?oc=5",
-    "date_utc": "2026-11-17T11:33:38Z",
-    "summary": "As 'GTA VI' fever peaks, rival developers are pausing games launches Yahoo Finance Round Up: Spare A Thought For These Games Launching On 'GTA 6 Day' Nintendo Life As blockbuster game releases run scared from GTA 6, meet the brave developers tackling Rockstar's open-world behemoth head-on Eurogamer.net",
-    "outlet": "Yahoo Finance",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "‘It’s a total cluster’: Push to ditch Friday settlements after Microsoft meltdown - OneRoof",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUxKTGNkU3E1amxDaHVuVXQ2UUdEWEpQREtpcFlMYmxCcDd6dVl0OERDMDJTMWpMTVlPTlp4TVNPSEVFZXJMRVRpU3NjUDhVMnNSRWFqOFRjZXVDN3lVYXdjYWo4ZjBiR1ZaM2NkUDdRRUZFZm0zSG9kQzl4d3F5dE55SWJmN2ZJY3pwUHVQLTBzZlJoYXFMNlVnbHlEN1JXdm50YTV6Qm1FanM2eHk3b3NuZzg?oc=5",
-    "date_utc": "2026-11-17T17:15:19Z",
-    "summary": "‘It’s a total cluster’: Push to ditch Friday settlements after Microsoft meltdown OneRoof",
-    "outlet": "OneRoof",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "N3ON flies to New Zealand for GTA 6 early access as gamers turn to the New Zealand console trick ahead of - The Times of India",
-    "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPblF6bjJhenNwUlRzaXZOZ2EtV29aa0FZQXd5U011b2cxd3hvdWZKQkFtTnFjYUJCSlRQLXV4dmwwRlFBMVpvMUNyVW55cUhxUlpjbU1DS2c0T2stcnZoTWZlN2VTSGVVT3I5YkpxQkFMeW1RQmRhcS1NSUdQem9ZRi1ObEpYOWJUcFJKMW5IYmNLS193bnpQeXBsR2lzSTJxazNUYlBOR3J3Nkd2LWtxUGlxeUxiM0Jvd0FVbW91R0FWZ254d25MLVo2MWRRMElucVBXR3V5RkJxZ2tIRlRadnNzWWFva3F0MEp5YXdrUWZ3d0JlSWFxRzhFM2Vfa0F4SmwzOWt1WkZ0M1YtQjA3QzBDWVE3dUdqMGotVDNXSjFTbUk4Y1ptOEhVeHJzYjV1RkIxbnFMSGp4UWFtSmNjWHhJR3ZFaFFjc3V5Y0NISkl5UllDUUFEZEw2UFhtZHFlR1BXMU1DeExCdmxHZ3fSAaMCQVVfeXFMTnQ2emRzaGdUenJRY3FXbHZEMW44VHptOU1pYVpDOTExNWJTeWdDRjNya3daY2JtbjBfX0I2dXhlRlJRQTk3TG5VS1FXWS1mOXZzR3JvTlVMOGdKYlAyb2hFTFhQX0RFM0wtRlE2RWlFRXQwVy14dWlwY3Q1TXZXRFFrTmxtQU9GTG5yX0tFUms1UG13Ty1MdzN1TUdienpxOEt3MWpBcHVrUE9tVVRDT2tSRHd5b2VpX1Qza0RfRHlrSWFJYTl4NVMtT2R2Vkk1QW1NQ3RVUG85M3VEMnA2S3NJQUcwaTBvS2hjbjJweGw1MmFxZ2QybDUtWDh6REs2bzFGenFFcVVUU08tWF9MMmdCclZRUUt4WmRmZWhsci1pQS1V?oc=5",
-    "date_utc": "2026-11-18T08:29:00Z",
-    "summary": "N3ON flies to New Zealand for GTA 6 early access as gamers turn to the New Zealand console trick ahead of The Times of India",
-    "outlet": "The Times of India",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "‘Grand Theft Auto’ Fans Say the Game’s Gas Prices Beat Reality - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU1ViR3BpX2pLQTd0U3JRWnJjVVhGSHRfTzBDOHhHWkQ4VHZlRWszTUwyRUhKemFXS3ltNG9RVXl3Q2E1ZWVtakRVeFFrMDNDVVlOWUZzU21tRXlBUk9KZGJ3a0lpUkRkTkZtelRiSjhVTzVzSUJUUUJNczZnek5FdXREaVVXY1VXbHZRejRYcnY4QTNhTnVvOW1NRTJqaWdpU1RBWVpKbElvSjZxX2d3?oc=5",
-    "date_utc": "2026-11-19T10:45:03Z",
-    "summary": "‘Grand Theft Auto’ Fans Say the Game’s Gas Prices Beat Reality Bloomberg.com GTA 6 to make players charge their EVs EVs & Beyond Refueling cars in GTA 6 is barely necessary, but there's much better reason to visit garages PC Gamer",
-    "outlet": "Bloomberg.com",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "Apple HomeView problems and planned December update - NeoTeo",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUp5cUhGMVNkdVZEOG81MGdXU21ib2g4aWJXa0w3RmdGb1Vmam5vaEJaSGQ5NHNjT055clZPLXFxLVFvWGdwZmZXaUpZX1hXVGkwTnlXTmxMc2FYQ2szQll3V2FrdXpsYkdfLXdIRTk4czJzcGV4elNXSllPRTRNVnBGcVZNLUJfbGdCeDRHQTBEUQ?oc=5",
-    "date_utc": "2026-11-18T12:00:59Z",
-    "summary": "Apple HomeView problems and planned December update NeoTeo Apple HomeView repairability: what iFixit found NeoTeo Apple releases first HomeView software update Techloy Apple HomeView Review Roundup: Simple, Charming, and Built for Apple Users MacStories Why Apple's HomeView Relies So Heavily On Your iPhone Engadget",
-    "outlet": "NeoTeo",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "Street Fighter 6 x Star Detective Precure! Collab Video Streamed - Crunchyroll",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHlib1NDTVB6LWMtOC1BU0RXZW5DdXF5RGpIUENIT0t6VTFkb3kyVjNHeGMtWUx6WDJpVkFQNEg3WWRjRnpPMjQzRnZhaEEwNVpXN2d2VUxzMHh1Sk0za2RfLUFWalhpNmtOXzRJRmV0M2xBVTBoRTlhNkZDNnk4STh5Nmt4cW9qSmMzVmFjUkd3bmRRSnp0NjZaMjIteTZOb21mR2dLdUQ?oc=5",
-    "date_utc": "2026-11-18T02:08:00Z",
-    "summary": "Street Fighter 6 x Star Detective Precure! Collab Video Streamed Crunchyroll Street Fighter 6 x Star Detective Precure! Collab Gets New Trailer GamerBraves",
-    "outlet": "Crunchyroll",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "How to wipe AI from your life - The Spinoff",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV2pjYk5VMDd2Q19NZWNTV1YzZnE4czh4ekN1TXFtQjNuQVRVcWxlR0JWUXVTR1ZDTUNGcFVYVV9QYVpnMzJWXzVUbDNzWW5SclhLUkRVaDdzZmVlUGIyeVdQVFBkWWg5TGw5ZjJIdEFmS0hZOUstZDh4Wi1yS0hZblFfOE9OV09fdmlZNkJ1SklfdVBrZVFCQ0pnTQ?oc=5",
-    "date_utc": "2026-11-13T16:02:22Z",
-    "summary": "How to wipe AI from your life The Spinoff ‘No one asked for this’: AI is being pushed on people—and they’re sick of it Fast Company",
-    "outlet": "The Spinoff",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "GTA 6: How one school is battling the 'GTA flu' with warnings to parents and prizes for pupils - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ETlFoUERQaHdyMXJzdFlTVy1CRVJSTGhBQnVEN2dsOTZfdUVwUWRJUTdIRExWQlNjTFdtVmpzTWNiczNZRE9xTHJVTklaYThqbUxhMHJjZXQyQmM?oc=5",
-    "date_utc": "2026-11-17T18:08:59Z",
-    "summary": "GTA 6: How one school is battling the 'GTA flu' with warnings to parents and prizes for pupils BBC UK Politician Downplays Fears Around GTA 6 Content for Kids, Says She's More Concerned About the Amount of Time They'll Likely Play It IGN",
-    "outlet": "BBC",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "Free Play Days – Deadlink, Slayers X: Terminal Aftermath: Vengance of the Slayer, Polterguys: Possession Party, and More - XBOX Wire",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ycVh4a1hLaXNSa2RtVXg3R0ZRLVk1QjkzQ0t1NzU0LXZqYjFBOURucUNYdFJWcUNsUGk1aUNCV29rempvdURyTWduVVN0Q3o3V1NtZ0ltN2p2aFkyTUU5Z0M2SmZLR0RoX1ZBUnhpdjItZGfSAXhBVV95cUxQNmlrVlRwSFZKSG11V3dUTllQWkljbzkyWXQ2VHhYcTdaV3FLUzJmQldoYmFIa0VoN0VyVHhiLVRHdFBvUzVSSUdXV0FhMktvUFlEbXlFZ3FhNzZRYXhQMWZYMDctaWZaV2ptMjNrdFU4LUpRRW9MLVY?oc=5",
-    "date_utc": "2026-11-19T16:01:38Z",
-    "summary": "Free Play Days – Deadlink, Slayers X: Terminal Aftermath: Vengance of the Slayer, Polterguys: Possession Party, and More XBOX Wire",
-    "outlet": "XBOX Wire",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "Russian spies turn one cloud breach into a stepping stone for the next - Help Net Security",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeDBRazhHcXV4RGM4RzRGRzRWRG03QW1VVExldXJTN1RJVHBEUmNHbG02MUYzUkdpbEF1OXJ3UFoxSldYMkNYSW5vUmFFbENzUEpNYXdSVWZSWHhybkZuR1VYbFJleGRUcWxUQzctVVVjYWdxWEpMdlRadHNXaFdxaThzSldoU2R1cVZjWA?oc=5",
-    "date_utc": "2026-11-19T14:42:20Z",
-    "summary": "Russian spies turn one cloud breach into a stepping stone for the next Help Net Security Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization SecurityWeek Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization The Hacker News",
-    "outlet": "Help Net Security",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "Novel CAR-T platform uses radiation-activated switch to destroy tumors more effectively - Medical Xpress",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWlRoQ2xNS2lQbmUxLTlDcUY4ZXVEcHZmOEp1VjhXb0pYNVdvQ3FwVjlWYl8yNUFmdTRnYWhNMmZpdUgzcjdXN3Z1TDVmX2xzeXpSc2hxbkg1blNQZzhjOHY1dk1HUlUzeWo0aVhmSEUzZjlHdE44NnNyN2ZDeGgyc2w5RElzdmNZY2pr?oc=5",
-    "date_utc": "2026-11-19T16:20:12Z",
-    "summary": "Novel CAR-T platform uses radiation-activated switch to destroy tumors more effectively Medical Xpress",
-    "outlet": "Medical Xpress",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "Warning after Guernsey online booking cyber attacks - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNdElfbTQ0a2ZtSUU3UFkzektMSUpTcXltbHNYanp6a1lueWs5S29INFp6ZG5JeXFkcEhlNXEyM3pEcnRqWVBMSWN6emNwc0RjdUVwSlQ5bndZV3c?oc=5",
-    "date_utc": "2026-11-19T16:12:10Z",
-    "summary": "Warning after Guernsey online booking cyber attacks BBC",
-    "outlet": "BBC",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "Ruvonoflast Reduces hsCRP, Inflammation, CVD Risk With Downstream Effects - HCPLive",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM3NtZXVicDFYeUZ5LUtGaDBONkFGZUwwVEl2c1haREc4NGwxd3RFVjdmOEhpdHRucVVzZnNQUUduUW9rMGE4WE1EVVg3WlpjbjdvdndHN0xMUDVxTVZmNmlmck15QWo2bjRJb0pDMDh3N1V3TnBPNUNfN09nNGk2ZWkxNndjWWNhOV9NTFFkemJKcFM4cmtYcllDSlczWU1ZUnc?oc=5",
-    "date_utc": "2026-11-19T16:01:30Z",
-    "summary": "Ruvonoflast Reduces hsCRP, Inflammation, CVD Risk With Downstream Effects HCPLive",
-    "outlet": "HCPLive",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "The wait begins for GTA VI on PC - The Verge",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmtlMUNkSVpqUm5NeTlzS1ZaM25UUnJLS2Vaay1pZ0J4el9OaUNac3A2U2ZLSFlPV1RhU3BUcDFianFKOGkyeTRBRFFodWs0dGZ3SWdWbU1CUzFmZldXVlh5WkpjOGNpNjZHdm9xdE9aZGtJcVY1RlktNXJCQ3dTMWZ6R05vNG8?oc=5",
-    "date_utc": "2026-11-19T14:00:00Z",
-    "summary": "The wait begins for GTA VI on PC The Verge How Am I Supposed To Wait Until The PC Version To Play GTA 6? Kotaku You Cannot Play GTA 6 With a PS5 Emulator, and There Isn’t Any Unofficial PC Port DSOGaming Will GTA 6 be on Xbox Game Pass at launch? Everything you need to know. Mashable",
-    "outlet": "The Verge",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "HiBy Digital × Cyberpunk 2077 PULSE & GRID Global Pre-Orders Now Live - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNmxlZ1FrLUlUeTBmOGtzRkJmSGU4UjlDcEh3cl9LRXRzVmZIME96WEZzYzgtV1d6ckFyekNzNEhOb0V0WG9IUndvSWFmZHEwWDZ0ZjJZSUhUZ1RtTHJteXRxNkRVTWhCbUcycW52cTcyRDdhMzZQX2JFaGhXQlFpT1daa0FXc01nb1FNNWk2SWdMNDd1QWJBSFJR?oc=5",
-    "date_utc": "2026-11-19T16:00:00Z",
-    "summary": "HiBy Digital × Cyberpunk 2077 PULSE & GRID Global Pre-Orders Now Live Yahoo Finance",
-    "outlet": "Yahoo Finance",
-    "feed": "Google News Technology"
-   },
-   {
-    "title": "Credential stealer slipped into Microsoft’s official Python agent framework - Help Net Security",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm90Rk5jN29IT3h4VHJTTzBfNlIzZ0RzdmJXZDZGZG8xS3pjRUwwcWxvb2otSXp5WjJJWnZ4MFRGMGhRQVA5RUFsZXBaYzdkTmdQUWFqd1RNdnIwaml4bU9Namd4VXdiZnNKNW9TX1o0YWhXaTFhQ2JqdXFQaXpXclhNbkpBTzlJakZ3a3lSYm5zQU1BaVlYNUpR?oc=5",
-    "date_utc": "2026-11-19T12:53:44Z",
-    "summary": "Credential stealer slipped into Microsoft’s official Python agent framework Help Net Security Microsoft’s Agent Framework PyPI package compromised to steal credentials BleepingComputer Microsoft's official Python agent framework hijacked to distribute malware The Register",
-    "outlet": "Help Net Security",
-    "feed": "Google News Technology"
    }
   ]
  },
  "counts": {
-  "nz": 188,
-  "world": 128,
-  "ai": 100
+  "nz": 208,
+  "world": 146,
+  "ai": 80
  },
  "sources": {
   "RNZ National": {
@@ -3386,10 +3530,10 @@
    "newest_utc": "2026-11-19T16:00:00Z"
   },
   "The Spinoff": {
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found",
-   "items": 0,
-   "newest_utc": null
+   "ok": true,
+   "error": null,
+   "items": 20,
+   "newest_utc": "2026-11-19T16:07:30Z"
   },
   "interest.co.nz": {
    "ok": true,
@@ -3445,16 +3589,22 @@
    "items": 10,
    "newest_utc": "2026-11-19T12:29:41Z"
   },
-  "ABC (AU) World": {
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found",
-   "items": 0,
-   "newest_utc": null
+  "ABC (AU)": {
+   "ok": true,
+   "error": null,
+   "items": 20,
+   "newest_utc": "2026-11-19T09:36:33Z"
+  },
+  "Google News Pacific": {
+   "ok": true,
+   "error": null,
+   "items": 20,
+   "newest_utc": "2026-11-19T13:54:05Z"
   },
   "Google News World": {
    "ok": true,
    "error": null,
-   "items": 14,
+   "items": 12,
    "newest_utc": "2026-11-19T14:54:58Z"
   },
   "Google News Business": {
@@ -3462,12 +3612,6 @@
    "error": null,
    "items": 20,
    "newest_utc": "2026-11-19T13:56:03Z"
-  },
-  "Google News Science": {
-   "ok": true,
-   "error": null,
-   "items": 20,
-   "newest_utc": "2026-11-19T16:35:10Z"
   },
   "The Verge AI": {
    "ok": true,
@@ -3498,12 +3642,6 @@
    "error": null,
    "items": 20,
    "newest_utc": "2026-11-19T16:38:54Z"
-  },
-  "Google News Technology": {
-   "ok": true,
-   "error": null,
-   "items": 20,
-   "newest_utc": "2026-11-19T16:20:12Z"
   }
  }
 }
