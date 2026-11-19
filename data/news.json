@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-19T16:55:35Z",
+ "generated_utc": "2026-11-19T16:56:29Z",
  "note": "Headline feeds for the daily brief, newest first per feed. Google News rows carry the publishing outlet in `outlet`; their URLs are news.google.com redirects. Summaries are feed excerpts, not article text.",
  "sections": {
   "nz": [
@@ -668,6 +668,14 @@
     "feed": "NZ Herald"
    },
    {
+    "title": "Anthropic set to begin trading as a NZ$2.7 trillion company in the biggest IPO on record",
+    "url": "https://www.stuff.co.nz/business/361061379/anthropic-set-begin-trading-15-trillion-company-t",
+    "date_utc": "2026-11-19T16:53:12Z",
+    "summary": "The higher-than-anticipated pricing signals broad investor enthusiasm for AI stocks even as the market confronts uncertainty stemming from the departure of Nvidia's CEO and worries about an AI bubble.",
+    "outlet": "Stuff",
+    "feed": "Stuff"
+   },
+   {
     "title": "Scott Watson denied parole again, but board says he is ‘now in the reintegration phase’",
     "url": "https://www.stuff.co.nz/nz-news/361061079/scott-watson-denied-parole-again-board-says-he-now-reintegration-phase",
     "date_utc": "2026-11-19T16:00:00Z",
@@ -680,14 +688,6 @@
     "url": "https://www.stuff.co.nz/world-news/361061332/nuclear-arms-and-ending-wars-iran-and-ukraine-will-top-th",
     "date_utc": "2026-11-19T15:41:49Z",
     "summary": "Before the trio met Thursday in a villa in the Chinese tech hub of Shenzhen, the US president sought to flatter both Xi and Putin as his friends",
-    "outlet": "Stuff",
-    "feed": "Stuff"
-   },
-   {
-    "title": "Anthropic set to begin trading as a $2.7 trillion company in the biggest IPO on record",
-    "url": "https://www.stuff.co.nz/business/361061379/anthropic-set-begin-trading-15-trillion-company-t",
-    "date_utc": "2026-11-19T15:12:37Z",
-    "summary": "The higher-than-anticipated pricing signals broad investor enthusiasm for AI stocks even as the market confronts uncertainty stemming from the departure of Nvidia's CEO and worries about an AI bubble.",
     "outlet": "Stuff",
     "feed": "Stuff"
    },
@@ -1348,6 +1348,22 @@
     "feed": "Waatea News"
    },
    {
+    "title": "Govt's pay equity changes breached women's rights, High Court rules - 1News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVl1Q1p1bnFGVkJiektBdXlXdW1XaFlxS2EzZkJDMjFZc2xjUnBsVXd5a0ZqTU1QUWJsQ1RDd0xrc0V0S19MM09jS0FBZEhJTjhoY21XX2l5WkxpNGVBcGFKbXBvRVNydmN4QWkxSkpTQi1FUWQ5cmprUmpja1VjMGRHUFZ1cjVMTGpySUZiY001VGtUQVRWNE05ZjhhblhMYWc?oc=5",
+    "date_utc": "2026-11-19T16:18:25Z",
+    "summary": "Govt's pay equity changes breached women's rights, High Court rules 1News Scrapping pay equity breached women's rights, High Court rules RNZ No decision yet on appeal after pay equity law ruled discriminatory The Post NZ Barry Soper: What else could the High Court have ruled? Newstalk ZB Rushed pay equity change breached human rights, court rules Stuff",
+    "outlet": "1News",
+    "feed": "Google News NZ top stories"
+   },
+   {
+    "title": "Renowned academic and former university vice-chancellor dies aged 74 - Stuff",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVZoWTQ5THo0cGNrd2xUSzZ2R1EzQi1JaHlQTXQ4VWUzMVBaYUVoSHFlYmEwQ24xYWxwcXZjSHhMOE94ZjRNeGV1UlNLR25CeWkyd0RwRTFLcUpHZFhBWnAyUlpVTnpYTHNJZ3A4RXFhNkNrMGNrU05xQmtMbVdPQmNSOWFOSFlBelhJX3BGOEZTR3RZUnRsOXlEOGV6cGRZU2lkZGlMZ044Wk9nUm5n?oc=5",
+    "date_utc": "2026-11-19T03:36:54Z",
+    "summary": "Renowned academic and former university vice-chancellor dies aged 74 Stuff Obituary, Sir John Hood University of Auckland John HOOD Obituary (2026) - The New Zealand Herald NZ Herald 'Scholar and gentleman': Sir John Hood, former Auckland and Oxford vice-chancellor, dies aged 74 NZ Herald",
+    "outlet": "Stuff",
+    "feed": "Google News NZ top stories"
+   },
+   {
     "title": "Students offered extra NCEA exam after digital failures - RNZ",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbUJrWmptakZEbUlGY256U0I2VjNqTUdkWFRfRFFvbkZHTlp1Wkl6TlU0anRMZnVyMXQ0TGJSNVZheVRtbGJGN1VkUWlRVDRLRVVwamYtZ3V2NExjOWZSUEZRNndISHVfVkNoSXZFcmw0eDI1TFlpczk3OFlvcWpRY2g0cG12LWlYRURTb0lEV3RLb0dxdUkwUUhEM25wT09CSXc?oc=5",
     "date_utc": "2026-11-19T05:02:12Z",
@@ -1380,26 +1396,10 @@
     "feed": "Google News NZ top stories"
    },
    {
-    "title": "Govt's pay equity changes breached women's rights, High Court rules - 1News",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVl1Q1p1bnFGVkJiektBdXlXdW1XaFlxS2EzZkJDMjFZc2xjUnBsVXd5a0ZqTU1QUWJsQ1RDd0xrc0V0S19MM09jS0FBZEhJTjhoY21XX2l5WkxpNGVBcGFKbXBvRVNydmN4QWkxSkpTQi1FUWQ5cmprUmpja1VjMGRHUFZ1cjVMTGpySUZiY001VGtUQVRWNE05ZjhhblhMYWc?oc=5",
-    "date_utc": "2026-11-19T16:18:25Z",
-    "summary": "Govt's pay equity changes breached women's rights, High Court rules 1News Scrapping pay equity breached women's rights, High Court rules RNZ No decision yet on appeal after pay equity law ruled discriminatory The Post NZ Barry Soper: What else could the High Court have ruled? Newstalk ZB Rushed pay equity change breached human rights, court rules Stuff",
-    "outlet": "1News",
-    "feed": "Google News NZ top stories"
-   },
-   {
-    "title": "'It's a disgrace': Pike River families on 16-year wait for justice - 1News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0NjdFlyMEpabXdIODhRSm1OalBFQXAzRGptdVo2QjBFOHNFaS04STZGcnpNY3BCaW1QaFltOTAyb1NROEhGY3JQdWxZZGVCemtuclNyZ0drR052VVZCWUgtSGNZcHRYdE55ODdqNEktSXVweS14dVdtTnVoa2dmQzFCVTltcEhMcGQxVlZsOFFyTktqdktrdVVFS3VoeU0?oc=5",
-    "date_utc": "2026-11-19T10:18:21Z",
-    "summary": "'It's a disgrace': Pike River families on 16-year wait for justice 1News ‘It’s a disgrace’: Pike River families on 16-year wait NZ Herald ‘We have waited 16 years’: Pike River memorial unveiled as families await decision on charges The Press",
-    "outlet": "1News",
-    "feed": "Google News NZ top stories"
-   },
-   {
-    "title": "GP urges patients to delay routine blood tests as lab strike begins - NZ Herald",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUVrRmZmZllpc1VobkRDUmdndXNmYUxwM3B5TGc1V0dObWo5WENOUXNnMjZUUzdUWjY5clRVRXlfbmExQW5kcDUzeTBOSXhteW5JelUza1gzTGV6YjdTQnA0TGZHMDlubnRoWm1UVkRnbkdqTmFTRmZhRnNFd0JNY1hmajNtaWNEQVVGQzRvYkpZY3g0STBtUUpzWERocW9hOFhRemlVcXE0dXcwbUJEbUVyTzhYVk53VlpESGRlWFBHWktpb2dmWnJTQVN6bjFJ?oc=5",
-    "date_utc": "2026-11-19T05:23:15Z",
-    "summary": "GP urges patients to delay routine blood tests as lab strike begins NZ Herald Crisis in New Zealand pathology ongoing, letter warns ODT Lab strikes set to affect services nationwide NZ Doctor Disruptions to medical tests expected as lab workers strike from midnight NZ Herald",
+    "title": "‘It’s a disgrace’: Pike River families on 16-year wait - NZ Herald",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3hJWkdkWElQbjg5MjhzWHZuNjAzR0RVM1RraEMzUWdLUi04T2FOblhBbFBFY2huTE91bWdnNWl6WlM4QU50bWlEbENWUVVpREFWWUd4NlpTeWUwZ3FWQkdidnkzbnNvRkJfQkR6TzdnMnY0dnk4eHpOY3RKd1VwcS1ZQXlOemNUWmxvQzlvZ0FtdDdDTUpVQUNvMm1keHNvNXo1U0lnaVFCQXFY?oc=5",
+    "date_utc": "2026-11-18T19:30:03Z",
+    "summary": "‘It’s a disgrace’: Pike River families on 16-year wait NZ Herald ‘We have waited 16 years’: Pike River memorial unveiled as families await decision on charges The Press",
     "outlet": "NZ Herald",
     "feed": "Google News NZ top stories"
    },
@@ -1431,7 +1431,7 @@
     "title": "China can help end Ukraine war, Trump tells Xi before trilateral with Putin - RNZ",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkgyTEdQWEo1UC15VGpQZnpqLXRoa0FSb3VVaEllaTNWR2pNLU5taDl6cV9ES2JoNzVfdExwZnJQZHhYY1BUbEQySkxoTVpTSGZkZDVaWmZGLWUzVURlaWtUS0szbDgtdEEtVi1vaXpYYkFiNGFOQXhCR253SWNJTzVSUnFoYjFzLUN2MXFYa0QxTVctVTRjTnZJMkdWZXdMbHFkTmJVNE41SlZvVVY2Ni1NVlAydw?oc=5",
     "date_utc": "2026-11-19T07:09:03Z",
-    "summary": "China can help end Ukraine war, Trump tells Xi before trilateral with Putin RNZ Russia and China are not America’s friends. Why does Trump think they are? CNN Apec summit live: Trump, Xi and Putin make ‘peace declaration’ but talks end without clear breakthrough The Guardian ‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies Politico Trump meets with ‘friend’ Putin and Ch",
+    "summary": "China can help end Ukraine war, Trump tells Xi before trilateral with Putin RNZ Apec summit: Trump, Xi and Putin make ‘peace declaration’ but talks end without clear breakthrough – as it happened The Guardian Strongman ‘friends,’ AI’s potential and other takeaways from Trump’s China trip and sitdown with Putin and Xi CNN Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no bre",
     "outlet": "RNZ",
     "feed": "Google News NZ top stories"
    },
@@ -1524,19 +1524,11 @@
     "feed": "Google News NZ"
    },
    {
-    "title": "GP urges patients to delay routine blood tests as lab strike begins - NZ Herald",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUVrRmZmZllpc1VobkRDUmdndXNmYUxwM3B5TGc1V0dObWo5WENOUXNnMjZUUzdUWjY5clRVRXlfbmExQW5kcDUzeTBOSXhteW5JelUza1gzTGV6YjdTQnA0TGZHMDlubnRoWm1UVkRnbkdqTmFTRmZhRnNFd0JNY1hmajNtaWNEQVVGQzRvYkpZY3g0STBtUUpzWERocW9hOFhRemlVcXE0dXcwbUJEbUVyTzhYVk53VlpESGRlWFBHWktpb2dmWnJTQVN6bjFJ?oc=5",
-    "date_utc": "2026-11-19T05:23:15Z",
-    "summary": "GP urges patients to delay routine blood tests as lab strike begins NZ Herald Crisis in New Zealand pathology ongoing, letter warns ODT Lab strikes set to affect services nationwide NZ Doctor Disruptions to medical tests expected as lab workers strike from midnight NZ Herald",
+    "title": "‘It’s a disgrace’: Pike River families on 16-year wait - NZ Herald",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3hJWkdkWElQbjg5MjhzWHZuNjAzR0RVM1RraEMzUWdLUi04T2FOblhBbFBFY2huTE91bWdnNWl6WlM4QU50bWlEbENWUVVpREFWWUd4NlpTeWUwZ3FWQkdidnkzbnNvRkJfQkR6TzdnMnY0dnk4eHpOY3RKd1VwcS1ZQXlOemNUWmxvQzlvZ0FtdDdDTUpVQUNvMm1keHNvNXo1U0lnaVFCQXFY?oc=5",
+    "date_utc": "2026-11-18T19:30:03Z",
+    "summary": "‘It’s a disgrace’: Pike River families on 16-year wait NZ Herald ‘We have waited 16 years’: Pike River memorial unveiled as families await decision on charges The Press",
     "outlet": "NZ Herald",
-    "feed": "Google News NZ"
-   },
-   {
-    "title": "'It's a disgrace': Pike River families on 16-year wait for justice - 1News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0NjdFlyMEpabXdIODhRSm1OalBFQXAzRGptdVo2QjBFOHNFaS04STZGcnpNY3BCaW1QaFltOTAyb1NROEhGY3JQdWxZZGVCemtuclNyZ0drR052VVZCWUgtSGNZcHRYdE55ODdqNEktSXVweS14dVdtTnVoa2dmQzFCVTltcEhMcGQxVlZsOFFyTktqdktrdVVFS3VoeU0?oc=5",
-    "date_utc": "2026-11-19T10:18:21Z",
-    "summary": "'It's a disgrace': Pike River families on 16-year wait for justice 1News ‘It’s a disgrace’: Pike River families on 16-year wait NZ Herald ‘We have waited 16 years’: Pike River memorial unveiled as families await decision on charges The Press",
-    "outlet": "1News",
     "feed": "Google News NZ"
    },
    {
@@ -1588,6 +1580,14 @@
     "feed": "Google News NZ"
    },
    {
+    "title": "GP urges patients to delay routine blood tests as lab strike begins - NZ Herald",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUVrRmZmZllpc1VobkRDUmdndXNmYUxwM3B5TGc1V0dObWo5WENOUXNnMjZUUzdUWjY5clRVRXlfbmExQW5kcDUzeTBOSXhteW5JelUza1gzTGV6YjdTQnA0TGZHMDlubnRoWm1UVkRnbkdqTmFTRmZhRnNFd0JNY1hmajNtaWNEQVVGQzRvYkpZY3g0STBtUUpzWERocW9hOFhRemlVcXE0dXcwbUJEbUVyTzhYVk53VlpESGRlWFBHWktpb2dmWnJTQVN6bjFJ?oc=5",
+    "date_utc": "2026-11-19T05:23:15Z",
+    "summary": "GP urges patients to delay routine blood tests as lab strike begins NZ Herald Crisis in New Zealand pathology ongoing, letter warns ODT Lab strikes set to affect services nationwide NZ Doctor Disruptions to medical tests expected as lab workers strike from midnight NZ Herald",
+    "outlet": "NZ Herald",
+    "feed": "Google News NZ"
+   },
+   {
     "title": "More than 130kg of cocaine seized by customs at Port of Tauranga - RNZ",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSk8tN3JCNmxJX2ZDQ3MxUjZORE9zOWhCNGVwb2hDNllGSGJ1ZllsS3FCYUxCQkFXQ0xZWEdFaGRrakhTS1ZCczVDR2VVRnp4ZEh3aGEyeThLUTNaM2dCU3pzOFAxWXRuNlNIaTlON3B2dTQtNEF2SHc1dFVvaF9fRDFKZk5pZXpXUmgzR3Y2Vk5DX0o4SG9kMGtXdkdEYlNiZ1JzbVczZjZDXzVMUUt1VnFjVHc4Skk1?oc=5",
     "date_utc": "2026-11-19T03:19:12Z",
@@ -1636,6 +1636,14 @@
     "feed": "Google News NZ"
    },
    {
+    "title": "NCEA digital exam issues strike again during level one English - 1News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUtVM1U3M1RHQ09XU3N5bnR0STFuVHo1X2s1dXpVV3JacndTOVJob25USDNtSGVqWV9DS3NkUzdCNTVSQk9TazNsX21YNC1wYWJCMVJibF9hTlphTlM3QnVoWDJoeUtPU29ENi1JbDdJZmFRNTU2UHRxSmVJVXVVdjRIeW9aSldlcjA2RUx3MlJON0R2QUhjT1lB?oc=5",
+    "date_utc": "2026-11-17T03:32:27Z",
+    "summary": "NCEA digital exam issues strike again during level one English 1News Students offered extra NCEA exam after digital failures RNZ Letters: Something to be learned from handwritten approach to exams NZ Herald Teachers’ union warns paper exams may need to return after NCEA digital glitches The Press Stanford demands independent inquiry after another NCEA exam failure Stuff",
+    "outlet": "1News",
+    "feed": "Google News NZ"
+   },
+   {
     "title": "US senators push for stronger military space ties with NZ - RNZ",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWS1UZTZwYm5Ga1lGdHc5WHM4c1NhVTFlOTg3dkxucDBSWmFiR3JFVEVhUmxReWJYUVR4OVdDZDBaMGs0NUVGeVJCckNMWGdjZmdZeU1Fa3NweUVjUVN5MHlZWmhhVG9ubG1uYUhnZVJETjFobkVhQm5iMW1hM0E2N3djNHF0NnJmMXk0UWFlbndZWl9LcVJPTzRudGtIX3hVVjAw?oc=5",
     "date_utc": "2026-11-19T01:44:09Z",
@@ -1657,14 +1665,6 @@
     "date_utc": "2026-11-18T22:33:59Z",
     "summary": "Solicitor-general pauses Crown Law restructure after staff ‘division’ The Post NZ",
     "outlet": "The Post NZ",
-    "feed": "Google News NZ"
-   },
-   {
-    "title": "Boy, 7, left with shotgun pellet in his head after house shot up in gang dispute - Stuff",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTJ4aDdRR19GT1RKbG9xdllhNFZpT2ZXR3U2RE1ESVB6ak5OTE5FVjlzb2kxcjE1NUVEX2ItSXhrWEEtb0pBRWtCcFNVTTNfZy1DcS1qZFFMNGF1TGdxSVRaZVpYd3Bfa0FZSi1TUGdtRkhxRndNTDZ6cmtPemt3ZGdYbGc5SXBGS0g0LVBkOEZtR3VZejYyb2ZQdWZzUUVsU2NJWU13dDRQZw?oc=5",
-    "date_utc": "2026-11-19T06:13:25Z",
-    "summary": "Boy, 7, left with shotgun pellet in his head after house shot up in gang dispute Stuff",
-    "outlet": "Stuff",
     "feed": "Google News NZ"
    }
   ],
@@ -1704,7 +1704,7 @@
    {
     "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
     "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-    "date_utc": "2026-11-19T16:19:23Z",
+    "date_utc": "2026-11-19T16:55:57Z",
     "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
     "outlet": "BBC World",
     "feed": "BBC World"
@@ -2368,7 +2368,7 @@
    {
     "title": "Bancroft has blown up Australian cricket and there is no going back - ABC News & Headlines – Australian Broadcasting Corporation",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHUwRkFHOHQ5M3ltM3Fpd282dmw2Ykd1OUlEeXA0aEthMTBCWGNnWWVvaFc1dmRLZWRfa1RianBpLWJvV08zdzZwb0t5YzVIcF9lWEh4M01VcktRTkZXSGRwOGdRQ0pFb0hqYzZBa0pZaG1rVHV5YUhDTFk3em1qM1M3YTl4Vk0zQjZKSW1uMUZnUTg0eVZpMzhJelNzVXlQTDVsOUU4VQ?oc=5",
-    "date_utc": "2026-11-18T18:00:00Z",
+    "date_utc": "2026-11-19T03:20:39Z",
     "summary": "Bancroft has blown up Australian cricket and there is no going back ABC News & Headlines – Australian Broadcasting Corporation",
     "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
     "feed": "ABC (AU)"
@@ -2593,7 +2593,7 @@
     "title": "China can help end Ukraine war, Trump tells Xi before trilateral with Putin - RNZ",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkgyTEdQWEo1UC15VGpQZnpqLXRoa0FSb3VVaEllaTNWR2pNLU5taDl6cV9ES2JoNzVfdExwZnJQZHhYY1BUbEQySkxoTVpTSGZkZDVaWmZGLWUzVURlaWtUS0szbDgtdEEtVi1vaXpYYkFiNGFOQXhCR253SWNJTzVSUnFoYjFzLUN2MXFYa0QxTVctVTRjTnZJMkdWZXdMbHFkTmJVNE41SlZvVVY2Ni1NVlAydw?oc=5",
     "date_utc": "2026-11-19T07:09:03Z",
-    "summary": "China can help end Ukraine war, Trump tells Xi before trilateral with Putin RNZ Russia and China are not America’s friends. Why does Trump think they are? CNN Apec summit: Trump, Xi and Putin make ‘peace declaration’ but talks end without clear breakthrough – as it happened The Guardian ‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies Politico Trump meets with ‘friend’ ",
+    "summary": "China can help end Ukraine war, Trump tells Xi before trilateral with Putin RNZ Apec summit: Trump, Xi and Putin make ‘peace declaration’ but talks end without clear breakthrough – as it happened The Guardian Strongman ‘friends,’ AI’s potential and other takeaways from Trump’s China trip and sitdown with Putin and Xi CNN Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no bre",
     "outlet": "RNZ",
     "feed": "Google News World"
    },
@@ -2638,6 +2638,14 @@
     "feed": "Google News World"
    },
    {
+    "title": "‘Doomsday’ funnel cloud looms over Auckland coast before weather flip - NZ Herald",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcjUxYVAta0pScnRFZjBlbVNvV2dLM25JSFhxTFVGWVFpWlZuMTRfMi1jUzI5R2s3Q212bE1zalg1STBmdG5ZYi15dTVwdnFfWkljREctaHBZUHNhTzRjWmRvcUtOam43MEhJODltVWNsaGVVOWxsaUZfZk9EXy1pVjY3XzJrWkhBT2d0cVMwaU82a3QzY1FoaU9UaFdXVldfUGo5RHZKRWxCZjN4RnZtZ1h1eVVkVEg3WHQ3RnhNRFdyLTBJanc3Z1NiNVA0LVct?oc=5",
+    "date_utc": "2026-11-19T09:14:27Z",
+    "summary": "‘Doomsday’ funnel cloud looms over Auckland coast before weather flip NZ Herald December could be winter's most weirdly warm month due to El Niño Yahoo",
+    "outlet": "NZ Herald",
+    "feed": "Google News World"
+   },
+   {
     "title": "Muslims to outnumber Christians worldwide by 2035, study finds - NZ Herald",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3czSlh6alNXblgyWU9jSDJBNERYeXVnTW1FbWxub0ZrNUNJY241QWZLc0hrVlQ0a1dkZzhBdDludDdXY3Q3QUJidjhFX0hPZWJRUXk3U0V3Yk5CYnhCWmx2aHpQNE9KQzdRcEZvMktiQmtTV2RPaWpVWFhZSVA1SnlnZk96S1VmODhBclRsSXY5S1RaVmZaRU5oWkcxSVRRa3k2dER0elFEYVViaEYyM2FnamJLRFplTV85YUVvaw?oc=5",
     "date_utc": "2026-11-19T04:57:17Z",
@@ -2675,6 +2683,14 @@
     "date_utc": "2026-11-18T16:09:27Z",
     "summary": "Who is the captain of the coalition, really? The Spinoff",
     "outlet": "The Spinoff",
+    "feed": "Google News World"
+   },
+   {
+    "title": "Foreign interference revealed. Israel’s surveillance of Australia and New Zealand - Michael West Media",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0UweDJRYTNGZTdtakJaTkRuOFhXdVNnY3lZWTJLRjNxQzhHMlpGNXZvNm04dVExSk5rUk1Yb2NsWWxKdk9rZnMtRkJTdGtVRUlDTXBFWkJzTXZTLTAwcHhvVGZZNC1GZ21NSmdhMUFOdXBxSVdVd0pnYTlVSG5IWGF5UFlERUhhQU5NSWU4WWM2VE9sdmlhcjEwMzR6eHVMbmgxWnZRUFJLRUU?oc=5",
+    "date_utc": "2026-11-15T22:56:56Z",
+    "summary": "Foreign interference revealed. Israel’s surveillance of Australia and New Zealand Michael West Media",
+    "outlet": "Michael West Media",
     "feed": "Google News World"
    },
    {
@@ -2742,6 +2758,14 @@
     "feed": "Google News Business"
    },
    {
+    "title": "US flights resume after nationwide ground stop delays NZ services - 1News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWZYT05IYjZmWUhkSVdZZlVfNjRiVXJKSEY4QkhmdGJoeDdIZGxHZmpzM25aTmtXSndBQjc5cldCXzBScHhweDRtbm5fUF8tSUt0SUpiRUVkUm80MS1XQ240ZTRCZ0hDMU9TcVg2R3JFel9lb3JSeFFBRHlPdlJNdTR0YkJlZklmWEpNQ25qRVNneERXem1MUlpxd2kxUmdkZDF3?oc=5",
+    "date_utc": "2026-11-14T07:02:02Z",
+    "summary": "US flights resume after nationwide ground stop delays NZ services 1News FAA halts installations of routers to assess ground stop trigger NZ Herald Trump downplays US outages and Nvidia security concerns in remarks before China summit – live The Guardian DOT's Duffy said ground stop might have been shorter if L3Harris had spotted the problem sooner AP News Exclusive: ‘There was no monitoring.’ Sour",
+    "outlet": "1News",
+    "feed": "Google News Business"
+   },
+   {
     "title": "RBNZ Governor concerned higher fuel costs may be feeding into broader economy - Interest.co.nz",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNW1tZW5pRHdpbTE0cGV5c3c1TFlrcnpnMWNhTkRJczFpLUFHUzhSSElqd1d1T3g4T01GaUk2X0R1TEh2WEtQamdhUUdYMXQ4NFQ2dktBTjZvcEt4TlpvR2tvdkN1T29QSkZ6NGVLOXlmZ05fRXdRajlEZDZMU0YzV1ZOZkp5Y0Y3ak1oR1FfbXRKeFdELURSaW5VczR5dHd5dzE2OTJHMmZGbmR4RmdrZ0hBWl9jN3JRWF9sblFzZVdXQQ?oc=5",
     "date_utc": "2026-11-18T23:02:00Z",
@@ -2755,14 +2779,6 @@
     "date_utc": "2026-11-18T00:49:16Z",
     "summary": "Businessman who dubbed himself 'New Zealand's Donald Trump' hit with $19,000 legal bill Stuff",
     "outlet": "Stuff",
-    "feed": "Google News Business"
-   },
-   {
-    "title": "Ashton Kutcher to become billionaire when Anthropic goes public - The Times",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMHZuOVN2OUdXTFN1SDhBdk54MHJSakdmdlFQdm1BTUEtWkU5YzNXNXJGZGpveWNjUzNDTEJfeU5uaTF5dGhMVWFtZUNkN09KR2R4TE1jVk5NRFhReVZXRTc1aGlJNFJzR2taTVlHOEp5c1ZkQ3Z1M0dTN0pZdHdMZkhhWU9rOFdTTXQwVzFVbGhYNkxrT3lwNWx1T3lfUkcyWl9LZEVhZw?oc=5",
-    "date_utc": "2026-11-18T18:16:50Z",
-    "summary": "Ashton Kutcher to become billionaire when Anthropic goes public The Times The major A-list star set for billionaire status thanks to Anthropic IPO Page Six VC Firm Run by Madonna’s Manager Has $7 Billion Anthropic Stake Bloomberg.com",
-    "outlet": "The Times",
     "feed": "Google News Business"
    },
    {
@@ -3352,10 +3368,10 @@
     "feed": "Google News AI"
    },
    {
-    "title": "Anthropic set to secure $1.8 trillion valuation in strong Nasdaq debut - Reuters",
+    "title": "Anthropic valued at over $2 trillion in Nasdaq debut - Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
-    "date_utc": "2026-11-19T15:24:43Z",
-    "summary": "Anthropic set to secure $1.8 trillion valuation in strong Nasdaq debut Reuters",
+    "date_utc": "2026-11-19T16:52:48Z",
+    "summary": "Anthropic valued at over $2 trillion in Nasdaq debut Reuters",
     "outlet": "Reuters",
     "feed": "Google News AI"
    },
@@ -3381,14 +3397,6 @@
     "date_utc": "2026-11-19T10:48:04Z",
     "summary": "Anthropic raises $81bn in record-breaking stock market debut BBC",
     "outlet": "BBC",
-    "feed": "Google News AI"
-   },
-   {
-    "title": "Wall St wavers ahead of Anthropic market debut - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-    "date_utc": "2026-11-19T16:38:54Z",
-    "summary": "Wall St wavers ahead of Anthropic market debut Reuters",
-    "outlet": "Reuters",
     "feed": "Google News AI"
    },
    {
@@ -3440,11 +3448,11 @@
     "feed": "Google News AI"
    },
    {
-    "title": "Anthropic IPO could create thousands of multimillionaire employees - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc2lPZDEwREFZVFFuTGdUQTVST3dfVzBMV284THIwQjQwbFVPVVU5cWY2bWttcnZwNU1fSVkzX20tM2lvWENNOFJsS2E5emQzem1OQXVCUTd2am01Uld6ZHpONkxYV0tpbkxDMXNkWVhoTXF1V0NOS1BRVkVXV2JZOGM5YjVGOEwzZlIwNHp2cThQc20yWEF6VzNvWTNfVXlLemxHQktn0gGrAUFVX3lxTFBpM2NWMk9LRVNJRUt1T1BQRmtscllDR3ltT2MtTUdzLW82dG1Zei1sRERxMFpNR1pVODNsbkpyVFZvM2JWcXRrREhySmVBMlNDMzl3VXVfdDhveUtsVEdhLU9EV09jQ1ZNb25yaG9nLU5QSjB5dFItTTUwWHpfY3VwV0VCQmZVTW4yQWRtaE1rUGJlWmF4cVczQWdpZkJEb2NZc1Fnd2FWMldaUQ?oc=5",
-    "date_utc": "2026-11-19T12:30:01Z",
-    "summary": "Anthropic IPO could create thousands of multimillionaire employees CNBC",
-    "outlet": "CNBC",
+    "title": "Wall St wavers ahead of Anthropic market debut - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
+    "date_utc": "2026-11-19T16:38:54Z",
+    "summary": "Wall St wavers ahead of Anthropic market debut Reuters",
+    "outlet": "Reuters",
     "feed": "Google News AI"
    },
    {
@@ -3456,18 +3464,18 @@
     "feed": "Google News AI"
    },
    {
+    "title": "Anthropic IPO could create thousands of multimillionaire employees - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc2lPZDEwREFZVFFuTGdUQTVST3dfVzBMV284THIwQjQwbFVPVVU5cWY2bWttcnZwNU1fSVkzX20tM2lvWENNOFJsS2E5emQzem1OQXVCUTd2am01Uld6ZHpONkxYV0tpbkxDMXNkWVhoTXF1V0NOS1BRVkVXV2JZOGM5YjVGOEwzZlIwNHp2cThQc20yWEF6VzNvWTNfVXlLemxHQktn0gGrAUFVX3lxTFBpM2NWMk9LRVNJRUt1T1BQRmtscllDR3ltT2MtTUdzLW82dG1Zei1sRERxMFpNR1pVODNsbkpyVFZvM2JWcXRrREhySmVBMlNDMzl3VXVfdDhveUtsVEdhLU9EV09jQ1ZNb25yaG9nLU5QSjB5dFItTTUwWHpfY3VwV0VCQmZVTW4yQWRtaE1rUGJlWmF4cVczQWdpZkJEb2NZc1Fnd2FWMldaUQ?oc=5",
+    "date_utc": "2026-11-19T12:30:01Z",
+    "summary": "Anthropic IPO could create thousands of multimillionaire employees CNBC",
+    "outlet": "CNBC",
+    "feed": "Google News AI"
+   },
+   {
     "title": "Anthropic set to start trading after completing largest-ever IPO - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUtPVnVrUHpzeXo2bDhMa0F0cHp5SUttQkY5OEMzSERJQ1hrMXQ5X2tLSGM2VkFRblVJREZZNFVIbEZBZ1QwUTN5UTU0ckFwNURzU1gzckZ6UWxhUGltZ040eG43M01mQ3oxdnNVRmRucUkwZkZ4bXdFZEtWbzYwVEMwdndSOTgwVUpSekMtemh6TV9HZVpqWkVnZHB4QUJPZWxXd3RR?oc=5",
     "date_utc": "2026-11-19T14:54:36Z",
     "summary": "Anthropic set to start trading after completing largest-ever IPO Yahoo Finance",
-    "outlet": "Yahoo Finance",
-    "feed": "Google News AI"
-   },
-   {
-    "title": "Goldman Sachs, Morgan Stanley set to reap $113 million from Anthropic IPO - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWHRTb3JISWE4dGdmVGU2WFIxNDNpSk1SbmR3UTEwSDQwNHNveEJkaE9iZllnY2k1djl5NjJvZVJkMWRMRFduUm5mbnZfOVNDX1ZreDNwcmdOZ0VtdC1mYVhRbmUtNk5JNlB4Z0xleTJjRWt2T0V5aXVwZUpKUHpRZmNkSm44aG9ZVS0wWWZvazFIX1M3X2xadi0xZDhwNWhPOE1EbFNRRURmOHhmTmJ1dEl5M2Z1aWdORjlVZm9JM2lLT2QteXBB?oc=5",
-    "date_utc": "2026-11-19T14:49:33Z",
-    "summary": "Goldman Sachs, Morgan Stanley set to reap $113 million from Anthropic IPO Yahoo Finance",
     "outlet": "Yahoo Finance",
     "feed": "Google News AI"
    },
@@ -3478,12 +3486,20 @@
     "summary": "Anthropic set to begin trading any moment. Reports suggest stock could pop 20% or more in biggest IPO ever Fortune",
     "outlet": "Fortune",
     "feed": "Google News AI"
+   },
+   {
+    "title": "Goldman Sachs, Morgan Stanley set to reap $113 million from Anthropic IPO - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWHRTb3JISWE4dGdmVGU2WFIxNDNpSk1SbmR3UTEwSDQwNHNveEJkaE9iZllnY2k1djl5NjJvZVJkMWRMRFduUm5mbnZfOVNDX1ZreDNwcmdOZ0VtdC1mYVhRbmUtNk5JNlB4Z0xleTJjRWt2T0V5aXVwZUpKUHpRZmNkSm44aG9ZVS0wWWZvazFIX1M3X2xadi0xZDhwNWhPOE1EbFNRRURmOHhmTmJ1dEl5M2Z1aWdORjlVZm9JM2lLT2QteXBB?oc=5",
+    "date_utc": "2026-11-19T14:49:33Z",
+    "summary": "Goldman Sachs, Morgan Stanley set to reap $113 million from Anthropic IPO Yahoo Finance",
+    "outlet": "Yahoo Finance",
+    "feed": "Google News AI"
    }
   ]
  },
  "counts": {
   "nz": 208,
-  "world": 146,
+  "world": 148,
   "ai": 80
  },
  "sources": {
@@ -3521,7 +3537,7 @@
    "ok": true,
    "error": null,
    "items": 20,
-   "newest_utc": "2026-11-19T16:00:00Z"
+   "newest_utc": "2026-11-19T16:53:12Z"
   },
   "Newsroom": {
    "ok": true,
@@ -3569,7 +3585,7 @@
    "ok": true,
    "error": null,
    "items": 20,
-   "newest_utc": "2026-11-19T16:53:29Z"
+   "newest_utc": "2026-11-19T16:55:57Z"
   },
   "Al Jazeera": {
    "ok": true,
@@ -3604,7 +3620,7 @@
   "Google News World": {
    "ok": true,
    "error": null,
-   "items": 12,
+   "items": 14,
    "newest_utc": "2026-11-19T14:54:58Z"
   },
   "Google News Business": {
@@ -3641,7 +3657,7 @@
    "ok": true,
    "error": null,
    "items": 20,
-   "newest_utc": "2026-11-19T16:38:54Z"
+   "newest_utc": "2026-11-19T16:52:48Z"
   }
  }
 }
