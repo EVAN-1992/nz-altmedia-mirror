@@ -239,6 +239,9 @@ def youtube_atom(channel_id, label, limit=15):
     return record(label, out)
 
 
+OPINION_PATH = re.compile(r"/(?:opinions?|articles?|columns?|commentary)/[a-z0-9][a-z0-9-]+/?$")
+
+
 def _slug_title(url):
     slug = url.rstrip("/").split("/")[-1]
     return slug.replace("-", " ").strip().title()
@@ -250,6 +253,7 @@ def platform_opinions(limit=12):
     then falls back to reading links off the /opinions listing page."""
     label = "platform opinions"
     rows = {}
+    seen_paths = []
 
     raw = try_get("https://theplatform.kiwi/sitemap.xml", "platform sitemap")
     root = parse_xml(raw, "platform sitemap") if raw else None
@@ -276,18 +280,19 @@ def platform_opinions(limit=12):
             continue
         for u in node.findall(f"{SITEMAP}url"):
             loc = (u.findtext(f"{SITEMAP}loc") or "").strip()
-            if "/opinions/" in loc and loc.rstrip("/").split("/")[-1] != "opinions":
+            seen_paths.append(loc)
+            if OPINION_PATH.search(loc):
                 rows[loc] = iso(u.findtext(f"{SITEMAP}lastmod"))
 
-    if not rows:  # fallback: scrape the listing page for /opinions/<slug> links
-        page = try_get("https://theplatform.kiwi/opinions", "platform opinions page")
+    if not rows:  # fallback: scrape the home page for opinion/article links
+        page = try_get("https://theplatform.kiwi/", "platform home page")
         if page:
-            for m in re.finditer(rb'href="((?:https://theplatform\.kiwi)?/opinions/[a-z0-9][a-z0-9-]+)/?"', page):
+            for m in re.finditer(rb'href="((?:https://theplatform\.kiwi)?/(?:opinions?|articles?|columns?|commentary)/[a-z0-9][a-z0-9-]+)/?"', page):
                 href = m.group(1).decode()
                 if href.startswith("/"):
                     href = "https://theplatform.kiwi" + href
                 rows.setdefault(href, "")
-            HEALTH.pop("platform opinions page", None)
+            HEALTH.pop("platform home page", None)
 
     out = [
         {
@@ -299,7 +304,16 @@ def platform_opinions(limit=12):
         for url, d in sorted(rows.items(), key=lambda kv: kv[1], reverse=True)[:limit]
     ]
     HEALTH.pop("platform sitemap", None)
-    return record(label, out)
+    record(label, out)
+    if not out:
+        # Say what the sitemap does contain, so the next fix doesn't need a guess
+        prefixes = {}
+        for u in seen_paths:
+            seg = "/" + (u.split("://", 1)[-1].split("/") + ["", ""])[1]
+            prefixes[seg] = prefixes.get(seg, 0) + 1
+        top = ", ".join(f"{k} ({v})" for k, v in sorted(prefixes.items(), key=lambda kv: -kv[1])[:8])
+        HEALTH[label]["error"] = f"no opinion URLs found; sitemap path prefixes: {top or 'none'}"
+    return out
 
 
 def dedupe(items):
@@ -333,7 +347,8 @@ NEWS_FEEDS = {
         ("NZ Herald", "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml"),
         ("Stuff", "https://www.stuff.co.nz/rss"),
         ("Newsroom", "https://newsroom.co.nz/feed/"),
-        ("The Spinoff", "https://thespinoff.co.nz/feed"),
+        # The Spinoff and ABC publish no working RSS; Google News site search stands in
+        ("The Spinoff", f"https://news.google.com/rss/search?q=site:thespinoff.co.nz+when:2d&{GN}"),
         ("interest.co.nz", "https://www.interest.co.nz/rss"),
         ("Waatea News", "https://waateanews.com/feed/"),
         ("Google News NZ top stories", f"https://news.google.com/rss?{GN}"),
@@ -345,10 +360,10 @@ NEWS_FEEDS = {
         ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
         ("The Guardian World", "https://www.theguardian.com/world/rss"),
         ("NPR World", "https://feeds.npr.org/1004/rss.xml"),
-        ("ABC (AU) World", "https://www.abc.net.au/news/feed/52278/rss.xml"),
+        ("ABC (AU)", f"https://news.google.com/rss/search?q=site:abc.net.au/news+when:1d&{GN}"),
+        ("Google News Pacific", f"https://news.google.com/rss/search?q=Pacific+(Fiji+OR+Samoa+OR+Tonga+OR+%22Cook+Islands%22+OR+Vanuatu+OR+%22Solomon+Islands%22+OR+%22Papua+New+Guinea%22)+when:2d&{GN}"),
         ("Google News World", f"https://news.google.com/rss/headlines/section/topic/WORLD?{GN}"),
         ("Google News Business", f"https://news.google.com/rss/headlines/section/topic/BUSINESS?{GN}"),
-        ("Google News Science", f"https://news.google.com/rss/headlines/section/topic/SCIENCE?{GN}"),
     ],
     "ai": [
         ("The Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
@@ -356,7 +371,6 @@ NEWS_FEEDS = {
         ("Ars Technica AI", "https://arstechnica.com/ai/feed/"),
         ("MIT Technology Review AI", "https://www.technologyreview.com/topic/artificial-intelligence/feed"),
         ("Google News AI", f"https://news.google.com/rss/search?q=%22artificial+intelligence%22+OR+OpenAI+OR+Anthropic+OR+%22Google+DeepMind%22+when:1d&{GN}"),
-        ("Google News Technology", f"https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?{GN}"),
     ],
 }
 
