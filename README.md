@@ -1,51 +1,58 @@
 # nz-altmedia-mirror
 
-A tiny relay that keeps recent output from two New Zealand independent outlets —
-**Reality Check Radio** and **The Platform NZ** — available at a URL that Evan's
-daily news brief can actually reach.
+Feeds and page renderer for Evan's daily news brief.
 
-## Why this exists
+The cloud environment that writes the brief blocks most news sites at its network
+proxy, but it can clone this repo from github.com. GitHub Actions runners have
+unrestricted internet, so this repo fetches the feeds on a schedule and commits the
+result where the brief can read it.
 
-The cloud environment that generates the daily brief has an outbound egress policy
-that returns `403` at the proxy for `realitycheck.radio`, `theplatform.kiwi` and
-`youtube.com` (and, on some runs, for most other hosts too). `api.github.com` is on
-its permanent allowlist.
+Every source is a public feed the outlet publishes itself.
 
-GitHub Actions runners have unrestricted internet access. So this repo fetches the
-feeds from here, on a schedule, and commits the result — turning an unreachable
-source into a reachable one.
+## What's in it
 
-It is a workaround for an infrastructure restriction, not a scraper of anything
-private: every source below is a public feed the outlets publish themselves.
+| Path | What it is |
+|---|---|
+| `data/latest.json` | Alternative media: Reality Check Radio (WordPress API, RSS, YouTube) and The Platform NZ (YouTube, opinion pieces). |
+| `data/news.json` | Mainstream headline feeds grouped as `nz`, `world` and `ai`: RNZ, 1News, NZ Herald, Stuff, Newsroom, The Spinoff, interest.co.nz, Waatea, BBC, Al Jazeera, Guardian, NPR, ABC, The Verge, TechCrunch, Ars Technica, MIT Technology Review and Google News sections. |
+| `brief/render.py` | Turns the brief's content file into the published page, and refuses repeats (see below). |
+| `brief/style.css`, `brief/app.js` | The page's look and behaviour. Change the design here, not in the routine prompt. |
+| `brief/sample.json` | A complete example content file (19 Nov 2026), also used by CI. |
 
-## What it collects
+Both data files carry `generated_utc` and a `sources` block that records, for every
+feed, whether it worked, how many items it returned, the newest item's date and the
+error if it failed. The brief shows this as **Source health** at the bottom of the page.
+All dates are ISO 8601 UTC and lists are newest first.
 
-**Reality Check Radio** (via `realitycheck.radio` — note the legacy domain; the newer
-`rcr.media` is a JavaScript app that serves no content to non-browser clients)
-- `wp-json/wp/v2/posts` and `wp-json/wp/v2/episodes` — the WordPress REST API
-- `?feed=allepisodes` and `/feed/` — RSS, the latter with full article bodies
-- YouTube Atom feed (channel `UC5IxWEvo3qMN2ug3t1DclUQ`)
-
-**The Platform NZ** (`theplatform.kiwi` is server-rendered and unblocked, but its
-pages are ~1.3 MB, which truncates in most fetch tools)
-- YouTube Atom feed (channel `UCYKvkaqOJFwji8-Jgm8pjhA`) — the best source; ~5
-  posts a day, with descriptions carrying the interview substance
-- `sitemap.xml`, filtered to `/opinions/` with their `lastmod` dates
-
-## Consuming it
-
-The brief reads the mirror through the GitHub API, which its sandbox permits:
+## Reading it from the brief
 
 ```bash
-curl -sL -H "Accept: application/vnd.github.raw" \
-  https://api.github.com/repos/EVAN-1992/nz-altmedia-mirror/contents/data/latest.json
+git clone -q --depth 1 https://github.com/EVAN-1992/nz-altmedia-mirror mirror
 ```
 
-`data/latest.json` carries a `generated_utc` timestamp and a `counts` block, so a
-consumer can tell stale data from fresh and say so honestly rather than implying
-an outlet went quiet.
+Use the clone, not the GitHub contents API: unauthenticated API calls from the cloud
+runner's shared IP addresses hit GitHub's rate limit and get refused. If the clone
+fails, `https://raw.githubusercontent.com/EVAN-1992/nz-altmedia-mirror/master/data/latest.json`
+serves the same files.
+
+## The renderer and the repeat rules
+
+```bash
+python3 mirror/brief/render.py ledger --prev prev.html      # what ran recently
+python3 mirror/brief/render.py check brief.json --prev prev.html
+python3 mirror/brief/render.py build brief.json --prev prev.html --data mirror/data -o index.html
+```
+
+The published page carries a hidden ledger of the last 14 days of story keys. `check`
+fails, with a numbered list of fixes, when:
+
+- a story from the last brief is presented as new rather than as an `update` with `whats_new`;
+- a story has run in full on 3 of the last 5 days without an `override_reason` (it belongs in **Still developing**, one line);
+- an item's newest development is more than 3 days old;
+- a section has more than 6 items, a summary is far outside 60 to 120 words, or a source is missing or malformed.
 
 ## Schedule
 
-Refreshes at 11:05 UTC daily — about 40 minutes ahead of the brief — and can be run
-on demand from the Actions tab.
+Every 3 hours (`23 */3 * * *`), plus on demand from the Actions tab. GitHub delays
+scheduled runs by hours at busy times; the old once-a-day run often landed after the
+brief had already read a day-old snapshot.
