@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-18T19:21:02Z",
+  "generated_utc": "2026-11-19T19:26:43Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions. Exists because the brief's cloud runner cannot reach these domains directly. date_utc formats vary by source (RFC 2822 for RSS, ISO 8601 for JSON/Atom).",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,60 @@
     ],
     "youtube": [
       {
+        "title": "\"How many different departments there are, what a spaghetti mess of reporting lines.\"",
+        "url": "https://www.youtube.com/shorts/ZC6p0Kj76QA",
+        "date_utc": "2026-11-19T19:01:45+00:00",
+        "summary": "\"How many different departments there are, what a spaghetti mess of reporting lines.\" - Antonia Modkova, ACT List MP Coming from the technology and private sectors, newly elected ACT MP Antonia Modkova shares her first impressions of the machinery of government. If Wellington's bureaucrats were tasked with changing a light bulb, how many departments, consultants and reporting committees would it take? 🎥 Watch here: https://rcr.media/episodes/antonia-modkova-act-list-mp-new-act-mp-targets-barriers-to-innovation #RCRMedia"
+      },
+      {
+        "title": "Jaspreet 🌍 Who's Really Calling the Shots in New Zealand?",
+        "url": "https://www.youtube.com/shorts/-qaG04cOYFY",
+        "date_utc": "2026-11-19T18:31:11+00:00",
+        "summary": "🌍 Who's Really Calling the Shots in New Zealand? RCR's Jaspreet Boparai questions the Opportunity Party's proposed Future Generations Act, its UN connections and the growing influence of unelected international bodies over decisions made by elected representatives. Who gets the final say — voters or the UN? #RCRMedia"
+      },
+      {
+        "title": "Don on the Election: What's Really Going on Behind the Scenes?",
+        "url": "https://www.youtube.com/shorts/QOZGWs-YYEE",
+        "date_utc": "2026-11-19T18:02:29+00:00",
+        "summary": "🗳️ As the Election Dust Settles, What's Really Going On Behind the Scenes? 🚜 RCR's Don Nicolson gives his take on Christopher Luxon's post-election response, Vanessa Weenink's criticism of her own party, and Katie Milne's big win on the West Coast. What does it all mean for farmers and the new Parliament? #RCRMedia"
+      },
+      {
+        "title": "CRAIG STOBO",
+        "url": "https://www.youtube.com/watch?v=1I5xphirc0c",
+        "date_utc": "2026-11-19T13:01:53+00:00",
+        "summary": "Talking with Paul Brennan, former Financial Markets Authority chair Craig Stobo examines how RNZ’s reported $11.8 million deficit came to be more than 25 times its forecast, raising questions about financial oversight, governance and executive accountability. He discusses the unauthorised overdraft, proposed redundancies, falling cash reserves and the need to reassess the broadcaster’s size, funding and public-service charter. Craig also questions whether RNZ’s role remains justified in today’s diverse media landscape. For news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "HELEN JOYCE",
+        "url": "https://www.youtube.com/watch?v=A_78Ucd1EjA",
+        "date_utc": "2026-11-19T13:01:52+00:00",
+        "summary": "Helen Joyce, Director of Advocacy at Sex Matters, warns that the UK’s proposed conversion practices bill is so broadly drafted that it could criminalise ordinary parenting, religious expression and legitimate therapeutic conversations. She argues that the legislation risks driving therapists away from working with gender-questioning young people, while exposing families to investigations and separation. For further information v isit Sex Matters or find Helen on Substack and X"
+      },
+      {
+        "title": "GARDENING WITH WALLY",
+        "url": "https://www.youtube.com/watch?v=FItoKIxsFtU",
+        "date_utc": "2026-11-19T13:01:32+00:00",
+        "summary": "Gardening guru Wally Richards argues that modern farming methods have stripped much of the nutrition from our food, while increasing reliance on artificial fertilisers and chemical sprays. He advocates returning to natural soil-building methods, sharing practical advice on blood and bone, rock minerals, compost tea and homemade plant feeds. For further information: For everything you need to Say No To Gene Tech Wally’s Gardening and Health Products Wally’s Books Garden News NZ To join Wally’s Weekly Garden Newsletter, email Wally at wallyjr@gardenews.co.nz"
+      },
+      {
+        "title": "MAREE’S MUSINGS",
+        "url": "https://www.youtube.com/watch?v=Xu8qWrUfGJc",
+        "date_utc": "2026-11-19T13:01:26+00:00",
+        "summary": "Maree Buscke challenges political scientist Lara Greaves’ distinction between legitimate vote splitting and strategic voting, arguing that voters are entitled to use both votes as they see fit under MMP. For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "MARGARET CHAMBERS",
+        "url": "https://www.youtube.com/watch?v=GMwxLdwlqmo",
+        "date_utc": "2026-11-19T13:01:25+00:00",
+        "summary": "Margaret Chambers of Australia’s Institute of Public Affairs warns that the proposed Digital Duty of Care legislation could give the eSafety Commissioner sweeping powers to collect sensitive personal information, profile internet users and share data with overseas enforcement agencies. She argues that vague definitions of harm and broad risk-assessment obligations threaten free expression, privacy and innovation and warns New Zealand not to follow in Australia’s footsteps. For further information: Read the IPA article | How the Digital Duty of Care violates the right to privacy and find the IPA on X, Instagram and Substack Read Margaret’s author page at Spectator Australia or find her on Substack , X and Instagram"
+      },
+      {
+        "title": "RIDING SHOTGUN",
+        "url": "https://www.youtube.com/watch?v=bUUC41iAmCA",
+        "date_utc": "2026-11-19T13:01:07+00:00",
+        "summary": "Rachel Stewart examines the harmful effects of mainstream pornography on young women and men, arguing that it distorts sexual expectations, normalises aggression towards women, damages body image and undermines real-world relationships. She also explores evolutionary biologist Brett Weinstein’s argument that easy access to pornography reduces young men’s motivation to develop the competence and confidence needed to attract a partner. Discover more from Rachel on Substack and X"
+      },
+      {
         "title": "\"So New Zealand will not be able to produce non-GE food or organic food without having genes in it.\"",
         "url": "https://www.youtube.com/shorts/l_cP-zjRmeA",
         "date_utc": "2026-11-18T19:02:00+00:00",
@@ -160,65 +214,77 @@
         "url": "https://www.youtube.com/watch?v=JcBCns3ElAA",
         "date_utc": "2026-11-18T13:01:45+00:00",
         "summary": "Paul Brennan speaks with Simon Angelo of Wealth Morning about the implications of banking failures and political uncertainty for financial markets, including the US midterms and turmoil surrounding NVIDIA. Simon argues that the AI investment boom remains strong, despite the risks facing individual technology companies. Discover more from Simon at Wealth Morning For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "BOB MCCOSKRIE",
-        "url": "https://www.youtube.com/watch?v=wsZgh_z_ZRE",
-        "date_utc": "2026-11-18T13:01:21+00:00",
-        "summary": "Simon O’Connor speaks with Family First CEO Bob McCoskrie about claims of electoral manipulation, political double standards and media bias following the election. Bob argues that strategic voting tactics have only become controversial now that they have benefited the political right, while similar tactics used by Te Pāti Māori have gone largely unchallenged. For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "ANTONIA MODKOVA",
-        "url": "https://www.youtube.com/watch?v=II_V9WYynYo",
-        "date_utc": "2026-11-18T13:01:19+00:00",
-        "summary": "Maree Buscke speaks with newly elected ACT MP Antonia Modkova, an intellectual property lawyer and computer scientist, about her move from the technology sector into Parliament. Antonia outlines her support for innovation trials, a more streamlined public service and responsible AI use. For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "SARAH MYHILL",
-        "url": "https://www.youtube.com/watch?v=9DKw1pDLPYM",
-        "date_utc": "2026-11-17T13:01:42+00:00",
-        "summary": "Paul Brennan speaks with British physician Dr Sarah Myhill, Medical Ethics Director of the UK Medical Freedom Alliance. Sarah discusses her open letter to Chief Medical Officer Sir Chris Whitty, in which she alleges he failed to uphold medical ethics and informed consent during the Covid response. For more information: Visit Dr Myhill’s website or find her on X and YouTube For her Podcast or to purchase Sarah’s books For more on UK Medical Freedom Alliance"
-      },
-      {
-        "title": "THE WILMS REPORT",
-        "url": "https://www.youtube.com/watch?v=f6tB5G19xNY",
-        "date_utc": "2026-11-17T13:01:23+00:00",
-        "summary": "With Victoria’s state election approaching, Tim Wilms joins Paul Brennan to examine Labor’s plunging poll numbers, One Nation’s surge and the Liberal Coalition’s prospects of winning government. They also discuss controversy surrounding dis-endorsed candidates, allegations of union influence emerging from the Big Build Royal Commission, and questions over government spending, immigration, puberty blockers and corporate decline. Discover more from Tim at The Unshackled For news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "BEN MAI",
-        "url": "https://www.youtube.com/watch?v=yS82rC4TAgA",
-        "date_utc": "2026-11-17T13:00:58+00:00",
-        "summary": "Simon O’Connor speaks with Auckland Church Network’s Ben Mai about the return of the Nativity float to the Auckland Santa Parade, bringing the story of Christ’s birth back to an event that had gone around 15 years without a Christian presence. For further information: Visit the Auckland Church Network website or check out their Art Competition Donate to their Give a Little campaign"
-      },
-      {
-        "title": "\"Frog marched off the premises with a cardboard box.\" - RCR Co-Founder",
-        "url": "https://www.youtube.com/shorts/UTcKjmxsmLQ",
-        "date_utc": "2026-11-17T06:00:33+00:00",
-        "summary": "\"Frog marched off the premises with a cardboard box.\" - RCR Co-Founder Alia Bland explains how the lasting hurt of Kiwis who lost their careers during the COVID years helped drive RCR's Vote Smart 2026 campaign. For those who felt abandoned and unheard, the campaign aimed to give them a political voice and keep Labour and the left bloc out of government. When politicians won't listen to the people they hurt, does the ballot box become the loudest voice of all? 🎥 Watch here: https://rcr.media/episodes/alia-bland-claire-deeks-founders-of-rcr-voices-for-freedom-did-billionaires-really-shape-the-election #RCRMedia"
-      },
-      {
-        "title": "\"The old belief that the base has nowhere else to go. What are they going to do?\" - Professor Ramesh",
-        "url": "https://www.youtube.com/shorts/O3CesWQqePw",
-        "date_utc": "2026-11-17T05:30:36+00:00",
-        "summary": "\"The old belief that the base has nowhere else to go. What are they going to do?\" - Professor Ramesh Thakur, Political Scholar & Former UN Official Professor Ramesh Thakur questions whether traditional political parties have taken their loyal voters for granted, pointing to growing support for smaller parties in New Zealand and populist movements overseas. Have the major parties spent so long assuming their voters would never leave that they've forgotten how to convince them to stay? 🎥 Watch here: https://rcr.media/episodes/ramesh-thakur-political-scholar-former-un-official-trust-in-democracy-is-crumbling-globally #RCRMedia"
-      },
-      {
-        "title": "\"That would seem to suggest that there is very little editorial supervision at all.\"",
-        "url": "https://www.youtube.com/shorts/qFZaKZ_JHDo",
-        "date_utc": "2026-11-17T05:01:03+00:00",
-        "summary": "\"That would seem to suggest that there is very little editorial supervision at all.\" - David Harvey, Former Judge From disputed explanations of National's overhang to spelling mistakes and questionable editing, David Harvey questions the quality control behind mainstream news reporting. If the people explaining elections to the public can't get the details right, who exactly is checking the checkers? 🎥 Watch here: https://rcr.media/episodes/the-fourth-estate-with-david-harvey-media-bias-on-display-with-split-vote-reporting #RCRMedia #TheFourthEstate"
-      },
-      {
-        "title": "Helen Clark went into the Coromandel and pleaded with everyone to vote for Jeanette Fitzsimons...",
-        "url": "https://www.youtube.com/shorts/LZC-RQdOOKM",
-        "date_utc": "2026-11-17T04:45:27+00:00",
-        "summary": "\"Helen Clark went into the Coromandel and pleaded with everyone to vote for Jeanette Fitzsimons with their candidate vote, not their party vote, and they did.\" - Maurice Williamson, Former NZ MP & Statistician Maurice Williamson fires back at critics of strategic voting, pointing to Helen Clark's support for Green candidate Jeanette Fitzsimons in Coromandel in 1999. If split voting was acceptable when it helped Labour and the Greens, why is the same strategy suddenly controversial when the centre-right uses it? 🎥 Watch here: https://rcr.media/episodes/maurice-williamson-former-nz-mp-statistician-strategic-voting-delivers-a-seismic-shift-in-the-election #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Black Friday Deals: Five Things To Watch Out For",
+        "url": "https://www.youtube.com/watch?v=GRcIT00OFhc",
+        "date_utc": "2026-11-19T05:18:03+00:00",
+        "summary": "Rebecca Styles, Investigative Team Lead at Consumer NZ - Black Friday deals: Five things to watch out for."
+      },
+      {
+        "title": "Many Kiwis Now Working Well Into Their 80s & We Need To Stop Viewing Over 65s As An Economic Burden",
+        "url": "https://www.youtube.com/watch?v=1HlFm6Ei6jw",
+        "date_utc": "2026-11-19T05:01:20+00:00",
+        "summary": "Denise Cosgrove, CEO of Selwyn Foundation - Many Kiwis are now working well into their 80s, and we need to stop viewing people over 65 as an economic burden."
+      },
+      {
+        "title": "Why Do Celebrity Scandals Move The Dial When Exploitation Of Working-Class Girls Hasn't?",
+        "url": "https://www.youtube.com/watch?v=hn1AfiP0hL0",
+        "date_utc": "2026-11-19T04:42:23+00:00",
+        "summary": "Ro Edge from Save Women's Sports - Why is it that celebrity scandals move the dial when the industrial-scale exploitation of working-class girls over decades by grooming networks has not?"
+      },
+      {
+        "title": "Why You Can't Trust The Media - Stuff On \"Double Dipping\" Story",
+        "url": "https://www.youtube.com/watch?v=OpgpuG8MYzc",
+        "date_utc": "2026-11-19T03:39:41+00:00",
+        "summary": "Why you can't trust the media - Stuff on \"double dipping\" story"
+      },
+      {
+        "title": "Message To MSM Critics - \"Im Not Here To Know-Tow Or Conform\"",
+        "url": "https://www.youtube.com/watch?v=uz5OGL2GdP8",
+        "date_utc": "2026-11-19T03:28:47+00:00",
+        "summary": "Message to MSM critics - \"im not here to know-tow or conform\""
+      },
+      {
+        "title": "Freeman Media's Gavin Evans On Contact Energy's $300K Fine",
+        "url": "https://www.youtube.com/watch?v=NQy1839naIQ",
+        "date_utc": "2026-11-19T03:24:19+00:00",
+        "summary": "Freeman Media's Gavin Evans on Contact Energy's $300K fine"
+      },
+      {
+        "title": "Law Partner Stephen Franks On The Need For A Law To Protect Free Speech",
+        "url": "https://www.youtube.com/watch?v=eUdcrJQXpgA",
+        "date_utc": "2026-11-19T02:59:58+00:00",
+        "summary": "Law partner Stephen Franks on the need for a law to protect free speech"
+      },
+      {
+        "title": "Nick Smith On Whether MMP Is Working For New Zealand",
+        "url": "https://www.youtube.com/watch?v=uh4ud9aVWss",
+        "date_utc": "2026-11-18T23:14:22+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Shane Jones - Should Government Bailout RNZ Of Financial Troubles?",
+        "url": "https://www.youtube.com/watch?v=SJyAyuVzXDM",
+        "date_utc": "2026-11-18T23:02:37+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Claire Robinson On The Death Of Major Political Parties",
+        "url": "https://www.youtube.com/watch?v=DROjWDi7w4k",
+        "date_utc": "2026-11-18T22:35:08+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Our Freedoms Are Being Stripped From Us - FSU's Jillaine Heather.",
+        "url": "https://www.youtube.com/watch?v=oxCCQY4dPLo",
+        "date_utc": "2026-11-18T20:49:15+00:00",
+        "summary": "Our freedoms are being stripped from us - FSU's Jillaine Heather."
+      },
       {
         "title": "Are The Progressive Left Censoring Kiwi Humour Too?(The Vicar Of Dibley Joke)",
         "url": "https://www.youtube.com/watch?v=zcjm7PC3gi4",
@@ -242,72 +308,6 @@
         "url": "https://www.youtube.com/watch?v=lhf3xN_g3Dg",
         "date_utc": "2026-11-18T05:10:20+00:00",
         "summary": "Matt Ball, Property Investors Federation spokesperson takes a look at the latest Cotality report, and what now that Chris Bishop is gone?"
-      },
-      {
-        "title": "95% Of General Practices Surveyed Are Already Using Or Exploring AI",
-        "url": "https://www.youtube.com/watch?v=IbxLYBDbmKE",
-        "date_utc": "2026-11-18T04:44:20+00:00",
-        "summary": "Bindi Norwell, Chief Executive at ProCare - 95% of general practices surveyed are already using or exploring AI."
-      },
-      {
-        "title": "MP Induction, The Hate MP’s Get In Politics (Especially Women) & Standing Up For Michael Laws",
-        "url": "https://www.youtube.com/watch?v=9e5xO0kesOc",
-        "date_utc": "2026-11-18T04:30:16+00:00",
-        "summary": "Harete Hipango-Brownlie, NZ First MP on the MP induction last week, the hate MP's get in politics (especially women), and standing up for Michael Laws."
-      },
-      {
-        "title": "Former Trade Minister Tim Groser On Proposed Usa Trade Tariffs On Nz Sheep-Meat (",
-        "url": "https://www.youtube.com/watch?v=fUwgpEW3iK0",
-        "date_utc": "2026-11-17T10:23:21+00:00",
-        "summary": "Former Trade minister Tim Groser on proposed USA trade tariffs on NZ sheep-meat (and supercritical geothermal update)"
-      },
-      {
-        "title": "Are The Elderly Poor In Dire Straits?",
-        "url": "https://www.youtube.com/watch?v=DxqFtJv1pKc",
-        "date_utc": "2026-11-17T07:52:25+00:00",
-        "summary": "Are the elderly poor in dire straits? Greypower president David Marshall weighs in."
-      },
-      {
-        "title": "KiwiSaver Hardship Withdrawals Are Climbing At An Alarming Rate",
-        "url": "https://www.youtube.com/watch?v=tXlljgnDytw",
-        "date_utc": "2026-11-17T04:25:50+00:00",
-        "summary": "Liz Koh, Founder of Enrich Retirement - KiwiSaver hardship withdrawals are climbing at an alarming rate."
-      },
-      {
-        "title": "Charging For Toilets Could Create Serious Problems For People With Bowel Conditions",
-        "url": "https://www.youtube.com/watch?v=6Yhe_KcuSS8",
-        "date_utc": "2026-11-17T04:20:12+00:00",
-        "summary": "Belinda Brown, Crohn’s & Colitis NZ Charitable Trust Chief Executive - Health advocates warn charging for toilets could create serious problems for people with bowel conditions."
-      },
-      {
-        "title": "One-Third Of NZ Workers Fear Losing Their Jobs To AI",
-        "url": "https://www.youtube.com/watch?v=Ij-w4h6tBRA",
-        "date_utc": "2026-11-17T04:00:52+00:00",
-        "summary": "Professor Alex Richter of Human-Centric AI, University of Auckland Business School - One-third of NZ workers fear losing their jobs to AI."
-      },
-      {
-        "title": "Do We Really Need A Staggered Age Of Consent?",
-        "url": "https://www.youtube.com/watch?v=hTXAKgG1_i4",
-        "date_utc": "2026-11-17T01:12:14+00:00",
-        "summary": "Do we really need a staggered age of consent? Victims' advocate Ruth Money explains the problems."
-      },
-      {
-        "title": "Radio New Zealand: Time Is Up, Fullstop, For The Public Broadcaster",
-        "url": "https://www.youtube.com/watch?v=GSmlmVT-LB8",
-        "date_utc": "2026-11-17T01:07:40+00:00",
-        "summary": "Radio New Zealand: time is up, fullstop, for the public broadcaster"
-      },
-      {
-        "title": "Todd McClay On US Tariffs Threats Against NZ Lamb",
-        "url": "https://www.youtube.com/watch?v=UQqnotpppT8",
-        "date_utc": "2026-11-16T23:41:12+00:00",
-        "summary": ""
-      },
-      {
-        "title": "Sean Plunket Questions The Media Exploitation Of Grieving Parents",
-        "url": "https://www.youtube.com/watch?v=guQdnv5z0oY",
-        "date_utc": "2026-11-16T23:04:29+00:00",
-        "summary": ""
       }
     ],
     "opinions": []
