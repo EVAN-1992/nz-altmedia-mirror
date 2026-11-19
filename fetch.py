@@ -239,7 +239,7 @@ def youtube_atom(channel_id, label, limit=15):
     return record(label, out)
 
 
-OPINION_PATH = re.compile(r"/(?:opinions?|articles?|columns?|commentary)/[a-z0-9][a-z0-9-]+/?$")
+OPINION_PATH = re.compile(r"/(?:p|opinions?|articles?|columns?|commentary)/[a-z0-9][a-z0-9-]+/?$")
 
 
 def _slug_title(url):
@@ -252,6 +252,13 @@ def platform_opinions(limit=12):
     early November 2026, so this follows a sitemap index if that's what is served,
     then falls back to reading links off the /opinions listing page."""
     label = "platform opinions"
+    # theplatform.kiwi moved to Substack-style /p/<slug> URLs in Nov 2026, so its
+    # standard Substack RSS feed is the primary route (full text and real dates).
+    feed = feed_items("https://theplatform.kiwi/feed", "platform substack rss", limit=limit)
+    if feed:
+        HEALTH[label] = HEALTH.pop("platform substack rss")
+        return feed
+    HEALTH.pop("platform substack rss", None)
     rows = {}
     seen_paths = []
 
