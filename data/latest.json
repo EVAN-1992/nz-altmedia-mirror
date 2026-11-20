@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-20T08:52:11Z",
+  "generated_utc": "2026-11-20T17:53:56Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions every 3 hours. Exists because the brief's cloud runner cannot reach these domains directly. All date_utc values are ISO 8601 UTC; lists are newest first.",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,24 @@
     ],
     "youtube": [
       {
+        "title": "FREDDIE PONTON",
+        "url": "https://www.youtube.com/watch?v=Xc7I5NpS3iw",
+        "date_utc": "2026-11-20T13:03:17Z",
+        "summary": "Paul Brennan speaks with Freddie Ponton, Associate Editor of Global Affairs at 21st Century Wire, about the Trump-Xi-Putin summit and the growing influence of major technology companies over US policy. Ponton examines the US aviation shutdown, questioning whether it was connected to a much larger programme to modernise air traffic management using AI, autonomous aircraft and advanced surveillance technology. Discover more from 21st Century Wire or find them on X Follow Freddie on X For global news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "A POLITICAL AGENDA",
+        "url": "https://www.youtube.com/watch?v=bEXrPXOUiHQ",
+        "date_utc": "2026-11-20T13:02:50Z",
+        "summary": "Talking with Maree Buscke, Rachel Stewart and Ani O’Brien examine RNZ’s $11.8 million deficit, questioning its financial oversight and accountability before turning to accusations of media bias, failures to provide a right of reply, and claims of election manipulation. They challenge criticism of strategic voting and overhang seats, scrutinise the media’s promotion of the Opportunity Party and consider whether National and Labour have lost touch with their traditional voters. For news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "DAVID FARRAR",
+        "url": "https://www.youtube.com/watch?v=j-6KSLYsslw",
+        "date_utc": "2026-11-20T13:01:34Z",
+        "summary": "Paul Brennan speaks with David Farrar of Curia Market Research about the likely impact of overseas and domestic special votes as New Zealand awaits the final election result. David explains why overseas voters heavily favour the Greens and how the final count could leave Opportunity in a kingmaker position. For more from David Farrar visit KiwiBlog or Curia For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
         "title": "🇦🇺 \"You can legislate all the lies that you want in the world, but it doesn't change reality.\"",
         "url": "https://www.youtube.com/shorts/EpqG5rbFsis",
         "date_utc": "2026-11-20T07:00:46Z",
@@ -196,24 +214,6 @@
         "url": "https://www.youtube.com/watch?v=GMwxLdwlqmo",
         "date_utc": "2026-11-19T13:01:25Z",
         "summary": "Margaret Chambers of Australia’s Institute of Public Affairs warns that the proposed Digital Duty of Care legislation could give the eSafety Commissioner sweeping powers to collect sensitive personal information, profile internet users and share data with overseas enforcement agencies. She argues that vague definitions of harm and broad risk-assessment obligations threaten free expression, privacy and innovation and warns New Zealand not to follow in Australia’s footsteps. For further information: Read the IPA article | How the Digital Duty of Care violates the right to privacy and find the IPA on X, Instagram and Substack Read Margaret’s author page at Spectator Australia or find her on Substack , X and Instagram"
-      },
-      {
-        "title": "RIDING SHOTGUN",
-        "url": "https://www.youtube.com/watch?v=bUUC41iAmCA",
-        "date_utc": "2026-11-19T13:01:07Z",
-        "summary": "Rachel Stewart examines the harmful effects of mainstream pornography on young women and men, arguing that it distorts sexual expectations, normalises aggression towards women, damages body image and undermines real-world relationships. She also explores evolutionary biologist Brett Weinstein’s argument that easy access to pornography reduces young men’s motivation to develop the competence and confidence needed to attract a partner. Discover more from Rachel on Substack and X"
-      },
-      {
-        "title": "\"So New Zealand will not be able to produce non-GE food or organic food without having genes in it.\"",
-        "url": "https://www.youtube.com/shorts/l_cP-zjRmeA",
-        "date_utc": "2026-11-18T19:02:00Z",
-        "summary": "\"So New Zealand will not be able to produce non-GE food or organic food without having genes in it.\" - Paul Bosher, Dairy Farmer & Founder of GE Honesty Paul Bosher fears the proposed Gene Technology Bill could jeopardise New Zealand's ability to supply premium non-GE and organic markets. Could chasing the next agricultural breakthrough end up threatening the very food reputation we've spent generations building? 🎥 Watch here: https://rcr.media/episodes/paul-bosher-dairy-farmer-founder-of-ge-honesty-mps-need-better-advice-on-gene-technology #RCRMedia"
-      },
-      {
-        "title": "KARA DANSKY",
-        "url": "https://www.youtube.com/watch?v=CWksNMJE3UY",
-        "date_utc": "2026-11-18T13:03:47Z",
-        "summary": "Speaking with Maree Buscke, American lawyer, author and women’s rights advocate Kara Dansky discusses her new book, TERFLandia: How the Global Terven Will Win the Gender Wars . She explains how she became involved in the debate, why she believes mainstream left-wing institutions have abandoned women’s sex-based rights, and how financial interests, legal developments and public opinion are shaping the issue. For further information: Discover more from Kara on her website , Substack , Instagram , Facebook , YouTube and X Buy Kara’s new book Terflandia Check out Maree’s interviews with Vaishnavi Sundar | Her documentary about those left behind by trans husbands fathers Vaishnavi Sundar | The untold struggles of trans widows"
       }
     ]
   },
@@ -414,13 +414,13 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-19T07:29:58Z"
+      "newest_utc": "2026-11-19T20:55:43Z"
     },
     "rcr youtube": {
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-20T07:00:46Z"
+      "newest_utc": "2026-11-20T13:03:17Z"
     },
     "platform youtube": {
       "ok": true,
