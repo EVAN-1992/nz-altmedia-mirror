@@ -1,33 +1,45 @@
 name: mirror-nz-altmedia
 
-# Runs ~40 minutes before the daily news brief (which runs 11:45 UTC),
-# plus on demand. GitHub-hosted runners have unrestricted internet access,
-# which is the whole point of this repo.
+# GitHub delays scheduled runs heavily at busy times: the old single daily run at
+# 11:05 UTC was actually landing anywhere from 14:00 to 21:00 UTC, often after the
+# 17:00 UTC daily brief, which then read a day-old snapshot. Running every 3 hours
+# means the newest snapshot is always a few hours old at most, whatever the delay.
 on:
   schedule:
-    - cron: "5 11 * * *"
+    - cron: "23 */3 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: mirror
+  cancel-in-progress: false
+
 jobs:
   mirror:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
       - name: Fetch feeds
         run: python3 fetch.py
 
+      - name: Check brief renderer still builds
+        run: python3 brief/render.py selftest
+
       - name: Commit if changed
         run: |
           git config user.name "nz-altmedia-mirror"
           git config user.email "actions@github.com"
-          git add data/latest.json
+          git add data/latest.json data/news.json
           if git diff --staged --quiet; then
             echo "No change."
           else
             git commit -m "mirror: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            for i in 1 2 3; do
+              git pull --rebase --quiet && git push && break
+              sleep $((i * 5))
+            done
           fi
