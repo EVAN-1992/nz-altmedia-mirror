@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-20T17:53:56Z",
+  "generated_utc": "2026-11-21T00:02:50Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions every 3 hours. Exists because the brief's cloud runner cannot reach these domains directly. All date_utc values are ISO 8601 UTC; lists are newest first.",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -220,6 +220,12 @@
   "the_platform_nz": {
     "youtube": [
       {
+        "title": "What To Expect Of NZ’s Latest Cruise Ship Season",
+        "url": "https://www.youtube.com/watch?v=C-5UPI8agGg",
+        "date_utc": "2026-11-20T20:31:59Z",
+        "summary": "Jacqui Lloyd, CEO of New Zealand Cruise Association - The latest cruise ship season for New Zealand has kicked off, what to expect?"
+      },
+      {
         "title": "Parents' Alliance Cameron Bagrie On Why Parents Need A Real Voice In The Schooling Sector",
         "url": "https://www.youtube.com/watch?v=2ah6NrLyHDc",
         "date_utc": "2026-11-20T04:44:28Z",
@@ -302,15 +308,15 @@
         "url": "https://www.youtube.com/watch?v=hn1AfiP0hL0",
         "date_utc": "2026-11-19T04:42:23Z",
         "summary": "Ro Edge from Save Women's Sports - Why is it that celebrity scandals move the dial when the industrial-scale exploitation of working-class girls over decades by grooming networks has not?"
-      },
-      {
-        "title": "Why You Can't Trust The Media - Stuff On \"Double Dipping\" Story",
-        "url": "https://www.youtube.com/watch?v=OpgpuG8MYzc",
-        "date_utc": "2026-11-19T03:39:41Z",
-        "summary": "Why you can't trust the media - Stuff on \"double dipping\" story"
       }
     ],
     "opinions": [
+      {
+        "title": "What To Expect Of NZ’s Latest Cruise Ship Season",
+        "url": "https://www.theplatform.kiwi/p/what-to-expect-of-nzs-latest-cruise",
+        "date_utc": "2026-11-20T19:47:15Z",
+        "summary": "Read more"
+      },
       {
         "title": "Leah Panapa - 20 November 2026",
         "url": "https://www.theplatform.kiwi/p/leah-panapa-20-november-2026",
@@ -376,12 +382,6 @@
         "url": "https://www.theplatform.kiwi/p/richard-prebble-on-how-rnz-could",
         "date_utc": "2026-11-19T22:16:28Z",
         "summary": "Read more"
-      },
-      {
-        "title": "David Seymour Clears The Air On Where Money Will Go Regarding RNZ",
-        "url": "https://www.theplatform.kiwi/p/david-seymour-clears-the-air-on-where",
-        "date_utc": "2026-11-19T21:52:17Z",
-        "summary": "Read more"
       }
     ]
   },
@@ -426,13 +426,13 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-20T04:44:28Z"
+      "newest_utc": "2026-11-20T20:31:59Z"
     },
     "platform opinions": {
       "ok": true,
       "error": null,
       "items": 12,
-      "newest_utc": "2026-11-20T07:31:43Z"
+      "newest_utc": "2026-11-20T19:47:15Z"
     }
   }
 }
