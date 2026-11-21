@@ -1,8 +1,74 @@
 {
-  "generated_utc": "2026-11-21T07:26:12Z",
+  "generated_utc": "2026-11-21T16:51:19Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions every 3 hours. Exists because the brief's cloud runner cannot reach these domains directly. All date_utc values are ISO 8601 UTC; lists are newest first.",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "The global centre-right’s self-inflicted collapse: A lesson from New Zealand",
+        "url": "https://realitycheck.radio/the-global-centre-rights-self-inflicted-collapse-a-lesson-from-new-zealand/",
+        "date_utc": "2026-11-21T06:45:08Z",
+        "summary": "by Roger Partridge This essay is based on my comments […]"
+      },
+      {
+        "title": "ALIA BLAND & CLAIRE DEEKS: NZ Election Unveiled: Billionaires, Bias, and the Battle Behind the Campaign",
+        "url": "https://realitycheck.radio/episodes/alia-bland-claire-deeks-nz-election-unveiled-billionaires-bias-and-the-battle-behind-the-campaign/",
+        "date_utc": "2026-11-21T02:16:03Z",
+        "summary": ""
+      },
+      {
+        "title": "PAUL BOSHER: GE Contamination Crisis: Is NZ’s Organic Future Already Doomed?",
+        "url": "https://realitycheck.radio/episodes/paul-bosher-ge-contamination-crisis-is-nzs-organic-future-already-doomed/",
+        "date_utc": "2026-11-21T02:15:50Z",
+        "summary": ""
+      },
+      {
+        "title": "UNDER THE HOOD: Beyond Politics: Can We Survive By Relying On Our Enemies?",
+        "url": "https://realitycheck.radio/episodes/under-the-hood-beyond-politics-can-we-survive-by-relying-on-our-enemies/",
+        "date_utc": "2026-11-21T02:11:45Z",
+        "summary": ""
+      },
+      {
+        "title": "DAVID HARVEY: Budget Blowout Bombshell: The CFO Departure and $11.8M Shortfall Unveiled",
+        "url": "https://realitycheck.radio/episodes/david-harvey-budget-blowout-bombshell-the-cfo-departure-and-11-8m-shortfall-unveiled/",
+        "date_utc": "2026-11-21T02:10:46Z",
+        "summary": ""
+      },
+      {
+        "title": "PAUL BOSHER: GE Grains Takeover: Can NZ Seize Its Last Chance to Stay Clean?",
+        "url": "https://realitycheck.radio/episodes/paul-bosher-ge-grains-takeover-can-nz-seize-its-last-chance-to-stay-clean/",
+        "date_utc": "2026-11-21T02:09:48Z",
+        "summary": ""
+      },
+      {
+        "title": "RODNEY HIDE: NZ Politics Unveiled: Coalition Chaos and the Return to Grassroots Campaigning",
+        "url": "https://realitycheck.radio/episodes/rodney-hide-nz-politics-unveiled-coalition-chaos-and-the-return-to-grassroots-campaigning/",
+        "date_utc": "2026-11-21T02:09:02Z",
+        "summary": ""
+      },
+      {
+        "title": "BOB MCCOSKRIE: NZ Coalition Watch: Could Special Votes Flip the Political Script?",
+        "url": "https://realitycheck.radio/episodes/bob-mccoskrie-nz-coalition-watch-could-special-votes-flip-the-political-script/",
+        "date_utc": "2026-11-21T02:08:46Z",
+        "summary": ""
+      },
+      {
+        "title": "SIMON ANGELO: AI Bubble Burst: Is Nvidia’s Chip Dominance Finally Under Threat?",
+        "url": "https://realitycheck.radio/episodes/simon-angelo-ai-bubble-burst-is-nvidias-chip-dominance-finally-under-threat/",
+        "date_utc": "2026-11-21T02:08:26Z",
+        "summary": ""
+      },
+      {
+        "title": "ANTONIA MODKOVA: NZ Spending Exposed: Can Slashing Ministers Fix the Taxpayer Waste Crisis?",
+        "url": "https://realitycheck.radio/episodes/antonia-modkova-nz-spending-exposed-can-slashing-ministers-fix-the-taxpayer-waste-crisis/",
+        "date_utc": "2026-11-21T02:07:42Z",
+        "summary": ""
+      },
+      {
+        "title": "Replacement And Remigration In France",
+        "url": "https://realitycheck.radio/replacement-and-remigration-in-france/",
+        "date_utc": "2026-11-20T19:54:41Z",
+        "summary": "by White Papers Policy Institute France is one of the […]"
+      },
       {
         "title": "A POLITICAL AGENDA: With Ani O’Brien & Rachel Stewart: RNZ Blowout, MMP & Voter ‘Suppression’",
         "url": "https://realitycheck.radio/episodes/a-political-agenda-with-ani-obrien-rachel-stewart-rnz-blowout-mmp-voter-suppression/",
@@ -56,72 +122,6 @@
         "url": "https://realitycheck.radio/episodes/helen-joyce-director-of-advocacy-for-sex-matters-uk-conversion-practices-bill-could-criminalise-parenting/",
         "date_utc": "2026-11-19T00:53:20Z",
         "summary": ""
-      },
-      {
-        "title": "MARGARET CHAMBERS: Research Fellow at The Institute of Public Affairs: New Aussie Censorship Law NZ Wants to Copy",
-        "url": "https://realitycheck.radio/episodes/margaret-chambers-research-fellow-at-the-institute-of-public-affairs-new-aussie-censorship-law-nz-wants-to-copy/",
-        "date_utc": "2026-11-18T21:56:42Z",
-        "summary": ""
-      },
-      {
-        "title": "Clean up politics, but not ours",
-        "url": "https://realitycheck.radio/clean-up-politics-but-not-ours/",
-        "date_utc": "2026-11-18T21:40:35Z",
-        "summary": "by Rodney Hide The Opportunity Party campaigned on cleaning up […]"
-      },
-      {
-        "title": "RIDING SHOTGUN: With Rachel Stewart: A Check Mate On Your Porn",
-        "url": "https://realitycheck.radio/episodes/riding-shotgun-with-rachel-stewart-a-check-mate-on-your-porn/",
-        "date_utc": "2026-11-18T20:19:32Z",
-        "summary": ""
-      },
-      {
-        "title": "GARDENING WITH WALLY: Can Your Garden Be the Key to Better Health?",
-        "url": "https://realitycheck.radio/episodes/gardening-with-wally-can-your-garden-be-the-key-to-better-health/",
-        "date_utc": "2026-11-18T20:12:50Z",
-        "summary": ""
-      },
-      {
-        "title": "Experts gang up on the voters",
-        "url": "https://realitycheck.radio/experts-gang-up-on-the-voters/",
-        "date_utc": "2026-11-18T06:37:58Z",
-        "summary": "by Rodney Hide Here’s a tip. Always be alarmed when […]"
-      },
-      {
-        "title": "Heads We Win, Tails It’s Illegitimate",
-        "url": "https://realitycheck.radio/heads-we-win-tails-its-illegitimate/",
-        "date_utc": "2026-11-18T06:25:49Z",
-        "summary": "by Simon O’Connor There is a simple test of whether […]"
-      },
-      {
-        "title": "RODNEY HIDE: RCR Host & Former ACT MP: ‘Labour’s Route to Power is All Uphill’",
-        "url": "https://realitycheck.radio/episodes/rodney-hide-rcr-host-former-act-mp-labours-route-to-power-is-all-uphill/",
-        "date_utc": "2026-11-18T04:03:09Z",
-        "summary": ""
-      },
-      {
-        "title": "MONEY TALKS: With Simon Angelo: AI Boom Survives NVIDIA Turmoil",
-        "url": "https://realitycheck.radio/episodes/money-talks-with-simon-angelo-ai-boom-survives-nvidia-turmoil/",
-        "date_utc": "2026-11-18T03:18:57Z",
-        "summary": ""
-      },
-      {
-        "title": "GREENWASHED: With North Otago Sheep & Deer Farmer Paige Wills: Co-op Farmers Challenge AgriZero Investment",
-        "url": "https://realitycheck.radio/episodes/greenwashed-with-north-otago-sheep-deer-farmer-paige-wills-co-op-farmers-challenge-agrizero-investment/",
-        "date_utc": "2026-11-18T03:11:17Z",
-        "summary": ""
-      },
-      {
-        "title": "ANTONIA MODKOVA: ACT List MP: New ACT MP Targets Barriers to Innovation",
-        "url": "https://realitycheck.radio/episodes/antonia-modkova-act-list-mp-new-act-mp-targets-barriers-to-innovation/",
-        "date_utc": "2026-11-18T03:05:10Z",
-        "summary": ""
-      },
-      {
-        "title": "Two votes is not a loophole",
-        "url": "https://realitycheck.radio/two-votes-is-not-a-loophole/",
-        "date_utc": "2026-11-17T22:10:19Z",
-        "summary": "by Rodney Hide The Post ran two pieces on the […]"
       }
     ],
     "youtube": [
@@ -396,13 +396,13 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-19T20:55:43Z"
+      "newest_utc": "2026-11-21T06:45:08Z"
     },
     "rcr wp-json episodes": {
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-20T02:21:35Z"
+      "newest_utc": "2026-11-21T02:16:03Z"
     },
     "rcr allepisodes rss": {
       "ok": true,
