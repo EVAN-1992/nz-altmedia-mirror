@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-11-22T17:14:40Z",
+  "generated_utc": "2026-11-22T23:40:18Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions every 3 hours. Exists because the brief's cloud runner cannot reach these domains directly. All date_utc values are ISO 8601 UTC; lists are newest first.",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "BRENDAN HOARE: Organics Aotearoa NZ: Unapproved dsRNA Trials Threaten Organic Honey",
+        "url": "https://realitycheck.radio/episodes/brendan-hoare-organics-aotearoa-nz-unapproved-dsrna-trials-threaten-organic-honey/",
+        "date_utc": "2026-11-22T20:44:46Z",
+        "summary": "Paul Brennan speaks with Brendan Hoare of Organics Aotearoa New Zealand about field trials of dsRNA technology to combat Varroa mites in honeybees. Brendan questions why organic producers were not notified, whether honey and hives may have been affected and how regulators assessed the risks. For more information visit OANZ For everything you [...] The post BRENDAN HOARE: Organics Aotearoa NZ: Unapproved dsRNA Trials Threaten Organic Honey appeared first on Reality Check Radio ."
+      },
       {
         "title": "BOB MCCOSKRIE: NZ Election Fallout: Was Voter Suppression the Silent Election Thief?",
         "url": "https://realitycheck.radio/episodes/bob-mccoskrie-nz-election-fallout-was-voter-suppression-the-silent-election-thief/",
@@ -116,15 +122,33 @@
         "url": "https://realitycheck.radio/episodes/david-farrar-curia-market-research-founder-political-blogger-how-the-overhang-could-affect-the-next-election/",
         "date_utc": "2026-11-20T02:18:18Z",
         "summary": "Paul Brennan speaks with David Farrar of Curia Market Research about the likely impact of overseas and domestic special votes as New Zealand awaits the final election result. David explains why overseas voters heavily favour the Greens and how the final count could leave Opportunity in a kingmaker position. For more from David [...] The post DAVID FARRAR: Curia Market Research Founder & Political Blogger: How the Overhang Could Affect the Next Election appeared first on Reality Check Radio ."
-      },
-      {
-        "title": "FREDDIE PONTON: Associate Editor 21st Century Wire: Trump-Xi-Putin Summit and America’s AI-Controlled Airspace",
-        "url": "https://realitycheck.radio/episodes/freddie-ponton-associate-editor-21st-century-wire-trump-xi-putin-summit-and-americas-ai-controlled-airspace/",
-        "date_utc": "2026-11-20T01:31:55Z",
-        "summary": "Paul Brennan speaks with Freddie Ponton, Associate Editor of Global Affairs at 21st Century Wire, about the Trump-Xi-Putin summit and the growing influence of major technology companies over US policy. Ponton examines the US aviation shutdown, questioning whether it was connected to a much larger programme to modernise air traffic management using AI, [...] The post FREDDIE PONTON: Associate Editor 21st Century Wire: Trump-Xi-Putin Summit and America’s AI-Controlled Airspace appeared first on Reality Check Radio ."
       }
     ],
     "youtube": [
+      {
+        "title": "We're not an example. We're a testing ground for the worst kind of ideas in internet...",
+        "url": "https://www.youtube.com/shorts/uxeI31AVa2A",
+        "date_utc": "2026-11-22T20:01:26Z",
+        "summary": "🇦🇺 \"We're not an example. We're a testing ground for the worst kind of ideas in internet regulation.\" - Margaret Chambers, Research Fellow at The Institute of Public Affairs 🇦🇺 Margaret Chambers warns New Zealand against following Australia's controversial online safety and internet regulation policies. Why would New Zealand copy Australia's homework when Australia hasn't even figured out whether its own answers work? 🎥 Watch here: https://rcr.media/episodes/margaret-chambers-research-fellow-at-the-institute-of-public-affairs-new-aussie-censorship-law-nz-wants-to-copy #RCRMedia"
+      },
+      {
+        "title": "\"You just can't roll out of bed and vote at the Greens AGM.\" - Bob McCoskrie",
+        "url": "https://www.youtube.com/shorts/sAslbmL7PBY",
+        "date_utc": "2026-11-22T19:01:26Z",
+        "summary": "\"You just can't roll out of bed and vote at the Greens AGM.\" - Bob McCoskrie - Family First Chief Executive Bob McCoskrie takes aim at the Greens' voter suppression claims, pointing to their own reported AGM registration requirements. Should Chlöe Swarbrick launch an investigation into the Green Party's constitution before investigating everybody else's democracy? 🎥 Watch here: https://rcr.media/episodes/bob-mccoskrie-family-first-director-election-tactics-and-political-double-standards #RCRMedia"
+      },
+      {
+        "title": "It's very concerning that the politicians have completely bought into this and their belief that...",
+        "url": "https://www.youtube.com/shorts/76jac_ZN8yc",
+        "date_utc": "2026-11-22T18:30:46Z",
+        "summary": "\"It's very concerning that the politicians have completely bought into this and their belief that this is just a given, and it's just going to happen, and farmers are going to adopt it.\" - Paige Wills, North Otago Sheep & Deer Farmer As opposition grows to Farmlands' investment in AgriZero, Paige Wills questions the assumption that farmers will willingly embrace methane-reduction technologies. What happens to the grand Net Zero plan if the people actually doing the farming refuse to buy into it? 🎥 Watch here: https://rcr.media/episodes/greenwashed-with-north-otago-sheep-deer-farmer-paige-wills-co-op-farmers-challenge-agrizero-investment #RCRMedia #Greenwashed"
+      },
+      {
+        "title": "\"Well, for National, it's back to the electorates. And I think that's a wonderful, wonderful thing.\"",
+        "url": "https://www.youtube.com/shorts/e_3k9gAhDDE",
+        "date_utc": "2026-11-22T18:01:22Z",
+        "summary": "\"Well, for National, it's back to the electorates. And I think that's a wonderful, wonderful thing.\" - Rodney Hide, RCR Host & Former ACT MP Rodney Hide predicts a fundamental shift in National's campaigning, away from carefully staged media appearances and back towards grassroots electorate politics. Could Vote Smart have inadvertently rescued election campaigning from the clutches of the mainstream media? 🎥 Watch here: https://rcr.media/episodes/rodney-hide-rcr-host-former-act-mp-labours-route-to-power-is-all-uphill #RCRMedia"
+      },
       {
         "title": "UNDER THE HOOD",
         "url": "https://www.youtube.com/watch?v=HZzhSM_L-tw",
@@ -190,35 +214,29 @@
         "url": "https://www.youtube.com/shorts/UK0kArMxwik",
         "date_utc": "2026-11-20T06:00:37Z",
         "summary": "\"It is still a huge investment theme, and it's no time to throw the baby out with the bathwater in the case of Nvidia.\" - Simon Angelo, Wealth Morning Simon Angelo argues that Nvidia's troubles haven't undermined the broader AI investment opportunity, but highlights the importance of diversification. Do you know how much of your KiwiSaver is riding on the success of America's technology giants? 🎥 Watch here: https://rcr.media/episodes/money-talks-with-simon-angelo-ai-boom-survives-nvidia-turmoil #RCRMedia #MoneyTalks"
-      },
-      {
-        "title": "I think it was about 15 years, according to the parade organisers, since there'd been a Christian...",
-        "url": "https://www.youtube.com/shorts/lm4Le0Z75dY",
-        "date_utc": "2026-11-19T20:01:42Z",
-        "summary": "\"I think it was about 15 years, according to the parade organisers, since there'd been a Christian presence, a nativity float in the Auckland Santa Parade.\" - Ben Mai, Manager of Auckland Church Network Auckland's Christmas festivities are once again making room for the story that started it all. Isn't it ironic that a celebration of Christ's birth went around 15 years without a Nativity float? 🎥 Watch here: https://rcr.media/episodes/ben-mai-manager-of-auckland-church-network-christmas-nativity-float-returns-to-auckland-santa-parade #RCRMedia"
-      },
-      {
-        "title": "\"That parent's committing a conversion practice.\" - Helen Joyce, Director of Advocacy for Sex Matter",
-        "url": "https://www.youtube.com/shorts/ZD1HLTmgpTw",
-        "date_utc": "2026-11-19T19:31:49Z",
-        "summary": "\"That parent's committing a conversion practice.\" - Helen Joyce, Director of Advocacy for Sex Matters Helen Joyce warns that parents who advocate patience and caution over their child's proposed gender transition could find themselves in the crosshairs of Conversion Practices legislation. When did telling your child to slow down become something the criminal justice system might need to investigate? 🎥 Watch here: https://rcr.media/episodes/helen-joyce-director-of-advocacy-for-sex-matters-uk-conversion-practices-bill-could-criminalise-parenting #RCRMedia"
-      },
-      {
-        "title": "\"How many different departments there are, what a spaghetti mess of reporting lines.\"",
-        "url": "https://www.youtube.com/shorts/ZC6p0Kj76QA",
-        "date_utc": "2026-11-19T19:01:45Z",
-        "summary": "\"How many different departments there are, what a spaghetti mess of reporting lines.\" - Antonia Modkova, ACT List MP Coming from the technology and private sectors, newly elected ACT MP Antonia Modkova shares her first impressions of the machinery of government. If Wellington's bureaucrats were tasked with changing a light bulb, how many departments, consultants and reporting committees would it take? 🎥 Watch here: https://rcr.media/episodes/antonia-modkova-act-list-mp-new-act-mp-targets-barriers-to-innovation #RCRMedia"
-      },
-      {
-        "title": "Jaspreet 🌍 Who's Really Calling the Shots in New Zealand?",
-        "url": "https://www.youtube.com/shorts/-qaG04cOYFY",
-        "date_utc": "2026-11-19T18:31:11Z",
-        "summary": "🌍 Who's Really Calling the Shots in New Zealand? RCR's Jaspreet Boparai questions the Opportunity Party's proposed Future Generations Act, its UN connections and the growing influence of unelected international bodies over decisions made by elected representatives. Who gets the final say — voters or the UN? #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Sam Uffindell On $1.28 Million Spending For TaurangaNZ Branding",
+        "url": "https://www.youtube.com/watch?v=WNJqK7HOHWc",
+        "date_utc": "2026-11-22T23:19:31Z",
+        "summary": ""
+      },
+      {
+        "title": "New Plymouth Mayor Max Brough Stands Against Non-Elected Voting On Councils",
+        "url": "https://www.youtube.com/watch?v=reD99huQtLI",
+        "date_utc": "2026-11-22T22:19:36Z",
+        "summary": ""
+      },
+      {
+        "title": "Sean Plunket Says RNZ Suffering Laws Derangement Syndrome",
+        "url": "https://www.youtube.com/watch?v=sSfW2m92zf0",
+        "date_utc": "2026-11-22T22:03:04Z",
+        "summary": ""
+      },
       {
         "title": "What To Expect Of NZ’s Latest Cruise Ship Season",
         "url": "https://www.youtube.com/watch?v=C-5UPI8agGg",
@@ -290,27 +308,51 @@
         "url": "https://www.youtube.com/watch?v=qS6LtqN5Fh8",
         "date_utc": "2026-11-19T22:12:54Z",
         "summary": ""
-      },
-      {
-        "title": "Black Friday Deals: Five Things To Watch Out For",
-        "url": "https://www.youtube.com/watch?v=GRcIT00OFhc",
-        "date_utc": "2026-11-19T05:18:03Z",
-        "summary": "Rebecca Styles, Investigative Team Lead at Consumer NZ - Black Friday deals: Five things to watch out for."
-      },
-      {
-        "title": "Many Kiwis Now Working Well Into Their 80s & We Need To Stop Viewing Over 65s As An Economic Burden",
-        "url": "https://www.youtube.com/watch?v=1HlFm6Ei6jw",
-        "date_utc": "2026-11-19T05:01:20Z",
-        "summary": "Denise Cosgrove, CEO of Selwyn Foundation - Many Kiwis are now working well into their 80s, and we need to stop viewing people over 65 as an economic burden."
-      },
-      {
-        "title": "Why Do Celebrity Scandals Move The Dial When Exploitation Of Working-Class Girls Hasn't?",
-        "url": "https://www.youtube.com/watch?v=hn1AfiP0hL0",
-        "date_utc": "2026-11-19T04:42:23Z",
-        "summary": "Ro Edge from Save Women's Sports - Why is it that celebrity scandals move the dial when the industrial-scale exploitation of working-class girls over decades by grooming networks has not?"
       }
     ],
     "opinions": [
+      {
+        "title": "Parents' Alliance Cameron Bagrie On Why Parents Need A Real Voice In The Schooling Sector",
+        "url": "https://www.theplatform.kiwi/p/parents-alliance-cameron-bagrie-on",
+        "date_utc": "2026-11-22T23:39:13Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Simeon Brown On Managing Interregnum Government & Upcoming Coalition Agreements",
+        "url": "https://www.theplatform.kiwi/p/simeon-brown-on-managing-interregnum",
+        "date_utc": "2026-11-22T23:35:05Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Best of the Week | 23rd November 2026",
+        "url": "https://www.theplatform.kiwi/p/best-of-the-week-23rd-november-2026",
+        "date_utc": "2026-11-22T23:32:45Z",
+        "summary": "Each week we send you our top pieces of content from The Platform. For the best and most popular content, follow the links below:"
+      },
+      {
+        "title": "Sean Plunket - 23 November 2026",
+        "url": "https://www.theplatform.kiwi/p/sean-plunket-23-november-2026",
+        "date_utc": "2026-11-22T23:29:08Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Sam Uffindell On $1.28 Million Spending For TaurangaNZ Branding",
+        "url": "https://www.theplatform.kiwi/p/sam-uffindell-on-128-million-spending",
+        "date_utc": "2026-11-22T23:18:24Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "New Plymouth Mayor Max Brough Stands Against Non-Elected Voting On Councils",
+        "url": "https://www.theplatform.kiwi/p/new-plymouth-mayor-max-brough-stands",
+        "date_utc": "2026-11-22T22:14:24Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Sean Plunket Says RNZ Suffering Laws Derangement Syndrome",
+        "url": "https://www.theplatform.kiwi/p/sean-plunket-says-rnz-suffering-laws",
+        "date_utc": "2026-11-22T22:01:39Z",
+        "summary": ""
+      },
       {
         "title": "What To Expect Of NZ’s Latest Cruise Ship Season",
         "url": "https://www.theplatform.kiwi/p/what-to-expect-of-nzs-latest-cruise",
@@ -340,48 +382,6 @@
         "url": "https://www.theplatform.kiwi/p/banks-are-farming-us-monopoly-watch",
         "date_utc": "2026-11-20T02:02:25Z",
         "summary": "Read more"
-      },
-      {
-        "title": "Let's Not Forget: Opportunity Are The 'He Puapua' Party",
-        "url": "https://www.theplatform.kiwi/p/lets-not-forget-opportunity-are-the",
-        "date_utc": "2026-11-20T01:36:09Z",
-        "summary": ""
-      },
-      {
-        "title": "Economist Michael Redell on Wellington's bizarre decision to embrace land tax",
-        "url": "https://www.theplatform.kiwi/p/michael-redell",
-        "date_utc": "2026-11-20T01:07:56Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Michael Laws - 20 November 2026",
-        "url": "https://www.theplatform.kiwi/p/michael-laws-20-november-2026",
-        "date_utc": "2026-11-20T00:20:02Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Producer Kelly Reviews New GTA 6 Game",
-        "url": "https://www.theplatform.kiwi/p/producer-kelly-reviews-new-gta-6",
-        "date_utc": "2026-11-19T23:36:48Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Free Speech Fridays #183 – Laura McClure & Maurice Williamson",
-        "url": "https://www.theplatform.kiwi/p/free-speech-fridays-183-laura-mcclure",
-        "date_utc": "2026-11-19T22:31:30Z",
-        "summary": "Free Speech Fridays with Laura McClure & Maurice Williamson is brought to you by the Free Speech Union. Read more"
-      },
-      {
-        "title": "Family First's Bob McCoskrie On The So Called MMP Experts, And being cancelled.",
-        "url": "https://www.theplatform.kiwi/p/family-firsts-bob-mccoskrie-on-the",
-        "date_utc": "2026-11-19T22:29:43Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Richard Prebble On How RNZ Could Have Saved Itself",
-        "url": "https://www.theplatform.kiwi/p/richard-prebble-on-how-rnz-could",
-        "date_utc": "2026-11-19T22:16:28Z",
-        "summary": "Read more"
       }
     ]
   },
@@ -408,7 +408,7 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-21T20:30:11Z"
+      "newest_utc": "2026-11-22T20:44:46Z"
     },
     "rcr article rss": {
       "ok": true,
@@ -420,19 +420,19 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-22T13:01:05Z"
+      "newest_utc": "2026-11-22T20:01:26Z"
     },
     "platform youtube": {
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-20T20:31:59Z"
+      "newest_utc": "2026-11-22T23:19:31Z"
     },
     "platform opinions": {
       "ok": true,
       "error": null,
       "items": 12,
-      "newest_utc": "2026-11-20T19:47:15Z"
+      "newest_utc": "2026-11-22T23:39:13Z"
     }
   }
 }
