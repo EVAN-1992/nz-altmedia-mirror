@@ -1,13 +1,73 @@
 {
-  "generated_utc": "2026-11-22T07:07:22Z",
+  "generated_utc": "2026-11-22T17:14:40Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions every 3 hours. Exists because the brief's cloud runner cannot reach these domains directly. All date_utc values are ISO 8601 UTC; lists are newest first.",
   "reality_check_radio": {
     "articles_and_episodes": [
       {
+        "title": "BOB MCCOSKRIE: NZ Election Fallout: Was Voter Suppression the Silent Election Thief?",
+        "url": "https://realitycheck.radio/episodes/bob-mccoskrie-nz-election-fallout-was-voter-suppression-the-silent-election-thief/",
+        "date_utc": "2026-11-21T21:02:59Z",
+        "summary": ""
+      },
+      {
+        "title": "CRAIG STOBO: CEO Pay Scandal: Who’s Accountable for the $11.8M Loss?",
+        "url": "https://realitycheck.radio/episodes/craig-stobo-ceo-pay-scandal-whos-accountable-for-the-11-8m-loss/",
+        "date_utc": "2026-11-21T21:01:26Z",
+        "summary": ""
+      },
+      {
+        "title": "MARGARET CHAMBERS: NZ Surveillance State: Protecting Children or Profiling Citizens?",
+        "url": "https://realitycheck.radio/episodes/margaret-chambers-nz-surveillance-state-protecting-children-or-profiling-citizens/",
+        "date_utc": "2026-11-21T21:00:33Z",
+        "summary": ""
+      },
+      {
+        "title": "PAIGE WILLS: NZ Farmers Beware: Carrots Today, Sticks Tomorrow in Emissions Tech Gamble",
+        "url": "https://realitycheck.radio/episodes/paige-wills-nz-farmers-beware-carrots-today-sticks-tomorrow-in-emissions-tech-gamble/",
+        "date_utc": "2026-11-21T21:00:11Z",
+        "summary": ""
+      },
+      {
+        "title": "RODNEY HIDE: NZ 2029: National’s Electorate Strategy Could Sink Labour For Good",
+        "url": "https://realitycheck.radio/episodes/rodney-hide-nz-2029-nationals-electorate-strategy-could-sink-labour-for-good/",
+        "date_utc": "2026-11-21T20:59:46Z",
+        "summary": ""
+      },
+      {
+        "title": "KARA DANSKY: WPATH Exposed: Fraud, Fetish Links, and the Silenced Feminist Warning",
+        "url": "https://realitycheck.radio/episodes/kara-dansky-wpath-exposed-fraud-fetish-links-and-the-silenced-feminist-warning/",
+        "date_utc": "2026-11-21T20:59:11Z",
+        "summary": ""
+      },
+      {
+        "title": "TIM WILMS: Puberty Blockers Debate: Victoria Defies Medical Caution on Gender Drugs",
+        "url": "https://realitycheck.radio/episodes/tim-wilms-puberty-blockers-debate-victoria-defies-medical-caution-on-gender-drugs/",
+        "date_utc": "2026-11-21T20:58:58Z",
+        "summary": ""
+      },
+      {
+        "title": "WALLY RICHARDS: Nutritional Collapse: How Modern Food Is Making Us Sick and Fat",
+        "url": "https://realitycheck.radio/episodes/wally-richards-nutritional-collapse-how-modern-food-is-making-us-sick-and-fat/",
+        "date_utc": "2026-11-21T20:58:43Z",
+        "summary": ""
+      },
+      {
+        "title": "SARAH MYHILL: MHRA’s Death Data Cover-Up: Is the COVID Virus Man-Made?",
+        "url": "https://realitycheck.radio/episodes/sarah-myhill-mhras-death-data-cover-up-is-the-covid-virus-man-made/",
+        "date_utc": "2026-11-21T20:58:41Z",
+        "summary": ""
+      },
+      {
+        "title": "BOB MCCOSKRIE: NZ Electoral Hypocrisy Unveiled: Overhang Seats and Double Standards Exposed",
+        "url": "https://realitycheck.radio/episodes/bob-mccoskrie-nz-electoral-hypocrisy-unveiled-overhang-seats-and-double-standards-exposed/",
+        "date_utc": "2026-11-21T20:58:04Z",
+        "summary": ""
+      },
+      {
         "title": "UNDER THE HOOD: With Graham ‘Hoody’ Hood: Reconciliation and Making Amends",
         "url": "https://realitycheck.radio/episodes/under-the-hood-with-graham-hoody-hood-reconciliation-and-making-amends/",
         "date_utc": "2026-11-21T20:30:11Z",
-        "summary": "Division is tearing apart families, friendships and communities. Graham \"Hoody\" Hood shares a deeply personal story about his seven-year estrangement from his father, the importance of forgiveness, and why it's time to stop letting disagreements destroy relationships. He also reflects on divisions among people who once stood together in challenging the Covid-19 response, and [...] The post UNDER THE HOOD: With Graham ‘Hoody’ Hood: Reconciliation and Making Amends appeared first on Reality Check Radio ."
+        "summary": ""
       },
       {
         "title": "The global centre-right’s self-inflicted collapse: A lesson from New Zealand",
@@ -40,36 +100,6 @@
         "summary": ""
       },
       {
-        "title": "PAUL BOSHER: GE Grains Takeover: Can NZ Seize Its Last Chance to Stay Clean?",
-        "url": "https://realitycheck.radio/episodes/paul-bosher-ge-grains-takeover-can-nz-seize-its-last-chance-to-stay-clean/",
-        "date_utc": "2026-11-21T02:09:48Z",
-        "summary": ""
-      },
-      {
-        "title": "RODNEY HIDE: NZ Politics Unveiled: Coalition Chaos and the Return to Grassroots Campaigning",
-        "url": "https://realitycheck.radio/episodes/rodney-hide-nz-politics-unveiled-coalition-chaos-and-the-return-to-grassroots-campaigning/",
-        "date_utc": "2026-11-21T02:09:02Z",
-        "summary": ""
-      },
-      {
-        "title": "BOB MCCOSKRIE: NZ Coalition Watch: Could Special Votes Flip the Political Script?",
-        "url": "https://realitycheck.radio/episodes/bob-mccoskrie-nz-coalition-watch-could-special-votes-flip-the-political-script/",
-        "date_utc": "2026-11-21T02:08:46Z",
-        "summary": ""
-      },
-      {
-        "title": "SIMON ANGELO: AI Bubble Burst: Is Nvidia’s Chip Dominance Finally Under Threat?",
-        "url": "https://realitycheck.radio/episodes/simon-angelo-ai-bubble-burst-is-nvidias-chip-dominance-finally-under-threat/",
-        "date_utc": "2026-11-21T02:08:26Z",
-        "summary": ""
-      },
-      {
-        "title": "ANTONIA MODKOVA: NZ Spending Exposed: Can Slashing Ministers Fix the Taxpayer Waste Crisis?",
-        "url": "https://realitycheck.radio/episodes/antonia-modkova-nz-spending-exposed-can-slashing-ministers-fix-the-taxpayer-waste-crisis/",
-        "date_utc": "2026-11-21T02:07:42Z",
-        "summary": ""
-      },
-      {
         "title": "Replacement And Remigration In France",
         "url": "https://realitycheck.radio/replacement-and-remigration-in-france/",
         "date_utc": "2026-11-20T19:54:41Z",
@@ -79,52 +109,28 @@
         "title": "A POLITICAL AGENDA: With Ani O’Brien & Rachel Stewart: RNZ Blowout, MMP & Voter ‘Suppression’",
         "url": "https://realitycheck.radio/episodes/a-political-agenda-with-ani-obrien-rachel-stewart-rnz-blowout-mmp-voter-suppression/",
         "date_utc": "2026-11-20T02:21:35Z",
-        "summary": ""
+        "summary": "Talking with Maree Buscke, Rachel Stewart and Ani O’Brien examine RNZ’s $11.8 million deficit, questioning its financial oversight and accountability before turning to accusations of media bias, failures to provide a right of reply, and claims of election manipulation. They challenge criticism of strategic voting and overhang seats, scrutinise the media’s promotion of [...] The post A POLITICAL AGENDA: With Ani O’Brien & Rachel Stewart: RNZ Blowout, MMP & Voter ‘Suppression’ appeared first on Reality Check Radio ."
       },
       {
         "title": "DAVID FARRAR: Curia Market Research Founder & Political Blogger: How the Overhang Could Affect the Next Election",
         "url": "https://realitycheck.radio/episodes/david-farrar-curia-market-research-founder-political-blogger-how-the-overhang-could-affect-the-next-election/",
         "date_utc": "2026-11-20T02:18:18Z",
-        "summary": ""
+        "summary": "Paul Brennan speaks with David Farrar of Curia Market Research about the likely impact of overseas and domestic special votes as New Zealand awaits the final election result. David explains why overseas voters heavily favour the Greens and how the final count could leave Opportunity in a kingmaker position. For more from David [...] The post DAVID FARRAR: Curia Market Research Founder & Political Blogger: How the Overhang Could Affect the Next Election appeared first on Reality Check Radio ."
       },
       {
         "title": "FREDDIE PONTON: Associate Editor 21st Century Wire: Trump-Xi-Putin Summit and America’s AI-Controlled Airspace",
         "url": "https://realitycheck.radio/episodes/freddie-ponton-associate-editor-21st-century-wire-trump-xi-putin-summit-and-americas-ai-controlled-airspace/",
         "date_utc": "2026-11-20T01:31:55Z",
-        "summary": ""
-      },
-      {
-        "title": "Riding Shotgun – ep 70: A Check Mate On Your Porn",
-        "url": "https://realitycheck.radio/riding-shotgun-ep-70-a-check-mate-on-your-porn/",
-        "date_utc": "2026-11-19T20:55:43Z",
-        "summary": "by Rachel Stewart I have never liked pornography. It’s probably […]"
-      },
-      {
-        "title": "The 2026 General Election Result",
-        "url": "https://realitycheck.radio/the-2026-general-election-result/",
-        "date_utc": "2026-11-19T07:29:58Z",
-        "summary": "by Dr Muriel Newman New Zealand’s 2026 General Election is […]"
-      },
-      {
-        "title": "We Are Swimming In Electoral Fraud",
-        "url": "https://realitycheck.radio/we-are-swimming-in-electoral-fraud/",
-        "date_utc": "2026-11-19T06:37:50Z",
-        "summary": "by Nathan Smith The moment, the exact second, that the […]"
-      },
-      {
-        "title": "CRAIG STOBO: Former Financial Markets Authority Chair: ‘RNZ’s Charter Needs Reassessing’",
-        "url": "https://realitycheck.radio/episodes/craig-stobo-incoming-national-party-mp-former-financial-markets-authority-chair-rnzs-charter-needs-reassessing/",
-        "date_utc": "2026-11-19T02:18:16Z",
-        "summary": ""
-      },
-      {
-        "title": "MAREE’S MUSINGS: Strategic Voting: OK for Me but Not for Thee",
-        "url": "https://realitycheck.radio/episodes/marees-musings-strategic-voting-ok-for-me-but-not-for-thee/",
-        "date_utc": "2026-11-19T01:19:44Z",
-        "summary": ""
+        "summary": "Paul Brennan speaks with Freddie Ponton, Associate Editor of Global Affairs at 21st Century Wire, about the Trump-Xi-Putin summit and the growing influence of major technology companies over US policy. Ponton examines the US aviation shutdown, questioning whether it was connected to a much larger programme to modernise air traffic management using AI, [...] The post FREDDIE PONTON: Associate Editor 21st Century Wire: Trump-Xi-Putin Summit and America’s AI-Controlled Airspace appeared first on Reality Check Radio ."
       }
     ],
     "youtube": [
+      {
+        "title": "UNDER THE HOOD",
+        "url": "https://www.youtube.com/watch?v=HZzhSM_L-tw",
+        "date_utc": "2026-11-22T13:01:05Z",
+        "summary": "Division is tearing apart families, friendships and communities. Graham “Hoody” Hood shares a deeply personal story about his seven-year estrangement from his father, the importance of forgiveness, and why it’s time to stop letting disagreements destroy relationships. He also reflects on divisions among people who once stood together in challenging the Covid-19 response, and challenges us to consider who we need to make amends with. For more information check out Hoody’s Heroes in NZ For community connections, make sure to get in touch with your local VFF group Discover more from Hoody at Club Grubbery or find him on Facebook and X"
+      },
       {
         "title": "🇦🇺 The full findings by NHMRC, which is funded by the Federal Government, won't be available...",
         "url": "https://www.youtube.com/shorts/mG9tQD8rKL4",
@@ -208,12 +214,6 @@
         "url": "https://www.youtube.com/shorts/-qaG04cOYFY",
         "date_utc": "2026-11-19T18:31:11Z",
         "summary": "🌍 Who's Really Calling the Shots in New Zealand? RCR's Jaspreet Boparai questions the Opportunity Party's proposed Future Generations Act, its UN connections and the growing influence of unelected international bodies over decisions made by elected representatives. Who gets the final say — voters or the UN? #RCRMedia"
-      },
-      {
-        "title": "Don on the Election: What's Really Going on Behind the Scenes?",
-        "url": "https://www.youtube.com/shorts/QOZGWs-YYEE",
-        "date_utc": "2026-11-19T18:02:29Z",
-        "summary": "🗳️ As the Election Dust Settles, What's Really Going On Behind the Scenes? 🚜 RCR's Don Nicolson gives his take on Christopher Luxon's post-election response, Vanessa Weenink's criticism of her own party, and Katie Milne's big win on the West Coast. What does it all mean for farmers and the new Parliament? #RCRMedia"
       }
     ]
   },
@@ -402,7 +402,7 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-21T02:16:03Z"
+      "newest_utc": "2026-11-21T21:02:59Z"
     },
     "rcr allepisodes rss": {
       "ok": true,
@@ -420,7 +420,7 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-21T20:01:39Z"
+      "newest_utc": "2026-11-22T13:01:05Z"
     },
     "platform youtube": {
       "ok": true,
