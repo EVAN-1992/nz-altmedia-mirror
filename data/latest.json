@@ -1,8 +1,20 @@
 {
-  "generated_utc": "2026-11-23T07:54:25Z",
+  "generated_utc": "2026-11-23T21:33:35Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions every 3 hours. Exists because the brief's cloud runner cannot reach these domains directly. All date_utc values are ISO 8601 UTC; lists are newest first.",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "DRS SARAH AND RANDALL FARRANT: Co-Founders of Vital Wellbeing: The Brain’s Nightly Clean-Up — Why Deep Sleep Matters",
+        "url": "https://realitycheck.radio/episodes/drs-sarah-and-randall-farrant-co-founders-of-vital-wellbeing-the-brains-nightly-clean-up-why-deep-sleep-matters/",
+        "date_utc": "2026-11-23T21:03:17Z",
+        "summary": "Rodney Hide speaks with Drs Sarah and Randall Farrant about the glymphatic system, the brain’s waste-clearance network and its role in maintaining neurological health. They explain how this process becomes more active during sleep and discuss the importance of sleep quality, movement, posture, hydration, nutrition and recovery. They also explore claims linking impaired [...] The post DRS SARAH AND RANDALL FARRANT: Co-Founders of Vital Wellbeing: The Brain’s Nightly Clean-Up — Why Deep Sleep Matters appeared first on Reality Check Radio ."
+      },
+      {
+        "title": "RCR ROAD TRIP: Building Community Across NZ",
+        "url": "https://realitycheck.radio/episodes/rcr-road-trip-building-community-across-nz/",
+        "date_utc": "2026-11-23T20:47:19Z",
+        "summary": "Meagan McNamara and Dean Harrison join Paul Brennan with an update on RCR’s nationwide road trip, sharing stories of the people they’ve met and the growing community support along the way. They discuss the grassroots energy behind the Vote Smart campaign, the importance of political participation and the conversations happening at stops around [...] The post RCR ROAD TRIP: Building Community Across NZ appeared first on Reality Check Radio ."
+      },
       {
         "title": "CASEY HODGKINSON: Vaccine-Injury Survivor: Long Battle for Recognition of Vaccine Injury",
         "url": "https://realitycheck.radio/episodes/casey-hodgkinson-vaccine-injury-survivor-long-battle-for-recognition-of-vaccine-injury/",
@@ -110,21 +122,21 @@
         "url": "https://realitycheck.radio/episodes/a-political-agenda-with-ani-obrien-rachel-stewart-rnz-blowout-mmp-voter-suppression/",
         "date_utc": "2026-11-20T02:21:35Z",
         "summary": "Talking with Maree Buscke, Rachel Stewart and Ani O’Brien examine RNZ’s $11.8 million deficit, questioning its financial oversight and accountability before turning to accusations of media bias, failures to provide a right of reply, and claims of election manipulation. They challenge criticism of strategic voting and overhang seats, scrutinise the media’s promotion of [...] The post A POLITICAL AGENDA: With Ani O’Brien & Rachel Stewart: RNZ Blowout, MMP & Voter ‘Suppression’ appeared first on Reality Check Radio ."
-      },
-      {
-        "title": "DAVID FARRAR: Curia Market Research Founder & Political Blogger: How the Overhang Could Affect the Next Election",
-        "url": "https://realitycheck.radio/episodes/david-farrar-curia-market-research-founder-political-blogger-how-the-overhang-could-affect-the-next-election/",
-        "date_utc": "2026-11-20T02:18:18Z",
-        "summary": "Paul Brennan speaks with David Farrar of Curia Market Research about the likely impact of overseas and domestic special votes as New Zealand awaits the final election result. David explains why overseas voters heavily favour the Greens and how the final count could leave Opportunity in a kingmaker position. For more from David [...] The post DAVID FARRAR: Curia Market Research Founder & Political Blogger: How the Overhang Could Affect the Next Election appeared first on Reality Check Radio ."
-      },
-      {
-        "title": "FREDDIE PONTON: Associate Editor 21st Century Wire: Trump-Xi-Putin Summit and America’s AI-Controlled Airspace",
-        "url": "https://realitycheck.radio/episodes/freddie-ponton-associate-editor-21st-century-wire-trump-xi-putin-summit-and-americas-ai-controlled-airspace/",
-        "date_utc": "2026-11-20T01:31:55Z",
-        "summary": "Paul Brennan speaks with Freddie Ponton, Associate Editor of Global Affairs at 21st Century Wire, about the Trump-Xi-Putin summit and the growing influence of major technology companies over US policy. Ponton examines the US aviation shutdown, questioning whether it was connected to a much larger programme to modernise air traffic management using AI, [...] The post FREDDIE PONTON: Associate Editor 21st Century Wire: Trump-Xi-Putin Summit and America’s AI-Controlled Airspace appeared first on Reality Check Radio ."
       }
     ],
     "youtube": [
+      {
+        "title": "JOSHUA RILEY",
+        "url": "https://www.youtube.com/watch?v=RYzW88qpED4",
+        "date_utc": "2026-11-23T13:01:43Z",
+        "summary": "Joshua Riley of Sovereign joins Paul Brennan to discuss the election aftermath, defending RCR’s role in countering Te Pāti Māori’s electorate-vote strategy. He argues National misled voters by encouraging party votes that could not deliver additional MPs and questions its commitment to MMP. He also outlines what ACT and NZ First should demand in coalition negotiations, particularly on immigration, digital ID and policies he believes threaten New Zealand’s sovereignty. Discover more from Sovereign on X For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "BRENDAN HOARE",
+        "url": "https://www.youtube.com/watch?v=uRJl_zyE2w4",
+        "date_utc": "2026-11-23T13:01:14Z",
+        "summary": "Paul Brennan speaks with Brendan Hoare of Organics Aotearoa New Zealand about field trials of dsRNA technology to combat Varroa mites in honeybees. Brendan questions why organic producers were not notified, whether honey and hives may have been affected and how regulators assessed the risks. For more information visit OANZ For everything you need to Say No To Gene Technology"
+      },
       {
         "title": "\"It always starts with the children.\" - Margaret Chambers",
         "url": "https://www.youtube.com/shorts/WedJCBunWxc",
@@ -202,23 +214,17 @@
         "url": "https://www.youtube.com/shorts/k2VT7sBzYf0",
         "date_utc": "2026-11-21T18:01:54Z",
         "summary": "\"Another excuse was it might cause vaccine hesitancy.\" - Dr Sarah Myhill, UK Physician & Medical Ethics Director at UK Medical Freedom Alliance Dr Sarah Myhill questions the reported refusal to release mortality data requested by Dr Clare Craig, arguing that public confidence depends on transparency rather than withholding information. If releasing information could undermine public confidence, isn't withholding it likely to raise even more questions? 🎥 Watch here: https://rcr.media/episodes/sarah-myhill-uk-physician-medical-ethics-director-at-uk-medical-freedom-alliance-doctor-takes-aim-at-uks-covid-leadership #RCRMedia"
-      },
-      {
-        "title": "FREDDIE PONTON",
-        "url": "https://www.youtube.com/watch?v=Xc7I5NpS3iw",
-        "date_utc": "2026-11-20T13:03:17Z",
-        "summary": "Paul Brennan speaks with Freddie Ponton, Associate Editor of Global Affairs at 21st Century Wire, about the Trump-Xi-Putin summit and the growing influence of major technology companies over US policy. Ponton examines the US aviation shutdown, questioning whether it was connected to a much larger programme to modernise air traffic management using AI, autonomous aircraft and advanced surveillance technology. Discover more from 21st Century Wire or find them on X Follow Freddie on X For global news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "A POLITICAL AGENDA",
-        "url": "https://www.youtube.com/watch?v=bEXrPXOUiHQ",
-        "date_utc": "2026-11-20T13:02:50Z",
-        "summary": "Talking with Maree Buscke, Rachel Stewart and Ani O’Brien examine RNZ’s $11.8 million deficit, questioning its financial oversight and accountability before turning to accusations of media bias, failures to provide a right of reply, and claims of election manipulation. They challenge criticism of strategic voting and overhang seats, scrutinise the media’s promotion of the Opportunity Party and consider whether National and Labour have lost touch with their traditional voters. For news that matters, get RCR Bites FREE every weekday"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "More Appalling Decisions By Courts That Discount Child Homicide",
+        "url": "https://www.youtube.com/watch?v=DHDnCa27Hfo",
+        "date_utc": "2026-11-23T21:05:32Z",
+        "summary": "More appalling decisions by courts that discount child homicide - Sensible Sentencing Trust's Louise Parsons."
+      },
       {
         "title": "When Are Teachers Legally Allowed To Make Physical Contact With Students & Where Is The Line?",
         "url": "https://www.youtube.com/watch?v=VfIxpTXiW4c",
@@ -302,15 +308,21 @@
         "url": "https://www.youtube.com/watch?v=yXgv0-qzqW4",
         "date_utc": "2026-11-20T02:21:55Z",
         "summary": ""
-      },
-      {
-        "title": "Banks Are Farming Us: Monopoly Watch Founder Tex Edwards On How, And How Much The Damage.",
-        "url": "https://www.youtube.com/watch?v=i8cWCRb5q0c",
-        "date_utc": "2026-11-20T01:52:03Z",
-        "summary": "Banks are farming us: Monopoly Watch founder Tex Edwards on how, and how much the damage."
       }
     ],
     "opinions": [
+      {
+        "title": "Sean Plunket - 24 November 2026",
+        "url": "https://www.theplatform.kiwi/p/sean-plunket-24-november-2026",
+        "date_utc": "2026-11-23T21:14:55Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Michael Laws - 23 November 2026",
+        "url": "https://www.theplatform.kiwi/p/michael-laws-23-november-2026",
+        "date_utc": "2026-11-23T20:00:55Z",
+        "summary": "Read more"
+      },
       {
         "title": "More Appalling Decisions By Courts That Discount Child Homicide",
         "url": "https://www.theplatform.kiwi/p/more-appalling-decisions-by-courts",
@@ -370,18 +382,6 @@
         "url": "https://www.theplatform.kiwi/p/banks-are-farming-us-monopoly-watch-54c",
         "date_utc": "2026-11-22T23:42:04Z",
         "summary": "Read more"
-      },
-      {
-        "title": "Parents' Alliance Cameron Bagrie On Why Parents Need A Real Voice In The Schooling Sector",
-        "url": "https://www.theplatform.kiwi/p/parents-alliance-cameron-bagrie-on",
-        "date_utc": "2026-11-22T23:39:13Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Simeon Brown On Managing Interregnum Government & Upcoming Coalition Agreements",
-        "url": "https://www.theplatform.kiwi/p/simeon-brown-on-managing-interregnum",
-        "date_utc": "2026-11-22T23:35:05Z",
-        "summary": "Read more"
       }
     ]
   },
@@ -408,7 +408,7 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-23T00:50:16Z"
+      "newest_utc": "2026-11-23T21:03:17Z"
     },
     "rcr article rss": {
       "ok": true,
@@ -420,19 +420,19 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-23T07:00:46Z"
+      "newest_utc": "2026-11-23T13:01:43Z"
     },
     "platform youtube": {
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-23T04:33:43Z"
+      "newest_utc": "2026-11-23T21:05:32Z"
     },
     "platform opinions": {
       "ok": true,
       "error": null,
       "items": 12,
-      "newest_utc": "2026-11-23T04:35:56Z"
+      "newest_utc": "2026-11-23T21:14:55Z"
     }
   }
 }
