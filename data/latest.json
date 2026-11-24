@@ -1,8 +1,26 @@
 {
-  "generated_utc": "2026-11-24T10:06:51Z",
+  "generated_utc": "2026-11-24T22:37:25Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions every 3 hours. Exists because the brief's cloud runner cannot reach these domains directly. All date_utc values are ISO 8601 UTC; lists are newest first.",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "MONEY TALKS: With Joel Robinson: AI Boom Exposes Hidden Risks in Global Investment Markets",
+        "url": "https://realitycheck.radio/episodes/money-talks-with-joel-robinson-ai-boom-exposes-hidden-risks-in-global-investment-markets/",
+        "date_utc": "2026-11-24T22:25:54Z",
+        "summary": "NVIDIA’s dramatic share-price swings and the record-breaking IPO of AI company Anthropic are raising questions about the sustainability of the AI investment boom. Talking with Paul Brennan, investment adviser Joel Robinson examines the growing financial interdependence between major technology companies, the risks of circular financing and the warning signs emerging in US markets. [...] The post MONEY TALKS: With Joel Robinson: AI Boom Exposes Hidden Risks in Global Investment Markets appeared first on Reality Check Radio ."
+      },
+      {
+        "title": "BOTH BARRELS: With Maree Buscke & Rachel Stewart: The Cost to Youth with Pornography’s Digital Explosion",
+        "url": "https://realitycheck.radio/episodes/both-barrels-with-maree-buscke-rachel-stewart-the-cost-to-youth-with-pornographys-digital-explosion/",
+        "date_utc": "2026-11-24T21:24:45Z",
+        "summary": "Maree Buscke and Rachel Stewart examine how pornography has evolved from hidden magazines to an instantly accessible, multi-billion-dollar online industry, and the growing impact on children, relationships and intimacy. They discuss the increasingly extreme nature of online content, the normalisation of harmful sexual behaviours, early exposure among teenagers and the emerging threat of [...] The post BOTH BARRELS: With Maree Buscke & Rachel Stewart: The Cost to Youth with Pornography’s Digital Explosion appeared first on Reality Check Radio ."
+      },
+      {
+        "title": "NICK SMITH: Nelson Mayor: The Case for Protecting Electorate MPs",
+        "url": "https://realitycheck.radio/episodes/nick-smith-nelson-mayor-the-case-for-protecting-electorate-mps/",
+        "date_utc": "2026-11-24T21:00:02Z",
+        "summary": "Talking with Simon O'Connor, former National MP and Nelson mayor Nick Smith challenges criticism of the 2026 election results, arguing that strategic voting has been overstated and that electorate MPs play an essential role in representing local communities. He warns against proposed changes that could undermine electorate representation, calls for electoral law to [...] The post NICK SMITH: Nelson Mayor: The Case for Protecting Electorate MPs appeared first on Reality Check Radio ."
+      },
       {
         "title": "TECH TUESDAY: With Steven Sykes: What’s Driving AI Cyberattacks?",
         "url": "https://realitycheck.radio/episodes/tech-tuesday-with-steven-sykes-whats-driving-ai-cyberattacks/",
@@ -104,27 +122,51 @@
         "url": "https://realitycheck.radio/episodes/under-the-hood-with-graham-hoody-hood-reconciliation-and-making-amends/",
         "date_utc": "2026-11-21T20:30:11Z",
         "summary": "Division is tearing apart families, friendships and communities. Graham \"Hoody\" Hood shares a deeply personal story about his seven-year estrangement from his father, the importance of forgiveness, and why it's time to stop letting disagreements destroy relationships. He also reflects on divisions among people who once stood together in challenging the Covid-19 response, and [...] The post UNDER THE HOOD: With Graham ‘Hoody’ Hood: Reconciliation and Making Amends appeared first on Reality Check Radio ."
-      },
-      {
-        "title": "The global centre-right’s self-inflicted collapse: A lesson from New Zealand",
-        "url": "https://realitycheck.radio/the-global-centre-rights-self-inflicted-collapse-a-lesson-from-new-zealand/",
-        "date_utc": "2026-11-21T06:45:08Z",
-        "summary": "by Roger Partridge This essay is based on my comments […]"
-      },
-      {
-        "title": "Replacement And Remigration In France",
-        "url": "https://realitycheck.radio/replacement-and-remigration-in-france/",
-        "date_utc": "2026-11-20T19:54:41Z",
-        "summary": "by White Papers Policy Institute France is one of the […]"
-      },
-      {
-        "title": "A POLITICAL AGENDA: With Ani O’Brien & Rachel Stewart: RNZ Blowout, MMP & Voter ‘Suppression’",
-        "url": "https://realitycheck.radio/episodes/a-political-agenda-with-ani-obrien-rachel-stewart-rnz-blowout-mmp-voter-suppression/",
-        "date_utc": "2026-11-20T02:21:35Z",
-        "summary": "Talking with Maree Buscke, Rachel Stewart and Ani O’Brien examine RNZ’s $11.8 million deficit, questioning its financial oversight and accountability before turning to accusations of media bias, failures to provide a right of reply, and claims of election manipulation. They challenge criticism of strategic voting and overhang seats, scrutinise the media’s promotion of [...] The post A POLITICAL AGENDA: With Ani O’Brien & Rachel Stewart: RNZ Blowout, MMP & Voter ‘Suppression’ appeared first on Reality Check Radio ."
       }
     ],
     "youtube": [
+      {
+        "title": "If they're bringing in more people specifically from one country that tends to vote for them...",
+        "url": "https://www.youtube.com/shorts/U25twFBv2_g",
+        "date_utc": "2026-11-24T20:01:26Z",
+        "summary": "\"If they're bringing in more people specifically from one country that tends to vote for them, then you definitely have to ask if this is an issue with the system\" - Joshua Riley, Co-Founder of Advocacy Group Sovereign Joshua Riley questions the possibility of governments considering future voting patterns when shaping immigration settings. Should New Zealand have stronger safeguards to ensure immigration policy can never become a tool for engineering electoral advantage? 🎥 Watch here: https://rcr.media/episodes/joshua-riley-co-founder-of-advocacy-group-sovereign-what-act-nzf-should-demand-in-negotiations #RCRMedia"
+      },
+      {
+        "title": "\"I'm so grateful for those independent medias.\" - Casey Hodgkinson, Vaccine-Injury Survivor",
+        "url": "https://www.youtube.com/shorts/KT38GANRh6M",
+        "date_utc": "2026-11-24T19:02:19Z",
+        "summary": "\"I'm so grateful for those independent medias.\" - Casey Hodgkinson, Vaccine-Injury Survivor Casey Hodgkinson reflects on how independent media gave people like her opportunities to share experiences they felt weren't being heard. Did the COVID years permanently change how New Zealanders decide which journalists deserve their trust? 🎥 Watch here: https://rcr.media/episodes/casey-hodgkinson-vaccine-injury-survivor-long-battle-for-recognition-of-vaccine-injury #RCRMedia"
+      },
+      {
+        "title": "\"She has been a beneficiary of vote splitting her whole career.\" - Ani O'Brien",
+        "url": "https://www.youtube.com/shorts/DuPweUMVNgY",
+        "date_utc": "2026-11-24T18:02:07Z",
+        "summary": "\"She has been a beneficiary of vote splitting her whole career.\" - Ani O'Brien, Political Commentator Ani O'Brien questions Chlöe Swarbrick's criticism of strategic voting, pointing to how split votes have helped her win Auckland Central. How can you climb the political ladder using split votes, then complain when your opponents discover the very same ladder? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-ani-obrien-rachel-stewart-rnz-blowout-mmp-voter-suppression #RCRMedia #APoliticalAgenda"
+      },
+      {
+        "title": "TECH TUESDAY: With Steven Sykes: What’s Driving AI Cyberattacks?",
+        "url": "https://www.youtube.com/watch?v=VsIxl5tNTWw",
+        "date_utc": "2026-11-24T13:02:42Z",
+        "summary": "Paul Brennan is joined by Stephen Sykes for Tech Tuesday to examine the growing wave of cyberattacks exploiting AI, the implications of government surveillance of encrypted iCloud data and Apple’s plans for AirPods capable of collecting brainwave data. They also discuss digital sovereignty, the risks of relying on major technology platforms, concerns over 5G tower installations and the importance of protecting personal data and privacy. For everything you need to Say No to Digital ID"
+      },
+      {
+        "title": "DRS SARAH AND RANDALL FARRANT: The Brain’s Nightly Clean-Up — Why Deep Sleep Matters",
+        "url": "https://www.youtube.com/watch?v=pzHyztv3Lok",
+        "date_utc": "2026-11-24T13:02:27Z",
+        "summary": "Rodney Hide speaks with Drs Sarah and Randall Farrant about the glymphatic system, the brain’s waste-clearance network and its role in maintaining neurological health. They explain how this process becomes more active during sleep and discuss the importance of sleep quality, movement, posture, hydration, nutrition and recovery. They also explore claims linking impaired drainage to neurological conditions and practical ways to support the body’s natural maintenance processes. For more information: Read the Farrants’ Blog post on the Glymphatic system Check out the Vital Wellbeing website , the Vital Wellbeing blog and Vital Wellbeing shop Follow Vital Wellbeing on Facebook , Instagram and Rumble"
+      },
+      {
+        "title": "JEANNIE PATERSON: University of Melbourne Law Professor: AI’s Growing Power & Ethical Challenges",
+        "url": "https://www.youtube.com/watch?v=J2lezEHRCEE",
+        "date_utc": "2026-11-24T13:01:49Z",
+        "summary": "Michael Arbon is joined by Professor Jeannie Paterson, Professor of Law at the University of Melbourne and co-director of the Centre for AI and Digital Ethics, to examine the rapid development of artificial intelligence and the challenges it presents. They discuss autonomous AI agents, legal accountability, the risk of another Robodebt-style failure, data privacy, digital duty of care and censorship, as well as the potential impact of AI on critical thinking and human relationships. Discover more from Jeannie or find her on X For a different perspective on the Digital Duty of Care Bill watch Michael Arbon’s interview with Greg Barns For everything you need to Say No to Digital ID"
+      },
+      {
+        "title": "RCR ROAD TRIP: Building Community Across NZ",
+        "url": "https://www.youtube.com/watch?v=mElCfaZzPyo",
+        "date_utc": "2026-11-24T13:01:09Z",
+        "summary": "Meagan McNamara and Dean Harrison join Paul Brennan with an update on RCR’s nationwide road trip, sharing stories of the people they’ve met and the growing community support along the way. They discuss the grassroots energy behind the Vote Smart campaign, the importance of political participation and the conversations happening at stops around the country. To keep up with the latest on the Road Trip and news that matters, get RCR Bites FREE every weekday Follow RCR on Facebook for Road Trip details and the latest stories"
+      },
       {
         "title": "\"Which means they either have to do a deal with National or force a second election.\" - David Farrar",
         "url": "https://www.youtube.com/shorts/8A33WDJOTT0",
@@ -172,55 +214,37 @@
         "url": "https://www.youtube.com/shorts/sInFqaj2L8k",
         "date_utc": "2026-11-23T05:30:46Z",
         "summary": "\"I couldn't drive along listening to it, thinking I was listening to anything credible.\" - Rachel Stewart Rachel Stewart explains why she switched off RNZ years before its current financial crisis. What's harder to recover: an $11.8 million financial shortfall or years of lost credibility? Rachel Stewart and Maree Buscke examine the financial crisis engulfing RNZ, questioning its management, HR influence and spending after an $11.8 million shortfall and substantial redundancy payments. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-rnzs-11-8-million-blowout-puts-management-under-the-spotlight #RCRMedia #BothBarrels"
-      },
-      {
-        "title": "We're not an example. We're a testing ground for the worst kind of ideas in internet...",
-        "url": "https://www.youtube.com/shorts/uxeI31AVa2A",
-        "date_utc": "2026-11-22T20:01:26Z",
-        "summary": "🇦🇺 \"We're not an example. We're a testing ground for the worst kind of ideas in internet regulation.\" - Margaret Chambers, Research Fellow at The Institute of Public Affairs 🇦🇺 Margaret Chambers warns New Zealand against following Australia's controversial online safety and internet regulation policies. Why would New Zealand copy Australia's homework when Australia hasn't even figured out whether its own answers work? 🎥 Watch here: https://rcr.media/episodes/margaret-chambers-research-fellow-at-the-institute-of-public-affairs-new-aussie-censorship-law-nz-wants-to-copy #RCRMedia"
-      },
-      {
-        "title": "\"You just can't roll out of bed and vote at the Greens AGM.\" - Bob McCoskrie",
-        "url": "https://www.youtube.com/shorts/sAslbmL7PBY",
-        "date_utc": "2026-11-22T19:01:26Z",
-        "summary": "\"You just can't roll out of bed and vote at the Greens AGM.\" - Bob McCoskrie - Family First Chief Executive Bob McCoskrie takes aim at the Greens' voter suppression claims, pointing to their own reported AGM registration requirements. Should Chlöe Swarbrick launch an investigation into the Green Party's constitution before investigating everybody else's democracy? 🎥 Watch here: https://rcr.media/episodes/bob-mccoskrie-family-first-director-election-tactics-and-political-double-standards #RCRMedia"
-      },
-      {
-        "title": "It's very concerning that the politicians have completely bought into this and their belief that...",
-        "url": "https://www.youtube.com/shorts/76jac_ZN8yc",
-        "date_utc": "2026-11-22T18:30:46Z",
-        "summary": "\"It's very concerning that the politicians have completely bought into this and their belief that this is just a given, and it's just going to happen, and farmers are going to adopt it.\" - Paige Wills, North Otago Sheep & Deer Farmer As opposition grows to Farmlands' investment in AgriZero, Paige Wills questions the assumption that farmers will willingly embrace methane-reduction technologies. What happens to the grand Net Zero plan if the people actually doing the farming refuse to buy into it? 🎥 Watch here: https://rcr.media/episodes/greenwashed-with-north-otago-sheep-deer-farmer-paige-wills-co-op-farmers-challenge-agrizero-investment #RCRMedia #Greenwashed"
-      },
-      {
-        "title": "\"Well, for National, it's back to the electorates. And I think that's a wonderful, wonderful thing.\"",
-        "url": "https://www.youtube.com/shorts/e_3k9gAhDDE",
-        "date_utc": "2026-11-22T18:01:22Z",
-        "summary": "\"Well, for National, it's back to the electorates. And I think that's a wonderful, wonderful thing.\" - Rodney Hide, RCR Host & Former ACT MP Rodney Hide predicts a fundamental shift in National's campaigning, away from carefully staged media appearances and back towards grassroots electorate politics. Could Vote Smart have inadvertently rescued election campaigning from the clutches of the mainstream media? 🎥 Watch here: https://rcr.media/episodes/rodney-hide-rcr-host-former-act-mp-labours-route-to-power-is-all-uphill #RCRMedia"
-      },
-      {
-        "title": "UNDER THE HOOD",
-        "url": "https://www.youtube.com/watch?v=HZzhSM_L-tw",
-        "date_utc": "2026-11-22T13:01:05Z",
-        "summary": "Division is tearing apart families, friendships and communities. Graham “Hoody” Hood shares a deeply personal story about his seven-year estrangement from his father, the importance of forgiveness, and why it’s time to stop letting disagreements destroy relationships. He also reflects on divisions among people who once stood together in challenging the Covid-19 response, and challenges us to consider who we need to make amends with. For more information check out Hoody’s Heroes in NZ For community connections, make sure to get in touch with your local VFF group Discover more from Hoody at Club Grubbery or find him on Facebook and X"
-      },
-      {
-        "title": "🇦🇺 The full findings by NHMRC, which is funded by the Federal Government, won't be available...",
-        "url": "https://www.youtube.com/shorts/mG9tQD8rKL4",
-        "date_utc": "2026-11-21T20:01:39Z",
-        "summary": "🇦🇺 \"The full findings by NHMRC, which is funded by the Federal Government, won't be available until 2028.\" - Tim Wilms from The Unshackled 🇦🇺 Tim Wilms examines Australia's controversial interim guidance on puberty blockers and the political battle surrounding their use in minors. If the final report recommends a different approach in 2028, who takes responsibility for the decisions made between now and then? 🎥 Watch here: https://rcr.media/episodes/the-wilms-report-with-tim-wilms-victoria-election-race-tightens-as-labor-support-collapses #RCRMedia #TheWilmsReport"
-      },
-      {
-        "title": "It's going to be a year, maybe two years before you get the hearing. By that time, your family's...",
-        "url": "https://www.youtube.com/shorts/PA2xVXKpOKE",
-        "date_utc": "2026-11-21T19:30:53Z",
-        "summary": "\"It's going to be a year, maybe two years before you get the hearing. By that time, your family's destroyed.\" - Helen Joyce, Director of Advocacy for Sex Matters Helen Joyce warns that Britain's proposed Conversion Practices Bill could separate parents from their children long before any criminal conviction. What good is being found innocent two years later if the family you were trying to protect has already been torn apart? 🎥 Watch here: https://rcr.media/episodes/helen-joyce-director-of-advocacy-for-sex-matters-uk-conversion-practices-bill-could-criminalise-parenting #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
       {
-        "title": "Can Wegovy Save You And Me From Obesity?",
+        "title": "Catherine Beard On Mood Of Businesses During Uncertain Political Times",
+        "url": "https://www.youtube.com/watch?v=1gMKZw_5OXg",
+        "date_utc": "2026-11-24T22:22:41Z",
+        "summary": ""
+      },
+      {
+        "title": "Chris Lynch On RNZ HR Boss Sarah Neilson Fleeing During Financial Crisis",
+        "url": "https://www.youtube.com/watch?v=E9bLXy6-MU0",
+        "date_utc": "2026-11-24T22:18:32Z",
+        "summary": ""
+      },
+      {
+        "title": "Katie Milne Sets The Record Straight On Fonterra Milk Dumping Request",
+        "url": "https://www.youtube.com/watch?v=v5GNAnw3FDY",
+        "date_utc": "2026-11-24T22:13:56Z",
+        "summary": ""
+      },
+      {
+        "title": "How Bad Is NZ's Media Bias?",
+        "url": "https://www.youtube.com/watch?v=djDpzndtwCg",
+        "date_utc": "2026-11-24T21:50:08Z",
+        "summary": "How bad is NZ's media bias? Real statistics/research from NZ Media World's Brynn Neilson."
+      },
+      {
+        "title": "Can Wegovy Save You & Me From Obesity?",
         "url": "https://www.youtube.com/watch?v=r2fbruIUUJs",
         "date_utc": "2026-11-24T05:46:03Z",
         "summary": "Can Wegovy save you and me from obesity? Public health professor Grant Schofield on the latest research."
@@ -284,35 +308,29 @@
         "url": "https://www.youtube.com/watch?v=zW_Sv08KuaQ",
         "date_utc": "2026-11-23T22:05:43Z",
         "summary": ""
-      },
-      {
-        "title": "More Appalling Decisions By Courts That Discount Child Homicide",
-        "url": "https://www.youtube.com/watch?v=DHDnCa27Hfo",
-        "date_utc": "2026-11-23T21:05:32Z",
-        "summary": "More appalling decisions by courts that discount child homicide - Sensible Sentencing Trust's Louise Parsons."
-      },
-      {
-        "title": "When Are Teachers Legally Allowed To Make Physical Contact With Students & Where Is The Line?",
-        "url": "https://www.youtube.com/watch?v=VfIxpTXiW4c",
-        "date_utc": "2026-11-23T04:33:43Z",
-        "summary": "Iain Murray, ACT MP and Former Principal - When are teachers legally allowed to make physical contact with students, and where is the line?"
-      },
-      {
-        "title": "Kiwis Embrace Moderation As Hazardous Drinking Falls By More Than A Quarter",
-        "url": "https://www.youtube.com/watch?v=S62CXwdES4Q",
-        "date_utc": "2026-11-23T04:01:39Z",
-        "summary": "Virginia Nicholls, Executive Director of Alcohol & Beverages Council - Kiwis embrace moderation as hazardous drinking falls by more than a quarter."
-      },
-      {
-        "title": "Your Xmas Holiday Leave Rights & RNZ Staff Suing For Potential Job Losses",
-        "url": "https://www.youtube.com/watch?v=AoCnMWanVd8",
-        "date_utc": "2026-11-23T03:41:49Z",
-        "summary": "Max Whitehead, Employment and Workplace Relations Expert on your rights around working or taking holiday leave during the Xmas break and RNZ staff suing for potentially losing their jobs."
       }
     ],
     "opinions": [
       {
-        "title": "Can Wegovy Save You And Me From Obesity?",
+        "title": "Chris Lynch On RNZ HR Boss Sarah Neilson Fleeing During Financial Crisis",
+        "url": "https://www.theplatform.kiwi/p/chris-lynch-on-rnz-hr-boss-sarah",
+        "date_utc": "2026-11-24T22:07:06Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Katie Milne Sets The Record Straight On Fonterra Milk Dumping Request",
+        "url": "https://www.theplatform.kiwi/p/katie-milne-sets-the-record-straight",
+        "date_utc": "2026-11-24T21:56:33Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Sean Plunket - 25 November 2026",
+        "url": "https://www.theplatform.kiwi/p/sean-plunket-25-november-2026",
+        "date_utc": "2026-11-24T21:22:10Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Can Wegovy Save You & Me From Obesity?",
         "url": "https://www.theplatform.kiwi/p/can-wegovy-save-you-and-me-from-obesity",
         "date_utc": "2026-11-24T05:45:02Z",
         "summary": "Read more"
@@ -345,7 +363,7 @@
         "title": "How Bad Is NZ's Media Bias?",
         "url": "https://www.theplatform.kiwi/p/how-bad-is-nzs-media-bias",
         "date_utc": "2026-11-24T03:22:00Z",
-        "summary": "Read more"
+        "summary": ""
       },
       {
         "title": "Leah Panapa - 24 November 2026",
@@ -364,24 +382,6 @@
         "url": "https://www.theplatform.kiwi/p/congolese-un-rapporteur-needs-to",
         "date_utc": "2026-11-24T02:21:13Z",
         "summary": ""
-      },
-      {
-        "title": "Ian Wishart On COP30 Failure",
-        "url": "https://www.theplatform.kiwi/p/ian-wishart-on-cop30-failure",
-        "date_utc": "2026-11-23T23:44:25Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Damien Grant On Why Politicians Should Think Before Using The Word ‘Genocide’",
-        "url": "https://www.theplatform.kiwi/p/damien-grant-on-why-politicians-should",
-        "date_utc": "2026-11-23T23:26:20Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Co-Founder Of Groundswell, Laurie Paterson On Rob Hewett Stepping Down From Farmlands",
-        "url": "https://www.theplatform.kiwi/p/co-founder-of-groundswell-laurie",
-        "date_utc": "2026-11-23T22:45:56Z",
-        "summary": "Read more"
       }
     ]
   },
@@ -408,7 +408,7 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-24T03:26:41Z"
+      "newest_utc": "2026-11-24T22:25:54Z"
     },
     "rcr article rss": {
       "ok": true,
@@ -420,19 +420,19 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-24T06:30:37Z"
+      "newest_utc": "2026-11-24T20:01:26Z"
     },
     "platform youtube": {
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-24T05:46:03Z"
+      "newest_utc": "2026-11-24T22:22:41Z"
     },
     "platform opinions": {
       "ok": true,
       "error": null,
       "items": 12,
-      "newest_utc": "2026-11-24T05:45:02Z"
+      "newest_utc": "2026-11-24T22:07:06Z"
     }
   }
 }
