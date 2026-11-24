@@ -1,19 +1,85 @@
 {
-  "generated_utc": "2026-11-23T21:33:35Z",
+  "generated_utc": "2026-11-24T10:06:51Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions every 3 hours. Exists because the brief's cloud runner cannot reach these domains directly. All date_utc values are ISO 8601 UTC; lists are newest first.",
   "reality_check_radio": {
     "articles_and_episodes": [
       {
+        "title": "TECH TUESDAY: With Steven Sykes: What’s Driving AI Cyberattacks?",
+        "url": "https://realitycheck.radio/episodes/tech-tuesday-with-steven-sykes-whats-driving-ai-cyberattacks/",
+        "date_utc": "2026-11-24T03:26:41Z",
+        "summary": ""
+      },
+      {
+        "title": "DAVID FARRAR: NZ Election on a Knife-Edge: Is a Hung Parliament Inevitable?",
+        "url": "https://realitycheck.radio/episodes/david-farrar-nz-election-on-a-knife-edge-is-a-hung-parliament-inevitable-2/",
+        "date_utc": "2026-11-23T23:57:24Z",
+        "summary": ""
+      },
+      {
+        "title": "HELEN JOYCE: Conversion Practices Law: 5-Year Sentences But Courts Can’t Keep Up",
+        "url": "https://realitycheck.radio/episodes/helen-joyce-conversion-practices-law-5-year-sentences-but-courts-cant-keep-up/",
+        "date_utc": "2026-11-23T23:56:25Z",
+        "summary": ""
+      },
+      {
+        "title": "BOTH BARRELS: RNZ’s Gravy Train Derails: 58 Jobs Gone, Zero Sympathy",
+        "url": "https://realitycheck.radio/episodes/both-barrels-rnzs-gravy-train-derails-58-jobs-gone-zero-sympathy-2/",
+        "date_utc": "2026-11-23T23:56:14Z",
+        "summary": ""
+      },
+      {
+        "title": "HELEN JOYCE: NZ Conversion Practices Bill: Are Parents Now Criminals for Protecting Their Kids?",
+        "url": "https://realitycheck.radio/episodes/helen-joyce-nz-conversion-practices-bill-are-parents-now-criminals-for-protecting-their-kids-2/",
+        "date_utc": "2026-11-23T23:55:20Z",
+        "summary": ""
+      },
+      {
+        "title": "RIDING SHOTGUN: Porn’s Hidden Curriculum: How It’s Reshaping Real Intimacy",
+        "url": "https://realitycheck.radio/episodes/riding-shotgun-porns-hidden-curriculum-how-its-reshaping-real-intimacy-2/",
+        "date_utc": "2026-11-23T23:55:03Z",
+        "summary": ""
+      },
+      {
+        "title": "MARGARET CHAMBERS: Australia’s Internet Regulation Warning: A Cautionary Tale for the World",
+        "url": "https://realitycheck.radio/episodes/margaret-chambers-australias-internet-regulation-warning-a-cautionary-tale-for-the-world-2/",
+        "date_utc": "2026-11-23T23:54:45Z",
+        "summary": ""
+      },
+      {
+        "title": "DAVID FARRAR: NZ Election Math: Would Centre-Right Domination Have Been Inevitable?",
+        "url": "https://realitycheck.radio/episodes/david-farrar-nz-election-math-would-centre-right-domination-have-been-inevitable/",
+        "date_utc": "2026-11-23T23:54:24Z",
+        "summary": ""
+      },
+      {
+        "title": "KIRRALIE SMITH: Gender Ideology vs. Parental Rights: A Mother’s Heartbreaking Estrangement Story",
+        "url": "https://realitycheck.radio/episodes/kirralie-smith-gender-ideology-vs-parental-rights-a-mothers-heartbreaking-estrangement-story-2/",
+        "date_utc": "2026-11-23T23:53:54Z",
+        "summary": ""
+      },
+      {
+        "title": "BEN MAI: Auckland Santa Parade: The Nativity Float’s 90-Year Battle to Return",
+        "url": "https://realitycheck.radio/episodes/ben-mai-auckland-santa-parade-the-nativity-floats-90-year-battle-to-return/",
+        "date_utc": "2026-11-23T23:52:17Z",
+        "summary": ""
+      },
+      {
+        "title": "JEANNIE PATERSON: University of Melbourne Law Professor: AI’s Growing Power & Ethical Challenges",
+        "url": "https://realitycheck.radio/episodes/jeannie-paterson-university-of-melbourne-law-professor-ais-growing-power-ethical-challenges/",
+        "date_utc": "2026-11-23T22:12:40Z",
+        "summary": ""
+      },
+      {
         "title": "DRS SARAH AND RANDALL FARRANT: Co-Founders of Vital Wellbeing: The Brain’s Nightly Clean-Up — Why Deep Sleep Matters",
         "url": "https://realitycheck.radio/episodes/drs-sarah-and-randall-farrant-co-founders-of-vital-wellbeing-the-brains-nightly-clean-up-why-deep-sleep-matters/",
         "date_utc": "2026-11-23T21:03:17Z",
-        "summary": "Rodney Hide speaks with Drs Sarah and Randall Farrant about the glymphatic system, the brain’s waste-clearance network and its role in maintaining neurological health. They explain how this process becomes more active during sleep and discuss the importance of sleep quality, movement, posture, hydration, nutrition and recovery. They also explore claims linking impaired [...] The post DRS SARAH AND RANDALL FARRANT: Co-Founders of Vital Wellbeing: The Brain’s Nightly Clean-Up — Why Deep Sleep Matters appeared first on Reality Check Radio ."
+        "summary": ""
       },
       {
         "title": "RCR ROAD TRIP: Building Community Across NZ",
         "url": "https://realitycheck.radio/episodes/rcr-road-trip-building-community-across-nz/",
         "date_utc": "2026-11-23T20:47:19Z",
-        "summary": "Meagan McNamara and Dean Harrison join Paul Brennan with an update on RCR’s nationwide road trip, sharing stories of the people they’ve met and the growing community support along the way. They discuss the grassroots energy behind the Vote Smart campaign, the importance of political participation and the conversations happening at stops around [...] The post RCR ROAD TRIP: Building Community Across NZ appeared first on Reality Check Radio ."
+        "summary": ""
       },
       {
         "title": "CASEY HODGKINSON: Vaccine-Injury Survivor: Long Battle for Recognition of Vaccine Injury",
@@ -31,85 +97,19 @@
         "title": "BRENDAN HOARE: Organics Aotearoa NZ: Unapproved dsRNA Trials Threaten Organic Honey",
         "url": "https://realitycheck.radio/episodes/brendan-hoare-organics-aotearoa-nz-unapproved-dsrna-trials-threaten-organic-honey/",
         "date_utc": "2026-11-22T20:44:46Z",
-        "summary": ""
-      },
-      {
-        "title": "BOB MCCOSKRIE: NZ Election Fallout: Was Voter Suppression the Silent Election Thief?",
-        "url": "https://realitycheck.radio/episodes/bob-mccoskrie-nz-election-fallout-was-voter-suppression-the-silent-election-thief/",
-        "date_utc": "2026-11-21T21:02:59Z",
-        "summary": ""
-      },
-      {
-        "title": "CRAIG STOBO: CEO Pay Scandal: Who’s Accountable for the $11.8M Loss?",
-        "url": "https://realitycheck.radio/episodes/craig-stobo-ceo-pay-scandal-whos-accountable-for-the-11-8m-loss/",
-        "date_utc": "2026-11-21T21:01:26Z",
-        "summary": ""
-      },
-      {
-        "title": "MARGARET CHAMBERS: NZ Surveillance State: Protecting Children or Profiling Citizens?",
-        "url": "https://realitycheck.radio/episodes/margaret-chambers-nz-surveillance-state-protecting-children-or-profiling-citizens/",
-        "date_utc": "2026-11-21T21:00:33Z",
-        "summary": ""
-      },
-      {
-        "title": "PAIGE WILLS: NZ Farmers Beware: Carrots Today, Sticks Tomorrow in Emissions Tech Gamble",
-        "url": "https://realitycheck.radio/episodes/paige-wills-nz-farmers-beware-carrots-today-sticks-tomorrow-in-emissions-tech-gamble/",
-        "date_utc": "2026-11-21T21:00:11Z",
-        "summary": ""
-      },
-      {
-        "title": "RODNEY HIDE: NZ 2029: National’s Electorate Strategy Could Sink Labour For Good",
-        "url": "https://realitycheck.radio/episodes/rodney-hide-nz-2029-nationals-electorate-strategy-could-sink-labour-for-good/",
-        "date_utc": "2026-11-21T20:59:46Z",
-        "summary": ""
-      },
-      {
-        "title": "KARA DANSKY: WPATH Exposed: Fraud, Fetish Links, and the Silenced Feminist Warning",
-        "url": "https://realitycheck.radio/episodes/kara-dansky-wpath-exposed-fraud-fetish-links-and-the-silenced-feminist-warning/",
-        "date_utc": "2026-11-21T20:59:11Z",
-        "summary": ""
-      },
-      {
-        "title": "TIM WILMS: Puberty Blockers Debate: Victoria Defies Medical Caution on Gender Drugs",
-        "url": "https://realitycheck.radio/episodes/tim-wilms-puberty-blockers-debate-victoria-defies-medical-caution-on-gender-drugs/",
-        "date_utc": "2026-11-21T20:58:58Z",
-        "summary": ""
-      },
-      {
-        "title": "WALLY RICHARDS: Nutritional Collapse: How Modern Food Is Making Us Sick and Fat",
-        "url": "https://realitycheck.radio/episodes/wally-richards-nutritional-collapse-how-modern-food-is-making-us-sick-and-fat/",
-        "date_utc": "2026-11-21T20:58:43Z",
-        "summary": ""
-      },
-      {
-        "title": "SARAH MYHILL: MHRA’s Death Data Cover-Up: Is the COVID Virus Man-Made?",
-        "url": "https://realitycheck.radio/episodes/sarah-myhill-mhras-death-data-cover-up-is-the-covid-virus-man-made/",
-        "date_utc": "2026-11-21T20:58:41Z",
-        "summary": ""
-      },
-      {
-        "title": "BOB MCCOSKRIE: NZ Electoral Hypocrisy Unveiled: Overhang Seats and Double Standards Exposed",
-        "url": "https://realitycheck.radio/episodes/bob-mccoskrie-nz-electoral-hypocrisy-unveiled-overhang-seats-and-double-standards-exposed/",
-        "date_utc": "2026-11-21T20:58:04Z",
-        "summary": ""
+        "summary": "Paul Brennan speaks with Brendan Hoare of Organics Aotearoa New Zealand about field trials of dsRNA technology to combat Varroa mites in honeybees. Brendan questions why organic producers were not notified, whether honey and hives may have been affected and how regulators assessed the risks. For more information visit OANZ For everything you [...] The post BRENDAN HOARE: Organics Aotearoa NZ: Unapproved dsRNA Trials Threaten Organic Honey appeared first on Reality Check Radio ."
       },
       {
         "title": "UNDER THE HOOD: With Graham ‘Hoody’ Hood: Reconciliation and Making Amends",
         "url": "https://realitycheck.radio/episodes/under-the-hood-with-graham-hoody-hood-reconciliation-and-making-amends/",
         "date_utc": "2026-11-21T20:30:11Z",
-        "summary": ""
+        "summary": "Division is tearing apart families, friendships and communities. Graham \"Hoody\" Hood shares a deeply personal story about his seven-year estrangement from his father, the importance of forgiveness, and why it's time to stop letting disagreements destroy relationships. He also reflects on divisions among people who once stood together in challenging the Covid-19 response, and [...] The post UNDER THE HOOD: With Graham ‘Hoody’ Hood: Reconciliation and Making Amends appeared first on Reality Check Radio ."
       },
       {
         "title": "The global centre-right’s self-inflicted collapse: A lesson from New Zealand",
         "url": "https://realitycheck.radio/the-global-centre-rights-self-inflicted-collapse-a-lesson-from-new-zealand/",
         "date_utc": "2026-11-21T06:45:08Z",
         "summary": "by Roger Partridge This essay is based on my comments […]"
-      },
-      {
-        "title": "ALIA BLAND & CLAIRE DEEKS: NZ Election Unveiled: Billionaires, Bias, and the Battle Behind the Campaign",
-        "url": "https://realitycheck.radio/episodes/alia-bland-claire-deeks-nz-election-unveiled-billionaires-bias-and-the-battle-behind-the-campaign/",
-        "date_utc": "2026-11-21T02:16:03Z",
-        "summary": ""
       },
       {
         "title": "Replacement And Remigration In France",
@@ -125,6 +125,24 @@
       }
     ],
     "youtube": [
+      {
+        "title": "\"Which means they either have to do a deal with National or force a second election.\" - David Farrar",
+        "url": "https://www.youtube.com/shorts/8A33WDJOTT0",
+        "date_utc": "2026-11-24T06:30:37Z",
+        "summary": "\"Which means they either have to do a deal with National or force a second election.\" - David Farrar, Curia Market Research Founder & Political Blogger David Farrar reveals a possible election outcome that could leave the Opportunity Party facing a brutal political dilemma. Could the party hoping to change politics end up choosing between keeping National in power and sending the entire country back to the ballot box? 🎥 Watch here: https://rcr.media/episodes/david-farrar-curia-market-research-founder-political-blogger-how-the-overhang-could-affect-the-next-election #RCRMedia"
+      },
+      {
+        "title": "\"And that will increase the centre-right seats by a dozen.\" - David Farrar",
+        "url": "https://www.youtube.com/shorts/yh1mli0nd_E",
+        "date_utc": "2026-11-24T06:00:48Z",
+        "summary": "\"And that will increase the centre-right seats by a dozen.\" - David Farrar, Curia Market Research Founder & Political Blogger David Farrar predicts that if a second election were forced, more National voters could shift their party votes to ACT and NZ First, potentially dramatically expanding the centre-right's parliamentary majority. Would forcing New Zealand back to the polls be the biggest political own goal the left (via TOP) could possibly score? 🎥 Watch here: https://rcr.media/episodes/david-farrar-curia-market-research-founder-political-blogger-how-the-overhang-could-affect-the-next-election #RCRMedia"
+      },
+      {
+        "title": "So, I mean, this is taxpayers' money. I mean, this is our money. We should be very careful and...",
+        "url": "https://www.youtube.com/shorts/1iS1GBOLQfY",
+        "date_utc": "2026-11-24T05:00:32Z",
+        "summary": "\"So, I mean, this is taxpayers' money. I mean, this is our money. We should be very careful and frugal about the use of it.\" - Craig Stobo, Incoming National Party MP & Former Financial Markets Authority Chair Craig Stobo calls for greater financial accountability as RNZ confronts its multimillion-dollar deficit and proposed redundancies. If RNZ's executives had to explain every dollar directly to the taxpayers funding them, would their spending priorities look considerably different? 🎥 Watch here: https://rcr.media/episodes/craig-stobo-incoming-national-party-mp-former-financial-markets-authority-chair-rnzs-charter-needs-reassessing #RCRMedia"
+      },
       {
         "title": "JOSHUA RILEY",
         "url": "https://www.youtube.com/watch?v=RYzW88qpED4",
@@ -196,29 +214,77 @@
         "url": "https://www.youtube.com/shorts/PA2xVXKpOKE",
         "date_utc": "2026-11-21T19:30:53Z",
         "summary": "\"It's going to be a year, maybe two years before you get the hearing. By that time, your family's destroyed.\" - Helen Joyce, Director of Advocacy for Sex Matters Helen Joyce warns that Britain's proposed Conversion Practices Bill could separate parents from their children long before any criminal conviction. What good is being found innocent two years later if the family you were trying to protect has already been torn apart? 🎥 Watch here: https://rcr.media/episodes/helen-joyce-director-of-advocacy-for-sex-matters-uk-conversion-practices-bill-could-criminalise-parenting #RCRMedia"
-      },
-      {
-        "title": "Easy access to pornography removes that biological urgency, effectively pacifying young men and...",
-        "url": "https://www.youtube.com/shorts/_6XphiSSXeo",
-        "date_utc": "2026-11-21T19:01:36Z",
-        "summary": "\"Easy access to pornography removes that biological urgency, effectively pacifying young men and contributing to what he describes as a broader collapse in modern courtship and family formation.\" - Rachel Stewart Rachel Stewart explores Bret Weinstein's theory that pornography could be contributing to declining motivation for courtship and family formation. Could an industry built on instant gratification be profiting at the expense of tomorrow's marriages, children and families? 🎥 Watch here: https://rcr.media/episodes/riding-shotgun-with-rachel-stewart-a-check-mate-on-your-porn #RCRMedia #RidingShotgun"
-      },
-      {
-        "title": "\"And I think this is why Chris Hipkins is now Donald Hipkins and Chlöe Swarbrick is now Chlöe Trump\"",
-        "url": "https://www.youtube.com/shorts/Uofv4w64qis",
-        "date_utc": "2026-11-21T18:30:44Z",
-        "summary": "\"And I think this is why Chris Hipkins is now Donald Hipkins and Chlöe Swarbrick is now Chlöe Trump\" - Bob McCoskrie - Family First Chief Executive Bob McCoskrie calls out what he sees as glaring political double standards over strategic voting in New Zealand. Is questioning an election result only acceptable when the numbers don't go your way? 🎥 Watch here: https://rcr.media/episodes/bob-mccoskrie-family-first-director-election-tactics-and-political-double-standards #RCRMedia"
-      },
-      {
-        "title": "\"Another excuse was it might cause vaccine hesitancy.\" - Dr Sarah Myhill, UK Physician",
-        "url": "https://www.youtube.com/shorts/k2VT7sBzYf0",
-        "date_utc": "2026-11-21T18:01:54Z",
-        "summary": "\"Another excuse was it might cause vaccine hesitancy.\" - Dr Sarah Myhill, UK Physician & Medical Ethics Director at UK Medical Freedom Alliance Dr Sarah Myhill questions the reported refusal to release mortality data requested by Dr Clare Craig, arguing that public confidence depends on transparency rather than withholding information. If releasing information could undermine public confidence, isn't withholding it likely to raise even more questions? 🎥 Watch here: https://rcr.media/episodes/sarah-myhill-uk-physician-medical-ethics-director-at-uk-medical-freedom-alliance-doctor-takes-aim-at-uks-covid-leadership #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Can Wegovy Save You And Me From Obesity?",
+        "url": "https://www.youtube.com/watch?v=r2fbruIUUJs",
+        "date_utc": "2026-11-24T05:46:03Z",
+        "summary": "Can Wegovy save you and me from obesity? Public health professor Grant Schofield on the latest research."
+      },
+      {
+        "title": "Is Your Car Spying On You? The Impact Of Data-Gathering Technology In Cars.",
+        "url": "https://www.youtube.com/watch?v=DFcpmG9uTP4",
+        "date_utc": "2026-11-24T04:57:33Z",
+        "summary": "Terry Collins, AA Transport Principal Policy Advisor - Is your car spying on you? The impact of data-gathering technology in cars."
+      },
+      {
+        "title": "Nearly A Million Dollars Awarded To Trans \"Scholar-Activist\" To Study Imprisonment",
+        "url": "https://www.youtube.com/watch?v=0bjWGjDaifE",
+        "date_utc": "2026-11-24T04:38:35Z",
+        "summary": "Todd Stephenson, ACT MP - The grift continues with nearly a million dollars awarded to trans \"scholar-activist\" to study imprisonment."
+      },
+      {
+        "title": "New Zealand's Smoking Rate Has Fallen, How Many Of Us Are Still Having A Dart?",
+        "url": "https://www.youtube.com/watch?v=WZhkDoqDvtA",
+        "date_utc": "2026-11-24T04:17:56Z",
+        "summary": "Casey Costello, Associate Health Minister - New Zealand's smoking rate has fallen, how many of us are still having a dart?"
+      },
+      {
+        "title": "How Bad Is NZ's Media Bias?",
+        "url": "https://www.youtube.com/watch?v=AWSrvgGt3zs",
+        "date_utc": "2026-11-24T03:04:38Z",
+        "summary": "How bad is NZ's media bias? Real statistics/research from NZ Media World's Brynn Neilson."
+      },
+      {
+        "title": "Former Defence Minister Ron Mark On The Lessons That The Ukraine Can Teach NZ's Armed Forces",
+        "url": "https://www.youtube.com/watch?v=v91s45cWNd4",
+        "date_utc": "2026-11-24T02:27:11Z",
+        "summary": "Former Defence Minister Ron Mark on the lessons that the Ukraine can teach NZ's armed forces"
+      },
+      {
+        "title": "Congolese UN Rapporteur Needs To Bugger Off - And Stop Lecturing Us About \"Indigenous Rights\".",
+        "url": "https://www.youtube.com/watch?v=IIqqZFCLTvU",
+        "date_utc": "2026-11-24T02:18:51Z",
+        "summary": "Congolese UN rapporteur needs to bugger off - and stop lecturing us about \"indigenous rights\"."
+      },
+      {
+        "title": "Ian Wishart On COP30 Failure",
+        "url": "https://www.youtube.com/watch?v=v2wBbkkk0pU",
+        "date_utc": "2026-11-23T23:46:56Z",
+        "summary": ""
+      },
+      {
+        "title": "Damien Grant On Why Politicians Should Think Before Using The Word ‘Genocide’",
+        "url": "https://www.youtube.com/watch?v=dC6nUmpJnHY",
+        "date_utc": "2026-11-23T23:32:28Z",
+        "summary": ""
+      },
+      {
+        "title": "Co-Founder Of Groundswell, Laurie Paterson On Rob Hewett Stepping Down From Farmlands",
+        "url": "https://www.youtube.com/watch?v=BtDoZgRZK5w",
+        "date_utc": "2026-11-23T22:20:04Z",
+        "summary": ""
+      },
+      {
+        "title": "Sean Plunket Reacts To Chloe Swarbrick Spreading Misinformation About Dairy Industry",
+        "url": "https://www.youtube.com/watch?v=zW_Sv08KuaQ",
+        "date_utc": "2026-11-23T22:05:43Z",
+        "summary": ""
+      },
       {
         "title": "More Appalling Decisions By Courts That Discount Child Homicide",
         "url": "https://www.youtube.com/watch?v=DHDnCa27Hfo",
@@ -242,145 +308,79 @@
         "url": "https://www.youtube.com/watch?v=AoCnMWanVd8",
         "date_utc": "2026-11-23T03:41:49Z",
         "summary": "Max Whitehead, Employment and Workplace Relations Expert on your rights around working or taking holiday leave during the Xmas break and RNZ staff suing for potentially losing their jobs."
-      },
-      {
-        "title": "Do Centre-Left MPs Understand That NZ Can't Save The World?",
-        "url": "https://www.youtube.com/watch?v=CfVvMsAtYLw",
-        "date_utc": "2026-11-23T02:10:23Z",
-        "summary": "Do centre-left MPs understand that NZ can't save the world? Fed Farmers Richard Dawkins on the latest climate change opinion survey."
-      },
-      {
-        "title": "What's Wrong With The All Blacks?",
-        "url": "https://www.youtube.com/watch?v=3e7xxvk8YRo",
-        "date_utc": "2026-11-23T01:07:56Z",
-        "summary": "What's wrong with the All Blacks? Former AB captain Taine Randell offers his thoughts (and rejects the fatigue excuse)"
-      },
-      {
-        "title": "Can We Trust The Mainstream Media To Tell Us The Truth?",
-        "url": "https://www.youtube.com/watch?v=WcwoCeHwOag",
-        "date_utc": "2026-11-23T00:59:53Z",
-        "summary": "Can we trust the mainstream media to tell us the truth?"
-      },
-      {
-        "title": "Simeon Brown On Managing Interregnum Government & Upcoming Coalition Agreements",
-        "url": "https://www.youtube.com/watch?v=Amp7ehlXhrw",
-        "date_utc": "2026-11-22T23:53:29Z",
-        "summary": ""
-      },
-      {
-        "title": "Sam Uffindell On $1.28 Million Spending For TaurangaNZ Branding",
-        "url": "https://www.youtube.com/watch?v=WNJqK7HOHWc",
-        "date_utc": "2026-11-22T23:19:31Z",
-        "summary": ""
-      },
-      {
-        "title": "New Plymouth Mayor Max Brough Stands Against Non-Elected Voting On Councils",
-        "url": "https://www.youtube.com/watch?v=reD99huQtLI",
-        "date_utc": "2026-11-22T22:19:36Z",
-        "summary": ""
-      },
-      {
-        "title": "Sean Plunket Says RNZ Suffering Laws Derangement Syndrome",
-        "url": "https://www.youtube.com/watch?v=sSfW2m92zf0",
-        "date_utc": "2026-11-22T22:03:04Z",
-        "summary": ""
-      },
-      {
-        "title": "What To Expect Of NZ’s Latest Cruise Ship Season",
-        "url": "https://www.youtube.com/watch?v=C-5UPI8agGg",
-        "date_utc": "2026-11-20T20:31:59Z",
-        "summary": "Jacqui Lloyd, CEO of New Zealand Cruise Association - The latest cruise ship season for New Zealand has kicked off, what to expect?"
-      },
-      {
-        "title": "Parents' Alliance Cameron Bagrie On Why Parents Need A Real Voice In The Schooling Sector",
-        "url": "https://www.youtube.com/watch?v=2ah6NrLyHDc",
-        "date_utc": "2026-11-20T04:44:28Z",
-        "summary": "Parents' Alliance Cameron Bagrie On Why Parents Need A Real Voice In The Schooling Sector"
-      },
-      {
-        "title": "Emmy Maxwell - The Farmer Fighting To Get A Definition Of \"Woman\" In Rural Women NZ’s Constitution",
-        "url": "https://www.youtube.com/watch?v=dojaCywLDD8",
-        "date_utc": "2026-11-20T02:27:05Z",
-        "summary": ""
-      },
-      {
-        "title": "Don Brash From Hobson's Pledge On Why Our Fight For Equal Citizenship Is Far From Over",
-        "url": "https://www.youtube.com/watch?v=yXgv0-qzqW4",
-        "date_utc": "2026-11-20T02:21:55Z",
-        "summary": ""
       }
     ],
     "opinions": [
       {
-        "title": "Sean Plunket - 24 November 2026",
-        "url": "https://www.theplatform.kiwi/p/sean-plunket-24-november-2026",
-        "date_utc": "2026-11-23T21:14:55Z",
+        "title": "Can Wegovy Save You And Me From Obesity?",
+        "url": "https://www.theplatform.kiwi/p/can-wegovy-save-you-and-me-from-obesity",
+        "date_utc": "2026-11-24T05:45:02Z",
         "summary": "Read more"
       },
       {
-        "title": "Michael Laws - 23 November 2026",
-        "url": "https://www.theplatform.kiwi/p/michael-laws-23-november-2026",
-        "date_utc": "2026-11-23T20:00:55Z",
+        "title": "Michael Laws - 24 November 2026",
+        "url": "https://www.theplatform.kiwi/p/michael-laws-24-november-2026",
+        "date_utc": "2026-11-24T05:18:29Z",
         "summary": "Read more"
       },
       {
-        "title": "More Appalling Decisions By Courts That Discount Child Homicide",
-        "url": "https://www.theplatform.kiwi/p/more-appalling-decisions-by-courts",
-        "date_utc": "2026-11-23T04:35:56Z",
+        "title": "Is Your Car Spying On You? The Impact Of Data-Gathering Technology In Cars.",
+        "url": "https://www.theplatform.kiwi/p/is-your-car-spying-on-you-the-impact",
+        "date_utc": "2026-11-24T04:44:23Z",
         "summary": "Read more"
       },
       {
-        "title": "When Are Teachers Legally Allowed To Make Physical Contact With Students & Where Is The Line?",
-        "url": "https://www.theplatform.kiwi/p/when-are-teachers-legally-allowed",
-        "date_utc": "2026-11-23T04:07:08Z",
+        "title": "Nearly A Million Dollars Awarded To Trans “Scholar-Activist” To Study Imprisonment",
+        "url": "https://www.theplatform.kiwi/p/nearly-a-million-dollars-awarded",
+        "date_utc": "2026-11-24T04:21:43Z",
         "summary": "Read more"
       },
       {
-        "title": "Kiwis Embrace Moderation As Hazardous Drinking Falls By More Than A Quarter",
-        "url": "https://www.theplatform.kiwi/p/kiwis-embrace-moderation-as-hazardous",
-        "date_utc": "2026-11-23T03:46:58Z",
+        "title": "New Zealand's Smoking Rate Has Fallen, How Many Of Us Are Still Having A Dart?",
+        "url": "https://www.theplatform.kiwi/p/new-zealands-smoking-rate-has-fallen",
+        "date_utc": "2026-11-24T04:05:14Z",
         "summary": "Read more"
       },
       {
-        "title": "Do Centre-Left MPs Understand That NZ Can't Save The World?",
-        "url": "https://www.theplatform.kiwi/p/do-centre-left-mps-understand-that",
-        "date_utc": "2026-11-23T03:43:13Z",
+        "title": "How Bad Is NZ's Media Bias?",
+        "url": "https://www.theplatform.kiwi/p/how-bad-is-nzs-media-bias",
+        "date_utc": "2026-11-24T03:22:00Z",
         "summary": "Read more"
       },
       {
-        "title": "Your Xmas Holiday Leave Rights & RNZ Staff Suing For Potential Job Losses",
-        "url": "https://www.theplatform.kiwi/p/your-xmas-holiday-leave-rights-and",
-        "date_utc": "2026-11-23T03:32:24Z",
+        "title": "Leah Panapa - 24 November 2026",
+        "url": "https://www.theplatform.kiwi/p/leah-panapa-24-november-2026",
+        "date_utc": "2026-11-24T03:12:49Z",
         "summary": "Read more"
       },
       {
-        "title": "Leah Panapa - 23 November 2026",
-        "url": "https://www.theplatform.kiwi/p/leah-panapa-23-november-2026",
-        "date_utc": "2026-11-23T03:12:22Z",
+        "title": "Former Defence Minister Ron Mark On The Lessons That The Ukraine Can Teach NZ's Armed Forces",
+        "url": "https://www.theplatform.kiwi/p/former-defence-minister-ron-mark",
+        "date_utc": "2026-11-24T02:30:01Z",
         "summary": "Read more"
       },
       {
-        "title": "Can We Trust The Mainstream Media To Tell Us The Truth?",
-        "url": "https://www.theplatform.kiwi/p/can-we-trust-the-mainstream-media",
-        "date_utc": "2026-11-23T02:34:36Z",
+        "title": "Congolese UN Rapporteur Needs To Bugger Off - And Stop Lecturing Us About \"Indigenous Rights\".",
+        "url": "https://www.theplatform.kiwi/p/congolese-un-rapporteur-needs-to",
+        "date_utc": "2026-11-24T02:21:13Z",
         "summary": ""
       },
       {
-        "title": "The Changing Climate…Of Grift",
-        "url": "https://www.theplatform.kiwi/p/the-changing-climateof-grift",
-        "date_utc": "2026-11-23T02:26:04Z",
-        "summary": "There are ructions at Farmlands Co-operative Society Limited, a co-operative owned by its members. The turbulence centers on Rob Hewett, who is the chairman of both Farmlands and AgriZeroNZ, the latter being a peculiar outfit I’ve covered previously: John’s Substack FREE SH*T JUNKIES I recently got a shock on the golf course. I wasn’t struck by lightning. And - although my golf is mostly shocking - my state of shock didn’t stem from the quality of anyone’s golf… Read more 2 years ago · 57 likes · 27 comments · John McLean Last month Farmlands’ Board announced its decision that Farmlands is to “invest” $1 million over three years in AgriZero. Faced with backlash from Farmlands’ members, Farmland’s Board claimed that Chair-Hewett’s clear conflict of interest was addressed by Hewett declaring his conflict of interest and purporting to distance himself from the Board’s decision. Hewett’s declare and “distance” deflection is a tactic commonly employed by individuals looking to exploit conflicts of interest in order to milk others’ money. Apparently lost on Hewett is the reality that, if Farmlands’ Board, without the approval of Farmlands’ members, wishes to squander $1 million of its me"
-      },
-      {
-        "title": "What's Wrong With The All Blacks?",
-        "url": "https://www.theplatform.kiwi/p/whats-wrong-with-the-all-blacks",
-        "date_utc": "2026-11-23T01:24:42Z",
+        "title": "Ian Wishart On COP30 Failure",
+        "url": "https://www.theplatform.kiwi/p/ian-wishart-on-cop30-failure",
+        "date_utc": "2026-11-23T23:44:25Z",
         "summary": "Read more"
       },
       {
-        "title": "Banks Are Farming Us: Monopoly Watch Founder Tex Morgan On How & How Much The Damage.",
-        "url": "https://www.theplatform.kiwi/p/banks-are-farming-us-monopoly-watch-54c",
-        "date_utc": "2026-11-22T23:42:04Z",
+        "title": "Damien Grant On Why Politicians Should Think Before Using The Word ‘Genocide’",
+        "url": "https://www.theplatform.kiwi/p/damien-grant-on-why-politicians-should",
+        "date_utc": "2026-11-23T23:26:20Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Co-Founder Of Groundswell, Laurie Paterson On Rob Hewett Stepping Down From Farmlands",
+        "url": "https://www.theplatform.kiwi/p/co-founder-of-groundswell-laurie",
+        "date_utc": "2026-11-23T22:45:56Z",
         "summary": "Read more"
       }
     ]
@@ -402,13 +402,13 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-23T00:50:16Z"
+      "newest_utc": "2026-11-24T03:26:41Z"
     },
     "rcr allepisodes rss": {
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-23T21:03:17Z"
+      "newest_utc": "2026-11-24T03:26:41Z"
     },
     "rcr article rss": {
       "ok": true,
@@ -420,19 +420,19 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-23T13:01:43Z"
+      "newest_utc": "2026-11-24T06:30:37Z"
     },
     "platform youtube": {
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-23T21:05:32Z"
+      "newest_utc": "2026-11-24T05:46:03Z"
     },
     "platform opinions": {
       "ok": true,
       "error": null,
       "items": 12,
-      "newest_utc": "2026-11-23T21:14:55Z"
+      "newest_utc": "2026-11-24T05:45:02Z"
     }
   }
 }
