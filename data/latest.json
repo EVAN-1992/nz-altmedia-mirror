@@ -1,8 +1,26 @@
 {
-  "generated_utc": "2026-11-24T22:37:25Z",
+  "generated_utc": "2026-11-25T08:52:35Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions every 3 hours. Exists because the brief's cloud runner cannot reach these domains directly. All date_utc values are ISO 8601 UTC; lists are newest first.",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "COLLEEN HARKIN: One Nation Victorian Deputy Leader: Targeting Victoria’s Gender Laws",
+        "url": "https://realitycheck.radio/episodes/colleen-harking-one-nation-victorian-deputy-leader-targeting-victorias-gender-laws/",
+        "date_utc": "2026-11-25T03:53:01Z",
+        "summary": "Maree Buscke speaks with One Nation Victorian Deputy Leader Colleen Harkin about the party’s proposal to amend Victoria’s Equal Opportunity Act to prioritise biological sex in women-only spaces and sport. They discuss the legal arguments, potential implications for transgender rights, and whether other states could follow suit. For more on Colleen Harkin or [...] The post COLLEEN HARKIN: One Nation Victorian Deputy Leader: Targeting Victoria’s Gender Laws appeared first on Reality Check Radio ."
+      },
+      {
+        "title": "MICHAEL ARBON: AI Forgery Will Backfire on Everyone",
+        "url": "https://realitycheck.radio/episodes/michael-arbon-ai-forgery-will-backfire-on-everyone/",
+        "date_utc": "2026-11-25T03:50:07Z",
+        "summary": "Michael Arbon warns that mortgage fraud undermines trust, risks greater data-sharing and reduced privacy, and could push up borrowing costs for honest customers. Discover more from Michael on Facebook and X The post MICHAEL ARBON: AI Forgery Will Backfire on Everyone appeared first on Reality Check Radio ."
+      },
+      {
+        "title": "FREDDIE PONTON: Associate Editor 21st Century Wire: Israel’s Surveillance of Australia & NZ Protesters Revealed",
+        "url": "https://realitycheck.radio/episodes/freddie-ponton-associate-editor-21st-century-wire-israels-surveillance-of-australia-nz-protesters-revealed/",
+        "date_utc": "2026-11-25T02:23:47Z",
+        "summary": "Talking with Paul Brennan, Freddie Ponton examines intelligence records from Israel’s Ministry of Diaspora Affairs, which reveal monitoring of domestic pro-Palestine protests, organisers, and elected lawmakers in New Zealand and Australia and the reframing of them as threats to its own security, raising concerns about foreign intelligence gathering and political interference. They also explore [...] The post FREDDIE PONTON: Associate Editor 21st Century Wire: Israel’s Surveillance of Australia & NZ Protesters Revealed appeared first on Reality Check Radio ."
+      },
       {
         "title": "MONEY TALKS: With Joel Robinson: AI Boom Exposes Hidden Risks in Global Investment Markets",
         "url": "https://realitycheck.radio/episodes/money-talks-with-joel-robinson-ai-boom-exposes-hidden-risks-in-global-investment-markets/",
@@ -104,27 +122,27 @@
         "url": "https://realitycheck.radio/episodes/casey-hodgkinson-vaccine-injury-survivor-long-battle-for-recognition-of-vaccine-injury/",
         "date_utc": "2026-11-23T00:50:16Z",
         "summary": ""
-      },
-      {
-        "title": "JOSHUA RILEY: Co-Founder of Advocacy Group Sovereign: What ACT & NZF Should Demand in Negotiations",
-        "url": "https://realitycheck.radio/episodes/joshua-riley-co-founder-of-advocacy-group-sovereign-what-act-nzf-should-demand-in-negotiations/",
-        "date_utc": "2026-11-22T23:44:27Z",
-        "summary": ""
-      },
-      {
-        "title": "BRENDAN HOARE: Organics Aotearoa NZ: Unapproved dsRNA Trials Threaten Organic Honey",
-        "url": "https://realitycheck.radio/episodes/brendan-hoare-organics-aotearoa-nz-unapproved-dsrna-trials-threaten-organic-honey/",
-        "date_utc": "2026-11-22T20:44:46Z",
-        "summary": "Paul Brennan speaks with Brendan Hoare of Organics Aotearoa New Zealand about field trials of dsRNA technology to combat Varroa mites in honeybees. Brendan questions why organic producers were not notified, whether honey and hives may have been affected and how regulators assessed the risks. For more information visit OANZ For everything you [...] The post BRENDAN HOARE: Organics Aotearoa NZ: Unapproved dsRNA Trials Threaten Organic Honey appeared first on Reality Check Radio ."
-      },
-      {
-        "title": "UNDER THE HOOD: With Graham ‘Hoody’ Hood: Reconciliation and Making Amends",
-        "url": "https://realitycheck.radio/episodes/under-the-hood-with-graham-hoody-hood-reconciliation-and-making-amends/",
-        "date_utc": "2026-11-21T20:30:11Z",
-        "summary": "Division is tearing apart families, friendships and communities. Graham \"Hoody\" Hood shares a deeply personal story about his seven-year estrangement from his father, the importance of forgiveness, and why it's time to stop letting disagreements destroy relationships. He also reflects on divisions among people who once stood together in challenging the Covid-19 response, and [...] The post UNDER THE HOOD: With Graham ‘Hoody’ Hood: Reconciliation and Making Amends appeared first on Reality Check Radio ."
       }
     ],
     "youtube": [
+      {
+        "title": "🇦🇺 It's time to balance the books with your neighbours, your family, your work colleagues, and...",
+        "url": "https://www.youtube.com/shorts/XZoZMhil5n8",
+        "date_utc": "2026-11-25T07:00:55Z",
+        "summary": "🇦🇺 \"It's time to balance the books with your neighbours, your family, your work colleagues, and your friends.\" - Graham “Hoody” Hood - Former Qantas Pilot, Club Grubbery Founder and new RCR Australia-based host. 🇦🇺 Hoody says reconciliation isn't about pretending disagreements never happened. It's about addressing the hurt so relationships can move forward. If you audited your relationships today, whose name would appear under 'unfinished business'? 🎥 Watch here: https://rcr.media/episodes/under-the-hood-with-graham-hoody-hood-reconciliation-and-making-amends #RCRMedia #UnderTheHood"
+      },
+      {
+        "title": "🤖 AI CAN FAKE YOUR FINANCES, BUT NOT THE CONSEQUENCES!",
+        "url": "https://www.youtube.com/shorts/xjM9W0y7agc",
+        "date_utc": "2026-11-25T06:30:25Z",
+        "summary": "🤖 AI CAN FAKE YOUR FINANCES, BUT NOT THE CONSEQUENCES! 🇦🇺 Nearly one in five Australian borrowers admit to using AI to alter or forge documents for mortgage applications. Michael Arbon looks at why this growing practice could have serious consequences for everyone – from increased data sharing and reduced privacy to higher borrowing costs for honest customers. #RCRMedia"
+      },
+      {
+        "title": "\"It's one conversation at a time.\" - Dean Harrison",
+        "url": "https://www.youtube.com/shorts/IORmU7LTKkg",
+        "date_utc": "2026-11-25T06:00:31Z",
+        "summary": "\"It's one conversation at a time.\" - Dean Harrison The RCR Road Trip has been taking the Vote Smart message around New Zealand, with volunteers speaking directly to voters about their choices. Have we underestimated just how much political power ordinary Kiwis have when they stop complaining from the sidelines and start talking to their neighbours? 🎥 Watch here: https://rcr.media/episodes/rcr-road-trip-building-community-across-nz #RCRMedia #RoadTrip"
+      },
       {
         "title": "If they're bringing in more people specifically from one country that tends to vote for them...",
         "url": "https://www.youtube.com/shorts/U25twFBv2_g",
@@ -196,29 +214,35 @@
         "url": "https://www.youtube.com/watch?v=uRJl_zyE2w4",
         "date_utc": "2026-11-23T13:01:14Z",
         "summary": "Paul Brennan speaks with Brendan Hoare of Organics Aotearoa New Zealand about field trials of dsRNA technology to combat Varroa mites in honeybees. Brendan questions why organic producers were not notified, whether honey and hives may have been affected and how regulators assessed the risks. For more information visit OANZ For everything you need to Say No To Gene Technology"
-      },
-      {
-        "title": "\"It always starts with the children.\" - Margaret Chambers",
-        "url": "https://www.youtube.com/shorts/WedJCBunWxc",
-        "date_utc": "2026-11-23T07:00:46Z",
-        "summary": "🇦🇺 \"It always starts with the children.\" - Margaret Chambers, Research Fellow at The Institute of Public Affairs 🇦🇺 Margaret Chambers questions how Australia's original child safety watchdog evolved into a much broader internet regulator. If politicians wrapped surveillance legislation in a different package, would the public be anywhere near as willing to accept it? 🎥 Watch here: https://rcr.media/episodes/margaret-chambers-research-fellow-at-the-institute-of-public-affairs-new-aussie-censorship-law-nz-wants-to-copy #RCRMedia"
-      },
-      {
-        "title": "Nobody's talking about the fact that actually the specials could come in, and actually the right...",
-        "url": "https://www.youtube.com/shorts/c0W_LKJh2sc",
-        "date_utc": "2026-11-23T06:15:42Z",
-        "summary": "\"Nobody's talking about the fact that actually the specials could come in, and actually the right could expand their lead.\" - Bob McCoskrie - Family First Chief Executive Bob McCoskrie highlights an election scenario receiving little mainstream media attention: the centre-right increasing its parliamentary majority after the special votes are counted. Who will need the biggest box of tissues when the final results land: Bob, Chlöe, Chippy or the parliamentary press gallery? 🎥 Watch here: https://rcr.media/episodes/bob-mccoskrie-family-first-director-election-tactics-and-political-double-standards #RCRMedia"
-      },
-      {
-        "title": "\"I couldn't drive along listening to it, thinking I was listening to anything credible.\"",
-        "url": "https://www.youtube.com/shorts/sInFqaj2L8k",
-        "date_utc": "2026-11-23T05:30:46Z",
-        "summary": "\"I couldn't drive along listening to it, thinking I was listening to anything credible.\" - Rachel Stewart Rachel Stewart explains why she switched off RNZ years before its current financial crisis. What's harder to recover: an $11.8 million financial shortfall or years of lost credibility? Rachel Stewart and Maree Buscke examine the financial crisis engulfing RNZ, questioning its management, HR influence and spending after an $11.8 million shortfall and substantial redundancy payments. 🎥 Watch here: https://rcr.media/episodes/both-barrels-with-maree-buscke-rachel-stewart-rnzs-11-8-million-blowout-puts-management-under-the-spotlight #RCRMedia #BothBarrels"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Todd Stephenson MP On His Bill To Loosen Euthanasia Restrictions",
+        "url": "https://www.youtube.com/watch?v=HuJZKpS0SA8",
+        "date_utc": "2026-11-25T01:22:49Z",
+        "summary": "Todd Stephenson MP on his bill to loosen euthanasia restrictions"
+      },
+      {
+        "title": "OPES Economist On The Dramatically Weak Kiwi Dollar - An Explanation",
+        "url": "https://www.youtube.com/watch?v=-XNO5WggSrc",
+        "date_utc": "2026-11-25T00:57:46Z",
+        "summary": "OPES economist on the dramatically weak Kiwi dollar - an explanation"
+      },
+      {
+        "title": "If The Centre/Left/Left Wins, They're Sending Billions Overseas ...",
+        "url": "https://www.youtube.com/watch?v=5dfClfCBTvo",
+        "date_utc": "2026-11-25T00:51:19Z",
+        "summary": "If the Centre/Left/Left wins, they're sending billions overseas ... and want to \"lead the world\" on climate change."
+      },
+      {
+        "title": "Too Small To Insure? - Your Money Matters",
+        "url": "https://www.youtube.com/watch?v=Tnn3ClA2y68",
+        "date_utc": "2026-11-24T22:53:51Z",
+        "summary": "Your Money Matters with Harness Financial Episode 61 - Too Small To Insure? Make smart decisions for your financial future with Samuel Rees-Thomas and Dieter Timmerman from Harness Financial. Find out more at - www.harnessfinancial.co.nz"
+      },
       {
         "title": "Catherine Beard On Mood Of Businesses During Uncertain Political Times",
         "url": "https://www.youtube.com/watch?v=1gMKZw_5OXg",
@@ -284,33 +308,63 @@
         "url": "https://www.youtube.com/watch?v=IIqqZFCLTvU",
         "date_utc": "2026-11-24T02:18:51Z",
         "summary": "Congolese UN rapporteur needs to bugger off - and stop lecturing us about \"indigenous rights\"."
-      },
-      {
-        "title": "Ian Wishart On COP30 Failure",
-        "url": "https://www.youtube.com/watch?v=v2wBbkkk0pU",
-        "date_utc": "2026-11-23T23:46:56Z",
-        "summary": ""
-      },
-      {
-        "title": "Damien Grant On Why Politicians Should Think Before Using The Word ‘Genocide’",
-        "url": "https://www.youtube.com/watch?v=dC6nUmpJnHY",
-        "date_utc": "2026-11-23T23:32:28Z",
-        "summary": ""
-      },
-      {
-        "title": "Co-Founder Of Groundswell, Laurie Paterson On Rob Hewett Stepping Down From Farmlands",
-        "url": "https://www.youtube.com/watch?v=BtDoZgRZK5w",
-        "date_utc": "2026-11-23T22:20:04Z",
-        "summary": ""
-      },
-      {
-        "title": "Sean Plunket Reacts To Chloe Swarbrick Spreading Misinformation About Dairy Industry",
-        "url": "https://www.youtube.com/watch?v=zW_Sv08KuaQ",
-        "date_utc": "2026-11-23T22:05:43Z",
-        "summary": ""
       }
     ],
     "opinions": [
+      {
+        "title": "The Maori Seats Must Go - Don Brash On Why",
+        "url": "https://www.theplatform.kiwi/p/the-maori-seats-must-go-don-brash",
+        "date_utc": "2026-11-25T06:07:26Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Excessive Taxi Fares, Passenger Protection & Is The Industry Playing By The Rules?",
+        "url": "https://www.theplatform.kiwi/p/excessive-taxi-fares-passenger-protection",
+        "date_utc": "2026-11-25T03:16:59Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Leah Panapa - 25 November 2026",
+        "url": "https://www.theplatform.kiwi/p/leah-panapa-25-november-2026",
+        "date_utc": "2026-11-25T03:13:03Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Todd Stephenson MP On His Bill To Loosen Euthanasia Restrictions",
+        "url": "https://www.theplatform.kiwi/p/todd-stephenson-mp-on-his-bill-to",
+        "date_utc": "2026-11-25T01:31:43Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "OPES Economist On The Dramatically Weak Kiwi Dollar - An Explanation",
+        "url": "https://www.theplatform.kiwi/p/opes-economist-on-the-dramatically",
+        "date_utc": "2026-11-25T01:02:17Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "If The Centre/Left/Left Wins, They're Sending Billions Overseas ...",
+        "url": "https://www.theplatform.kiwi/p/if-the-centreleftleft-wins-theyre",
+        "date_utc": "2026-11-25T01:00:41Z",
+        "summary": ""
+      },
+      {
+        "title": "Michael Laws - 25 November 2026",
+        "url": "https://www.theplatform.kiwi/p/michael-laws-25-november-2026",
+        "date_utc": "2026-11-25T00:57:17Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Too Small To Insure? - Your Money Matters",
+        "url": "https://www.theplatform.kiwi/p/too-small-to-insure-your-money-matters",
+        "date_utc": "2026-11-25T00:01:28Z",
+        "summary": "Make smart decisions for your financial future with Samuel Rees-Thomas and Dieter Timmerman from Harness Financial."
+      },
+      {
+        "title": "Catherine Beard On Mood Of Businesses During Uncertain Political Times",
+        "url": "https://www.theplatform.kiwi/p/catherine-beard-on-mood-of-businesses",
+        "date_utc": "2026-11-24T23:02:13Z",
+        "summary": "Read more"
+      },
       {
         "title": "Chris Lynch On RNZ HR Boss Sarah Neilson Fleeing During Financial Crisis",
         "url": "https://www.theplatform.kiwi/p/chris-lynch-on-rnz-hr-boss-sarah",
@@ -328,60 +382,6 @@
         "url": "https://www.theplatform.kiwi/p/sean-plunket-25-november-2026",
         "date_utc": "2026-11-24T21:22:10Z",
         "summary": "Read more"
-      },
-      {
-        "title": "Can Wegovy Save You & Me From Obesity?",
-        "url": "https://www.theplatform.kiwi/p/can-wegovy-save-you-and-me-from-obesity",
-        "date_utc": "2026-11-24T05:45:02Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Michael Laws - 24 November 2026",
-        "url": "https://www.theplatform.kiwi/p/michael-laws-24-november-2026",
-        "date_utc": "2026-11-24T05:18:29Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Is Your Car Spying On You? The Impact Of Data-Gathering Technology In Cars.",
-        "url": "https://www.theplatform.kiwi/p/is-your-car-spying-on-you-the-impact",
-        "date_utc": "2026-11-24T04:44:23Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Nearly A Million Dollars Awarded To Trans “Scholar-Activist” To Study Imprisonment",
-        "url": "https://www.theplatform.kiwi/p/nearly-a-million-dollars-awarded",
-        "date_utc": "2026-11-24T04:21:43Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "New Zealand's Smoking Rate Has Fallen, How Many Of Us Are Still Having A Dart?",
-        "url": "https://www.theplatform.kiwi/p/new-zealands-smoking-rate-has-fallen",
-        "date_utc": "2026-11-24T04:05:14Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "How Bad Is NZ's Media Bias?",
-        "url": "https://www.theplatform.kiwi/p/how-bad-is-nzs-media-bias",
-        "date_utc": "2026-11-24T03:22:00Z",
-        "summary": ""
-      },
-      {
-        "title": "Leah Panapa - 24 November 2026",
-        "url": "https://www.theplatform.kiwi/p/leah-panapa-24-november-2026",
-        "date_utc": "2026-11-24T03:12:49Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Former Defence Minister Ron Mark On The Lessons That The Ukraine Can Teach NZ's Armed Forces",
-        "url": "https://www.theplatform.kiwi/p/former-defence-minister-ron-mark",
-        "date_utc": "2026-11-24T02:30:01Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Congolese UN Rapporteur Needs To Bugger Off - And Stop Lecturing Us About \"Indigenous Rights\".",
-        "url": "https://www.theplatform.kiwi/p/congolese-un-rapporteur-needs-to",
-        "date_utc": "2026-11-24T02:21:13Z",
-        "summary": ""
       }
     ]
   },
@@ -408,7 +408,7 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-24T22:25:54Z"
+      "newest_utc": "2026-11-25T03:53:01Z"
     },
     "rcr article rss": {
       "ok": true,
@@ -420,19 +420,19 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-24T20:01:26Z"
+      "newest_utc": "2026-11-25T07:00:55Z"
     },
     "platform youtube": {
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-24T22:22:41Z"
+      "newest_utc": "2026-11-25T01:22:49Z"
     },
     "platform opinions": {
       "ok": true,
       "error": null,
       "items": 12,
-      "newest_utc": "2026-11-24T22:07:06Z"
+      "newest_utc": "2026-11-25T06:07:26Z"
     }
   }
 }
