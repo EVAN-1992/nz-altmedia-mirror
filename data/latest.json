@@ -1,37 +1,109 @@
 {
-  "generated_utc": "2026-11-26T03:39:23Z",
+  "generated_utc": "2026-11-26T17:06:37Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions every 3 hours. Exists because the brief's cloud runner cannot reach these domains directly. All date_utc values are ISO 8601 UTC; lists are newest first.",
   "reality_check_radio": {
     "articles_and_episodes": [
       {
+        "title": "THE FOURTH ESTATE: Brynn Neilson, founder of NZ Media World: MSM Bias and the Rise of the Fifth Estate",
+        "url": "https://realitycheck.radio/episodes/the-fourth-estate-brynn-neilson-founder-of-nz-media-world-msm-bias-and-the-rise-of-the-fifth-estate/",
+        "date_utc": "2026-11-26T05:03:14Z",
+        "summary": ""
+      },
+      {
+        "title": "What Now?",
+        "url": "https://realitycheck.radio/what-now/",
+        "date_utc": "2026-11-26T03:07:07Z",
+        "summary": "by Nathan Smith We’ll have to wait to see if […]"
+      },
+      {
         "title": "HRVOJE MORIC: Geopolitical Journalist & Podcaster: Cyber Attacks – The Gateway to Digital Control?",
         "url": "https://realitycheck.radio/episodes/hrvoje-moric-geopolitical-journalist-podcaster-cyber-attacks-the-gateway-to-digital-control/",
         "date_utc": "2026-11-26T01:40:23Z",
-        "summary": "Paul Brennan talks to geopolitical journalist and podcaster Hrvoje Morić on the growing wave of cyber attacks and the potential push towards digital IDs, biometric verification and greater control over online activity. They explore the role of AI, automation and mass job displacement, the future of global governance and whether geopolitical tensions and [...] The post HRVOJE MORIC: Geopolitical Journalist & Podcaster: Cyber Attacks – The Gateway to Digital Control? appeared first on Reality Check Radio ."
+        "summary": ""
       },
       {
         "title": "RIDING SHOTGUN: With Rachel Stewart: When Journalism Lost Its Way We All Did",
         "url": "https://realitycheck.radio/episodes/riding-shotgun-with-rachel-stewart-when-journalism-lost-its-way-we-all-did/",
         "date_utc": "2026-11-26T01:33:53Z",
-        "summary": "Rachel Stewart reflects on the state of democracy following the election, arguing that declining trust in politicians, institutions and ourselves is being fuelled by mainstream media manipulation. Drawing parallels between the Covid vaccine mandates and reactions to strategic voting, she questions how much freedom and choice we really have, and calls for the [...] The post RIDING SHOTGUN: With Rachel Stewart: When Journalism Lost Its Way We All Did appeared first on Reality Check Radio ."
+        "summary": ""
       },
       {
         "title": "PAUL HENRY: ACT MP: ACT Pushing for a Genuine Three-Party Coalition",
         "url": "https://realitycheck.radio/episodes/paul-henry-act-mp-act-pushing-for-a-genuine-three-party-coalition/",
         "date_utc": "2026-11-26T01:29:18Z",
-        "summary": "ACT MP Paul Henry joins Maree Buske to discuss the uncertain post-election numbers, the prospects of a returning centre-right government and the possibility of a hung Parliament. He argues that any new coalition must operate as a genuine partnership between National, ACT and NZ First, rather than National simply managing separate agreements. Discover [...] The post PAUL HENRY: ACT MP: ACT Pushing for a Genuine Three-Party Coalition appeared first on Reality Check Radio ."
+        "summary": ""
       },
       {
         "title": "No Thug’s Veto",
         "url": "https://realitycheck.radio/no-thugs-veto/",
         "date_utc": "2026-11-25T23:00:20Z",
-        "summary": "by Peter Williams We first heard of the thugs or hecklers veto around 2018 when Canadian speakers Lauren Southern and Stefan Molyneux came to New Zealand. Their attempt to convey opinion at Auckland’s publicly owned Bruce Mason Theatre was stalled for “health and safety concerns”. In other words, those protesting the event would pose too much of a danger for the event to go ahead safely. Somehow the Supreme Court agreed and essentially said while we must allow people to express opinions, it has to be done in a way that doesn’t endanger public safety. So if you don’t like what you’re about to hear, you create such a ruckus that everybody’s in danger – and councils can therefore close public venues to events that protesters don’t like. The case brought about the formation of the Free Speech Coalition, which then developed into the Free Speech Union, which is still going strong today. It was all a very dark time for freedom of expression and freedom of association, but it came to mind again recently when discussion on whether the Maori seats should be abolished in any revised version of our MMP voting system. Two people who I thought might have known better, Palmerston North lawyer an"
+        "summary": "by Peter Williams We first heard of the thugs or […]"
+      },
+      {
+        "title": "CASEY HODGKINSON: Power & the Press: Is Independent Media the Last Line of Defence?",
+        "url": "https://realitycheck.radio/episodes/casey-hodgkinson-power-the-press-is-independent-media-the-last-line-of-defence/",
+        "date_utc": "2026-11-25T19:49:47Z",
+        "summary": ""
+      },
+      {
+        "title": "JOSHUA RILEY: Immigration Pause: Is Mass Migration Quietly Killing the Country?",
+        "url": "https://realitycheck.radio/episodes/joshua-riley-immigration-pause-is-mass-migration-quietly-killing-the-country/",
+        "date_utc": "2026-11-25T19:49:24Z",
+        "summary": ""
+      },
+      {
+        "title": "DEAN HARRISON: NZ’s Split Vote Shake-Up: Can Grassroots Power Keep Hipkins Out?",
+        "url": "https://realitycheck.radio/episodes/dean-harrison-nzs-split-vote-shake-up-can-grassroots-power-keep-hipkins-out/",
+        "date_utc": "2026-11-25T19:49:07Z",
+        "summary": ""
+      },
+      {
+        "title": "JOSHUA RILEY: NZ Immigration Voting Blocs: Is National Engineering Its Own Electorate?",
+        "url": "https://realitycheck.radio/episodes/joshua-riley-nz-immigration-voting-blocs-is-national-engineering-its-own-electorate/",
+        "date_utc": "2026-11-25T19:48:50Z",
+        "summary": ""
+      },
+      {
+        "title": "CRAIG STOBO: Burning Cash & Hidden Losses: The $11.8M Deficit Disaster Unveiled",
+        "url": "https://realitycheck.radio/episodes/craig-stobo-burning-cash-hidden-losses-the-11-8m-deficit-disaster-unveiled/",
+        "date_utc": "2026-11-25T19:47:53Z",
+        "summary": ""
+      },
+      {
+        "title": "CASEY HODGKINSON: Passion Over Guilt: Embracing the Painful Process With Purpose",
+        "url": "https://realitycheck.radio/episodes/casey-hodgkinson-passion-over-guilt-embracing-the-painful-process-with-purpose/",
+        "date_utc": "2026-11-25T19:47:10Z",
+        "summary": ""
+      },
+      {
+        "title": "ANI OBRIEN: NZ Vote Splitting: The System Chloe Swears By, But Others Fear",
+        "url": "https://realitycheck.radio/episodes/ani-obrien-nz-vote-splitting-the-system-chloe-swears-by-but-others-fear/",
+        "date_utc": "2026-11-25T19:46:46Z",
+        "summary": ""
+      },
+      {
+        "title": "UNDER THE HOOD: Community’s Secret Enemy: Why Amends and Reconciliation Must Balance the Books",
+        "url": "https://realitycheck.radio/episodes/under-the-hood-communitys-secret-enemy-why-amends-and-reconciliation-must-balance-the-books/",
+        "date_utc": "2026-11-25T19:45:47Z",
+        "summary": ""
+      },
+      {
+        "title": "CASEY HODGKINSON: ACC Gaslighting Unveiled: Trusting Yourself After the Battle for Vindication",
+        "url": "https://realitycheck.radio/episodes/casey-hodgkinson-acc-gaslighting-unveiled-trusting-yourself-after-the-battle-for-vindication/",
+        "date_utc": "2026-11-25T19:45:03Z",
+        "summary": ""
+      },
+      {
+        "title": "JOSHUA RILEY: NZ Coalition Deal: The One Clause That Could Kill Leftist Policies",
+        "url": "https://realitycheck.radio/episodes/joshua-riley-nz-coalition-deal-the-one-clause-that-could-kill-leftist-policies/",
+        "date_utc": "2026-11-25T19:44:05Z",
+        "summary": ""
       },
       {
         "title": "COLLEEN HARKIN: One Nation Victorian Deputy Leader: Targeting Victoria’s Gender Laws",
         "url": "https://realitycheck.radio/episodes/colleen-harkin-one-nation-victorian-deputy-leader-targeting-victorias-gender-laws/",
         "date_utc": "2026-11-25T03:53:01Z",
-        "summary": "Maree Buscke speaks with One Nation Victorian Deputy Leader Colleen Harkin about the party’s proposal to amend Victoria’s Equal Opportunity Act to prioritise biological sex in women-only spaces and sport. They discuss the legal arguments, potential implications for transgender rights, and whether other states could follow suit. For more on Colleen Harkin or [...] The post COLLEEN HARKIN: One Nation Victorian Deputy Leader: Targeting Victoria’s Gender Laws appeared first on Reality Check Radio ."
+        "summary": ""
       },
       {
         "title": "MICHAEL ARBON: AI Forgery Will Backfire on Everyone",
@@ -46,85 +118,49 @@
         "summary": "Talking with Paul Brennan, Freddie Ponton examines intelligence records from Israel’s Ministry of Diaspora Affairs, which reveal monitoring of domestic pro-Palestine protests, organisers, and elected lawmakers in New Zealand and Australia and the reframing of them as threats to its own security, raising concerns about foreign intelligence gathering and political interference. They also explore [...] The post FREDDIE PONTON: Associate Editor 21st Century Wire: Israel’s Surveillance of Australia & NZ Protesters Revealed appeared first on Reality Check Radio ."
       },
       {
-        "title": "MONEY TALKS: With Joel Robinson: AI Boom Exposes Hidden Risks in Global Investment Markets",
-        "url": "https://realitycheck.radio/episodes/money-talks-with-joel-robinson-ai-boom-exposes-hidden-risks-in-global-investment-markets/",
-        "date_utc": "2026-11-24T22:25:54Z",
-        "summary": "NVIDIA’s dramatic share-price swings and the record-breaking IPO of AI company Anthropic are raising questions about the sustainability of the AI investment boom. Talking with Paul Brennan, investment adviser Joel Robinson examines the growing financial interdependence between major technology companies, the risks of circular financing and the warning signs emerging in US markets. [...] The post MONEY TALKS: With Joel Robinson: AI Boom Exposes Hidden Risks in Global Investment Markets appeared first on Reality Check Radio ."
-      },
-      {
-        "title": "BOTH BARRELS: With Maree Buscke & Rachel Stewart: The Cost to Youth with Pornography’s Digital Explosion",
-        "url": "https://realitycheck.radio/episodes/both-barrels-with-maree-buscke-rachel-stewart-the-cost-to-youth-with-pornographys-digital-explosion/",
-        "date_utc": "2026-11-24T21:24:45Z",
-        "summary": "Maree Buscke and Rachel Stewart examine how pornography has evolved from hidden magazines to an instantly accessible, multi-billion-dollar online industry, and the growing impact on children, relationships and intimacy. They discuss the increasingly extreme nature of online content, the normalisation of harmful sexual behaviours, early exposure among teenagers and the emerging threat of [...] The post BOTH BARRELS: With Maree Buscke & Rachel Stewart: The Cost to Youth with Pornography’s Digital Explosion appeared first on Reality Check Radio ."
-      },
-      {
-        "title": "NICK SMITH: Nelson Mayor: The Case for Protecting Electorate MPs",
-        "url": "https://realitycheck.radio/episodes/nick-smith-nelson-mayor-the-case-for-protecting-electorate-mps/",
-        "date_utc": "2026-11-24T21:00:02Z",
-        "summary": "Talking with Simon O'Connor, former National MP and Nelson mayor Nick Smith challenges criticism of the 2026 election results, arguing that strategic voting has been overstated and that electorate MPs play an essential role in representing local communities. He warns against proposed changes that could undermine electorate representation, calls for electoral law to [...] The post NICK SMITH: Nelson Mayor: The Case for Protecting Electorate MPs appeared first on Reality Check Radio ."
-      },
-      {
-        "title": "TECH TUESDAY: With Steven Sykes: What’s Driving AI Cyberattacks?",
-        "url": "https://realitycheck.radio/episodes/tech-tuesday-with-steven-sykes-whats-driving-ai-cyberattacks/",
-        "date_utc": "2026-11-24T03:26:41Z",
-        "summary": ""
-      },
-      {
-        "title": "DAVID FARRAR: NZ Election on a Knife-Edge: Is a Hung Parliament Inevitable?",
-        "url": "https://realitycheck.radio/episodes/david-farrar-nz-election-on-a-knife-edge-is-a-hung-parliament-inevitable-2/",
-        "date_utc": "2026-11-23T23:57:24Z",
-        "summary": ""
-      },
-      {
-        "title": "HELEN JOYCE: Conversion Practices Law: 5-Year Sentences But Courts Can’t Keep Up",
-        "url": "https://realitycheck.radio/episodes/helen-joyce-conversion-practices-law-5-year-sentences-but-courts-cant-keep-up/",
-        "date_utc": "2026-11-23T23:56:25Z",
-        "summary": ""
-      },
-      {
-        "title": "BOTH BARRELS: RNZ’s Gravy Train Derails: 58 Jobs Gone, Zero Sympathy",
-        "url": "https://realitycheck.radio/episodes/both-barrels-rnzs-gravy-train-derails-58-jobs-gone-zero-sympathy-2/",
-        "date_utc": "2026-11-23T23:56:14Z",
-        "summary": ""
-      },
-      {
-        "title": "HELEN JOYCE: NZ Conversion Practices Bill: Are Parents Now Criminals for Protecting Their Kids?",
-        "url": "https://realitycheck.radio/episodes/helen-joyce-nz-conversion-practices-bill-are-parents-now-criminals-for-protecting-their-kids-2/",
-        "date_utc": "2026-11-23T23:55:20Z",
-        "summary": ""
-      },
-      {
-        "title": "RIDING SHOTGUN: Porn’s Hidden Curriculum: How It’s Reshaping Real Intimacy",
-        "url": "https://realitycheck.radio/episodes/riding-shotgun-porns-hidden-curriculum-how-its-reshaping-real-intimacy-2/",
-        "date_utc": "2026-11-23T23:55:03Z",
-        "summary": ""
-      },
-      {
-        "title": "MARGARET CHAMBERS: Australia’s Internet Regulation Warning: A Cautionary Tale for the World",
-        "url": "https://realitycheck.radio/episodes/margaret-chambers-australias-internet-regulation-warning-a-cautionary-tale-for-the-world-2/",
-        "date_utc": "2026-11-23T23:54:45Z",
-        "summary": ""
-      },
-      {
-        "title": "DAVID FARRAR: NZ Election Math: Would Centre-Right Domination Have Been Inevitable?",
-        "url": "https://realitycheck.radio/episodes/david-farrar-nz-election-math-would-centre-right-domination-have-been-inevitable/",
-        "date_utc": "2026-11-23T23:54:24Z",
-        "summary": ""
-      },
-      {
-        "title": "KIRRALIE SMITH: Gender Ideology vs. Parental Rights: A Mother’s Heartbreaking Estrangement Story",
-        "url": "https://realitycheck.radio/episodes/kirralie-smith-gender-ideology-vs-parental-rights-a-mothers-heartbreaking-estrangement-story-2/",
-        "date_utc": "2026-11-23T23:53:54Z",
-        "summary": ""
-      },
-      {
-        "title": "BEN MAI: Auckland Santa Parade: The Nativity Float’s 90-Year Battle to Return",
-        "url": "https://realitycheck.radio/episodes/ben-mai-auckland-santa-parade-the-nativity-floats-90-year-battle-to-return/",
-        "date_utc": "2026-11-23T23:52:17Z",
-        "summary": ""
+        "title": "Overhanging by a thread",
+        "url": "https://realitycheck.radio/overhanging-by-a-thread/",
+        "date_utc": "2026-11-24T23:16:42Z",
+        "summary": "by Dr Michael Johnston The preliminary election result on 7 […]"
       }
     ],
     "youtube": [
+      {
+        "title": "HRVOJE MORIC: Geopolitical Journalist & Podcaster: Cyber Attacks – The Gateway to Digital Control?",
+        "url": "https://www.youtube.com/watch?v=HQL_ZYDNqxI",
+        "date_utc": "2026-11-26T13:03:20Z",
+        "summary": "Paul Brennan talks to geopolitical journalist and podcaster Hrvoje Morić on the growing wave of cyber attacks and the potential push towards digital IDs, biometric verification and greater control over online activity. They explore the role of AI, automation and mass job displacement, the future of global governance and whether geopolitical tensions and the Ukraine conflict are helping accelerate a new technological order. For further information visit Hrvoje’s website Geopolitics & Empire or find him on X"
+      },
+      {
+        "title": "PAUL HENRY: ACT MP: ACT Pushing for a Genuine Three-Party Coalition",
+        "url": "https://www.youtube.com/watch?v=H84Vs9_3kqQ",
+        "date_utc": "2026-11-26T13:01:34Z",
+        "summary": "ACT MP Paul Henry joins Maree Buske to discuss the uncertain post-election numbers, the prospects of a returning centre-right government and the possibility of a hung Parliament. He argues that any new coalition must operate as a genuine partnership between National, ACT and NZ First, rather than National simply managing separate agreements. Discover more on Paul Henry or find him on Facebook and Instagram For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "RIDING SHOTGUN: With Rachel Stewart: When Journalism Lost Its Way We All Did",
+        "url": "https://www.youtube.com/watch?v=Nc7lna165FY",
+        "date_utc": "2026-11-26T13:01:07Z",
+        "summary": "Rachel Stewart reflects on the state of democracy following the election, arguing that declining trust in politicians, institutions and ourselves is being fuelled by mainstream media manipulation. Drawing parallels between the Covid vaccine mandates and reactions to strategic voting, she questions how much freedom and choice we really have, and calls for the destruction of mainstream media as a necessary step towards restoring independent thought and trust. Discover more from Rachel on Substack and X For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "I have seen over my parliamentary career, the party of government using its simple majority in...",
+        "url": "https://www.youtube.com/shorts/IndWliDBYdc",
+        "date_utc": "2026-11-26T06:00:40Z",
+        "summary": "\"I have seen over my parliamentary career, the party of government using its simple majority in the parliament to tweak the rules.\" - Nick Smith, Nelson Mayor & Former National MP Nick Smith says New Zealand's electoral laws are too important to be repeatedly altered by whichever party happens to hold power. If politicians can change election rules with a simple majority, what's stopping them from moving the goalposts whenever the next election looks difficult? 🎥 Watch here: https://rcr.media/episodes/nick-smith-nelson-mayor-the-case-for-protecting-electorate-mps #RCRMedia"
+      },
+      {
+        "title": "\"You don't try to slip in a pork chop. It's not permitted.\" - Brendan Hoare, Organics Aotearoa NZ",
+        "url": "https://www.youtube.com/shorts/-nKNZbBhivM",
+        "date_utc": "2026-11-26T05:00:45Z",
+        "summary": "\"You don't try to slip in a pork chop. It's not permitted.\" - Brendan Hoare, Organics Aotearoa NZ Brendan Hoare argues that organic standards deserve the same respect as halal certification is given, warning that dsRNA technology could jeopardise the integrity of New Zealand's organic products and export reputation. If we wouldn't dream of slipping pork into halal meat because it violates the rules and risks billions in trade, why should organic farmers be expected to swallow technology their standards prohibit? 🎥 Watch here: https://rcr.media/episodes/brendan-hoare-organics-aotearoa-nz-unapproved-dsrna-trials-threaten-organic-honey #RCRMedia"
+      },
+      {
+        "title": "The body seems to work better from this research by sleeping on your right side in terms of the...",
+        "url": "https://www.youtube.com/shorts/ryD7tkvwmco",
+        "date_utc": "2026-11-26T04:30:37Z",
+        "summary": "\"The body seems to work better from this research by sleeping on your right side in terms of the glymphatics\" - Dr Randall Farrant, Co-Founder of Vital Wellbeing Dr Randall suggests experimenting with right-side sleeping based on early research into how the brain clears waste during sleep. What's your natural sleeping position, and would you be willing to change it if stronger research showed benefits for brain health? Rodney Hide speaks with Drs Sarah and Randall Farrant about the glymphatic system, the brain’s waste-clearance network and its role in maintaining neurological health. 🎥 Watch here: https://rcr.media/episodes/drs-sarah-and-randall-farrant-co-founders-of-vital-wellbeing-the-brains-nightly-clean-up-why-deep-sleep-matters #RCRMedia"
+      },
       {
         "title": "\"Otherwise, it is essentially that Labour and National formed a coalition\" - Joshua Riley",
         "url": "https://www.youtube.com/shorts/Vjk-LjzfAtU",
@@ -178,47 +214,35 @@
         "url": "https://www.youtube.com/shorts/XZoZMhil5n8",
         "date_utc": "2026-11-25T07:00:55Z",
         "summary": "🇦🇺 \"It's time to balance the books with your neighbours, your family, your work colleagues, and your friends.\" - Graham “Hoody” Hood - Former Qantas Pilot, Club Grubbery Founder and new RCR Australia-based host. 🇦🇺 Hoody says reconciliation isn't about pretending disagreements never happened. It's about addressing the hurt so relationships can move forward. If you audited your relationships today, whose name would appear under 'unfinished business'? 🎥 Watch here: https://rcr.media/episodes/under-the-hood-with-graham-hoody-hood-reconciliation-and-making-amends #RCRMedia #UnderTheHood"
-      },
-      {
-        "title": "🤖 AI CAN FAKE YOUR FINANCES, BUT NOT THE CONSEQUENCES!",
-        "url": "https://www.youtube.com/shorts/xjM9W0y7agc",
-        "date_utc": "2026-11-25T06:30:25Z",
-        "summary": "🤖 AI CAN FAKE YOUR FINANCES, BUT NOT THE CONSEQUENCES! 🇦🇺 Nearly one in five Australian borrowers admit to using AI to alter or forge documents for mortgage applications. Michael Arbon looks at why this growing practice could have serious consequences for everyone – from increased data sharing and reduced privacy to higher borrowing costs for honest customers. #RCRMedia"
-      },
-      {
-        "title": "\"It's one conversation at a time.\" - Dean Harrison",
-        "url": "https://www.youtube.com/shorts/IORmU7LTKkg",
-        "date_utc": "2026-11-25T06:00:31Z",
-        "summary": "\"It's one conversation at a time.\" - Dean Harrison The RCR Road Trip has been taking the Vote Smart message around New Zealand, with volunteers speaking directly to voters about their choices. Have we underestimated just how much political power ordinary Kiwis have when they stop complaining from the sidelines and start talking to their neighbours? 🎥 Watch here: https://rcr.media/episodes/rcr-road-trip-building-community-across-nz #RCRMedia #RoadTrip"
-      },
-      {
-        "title": "If they're bringing in more people specifically from one country that tends to vote for them...",
-        "url": "https://www.youtube.com/shorts/U25twFBv2_g",
-        "date_utc": "2026-11-24T20:01:26Z",
-        "summary": "\"If they're bringing in more people specifically from one country that tends to vote for them, then you definitely have to ask if this is an issue with the system\" - Joshua Riley, Co-Founder of Advocacy Group Sovereign Joshua Riley questions the possibility of governments considering future voting patterns when shaping immigration settings. Should New Zealand have stronger safeguards to ensure immigration policy can never become a tool for engineering electoral advantage? 🎥 Watch here: https://rcr.media/episodes/joshua-riley-co-founder-of-advocacy-group-sovereign-what-act-nzf-should-demand-in-negotiations #RCRMedia"
-      },
-      {
-        "title": "\"I'm so grateful for those independent medias.\" - Casey Hodgkinson, Vaccine-Injury Survivor",
-        "url": "https://www.youtube.com/shorts/KT38GANRh6M",
-        "date_utc": "2026-11-24T19:02:19Z",
-        "summary": "\"I'm so grateful for those independent medias.\" - Casey Hodgkinson, Vaccine-Injury Survivor Casey Hodgkinson reflects on how independent media gave people like her opportunities to share experiences they felt weren't being heard. Did the COVID years permanently change how New Zealanders decide which journalists deserve their trust? 🎥 Watch here: https://rcr.media/episodes/casey-hodgkinson-vaccine-injury-survivor-long-battle-for-recognition-of-vaccine-injury #RCRMedia"
-      },
-      {
-        "title": "\"She has been a beneficiary of vote splitting her whole career.\" - Ani O'Brien",
-        "url": "https://www.youtube.com/shorts/DuPweUMVNgY",
-        "date_utc": "2026-11-24T18:02:07Z",
-        "summary": "\"She has been a beneficiary of vote splitting her whole career.\" - Ani O'Brien, Political Commentator Ani O'Brien questions Chlöe Swarbrick's criticism of strategic voting, pointing to how split votes have helped her win Auckland Central. How can you climb the political ladder using split votes, then complain when your opponents discover the very same ladder? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-ani-obrien-rachel-stewart-rnz-blowout-mmp-voter-suppression #RCRMedia #APoliticalAgenda"
-      },
-      {
-        "title": "TECH TUESDAY: With Steven Sykes: What’s Driving AI Cyberattacks?",
-        "url": "https://www.youtube.com/watch?v=VsIxl5tNTWw",
-        "date_utc": "2026-11-24T13:02:42Z",
-        "summary": "Paul Brennan is joined by Stephen Sykes for Tech Tuesday to examine the growing wave of cyberattacks exploiting AI, the implications of government surveillance of encrypted iCloud data and Apple’s plans for AirPods capable of collecting brainwave data. They also discuss digital sovereignty, the risks of relying on major technology platforms, concerns over 5G tower installations and the importance of protecting personal data and privacy. For everything you need to Say No to Digital ID"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
+      {
+        "title": "Dying Matters All Right - Deborah Mccullough On The New 'Death Doulas' And Why You May Need One.",
+        "url": "https://www.youtube.com/watch?v=wpmBGg-1-Dk",
+        "date_utc": "2026-11-26T09:18:29Z",
+        "summary": "Dying matters all right - Deborah McCullough on the new 'death doulas' and why you may need one."
+      },
+      {
+        "title": "Mary Blair, Wine Author & Expert On The Latest Happenings In The Wine Industry",
+        "url": "https://www.youtube.com/watch?v=qu2Lq5SQ9P0",
+        "date_utc": "2026-11-26T04:49:41Z",
+        "summary": "Mary Blair, wine author and expert on the latest happenings in the wine industry here and abroad."
+      },
+      {
+        "title": "Clinical Trials Contributed Greatly To NZ’s Economy, But We're At Risk Of Losing To Other Countries",
+        "url": "https://www.youtube.com/watch?v=5zX3CFoJvh0",
+        "date_utc": "2026-11-26T04:30:38Z",
+        "summary": "Graeme Jarvis, CEO of Medicines New Zealand - Clinical trials contributed greatly to New Zealand's economy last year, but we're at risk of losing trials and investment to other countries."
+      },
+      {
+        "title": "The AI Tool Being Used By ACC To Identify Injured People Whose Weekly Compensation Could Be Stopped",
+        "url": "https://www.youtube.com/watch?v=vCiXaPFIqGY",
+        "date_utc": "2026-11-26T03:46:03Z",
+        "summary": "Warren Forster, Lawyer and ACC Researcher - The AI tool being used by ACC to identify injured people whose weekly compensation could be stopped, and why this could be bad for genuine cases."
+      },
       {
         "title": "We Are Not Left Or Right Anymore, We Are Insiders And Outsiders",
         "url": "https://www.youtube.com/watch?v=_cGRsp5Wqj8",
@@ -284,33 +308,33 @@
         "url": "https://www.youtube.com/watch?v=HuJZKpS0SA8",
         "date_utc": "2026-11-25T01:22:49Z",
         "summary": "Todd Stephenson MP on his bill to loosen euthanasia restrictions"
-      },
-      {
-        "title": "OPES Economist On The Dramatically Weak Kiwi Dollar - An Explanation",
-        "url": "https://www.youtube.com/watch?v=-XNO5WggSrc",
-        "date_utc": "2026-11-25T00:57:46Z",
-        "summary": "OPES economist on the dramatically weak Kiwi dollar - an explanation"
-      },
-      {
-        "title": "If The Centre/Left/Left Wins, They're Sending Billions Overseas ...",
-        "url": "https://www.youtube.com/watch?v=5dfClfCBTvo",
-        "date_utc": "2026-11-25T00:51:19Z",
-        "summary": "If the Centre/Left/Left wins, they're sending billions overseas ... and want to \"lead the world\" on climate change."
-      },
-      {
-        "title": "Too Small To Insure? - Your Money Matters",
-        "url": "https://www.youtube.com/watch?v=Tnn3ClA2y68",
-        "date_utc": "2026-11-24T22:53:51Z",
-        "summary": "Your Money Matters with Harness Financial Episode 61 - Too Small To Insure? Make smart decisions for your financial future with Samuel Rees-Thomas and Dieter Timmerman from Harness Financial. Find out more at - www.harnessfinancial.co.nz"
-      },
-      {
-        "title": "Catherine Beard On Mood Of Businesses During Uncertain Political Times",
-        "url": "https://www.youtube.com/watch?v=1gMKZw_5OXg",
-        "date_utc": "2026-11-24T22:22:41Z",
-        "summary": ""
       }
     ],
     "opinions": [
+      {
+        "title": "Dying Matters All Right - Deborah Mccullough On The New 'Death Doulas' And Why You May Need One.",
+        "url": "https://www.theplatform.kiwi/p/dying-matters-all-right-deborah-mccullough",
+        "date_utc": "2026-11-26T09:16:38Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Mary Blair, Wine Author & Expert On The Latest Happenings In The Wine Industry",
+        "url": "https://www.theplatform.kiwi/p/mary-blair-wine-author-and-expert",
+        "date_utc": "2026-11-26T04:32:33Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Clinical Trials Contributed Greatly To NZ’s Economy, But We're At Risk Of Losing To Other Countries",
+        "url": "https://www.theplatform.kiwi/p/clinical-trials-contributed-greatly",
+        "date_utc": "2026-11-26T04:13:19Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Speak Out, Get Shut-Down: Cr Steve Gibson On The Te Mata Peak 'Rahul'",
+        "url": "https://www.theplatform.kiwi/p/speak-out-get-shut-down-cr-steve",
+        "date_utc": "2026-11-26T03:48:55Z",
+        "summary": "Read more"
+      },
       {
         "title": "The AI Tool Being Used By ACC To Identify Injured People Whose Weekly Compensation Could Be Stopped",
         "url": "https://www.theplatform.kiwi/p/the-ai-tool-being-used-by-acc-to",
@@ -358,30 +382,6 @@
         "url": "https://www.theplatform.kiwi/p/andrew-hoggard-weighs-in-on-fonterra",
         "date_utc": "2026-11-25T22:45:06Z",
         "summary": "Read more"
-      },
-      {
-        "title": "Research Suggests Attitudes Towards Medicinal Cannabis Are Becoming More Accepting.",
-        "url": "https://www.theplatform.kiwi/p/research-suggests-attitudes-towards",
-        "date_utc": "2026-11-25T21:33:04Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Sean Plunket - 26 November 2026",
-        "url": "https://www.theplatform.kiwi/p/sean-plunket-26-november-2026",
-        "date_utc": "2026-11-25T21:13:51Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "NZ-India Direct Flights, Charges Filed Against Air NZ & More International Flights For South Islanders",
-        "url": "https://www.theplatform.kiwi/p/nz-india-direct-flights-charges-filed",
-        "date_utc": "2026-11-25T18:51:11Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "The Maori Seats Must Go - Don Brash On Why",
-        "url": "https://www.theplatform.kiwi/p/the-maori-seats-must-go-don-brash",
-        "date_utc": "2026-11-25T06:07:26Z",
-        "summary": "Read more"
       }
     ]
   },
@@ -396,19 +396,19 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-21T06:45:08Z"
+      "newest_utc": "2026-11-26T03:07:07Z"
     },
     "rcr wp-json episodes": {
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-24T03:26:41Z"
+      "newest_utc": "2026-11-26T05:03:14Z"
     },
     "rcr allepisodes rss": {
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-26T01:40:23Z"
+      "newest_utc": "2026-11-26T05:03:14Z"
     },
     "rcr article rss": {
       "ok": true,
@@ -420,19 +420,19 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-25T20:01:33Z"
+      "newest_utc": "2026-11-26T13:03:20Z"
     },
     "platform youtube": {
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-26T03:24:30Z"
+      "newest_utc": "2026-11-26T09:18:29Z"
     },
     "platform opinions": {
       "ok": true,
       "error": null,
       "items": 12,
-      "newest_utc": "2026-11-26T03:36:35Z"
+      "newest_utc": "2026-11-26T09:16:38Z"
     }
   }
 }
