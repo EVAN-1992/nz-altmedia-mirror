@@ -1,8 +1,14 @@
 {
-  "generated_utc": "2026-11-27T12:47:34Z",
+  "generated_utc": "2026-11-27T23:35:01Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions every 3 hours. Exists because the brief's cloud runner cannot reach these domains directly. All date_utc values are ISO 8601 UTC; lists are newest first.",
   "reality_check_radio": {
     "articles_and_episodes": [
+      {
+        "title": "Putting the National Interest First",
+        "url": "https://realitycheck.radio/putting-the-national-interest-first/",
+        "date_utc": "2026-11-27T23:03:26Z",
+        "summary": "by Dr Muriel Newman COP31, the United Nations’ annual climate change pilgrimage, has ended in chaos. The 93,000 delegates who jetted into the Turkish resort city of Antalya to save the planet from man-made global warming could not agree, and the summit collapsed after major fossil-fuel producers and users refused to sign any deal calling for a phase-out of coal, oil, or gas. Our caretaker Climate Minister Simon Watts, who attended to reaffirm New Zealand’s commitment to the Paris Agreement, promoted our expansion of renewable energy, our Emissions Trading Scheme, our low-methane livestock research, and our Pacific Island climate resilience funding. He also signalled the imminent release of a unified National Flood Map to assist homeowners, banks, insurance companies, councils, infrastructure planners, and emergency services to make better informed decisions. This comes directly on the back of Westpac’s recent move to tighten mortgage criteria for homes deemed at high risk of flooding, landslips, or coastal erosion. Under growing regulatory pressure from the Reserve Bank, long-term hazard assessments are being embedded into lending decisions, reducing loan amounts, and shortening mo"
+      },
       {
         "title": "RCR WEBINAR: Politics: The Results Are In!",
         "url": "https://realitycheck.radio/episodes/rcr-webinar-politics-the-results-are-in/",
@@ -32,6 +38,12 @@
         "url": "https://realitycheck.radio/episodes/greenwashed-cop31-climate-conference-spending-under-scrutiny/",
         "date_utc": "2026-11-27T02:26:02Z",
         "summary": "Jaspreet Boparai and Don Nicolson discuss the costs and outcomes of COP31 in Turkey, questioning the value of taxpayer-funded delegations, luxury travel and extensive spending on the annual climate conference. For more information: Australian Indian Radio | 93 Officials & a $2.6M Bill: Australia’s COP31 Delegation Sparks Heated Debate The post GREENWASHED: COP31: Climate Conference Spending Under Scrutiny appeared first on Reality Check Radio ."
+      },
+      {
+        "title": "National’s failure began in Opposition",
+        "url": "https://realitycheck.radio/nationals-failure-began-in-opposition/",
+        "date_utc": "2026-11-27T01:12:32Z",
+        "summary": "by Richard Prebble If, on the final count, National cannot form a government, it won’t be because of MMP. National did not win enough votes. Under Labour, government expenditure had increased by almost $1.2 billion a week, debt had nearly tripled, and public service numbers had increased by a third. Luxon and Willis in opposition fundamentally misread the scale of the crisis and their solution was to campaign promising tax cuts. In government, the tax cuts were never fully funded. Spending, borrowing and the size of the public service are now greater than when Labour left office. The Reserve Bank forecasts inflation above 4% by Christmas. Real GDP per person has fallen. The coalition did not lack announcements. What it lacked was urgency. Nicola Willis was determined not to be a one-term Finance Minister like Ruth Richardson. Her reluctance to undertake urgent reform means she has become what she feared, but unlike Richardson, with little to show for it. National needs more than a new leader. It needs an intellectually honest examination of why, three years after being elected to fix the cost of living, it remains the voters’ number one concern. Originally published on I’ve Been Th"
       },
       {
         "title": "Few Leave on Their Own Terms",
@@ -110,21 +122,69 @@
         "url": "https://realitycheck.radio/episodes/joshua-riley-nz-immigration-voting-blocs-is-national-engineering-its-own-electorate/",
         "date_utc": "2026-11-25T19:48:50Z",
         "summary": ""
-      },
-      {
-        "title": "CRAIG STOBO: Burning Cash & Hidden Losses: The $11.8M Deficit Disaster Unveiled",
-        "url": "https://realitycheck.radio/episodes/craig-stobo-burning-cash-hidden-losses-the-11-8m-deficit-disaster-unveiled/",
-        "date_utc": "2026-11-25T19:47:53Z",
-        "summary": ""
-      },
-      {
-        "title": "CASEY HODGKINSON: Passion Over Guilt: Embracing the Painful Process With Purpose",
-        "url": "https://realitycheck.radio/episodes/casey-hodgkinson-passion-over-guilt-embracing-the-painful-process-with-purpose/",
-        "date_utc": "2026-11-25T19:47:10Z",
-        "summary": ""
       }
     ],
     "youtube": [
+      {
+        "title": "A discussion about a Green Party politician's conduct raises questions about respect for Parliament",
+        "url": "https://www.youtube.com/shorts/WUO3THRVOfg",
+        "date_utc": "2026-11-27T22:47:05Z",
+        "summary": "\"It's not a disrespect to a piece of furniture or even a government minister; it's to our democracy.\" - Simon O’Connor, Former National Party MP A discussion about a Green Party politician's conduct raises questions about respect for Parliament and democratic institutions. Would a National, ACT or NZ First politician survive making the same comments, or does Parliament have one rule for the Greens and another for everyone else? 🎥 Watch here: https://rcr.media/episodes/rcr-webinar-politics-the-results-are-in #RCRMedia #Webinar"
+      },
+      {
+        "title": "\"They can't decide who'll be Prime Minister. They can only affirm Mr Luxon as Prime Minister.\"",
+        "url": "https://www.youtube.com/shorts/85TIjiJbgqQ",
+        "date_utc": "2026-11-27T21:36:41Z",
+        "summary": "\"They can't decide who'll be Prime Minister. They can only affirm Mr Luxon as Prime Minister.\" - Rodney Hide, Former ACT Party Leader Rodney Hide argues that Opportunity can't realistically choose Labour, can't comfortably oppose National, and has little leverage in coalition negotiations. Is this the most unfortunate party name in New Zealand politics, or has Opportunity simply discovered that its biggest opportunity is to become Luxon's doormat? 🎥 Watch here: https://rcr.media/episodes/rcr-webinar-politics-the-results-are-in #RCRMedia #Webinar"
+      },
+      {
+        "title": "\"New Zealanders that were unaware of the strategy before are certainly very aware of it now\"",
+        "url": "https://www.youtube.com/shorts/er4pblf3I8o",
+        "date_utc": "2026-11-27T20:01:58Z",
+        "summary": "\"New Zealanders that were unaware of the strategy before are certainly very aware of it now\" - Maree Buscke The first election possibly gave New Zealand a hung Parliament. The media frenzy gave VoteSmart an unexpected publicity boost. If there's a second election, could the mainstream media discover it accidentally taught thousands of Kiwis the very voting strategy it spent so much time criticising? 🎥 Watch here: https://rcr.media/episodes/rcr-webinar-politics-the-results-are-in #RCRMedia #Webinar"
+      },
+      {
+        "title": "It seems like they haven't been taught critical thinking. They don't know how to challenge their...",
+        "url": "https://www.youtube.com/shorts/v-hfpUBoPhk",
+        "date_utc": "2026-11-27T19:02:21Z",
+        "summary": "\"It seems like they haven't been taught critical thinking. They don't know how to challenge their own views, or they're not willing to.\" - Brynn Neilson, Founder of NZ Media World Brynn Neilson questions whether journalism schools are producing independent investigators or graduates already programmed with a particular worldview. If a journalist graduates knowing exactly what to believe before they've investigated a single story, are they reporting the news or campaigning through it? 🎥 Watch here: https://rcr.media/episodes/the-fourth-estate-brynn-neilson-founder-of-nz-media-world-msm-bias-and-the-rise-of-the-fifth-estate #RCRMedia #TheFourthEstate"
+      },
+      {
+        "title": "\"This is the real danger here\" - Brendan Hoare, Organics Aotearoa NZ",
+        "url": "https://www.youtube.com/shorts/JNwUmwtbevs",
+        "date_utc": "2026-11-27T18:01:56Z",
+        "summary": "\"This is the real danger here\" - Brendan Hoare, Organics Aotearoa NZ Brendan Hoare warns that honeybees involved in dsRNA trials can forage well beyond the trial site, leaving organic farmers questioning whether their businesses have been adequately protected. If an experiment can extend beyond the property where it started, shouldn't the neighbours get more than a surprise visit from the bees? 🎥 Watch here: https://rcr.media/episodes/brendan-hoare-organics-aotearoa-nz-unapproved-dsrna-trials-threaten-organic-honey #RCRMedia"
+      },
+      {
+        "title": "KIT KNIGHTLY: Editor OffGuardian UK: Russell Brand and the Erosion of Justice",
+        "url": "https://www.youtube.com/watch?v=0xGphlohLbA",
+        "date_utc": "2026-11-27T13:02:17Z",
+        "summary": "Paul Brennan talks with Kit Knightley, editor of OffGuardian, about the Russell Brand case and what it reveals about changes to the British justice system. They examine concerns over the presumption of innocence, fair trials and expanding state powers, before turning to AI-powered cyberattacks, digital vulnerability and the possibility that growing security threats could be used to justify greater control over digital infrastructure. For more information: Read Kit’s article in OffGuardian | The Russell Brand Trial – Launching the UK’s new ‘Justice System Read the Brownstone Institute article | Russell Brand, the Cornell Seven, and the Political Rage Undermining Due Process For more from Kit visit OffGuardian"
+      },
+      {
+        "title": "DEREK GOOD & MONIQUE MCKAY: Giving Machines Bring Direct Christmas Giving",
+        "url": "https://www.youtube.com/watch?v=mP3yPzMZPOo",
+        "date_utc": "2026-11-27T13:01:49Z",
+        "summary": "Giving Machines are returning to New Zealand this Christmas, offering Kiwis a hands-on way to support 32 local charities, with 100% of donations going directly to the chosen cause. Joining Simon O’Connor, Derek Good explains how the initiative works and where people can find the machines, while Feed the Need’s Monique McKay discusses growing food insecurity, with one in three households reportedly affected. For more information: Visit the Giving Machine website or find them on Facebook & Instagram Visit the Feed the Need Website or find them on Facebook & Instagram"
+      },
+      {
+        "title": "SIMON COURT: ACT Party MP: Coalition Negotiations Begin as ACT Sets Its Priorities",
+        "url": "https://www.youtube.com/watch?v=kB4PI15Mr7k",
+        "date_utc": "2026-11-27T13:01:26Z",
+        "summary": "ACT MP Simon Court joins Maree Buscke to discuss the final election results and the challenges facing coalition negotiations, expressing confidence that ACT, National and NZ First can reach an agreement with Opportunity. He identifies potential areas of common ground, including resource management reform and environmental policy, while outlining ACT’s priorities for the next government: public service reform, better value for taxpayers’ money and improved delivery of essential services. Discover more from Simon Court or find him on Facebook and X For election news that matters, get RCR Bites FREE every weekday"
+      },
+      {
+        "title": "GREENWASHED: Farmlands Shareholders Challenge AgriZero Investment",
+        "url": "https://www.youtube.com/watch?v=NcSCjU8cfKA",
+        "date_utc": "2026-11-27T13:01:14Z",
+        "summary": "Jaspreet Boparai and Don Nicolson discuss a heated Farmlands AGM where shareholders challenged the cooperative’s $1 million investment in AgriZero, a partnership targeting agricultural emissions. They examine the resolutions put forward by farmer Paige Wills, concerns over shareholder consultation and the commercial justification for the investment. For more information: Farmers Weekly | Farmlands appoints new chair as AgrizeroNZ remit falls short"
+      },
+      {
+        "title": "GREENWASHED: COP31: Climate Conference Spending Under Scrutiny",
+        "url": "https://www.youtube.com/watch?v=igGSXH3xElY",
+        "date_utc": "2026-11-27T13:01:01Z",
+        "summary": "Jaspreet Boparai and Don Nicolson discuss the costs and outcomes of COP31 in Turkey, questioning the value of taxpayer-funded delegations, luxury travel and extensive spending on the annual climate conference. For more information: Australian Indian Radio | 93 Officials & a $2.6M Bill: Australia’s COP31 Delegation Sparks Heated Debate"
+      },
       {
         "title": "RCR Webinar - Results Are In!",
         "url": "https://www.youtube.com/watch?v=BnCLMLpH5ss",
@@ -154,79 +214,31 @@
         "url": "https://www.youtube.com/shorts/D5SoapJIz1I",
         "date_utc": "2026-11-26T18:35:47Z",
         "summary": "Move over, Briscoes Lady! Maree is here with the RCR Christmas Sale! 🔖🎄 🛍 Get yours now - sale ends Nov 30. 👉 Code: CHRISTMAS20 🌐https://realitycheck.radio/merch/"
-      },
-      {
-        "title": "\"I mean, they're the opposite of everything that they used to be.\" - Rachel Stewart",
-        "url": "https://www.youtube.com/shorts/EXGqAgVSAjU",
-        "date_utc": "2026-11-26T18:02:26Z",
-        "summary": "\"I mean, they're the opposite of everything that they used to be.\" - Rachel Stewart, Riding Shotgun Host & Former Labour Candidate Former train driver and Labour candidate Rachel Stewart takes aim at the party she once supported, arguing that identity politics has replaced its traditional focus on working people. Has Labour traded its steel-capped boots for designer lanyards and forgotten who actually built the party? 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-ani-obrien-rachel-stewart-rnz-blowout-mmp-voter-suppression #RCRMedia #APoliticalAgenda"
-      },
-      {
-        "title": "HRVOJE MORIC: Geopolitical Journalist & Podcaster: Cyber Attacks – The Gateway to Digital Control?",
-        "url": "https://www.youtube.com/watch?v=HQL_ZYDNqxI",
-        "date_utc": "2026-11-26T13:03:20Z",
-        "summary": "Paul Brennan talks to geopolitical journalist and podcaster Hrvoje Morić on the growing wave of cyber attacks and the potential push towards digital IDs, biometric verification and greater control over online activity. They explore the role of AI, automation and mass job displacement, the future of global governance and whether geopolitical tensions and the Ukraine conflict are helping accelerate a new technological order. For further information visit Hrvoje’s website Geopolitics & Empire or find him on X"
-      },
-      {
-        "title": "PAUL HENRY: ACT MP: ACT Pushing for a Genuine Three-Party Coalition",
-        "url": "https://www.youtube.com/watch?v=H84Vs9_3kqQ",
-        "date_utc": "2026-11-26T13:01:34Z",
-        "summary": "ACT MP Paul Henry joins Maree Buske to discuss the uncertain post-election numbers, the prospects of a returning centre-right government and the possibility of a hung Parliament. He argues that any new coalition must operate as a genuine partnership between National, ACT and NZ First, rather than National simply managing separate agreements. Discover more on Paul Henry or find him on Facebook and Instagram For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "RIDING SHOTGUN: With Rachel Stewart: When Journalism Lost Its Way We All Did",
-        "url": "https://www.youtube.com/watch?v=Nc7lna165FY",
-        "date_utc": "2026-11-26T13:01:07Z",
-        "summary": "Rachel Stewart reflects on the state of democracy following the election, arguing that declining trust in politicians, institutions and ourselves is being fuelled by mainstream media manipulation. Drawing parallels between the Covid vaccine mandates and reactions to strategic voting, she questions how much freedom and choice we really have, and calls for the destruction of mainstream media as a necessary step towards restoring independent thought and trust. Discover more from Rachel on Substack and X For election news that matters, get RCR Bites FREE every weekday"
-      },
-      {
-        "title": "I have seen over my parliamentary career, the party of government using its simple majority in...",
-        "url": "https://www.youtube.com/shorts/IndWliDBYdc",
-        "date_utc": "2026-11-26T06:00:40Z",
-        "summary": "\"I have seen over my parliamentary career, the party of government using its simple majority in the parliament to tweak the rules.\" - Nick Smith, Nelson Mayor & Former National MP Nick Smith says New Zealand's electoral laws are too important to be repeatedly altered by whichever party happens to hold power. If politicians can change election rules with a simple majority, what's stopping them from moving the goalposts whenever the next election looks difficult? 🎥 Watch here: https://rcr.media/episodes/nick-smith-nelson-mayor-the-case-for-protecting-electorate-mps #RCRMedia"
-      },
-      {
-        "title": "\"You don't try to slip in a pork chop. It's not permitted.\" - Brendan Hoare, Organics Aotearoa NZ",
-        "url": "https://www.youtube.com/shorts/-nKNZbBhivM",
-        "date_utc": "2026-11-26T05:00:45Z",
-        "summary": "\"You don't try to slip in a pork chop. It's not permitted.\" - Brendan Hoare, Organics Aotearoa NZ Brendan Hoare argues that organic standards deserve the same respect as halal certification is given, warning that dsRNA technology could jeopardise the integrity of New Zealand's organic products and export reputation. If we wouldn't dream of slipping pork into halal meat because it violates the rules and risks billions in trade, why should organic farmers be expected to swallow technology their standards prohibit? 🎥 Watch here: https://rcr.media/episodes/brendan-hoare-organics-aotearoa-nz-unapproved-dsrna-trials-threaten-organic-honey #RCRMedia"
-      },
-      {
-        "title": "The body seems to work better from this research by sleeping on your right side in terms of the...",
-        "url": "https://www.youtube.com/shorts/ryD7tkvwmco",
-        "date_utc": "2026-11-26T04:30:37Z",
-        "summary": "\"The body seems to work better from this research by sleeping on your right side in terms of the glymphatics\" - Dr Randall Farrant, Co-Founder of Vital Wellbeing Dr Randall suggests experimenting with right-side sleeping based on early research into how the brain clears waste during sleep. What's your natural sleeping position, and would you be willing to change it if stronger research showed benefits for brain health? Rodney Hide speaks with Drs Sarah and Randall Farrant about the glymphatic system, the brain’s waste-clearance network and its role in maintaining neurological health. 🎥 Watch here: https://rcr.media/episodes/drs-sarah-and-randall-farrant-co-founders-of-vital-wellbeing-the-brains-nightly-clean-up-why-deep-sleep-matters #RCRMedia"
-      },
-      {
-        "title": "\"Otherwise, it is essentially that Labour and National formed a coalition\" - Joshua Riley",
-        "url": "https://www.youtube.com/shorts/Vjk-LjzfAtU",
-        "date_utc": "2026-11-25T20:01:33Z",
-        "summary": "\"Otherwise, it is essentially that Labour and National formed a coalition\" - Joshua Riley, Co-Founder of Advocacy Group Sovereign Joshua Riley warns ACT and NZ First that unless their coalition agreement prevents National from relying on Labour's votes, the country could end up with policies neither coalition partner supports. What's the point of voting for a centre-right coalition if National can simply cross the aisle and govern with Labour whenever its partners say no? 🎥 Watch here: https://rcr.media/episodes/joshua-riley-co-founder-of-advocacy-group-sovereign-what-act-nzf-should-demand-in-negotiations #RCRMedia"
-      },
-      {
-        "title": "\"They'd had enough. And they were leaving.\" - Dean Harrison",
-        "url": "https://www.youtube.com/shorts/wZP2MVyPSKs",
-        "date_utc": "2026-11-25T19:02:23Z",
-        "summary": "\"They'd had enough. And they were leaving.\" - Dean Harrison On the RCR Road Trip, Dean Harrison met a group of traditional National supporters who had decided to sell up and move to Thailand rather than stick around for another election. When lifelong political supporters would rather leave New Zealand than vote, how badly have our politicians failed to represent them? 🎥 Watch here: https://rcr.media/episodes/rcr-road-trip-building-community-across-nz #RCRMedia #RoadTrip"
-      },
-      {
-        "title": "We've got 900 allocated in the India FTA to come over. At the same time, we have 900 nurses who...",
-        "url": "https://www.youtube.com/shorts/i4v56eLd5KY",
-        "date_utc": "2026-11-25T18:02:36Z",
-        "summary": "\"We've got 900 allocated in the India FTA to come over. At the same time, we have 900 nurses who finished their training, and they're waiting for a seat somewhere in New Zealand.\" - Joshua Riley, Co-Founder of Advocacy Group Sovereign Joshua Riley raises questions about overseas nurse recruitment under the India trade agreement while claiming New Zealand-trained nurses are waiting for positions. If we have nursing graduates struggling to find work, shouldn't the government explain why overseas recruitment is still being prioritised? 🎥 Watch here: https://rcr.media/episodes/joshua-riley-co-founder-of-advocacy-group-sovereign-what-act-nzf-should-demand-in-negotiations #RCRMedia"
       }
     ]
   },
   "the_platform_nz": {
     "youtube": [
       {
-        "title": "The Msm And Their Lies - The Freedom Movement Was Right!",
+        "title": "So Who Won The 2026 Election? The Winners, Losers & Future Predictions",
+        "url": "https://www.youtube.com/watch?v=3_XrEnVfIHo",
+        "date_utc": "2026-11-27T19:55:10Z",
+        "summary": "Ashley Church - So who won 2026's general election? The winners, losers and future predictions."
+      },
+      {
+        "title": "Catherine Cooke On The Campaign To Get A Breast Cancer Drug Funded & More",
+        "url": "https://www.youtube.com/watch?v=S1uPlwvzm1k",
+        "date_utc": "2026-11-27T18:53:01Z",
+        "summary": "Catherine Cooke, Breast Cancer advocate - The campaign to get a breast cancer drug funded, human-rights complaints against Pharmac and her work supporting families affected by eating disorders."
+      },
+      {
+        "title": "The MSM & Their Lies - The Freedom Movement Was Right!",
         "url": "https://www.youtube.com/watch?v=80R1D1wcnwE",
         "date_utc": "2026-11-27T07:48:38Z",
         "summary": "The MSM and their lies - the freedom movement was right!"
       },
       {
-        "title": "The Past, Present And Future Of Car Ownership With Transport Legend Allan Dick",
+        "title": "The Past, Present & Future Of Car Ownership With Transport Legend Allan Dick",
         "url": "https://www.youtube.com/watch?v=X_yKqUvECu0",
         "date_utc": "2026-11-27T06:56:45Z",
         "summary": "The past, present and future of car ownership with transport legend Allan Dick"
@@ -296,23 +308,23 @@
         "url": "https://www.youtube.com/watch?v=vCiXaPFIqGY",
         "date_utc": "2026-11-26T03:46:03Z",
         "summary": "Warren Forster, Lawyer and ACC Researcher - The AI tool being used by ACC to identify injured people whose weekly compensation could be stopped, and why this could be bad for genuine cases."
-      },
-      {
-        "title": "We Are Not Left Or Right Anymore, We Are Insiders And Outsiders",
-        "url": "https://www.youtube.com/watch?v=_cGRsp5Wqj8",
-        "date_utc": "2026-11-26T03:24:30Z",
-        "summary": "We are not Left or Right anymore, we are Insiders and Outsiders"
-      },
-      {
-        "title": "Speak Out, Get Shut-Down: Cr Steve Gibson On The Te Mata Peak 'Rahul'",
-        "url": "https://www.youtube.com/watch?v=jQdgA_aM2Wo",
-        "date_utc": "2026-11-26T03:20:14Z",
-        "summary": "Speak out, get shut-down: Cr Steve Gibson on the Te Mata Peak 'rahul'"
       }
     ],
     "opinions": [
       {
-        "title": "The Msm And Their Lies - The Freedom Movement Was Right!",
+        "title": "So Who Won The 2026 Election? The Winners, Losers & Future Predictions",
+        "url": "https://www.theplatform.kiwi/p/so-who-won-the-2026-election-the",
+        "date_utc": "2026-11-27T19:20:50Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "Catherine Cooke On The Campaign To Get A Breast Cancer Drug Funded & More",
+        "url": "https://www.theplatform.kiwi/p/catherine-cooke-on-the-campaign-to",
+        "date_utc": "2026-11-27T18:27:19Z",
+        "summary": "Read more"
+      },
+      {
+        "title": "The MSM & Their Lies - The Freedom Movement Was Right!",
         "url": "https://www.theplatform.kiwi/p/the-msm-and-their-lies-the-freedom",
         "date_utc": "2026-11-27T07:48:24Z",
         "summary": ""
@@ -324,7 +336,7 @@
         "summary": ""
       },
       {
-        "title": "The Past, Present And Future Of Car Ownership With Transport Legend Allan Dick",
+        "title": "The Past, Present & Future Of Car Ownership With Transport Legend Allan Dick",
         "url": "https://www.theplatform.kiwi/p/the-past-present-and-future-of-car",
         "date_utc": "2026-11-27T04:26:12Z",
         "summary": "Read more"
@@ -370,18 +382,6 @@
         "url": "https://www.theplatform.kiwi/p/free-speech-fridays-184-stephen-franks",
         "date_utc": "2026-11-26T22:26:53Z",
         "summary": "Free Speech Fridays with Stephen Franks & Muriel Newman is brought to you by the Free Speech Union. Read more"
-      },
-      {
-        "title": "Shane Jones On Tania Waikato’s “Booty Rubbing” Stunt In Parliament",
-        "url": "https://www.theplatform.kiwi/p/shane-jones-on-tania-waikatos-booty",
-        "date_utc": "2026-11-26T21:57:36Z",
-        "summary": "Read more"
-      },
-      {
-        "title": "Sean Plunket - 27 November 2026",
-        "url": "https://www.theplatform.kiwi/p/sean-plunket-27-november-2026",
-        "date_utc": "2026-11-26T21:07:04Z",
-        "summary": "Read more"
       }
     ]
   },
@@ -414,25 +414,25 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-26T23:00:28Z"
+      "newest_utc": "2026-11-27T23:03:26Z"
     },
     "rcr youtube": {
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-27T06:38:36Z"
+      "newest_utc": "2026-11-27T22:47:05Z"
     },
     "platform youtube": {
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-27T07:48:38Z"
+      "newest_utc": "2026-11-27T19:55:10Z"
     },
     "platform opinions": {
       "ok": true,
       "error": null,
       "items": 12,
-      "newest_utc": "2026-11-27T07:48:24Z"
+      "newest_utc": "2026-11-27T19:20:50Z"
     }
   }
 }
