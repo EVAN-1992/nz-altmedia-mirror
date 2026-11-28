@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-27T23:35:01Z",
+  "generated_utc": "2026-11-28T08:06:06Z",
   "note": "Mirror of recent NZ independent-media output, refreshed by GitHub Actions every 3 hours. Exists because the brief's cloud runner cannot reach these domains directly. All date_utc values are ISO 8601 UTC; lists are newest first.",
   "reality_check_radio": {
     "articles_and_episodes": [
@@ -126,6 +126,24 @@
     ],
     "youtube": [
       {
+        "title": "\"But they are very different from either today's Te Pāti Māori or today's Greens.\" - Don Brash",
+        "url": "https://www.youtube.com/watch?v=w-lIThXftS8",
+        "date_utc": "2026-11-28T04:45:45Z",
+        "summary": "\"But they are very different from either today's Te Pāti Māori or today's Greens.\" - Don Brash, Former National Party Leader Don Brash recalls negotiating with Tariana Turia and Pita Sharples in 2005, describing the Māori Party leaders of that era as considerably more moderate. Has Te Pāti Māori shifted so far politically that the kind of cross-party cooperation once considered possible is now unthinkable? 🎥 Watch here: https://rcr.media/episodes/rcr-webinar-politics-the-results-are-in #RCRMedia #Webinar"
+      },
+      {
+        "title": "If I was the centre right, I'd go through the process of negotiating with the Opportunity Party...",
+        "url": "https://www.youtube.com/watch?v=s8ahL26uPvQ",
+        "date_utc": "2026-11-28T03:45:45Z",
+        "summary": "\"If I was the centre right, I'd go through the process of negotiating with the Opportunity Party, and then I'd head into an election.\" - Rodney Hide, Former ACT Party Leader Rodney Hide believes another election could strengthen National's position rather than forcing Luxon into an awkward four-party arrangement. Would Luxon be better off risking another election than spending three years trying to keep ACT, NZ First and Opportunity from tearing each other apart? 🎥 Watch here: https://rcr.media/episodes/rcr-webinar-politics-the-results-are-in #RCRMedia #Webinar"
+      },
+      {
+        "title": "\"You're toast.\" - Rodney Hide, Former ACT Party Leader",
+        "url": "https://www.youtube.com/watch?v=YjZN4ZQg8-0",
+        "date_utc": "2026-11-28T02:45:40Z",
+        "summary": "\"You're toast.\" - Rodney Hide, Former ACT Party Leader Rodney Hide predicts Opportunity could emerge from coalition talks with little more than a promise that Luxon will consider its policies. Will Opportunity's five bottom lines survive negotiations, or will Luxon turn them into five agenda items for a committee that never actually delivers? 😂 🎥 Watch here: https://rcr.media/episodes/rcr-webinar-politics-the-results-are-in #RCRMedia #Webinar"
+      },
+      {
         "title": "A discussion about a Green Party politician's conduct raises questions about respect for Parliament",
         "url": "https://www.youtube.com/shorts/WUO3THRVOfg",
         "date_utc": "2026-11-27T22:47:05Z",
@@ -196,24 +214,6 @@
         "url": "https://www.youtube.com/watch?v=EvRcO50fx0E",
         "date_utc": "2026-11-27T06:30:45Z",
         "summary": "\"Some of us and many people that have been watching this story developing understand that this was a political hit on Huang, but also on Trump as well.\" - Freddie Ponton - Global Affairs Associate Editor 21st Century Wire Freddie Ponton questions whether Jensen Huang's dramatic departure from NVIDIA was about more than a personal scandal, suggesting powerful political interests may have benefited. Was Huang brought down by his own decisions, or did someone in Washington see a golden opportunity to remove an inconvenient CEO? 🎥 Watch here: https://rcr.media/episodes/freddie-ponton-associate-editor-21st-century-wire-trump-xi-putin-summit-and-americas-ai-controlled-airspace #RCRMedia"
-      },
-      {
-        "title": "\"And that's because she doesn't belong in the party.\" - Ani O'Brien, Political Commentator",
-        "url": "https://www.youtube.com/watch?v=o7Lxr_ZbO8w",
-        "date_utc": "2026-11-27T06:15:36Z",
-        "summary": "\"And that's because she doesn't belong in the party.\" - Ani O'Brien, Political Commentator Ani O'Brien questions whether Vanessa Weenink's political values were ever a natural fit for National, pointing to her previous involvement with Labour. Isn't leaving Labour to join National, then complaining it's too right-wing, like a vegan walking into a steakhouse, ordering the ribeye, then demanding the chef turn it into tofu? 😂 🎥 Watch here: https://rcr.media/episodes/a-political-agenda-with-ani-obrien-rachel-stewart-rnz-blowout-mmp-voter-suppression #RCRMedia #APoliticalAgenda"
-      },
-      {
-        "title": "🚗🤖 CHRISTCHURCH: KITT STEALS THE SHOW!",
-        "url": "https://www.youtube.com/watch?v=OkMLMdnaSew",
-        "date_utc": "2026-11-26T19:30:40Z",
-        "summary": "🚗🤖 CHRISTCHURCH: KITT STEALS THE SHOW! Steve Sykes arrived at the Christchurch Road Trippin' picnic with a surprise — KITT, his replica of the iconic Knight Rider car! 🔥 But this wasn't just a replica. KITT had a special message for the RCR Road Trippin’ crew, celebrating their 3,000km journey so far, the people they've connected with along the way, and a special shout-out to RCR's talented Michelle for making the caravan pop! 👏 Even Buster got a mention! 🐶 🎥 Watch KITT's brilliant message from Christchurch! #RCRMedia #RCRRoadTrippin’"
-      },
-      {
-        "title": "The RCR Christmas SALE is here!",
-        "url": "https://www.youtube.com/shorts/D5SoapJIz1I",
-        "date_utc": "2026-11-26T18:35:47Z",
-        "summary": "Move over, Briscoes Lady! Maree is here with the RCR Christmas Sale! 🔖🎄 🛍 Get yours now - sale ends Nov 30. 👉 Code: CHRISTMAS20 🌐https://realitycheck.radio/merch/"
       }
     ]
   },
@@ -420,7 +420,7 @@
       "ok": true,
       "error": null,
       "items": 15,
-      "newest_utc": "2026-11-27T22:47:05Z"
+      "newest_utc": "2026-11-28T04:45:45Z"
     },
     "platform youtube": {
       "ok": true,
